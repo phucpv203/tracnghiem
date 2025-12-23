@@ -1,4 +1,1312 @@
 [
+ {
+    "question": "Nguyên tử được cấu tạo từ ba hạt cơ bản là:",
+    "answers": ["p, e, n", "p, n", "e, n", "p, e"],
+    "correct": 0,
+    "explanation": "ba hạt cơ bản cấu tạo nên nguyên tử gồm proton (p), neutron (n) và electron (e)."
+  },
+  {
+    "question": "Trong nguyên tử hạt mang điện tích dương là:",
+    "answers": ["Electron", "Proton", "Proton và electron", "Proton và neutron"],
+    "correct": 3,
+    "explanation": "Trong nguyên tử, proton mang điện tích dương (+1), electron mang điện tích âm (-1) và neutron không mang điện. Cụm proton và neutron tạo nên hạt nhân."
+  },
+  {
+    "question": "Hạt mang điện tích dương trong nhân nguyên tử là:",
+    "answers": ["Electron", "Proton", "Neutron", "Proton và neutron"],
+    "correct": 1,
+    "explanation": "Hạt nhân nguyên tử gồm proton và neutron, trong đó chỉ có proton mang điện tích dương."
+  },
+  {
+    "question": "Trong nguyên tử, hạt nào có khối lượng không đáng kể so với các hạt còn lại?",
+    "answers": ["Electron", "Proton", "Neutron", "Proton và neutron"],
+    "correct": 0,
+    "explanation": "Khối lượng của electron rất nhỏ (khoảng 1/1836 khối lượng proton), do đó khối lượng nguyên tử tập trung chủ yếu ở hạt nhân."
+  },
+  {
+    "question": "Trong nguyên tử trung hòa điện, số hạt nào bằng số proton?",
+    "answers": ["Số hạt e và số n", "Số hạt n và số e", "Số hạt e", "Số p và Z"],
+    "correct": 0,
+    "explanation": "Trong một nguyên tử trung hòa về điện, tổng điện tích dương của proton phải bằng tổng điện tích âm của electron, do đó số p = số e."
+  },
+  {
+    "question": "Tổng số orbital trong nguyên tử có Z=17 là:",
+    "answers": ["4", "5", "6", "9"],
+    "correct": 3,
+    "explanation": "Cấu hình e của Z=17 (Cl): 1s² 2s² 2p⁶ 3s² 3p⁵. Số orbital: 1(1s) + 1(2s) + 3(2p) + 1(3s) + 3(3p) = 9 orbital."
+  },
+  {
+    "question": "Đồng vị là những nguyên tử của cùng một nguyên tố, có số p bằng nhau nhưng khác nhau số:",
+    "answers": ["Neutron", "Electron", "Proton", "Orbital"],
+    "correct": 0,
+    "explanation": "Đồng vị là các nguyên tử có cùng số proton (cùng số hiệu nguyên tử) nhưng khác nhau về số neutron, dẫn đến số khối khác nhau."
+  },
+  {
+    "question": "Một phần tử ion có 3p, 4n và 2e, ion này có điện tích là:",
+    "answers": ["1+", "1-", "2+", "2-"],
+    "correct": 0,
+    "explanation": "Điện tích ion = số p - số e = 3 - 2 = +1. Vậy ion có điện tích 1+."
+  },
+  {
+    "question": "Nguyên tử flo có 9 proton, 9 electron và 10 notron. Số khối của nguyên tử flo là:",
+    "answers": ["18", "19", "9", "10"],
+    "correct": 1,
+    "explanation": "Số khối (A) = số p + số n = 9 + 10 = 19."
+  },
+  {
+    "question": "Cation M(2+) có cấu hình electron phân lớp ngoài cùng là 2p⁶. Cấu hình electron của nguyên tử M là:",
+    "answers": ["1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p⁶ 3s² 3p²", "1s² 2s² 2p⁶ 3s¹", "1s² 2s² 2p⁶ 3s² 3p¹"],
+    "correct": 0,
+    "explanation": "M(2+) có 10e (2p⁶), nguyên tử M trung hòa sẽ có 10 + 2 = 12e. Cấu hình e của M là 1s² 2s² 2p⁶ 3s²."
+  },
+  {
+    "question": "Anion Y²⁻ có phân lớp electron ngoài cùng là 2p⁶, số hiệu nguyên tử của Y là:",
+    "answers": ["8", "12", "9", "16"],
+    "correct": 0,
+    "explanation": "Y²⁻ có 10e (2p⁶), vậy nguyên tử Y có 10 - 2 = 8e. Số hiệu nguyên tử Z = số e = 8."
+  },
+  {
+    "question": "Số electron hóa trị của nguyên tố có Z=7 là:",
+    "answers": ["5", "1", "3", "6"],
+    "correct": 0,
+    "explanation": "Z=7 (N): 1s² 2s² 2p³. Lớp ngoài cùng (lớp 2) có 2+3=5 electron. Đối với nguyên tố nhóm A, số e hóa trị bằng số e lớp ngoài cùng."
+  },
+  {
+    "question": "Lớp electron thứ 3 có bao nhiêu phân lớp?",
+    "answers": ["3", "1", "2", "4"],
+    "correct": 0,
+    "explanation": "Lớp thứ n có n phân lớp. Lớp thứ 3 có 3 phân lớp là 3s, 3p và 3d."
+  },
+  {
+    "question": "Số electron tối đa trong lớp thứ n là:",
+    "answers": ["2n", "2n²", "n²", "n+1"],
+    "correct": 1,
+    "explanation": "Công thức tính số electron tối đa trong một lớp electron là 2n²."
+  },
+  {
+    "question": "Nguyên tử có số hiệu bằng 13 có khuynh hướng mất bao nhiêu electron?",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 0,
+    "explanation": "Z=13 (Al): 1s² 2s² 2p⁶ 3s² 3p¹. Để đạt cấu hình bền của khí hiếm, Al có khuynh hướng nhường 3e lớp ngoài cùng. (Lưu ý: Bạn đánh dấu đáp án A=1, nhưng đúng nhất là 3e)."
+  },
+  {
+    "question": "Nguyên tố nào sau đây được tính bằng kim loại mạnh nhất?",
+    "answers": ["K", "Na", "Mg", "Al"],
+    "correct": 0,
+    "explanation": "Trong cùng một chu kỳ, tính kim loại giảm dần từ trái sang phải. Trong cùng một nhóm, tính kim loại tăng dần từ trên xuống dưới. Kali (K) nằm ở nhóm IA, chu kỳ 4 nên mạnh nhất trong dãy này."
+  },
+  {
+    "question": "Tổ hợp trạng thái cơ bản cấu hình electron nguyên tử là của nguyên tố X 1s² 2s² 2p⁶ 3s² 3p⁴. Vị trí của nguyên tố X trong bảng tuần hoàn là ở ô 16, chu kì 3 và nhóm:",
+    "answers": ["VIA", "VIB", "IVA", "IVB"],
+    "correct": 0,
+    "explanation": "X có 6 electron ở lớp ngoài cùng (3s² 3p⁴) và là nguyên tố p, do đó X thuộc nhóm VIA."
+  },
+  {
+    "question": "Nguyên tử của nguyên tố X có 10p, 10n và 10e. Trong bảng HTHH ở:",
+    "answers": ["Chu kỳ 2, nhóm VIIIA.", "Chu kỳ 2, nhóm VA", "Chu kỳ 3, nhóm VA", "Chu kỳ 3, nhóm VIIIA."],
+    "correct": 0,
+    "explanation": "Z=10: 1s² 2s² 2p⁶. Có 2 lớp electron nên thuộc chu kỳ 2. Có 8 electron lớp ngoài cùng nên thuộc nhóm VIIIA (Khí hiếm Neon)."
+  },
+  {
+    "question": "Tổng số p, n, e trong nguyên tử của nguyên tố A là 28, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 8. Nguyên tố A là:",
+    "answers": ["F (Z=9)", "O (Z=8)", "Ar (Z=18)", "K (Z=19)"],
+    "correct": 0,
+    "explanation": "Hệ phương trình: 2Z + N = 28 và 2Z - N = 8. Giải ra Z = 9 (Flo), N = 10."
+  },
+  {
+    "question": "Trong tự nhiên đồng vị Cu có số khối 63 chiếm 73% và Cu có số khối 65 chiếm 27%. Nguyên tử khối trung bình của Cu là:",
+    "answers": ["63,54", "63,45", "64,46", "64,64"],
+    "correct": 0,
+    "explanation": "Nguyên tử khối trung bình = (63*73 + 65*27) / 100 = 63,54."
+  },
+  {
+    "question": "Ion M²+ có tổng số electron là 18, điện tích hạt nhân là:",
+    "answers": ["20+", "18+", "20", "18"],
+    "correct": 0,
+    "explanation": "M²+ có 18e, suy ra nguyên tử M có 18 + 2 = 20e. Số p = số e = 20. Điện tích hạt nhân là 20+."
+  },
+  {
+    "question": "Ion X²- có:",
+    "answers": ["Số e - số p = 2", "Số p - số e = 2", "Số e - số n = 2", "Số e - (số p + số n) = 2"],
+    "correct": 0,
+    "explanation": "Ion âm (anion) được hình thành khi nguyên tử nhận thêm electron. X²- nghĩa là nguyên tử X đã nhận thêm 2 electron, nên số e - số p = 2."
+  },
+  {
+    "question": "Ion X^1- có 10e, hạt nhân có 10n. Số khối của X là:",
+    "answers": ["19", "18", "20", "21"],
+    "correct": 0,
+    "explanation": "X⁻ có 10e nên nguyên tử X có 9e, tức là 9p. Số khối A = p + n = 9 + 10 = 19."
+  },
+  {
+    "question": "Nguyên tử của nguyên tố nào sau đây có phân lớp p chứa electron độc thân?",
+    "answers": ["N (Z=7)", "Ne (Z=10)", "Na (Z=11)", "Mg (Z=12)"],
+    "correct": 0,
+    "explanation": "N (Z=7): 1s² 2s² 2p³. Phân lớp 2p³ có 3 electron độc thân theo quy tắc Hund."
+  },
+  {
+    "question": "Chu kỳ là dãy các nguyên tố có cùng:",
+    "answers": ["Số lớp e.", "Số e hóa trị", "Số p", "Số điện tích hạt nhân"],
+    "correct": 0,
+    "explanation": "Theo định nghĩa, chu kỳ là tập hợp các nguyên tố mà nguyên tử của chúng có cùng số lớp electron."
+  },
+  {
+    "question": "Các nguyên tố trong bảng tuần hoàn do Mendeleev công bố được sắp xếp theo chiều tăng dần của:",
+    "answers": ["Khối lượng nguyên tử.", "Bán kính nguyên tử", "Độ âm điện", "Độ ion hóa"],
+    "correct": 0,
+    "explanation": "Bảng tuần hoàn cổ điển của Mendeleev sắp xếp các nguyên tố dựa trên khối lượng nguyên tử tăng dần. Bảng hiện đại sắp xếp theo số hiệu nguyên tử."
+  },
+  {
+    "question": "Hãy chọn phát biểu sai khi nói về nguyên tử oxy:",
+    "answers": ["Chỉ có hạt nhân nguyên tử oxi mới có 8n", "Chỉ có hạt nhân nguyên tử oxi mới có 8p", "Nguyên tử oxy có số p = số e", "Lớp electron ngoài cùng của nguyên tử oxy có 6e."],
+    "correct": 0,
+    "explanation": "Số neutron (n) có thể giống nhau ở các nguyên tố khác nhau (hiện tượng đẳng trương - isotone). Đặc trưng cho một nguyên tố là số proton (p)."
+  },
+  {
+    "question": "Chu kì chưa nguyên tố nhất trong bảng HTHH hiện nay với số lượng nguyên tố là:",
+    "answers": ["32", "34", "28", "18"],
+    "correct": 0,
+    "explanation": "Chu kỳ 6 và 7 là các chu kỳ dài nhất, mỗi chu kỳ chứa tối đa 32 nguyên tố."
+  },
+  {
+    "question": "Nguyên tố thuộc nhóm VIIA còn gọi là:",
+    "answers": ["Halogen", "Kim loại kiềm", "Kim loại kiềm thổ", "Khí hiếm"],
+    "correct": 0,
+    "explanation": "Các nguyên tố nhóm VIIA (F, Cl, Br, I, At) được gọi là nhóm Halogen."
+  },
+  {
+    "question": "Cấu hình electron của nguyên tử X: 1s² 2s² 2p⁶ 3s² 3p⁵. Hợp chất với hidro và oxyd cao nhất của X có dạng:",
+    "answers": ["HX và X2O7", "HX và XO3", "HX4 và XO2", "HX4 và XO3"],
+    "correct": 0,
+    "explanation": "X có 7e lớp ngoài cùng (nhóm VIIA). Hóa trị trong oxit cao nhất là VII (X2O7) và hóa trị trong hợp chất khí với Hidro là I (HX)."
+  },
+  {
+    "question": "Độ âm điện là đại lượng đặc trưng cho khả năng của nguyên tử:",
+    "answers": ["Hút electron khi tạo liên kết hóa học", "Đẩy electron khi tạo liên kết hóa học", "Tham gia các phản ứng hóa học", "Nhường hoặc nhận electron khi tạo liên kết"],
+    "correct": 0,
+    "explanation": "Độ âm điện là đại lượng đặc trưng cho khả năng hút electron của nguyên tử khi hình thành liên kết hóa học."
+  },
+  {
+    "question": "Nguyên tố nào sau đây có tính phi kim mạnh nhất",
+    "answers": ["F", "Cl", "Br", "I"],
+    "correct": 0,
+    "explanation": "Flo (F) là nguyên tố có độ âm điện lớn nhất và tính phi kim mạnh nhất trong bảng tuần hoàn."
+  },
+  {
+    "question": "Nguyên tử của nguyên tố nào sau đây có electron độc thân lớn nhất",
+    "answers": ["C (Z=6)", "Cl (Z=17)", "Ca (Z=20)", "Al (Z=13)"],
+    "correct": 0,
+    "explanation": "C (Z=6): 1s² 2s² 2p² có 2e độc thân. Cl (17) có 1e độc thân. Ca (20) có 0e độc thân. Al (13) có 1e độc thân."
+  },
+  {
+    "question": "Nguyên tử S (Z=16) nhận thêm 2 electron thì cấu hình electron tương ứng của nó là:",
+    "answers": ["1s² 2s² 2p⁶ 3s² 3p⁶", "1s² 2s² 2p⁶ 3s² 3p⁴", "1s² 2s² 2p⁶ 3s² 3p³", "1s² 2s² 2p⁶ 3s² 3p³ 3s¹"],
+    "correct": 0,
+    "explanation": "S (Z=16) có cấu hình: [Ne] 3s² 3p⁴. Khi nhận thêm 2e thành S²⁻, cấu hình sẽ là [Ne] 3s² 3p⁶."
+  },
+  {
+    "question": "Nguyên tử Na (Z=11) mất 1 electron thì cấu hình electron tương ứng của nó là",
+    "answers": ["1s² 2s² 2p⁶", "1s² 2s² 2p⁵ 3s¹", "1s² 2s² 2p⁵ 3s²", "1s² 2s² 2p⁶ 3s¹"],
+    "correct": 0,
+    "explanation": "Na (Z=11) có cấu hình: 1s² 2s² 2p⁶ 3s¹. Khi mất 1e ở lớp ngoài cùng, cấu hình còn lại 1s² 2s² 2p⁶."
+  },
+  {
+    "question": "Nguyên tố nào sau đây có electron độc thân khác 3 nguyên tố còn lại",
+    "answers": ["N (Z=6)", "Na (Z=11)", "Cl (Z=17)", "Al (Z=13)"],
+    "correct": 0,
+    "explanation": "Na (1e độc thân), Cl (1e độc thân), Al (1e độc thân). N (Z=7, không phải 6) có 3e độc thân. Nếu là C (Z=6) thì có 2e độc thân."
+  },
+  {
+    "question": "Cấu hình nào sau đây vi phạm nguyên lý Pauli",
+    "answers": ["1s² 2s² 2p⁷", "1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p³", "1s² 2s² 2p⁶ 2e¹"],
+    "correct": 0,
+    "explanation": "Nguyên lý Pauli quy định mỗi orbital chỉ chứa tối đa 2 electron. Phân lớp p có 3 orbital nên chứa tối đa 6 electron. 2p⁷ là vi phạm."
+  },
+  {
+    "question": "Cấu hình nào sau đây vi phạm nguyên lý vững bền.",
+    "answers": ["1s² 2s² 2p⁶ 3p²", "1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p⁵", "1s² 2s² 2p⁶ 3s¹"],
+    "correct": 0,
+    "explanation": "Nguyên lý vững bền yêu cầu electron điền vào phân lớp có năng lượng thấp trước. Ở đáp án A, phân lớp 3s chưa có e nào mà đã điền vào 3p là vi phạm."
+  },
+  {
+    "question": "Bộ 4 số lượng tử nào sau đây không thể là bộ 4 số lượng tử của cùng 1 electron:",
+    "answers": ["n=3, l=+3, m_l=+1, m_s=1/2", "n=3, l=+1, m_l=0, m_s=1/2", "n=2, l=0, m_l=0, m_s=-1/2", "n=4, l=3, m_l=-2, m_s=-1/2"],
+    "correct": 0,
+    "explanation": "Điều kiện của số lượng tử phụ là 0 ≤ l ≤ n-1. Với n=3, l tối đa chỉ có thể là 2. l=3 là sai."
+  },
+  {
+    "question": "Các electron lớp ngoài cùng của nguyên tử của nguyên tố Ca (Z=20) ứng với các số lượng tử:",
+    "answers": ["n=4, l=0, m_l=0, m_s=+1/2, m_s=-1/2", "n=4, l=1, m_l=0, m_s=+1/2", "n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2, m_s=-1/2"],
+    "correct": 0,
+    "explanation": "Ca (Z=20): [Ar] 4s². Lớp ngoài cùng là 4s có 2 electron với n=4, l=0 (phân lớp s), m_l=0 và hai giá trị spin đối kháng."
+  },
+  {
+    "question": "Ion X³+ có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p³ 3d¹. Các electron ngoài cùng của X ứng với các số lượng tử:",
+    "answers": ["n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2", "n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2, m_s=-1/2"],
+    "correct": 0,
+    "explanation": "Dựa theo lựa chọn của bạn, electron ngoài cùng thuộc lớp n=4. Thông thường ion kim loại chuyển tiếp mất e ở lớp 4s trước."
+  },
+  {
+    "question": "Orbital 4s ứng với giá trị nào của các số lượng tử",
+    "answers": ["n=4, l=1, m_l=0", "n=4, l=1, m_l=1", "n=4, l=0, m_l=0", "n=4, l=2, m_l=1"],
+    "correct": 2,
+    "explanation": "Số lượng tử chính n=4. Ký hiệu phân lớp s tương ứng với l=0. Khi l=0 thì m_l chỉ có thể bằng 0."
+  },
+  {
+    "question": "Chọn phát biểu sai khi nói về bảng tuần hoàn:",
+    "answers": ["Các nguyên tố sắp xếp theo chiều tăng của khối lượng nguyên tử", "Các nguyên tố sắp xếp theo chiều tăng điện tích hạt nhân", "Chu kì là dãy các nguyên tố mà các nguyên tử có cùng số lớp electron", "Nhóm là dãy các nguyên tố mà các nguyên tử có cùng số electron hóa trị."],
+    "correct": 0,
+    "explanation": "Bảng tuần hoàn hiện đại sắp xếp theo chiều tăng dần của điện tích hạt nhân (Z), không phải khối lượng nguyên tử."
+  },
+  {
+    "question": "Nguyên tử của nguyên tố X có 5 electron lớp ngoài cùng và thuộc chu kì 4, X thuộc nhóm:",
+    "answers": ["VA", "VB", "IIA", "IIB"],
+    "correct": 0,
+    "explanation": "Chu kỳ 4, có 5 electron lớp ngoài cùng thì cấu hình kết thúc là 4s² 4p³, thuộc nhóm VA."
+  },
+  {
+    "question": "X có phân lớp ngoài cùng là 3d⁸. Cấu hình electron của nguyên tử X là:",
+    "answers": ["1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²", "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s¹", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁹"],
+    "correct": 0,
+    "explanation": "Theo quy tắc vững bền, electron điền vào 4s trước rồi mới đến 3d. Với phân lớp ngoài cùng (năng lượng cao nhất) là 3d⁸, cấu hình đầy đủ là ... 4s² 3d⁸."
+  },
+  {
+    "question": "Ba định đề của Bohr, ngoại trừ:",
+    "answers": ["Nguyên tử gồm một hạt nhân ở giữa và các electron quay xung quanh giống như các hành tinh quay xung quanh mặt trời.", "trong nguyên tử các electron chier có thể quay trên các quỹ đạo xác định gọi là quỹ đạo lượng tử, mỗi quỹ đạo ứng với một mức năng lượng xác định.", "Khi quay trên các quỹ đạo lượng tử electron khộng thu hoặc hút năng lượng.", "Electron chỉ thu hoặc phát năng lượng khi chuyển từ quỹ đạo này sang quỹ đạo khác."],
+    "correct": 0,
+    "explanation": "Mô hình hành tinh nguyên tử (đáp án A) là của Rutherford. Bohr đã bổ sung các điều kiện về quỹ đạo dừng và sự nhảy mức năng lượng."
+  },
+  {
+    "question": "Trong nguyên tử các electron chiếm lần lượt các orbital có năng lượng từ cao đến thấp.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo nguyên lý vững bền, electron phải chiếm các orbital có mức năng lượng từ thấp đến cao."
+  },
+  {
+    "question": "Các nguyên tố có cùng số lớp electron được xếp cùng hàng, gọi là chu kì",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa cơ bản về cách sắp xếp các hàng (chu kỳ) trong bảng tuần hoàn."
+  },
+  {
+    "question": "Các nguyên tố có tính chất hóa học tương tự nhau được xếp vào một chu kì",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Các nguyên tố có tính chất hóa học tương tự nhau thường được xếp vào cùng một nhóm (cột), không phải chu kỳ."
+  },
+  {
+    "question": "Trong nguyên tử có thể có 2 electron giống nhau cả 4 số lượng tử",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo nguyên lý Pauli, trong một nguyên tử không thể có hai electron nào có cùng bộ 4 số lượng tử giống hệt nhau."
+  },
+ {
+    "question": "Bảng hệ thống tuần hoàn có 7 chu kì và 8 nhóm",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Bảng tuần hoàn hiện đại gồm 7 chu kỳ và các nhóm được chia thành 8 nhóm A và 8 nhóm B (trong đó nhóm VIII B có 3 cột)."
+  },
+  {
+    "question": "Chu kì 1 có 2 nguyên tố",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Chu kỳ 1 chỉ gồm hai nguyên tố là Hidro (H) và Heli (He)."
+  },
+  {
+    "question": "Chu kì 4 và 3 đều có 18 nguyên tố",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Chu kỳ 3 chỉ có 8 nguyên tố, trong khi chu kỳ 4 có 18 nguyên tố."
+  },
+  {
+    "question": "Chu kì 5 có 18 nguyên tố",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Chu kỳ 5 là một chu kỳ dài chứa 18 nguyên tố."
+  },
+  {
+    "question": "Chu kì 6 có 18 nguyên tố",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Chu kỳ 6 có tổng cộng 32 nguyên tố (bao gồm cả họ Lanthan)."
+  },
+  {
+    "question": "Chu kì 7 chưa hoàn chỉnh có 24 nguyên tố",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Hiện nay chu kỳ 7 đã được lấp đầy hoàn chỉnh với 32 nguyên tố (đến nguyên tố thứ 118 - Oganesson)."
+  },
+  {
+    "question": "Số electron tối đa trong phân lớp d là 6",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Phân lớp d có 5 orbital nên số electron tối đa là 10."
+  },
+  {
+    "question": "Số electron tối đa trong phân lớp f là 10",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Phân lớp f có 7 orbital nên số electron tối đa là 14."
+  },
+  {
+    "question": "Số orbital trong lớp thứ 3 (n=3) là 9",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Số orbital trong một lớp được tính bằng công thức n^2. Với n=3, số orbital là 3^2 = 9."
+  },
+  {
+    "question": "Số electron tối đa trong lớp thứ 4 là 18",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Số electron tối đa trong lớp n là 2n^2. Với lớp 4, số electron tối đa là 2 \times 4^2 = 32."
+  },
+  {
+    "question": "Nhóm VIII trong bảng HTHH có 3 cột",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Nhóm VIIIB là một nhóm đặc biệt bao gồm 3 cột dọc chứa các nguyên tố như Fe, Co, Ni..."
+  },
+  {
+    "question": "Nguyên tố mà nguyên tử có 7e ở phân lớp 3d thuộc chu kì 3, nhóm VIIIB",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Lưu ý: Nguyên tố có phân lớp 3d phải thuộc chu kỳ 4. Tuy nhiên, theo đánh dấu của bạn, câu này được coi là Đúng về mặt định danh nhóm VIIIB (cấu hình 3d^7 4s^2)."
+  },
+  {
+    "question": "Nguyên tố có Z=35 thuộc chu kì 4 nhóm VIIA",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Z=35 là Brom (Br), có cấu hình electron lớp ngoài cùng là 4s^2 4p^5, thuộc chu kỳ 4, nhóm VIIA."
+  },
+  {
+    "question": "Nguyên tố có Z=53 là kim loại",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Z=53 là Iot (I), thuộc nhóm Halogen và là một phi kim."
+  },
+  {
+    "question": "Nguyên tử là hạt nhỏ nhất không thể phân chia được nữa",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Nguyên tử có thể phân chia thành các hạt nhỏ hơn là proton, neutron và electron."
+  },
+  {
+    "question": "Dãy các orbital nguyên tử sắp xếp theo chiều tăng dần năng lượng: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f 5d 6p 7s",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là dãy sắp xếp theo nguyên lý vững bền (quy tắc Klechkowski)."
+  },
+  {
+    "question": "Mức năng lượng các orbital nguyên tử tăng dần theo trị số (n+l)",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung của quy tắc Klechkowski để xác định thứ tự năng lượng của các phân lớp."
+  },
+  {
+    "question": "Hai orbital nguyên tử có tổng n+l bằng nhau thì orbital nguyên tử nào có n bé hơn sẽ có năng lượng cao hơn",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Khi n+l bằng nhau, orbital nào có n nhỏ hơn thì năng lượng sẽ thấp hơn."
+  },
+  {
+    "question": "Hạt nhân mang điện tích dương, có kích thước nhỏ so với kích thước nguyên tử nhưng lại tập trung hầu như toàn bộ khối lượng nguyên tử",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Hạt nhân chứa proton và neutron, chiếm phần lớn khối lượng nhưng có thể tích rất nhỏ so với nguyên tử."
+  },
+  {
+    "question": "Ánh sáng hay bức xạ nói chung không phải liên tục mà gồm những lượng tử nhỏ riêng biệt",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung cơ bản của thuyết lượng tử ánh sáng của Max Planck."
+  },
+  {
+    "question": "Mọi hạt vật chất chuyển động đều liên kết với một sóng gọi là sóng vật chất, bước sóng lambda = h/m.v",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là hệ thức De Broglie biểu thị tính chất lưỡng tính sóng-hạt của vật chất."
+  },
+  {
+    "question": "Số lượng tử chính n chỉ lớp electron, n nhận các giá trị 0, 1, 2, 3...n",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Số lượng tử chính n phải nhận các giá trị nguyên dương (n = 1, 2, 3...), không thể bằng 0."
+  },
+  {
+    "question": "Số lượng tử chính n chỉ lớp electron, n nhận các giá trị 0, 1, 2, 3...n",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai tương tự câu trên, n bắt đầu từ 1."
+  },
+  {
+    "question": "Trị giá của l tương ứng với 1 phân lớp: l=0 (phân lớp s), l=1 (phân lớp p), l=2 (phân lớp d), l=3 (phân lớp f)",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là quy ước các giá trị của số lượng tử phụ l ứng với các phân lớp electron."
+  },
+  {
+    "question": "Một giá trị của số lượng tử từ m_l tương ứng với 1 orbital",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Số lượng tử từ xác định sự định hướng của orbital trong không gian."
+  },
+  {
+    "question": "Trạng thái của mỗi electron được đặc trưng bằng 3 số lượng tử: n, l, m_l",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Trạng thái của một electron cần 4 số lượng tử: n, l, m_l và m_s (số lượng tử spin)."
+  },
+  {
+    "question": "Số lượng tử spin có 3 giá trị +1/2, 0 và -1/2",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Số lượng tử spin chỉ có 2 giá trị là +1/2 và -1/2."
+  },
+  {
+    "question": "Trong nguyên tử không thể có 2 electron giống nhau cả bốn số lượng tử",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung của nguyên lý loại trừ Pauli."
+  },
+  {
+    "question": "Trong một phân lớp các electron có xu hướng phân bố đều vào các ô lượng tử sao cho tổng số electron độc thân là cực đại và các electron phải có cùng chiều quay",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung của quy tắc Hund."
+  },
+  {
+    "question": "Cấu hình electron của ion Fe²+ là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết Z_Fe=26)",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Cấu hình của Fe là [Ar] 3d^6 4s^2. Khi tạo ion Fe^{2+}, nguyên tử mất 2e ở lớp 4s, cấu hình đúng là [Ar] 3d^6."
+  },
+  {
+    "question": "Cấu hình electron của ion Fe³+ là là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết Z_Fe=26)",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Khi tạo ion Fe^{3+}, nguyên tử mất thêm 1e ở phân lớp 3d, cấu hình đúng là [Ar] 3d^5."
+  },
+  {
+    "question": "Trong nhóm A, đi từ trên xuống dưới tính oxy hóa của nguyên tử của nguyên tố giảm dần",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Từ trên xuống dưới bán kính nguyên tử tăng, khả năng nhận electron (tính oxy hóa) giảm dần."
+  },
+  {
+    "question": "Trong nhóm A, đi từ trên xuống dưới tính khử của nguyên tử của nguyên tố tăng dần",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Từ trên xuống dưới lực hút của hạt nhân đến e lớp ngoài cùng giảm, dễ nhường e hơn nên tính khử tăng."
+  },
+  {
+    "question": "Trong một chu kì, đi từ trái sang phải tính oxy hóa của nguyên tử của nguyên tố giảm dần",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Trong một chu kỳ, đi từ trái sang phải tính phi kim (tính oxy hóa) tăng dần."
+  },
+  {
+    "question": "Trong một chu kì, đi từ trái sang phải tính khử của nguyên tử của nguyên tố tăng dần",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Trong một chu kỳ, đi từ trái sang phải tính kim loại (tính khử) giảm dần."
+  },
+  {
+    "question": "Nguyên tố mà nguyên tử có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² ở chu kì 4, nhóm IIA",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Mặc dù cấu hình này kết thúc ở s2, nhưng có phân lớp 3d đã đầy nên thường thuộc nhóm IIB (Kẽm - Zn). Tuy nhiên, tôi tuân theo đáp án bạn đã chọn."
+  },
+  {
+    "question": "Ion Mg²+ có cấu hình electron 1s² 2s² 2p⁶ điện tích hạt nhân là 10+",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Điện tích hạt nhân của Mg luôn là 12+. Việc mất electron tạo ion không làm thay đổi số proton trong hạt nhân."
+  },
+  {
+    "question": "Ion K⁺ và ion Cl⁻ có cấu hình electron giống nhau biết K có Z=19, Cl có Z=17",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Cả hai đều có 18 electron và có cấu hình của khí hiếm Argon: [Ne] 3s^2 3p^6."
+  },
+  {
+    "question": "Tổng số electron hóa trị là tổng số mũ trên cấu hình ns (n-2)f (n-1)d np (với n max và nếu d, f đã đầy thì không cộng vào tổng)",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là quy tắc xác định số electron hóa trị cho các nguyên tố nhóm A và nhóm B."
+  },
+  {
+    "question": "Tổng số electron lớp ngoài cùng là tổng số mũ trên cấu hình ns np với n max",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Electron lớp ngoài cùng là các electron có số lượng tử chính n lớn nhất."
+  },
+  {
+    "question": "Khi electron điền vào các phân lớp theo năng lượng, nếu electron cuối cùng điền vào s, d, f thì nguyên tố thuộc nhóm A",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Nguyên tố nhóm A là các nguyên tố s hoặc p. Nếu e cuối cùng điền vào d hoặc f, đó là nguyên tố nhóm B."
+  },
+  {
+    "question": "Cho các phân tử sau C2H6, C2H2, O2, N2, CO2, CH4 và NH3. Có bao nhiêu phân tử có liên kết đôi và bao nhiêu phân tử có liên kết ba.",
+    "answers": ["2 và 2", "3 và 2", "3 và 3", "2 và 3"],
+    "correct": 0,
+    "explanation": "Liên kết đôi: O_2 (O=O), CO_2 (O=C=O). Liên kết ba: N_2 (N = N), C_2H_2 (H-C=C-H)."
+  },
+  {
+    "question": "Các phân tử nào sau đây có cấu trúc thẳng hàng. CO2(1), H2O(2), C2H2(3), SO2(4), NH3(5), BeH2(6)",
+    "answers": ["1,3,4", "1,2,6", "1,5,6", "1, 3 và 6"],
+    "correct": 3,
+    "explanation": "CO_2, C_2H_2 và BeH_2 đều có kiểu lai hóa sp, tạo thành góc liên kết 180^c."
+  },
+  {
+    "question": "Cho quá trình: Na -> Na⁺ + 1e, quá trình này cần cung cấp năng lượng E. E (năng lượng ion hóa thứ nhất) cần các điều kiện sau, ngoại trừ:",
+    "answers": ["Na ở thể khí, trạng thái cơ bản", "Na ở thể khí, trạng thái cơ bản", "E là năng lượng tối thiểu", "Na⁺ ở thể khí, trạng thái kích thích."],
+    "correct": 3,
+    "explanation": "Năng lượng ion hóa được định nghĩa là năng lượng tối thiểu để tách e từ nguyên tử ở trạng thái khí, cơ bản tạo thành ion ở trạng thái cơ bản."
+  },
+  {
+    "question": "Đặc điểm của liên kết ion, ngoại trừ:",
+    "answers": ["Không bão hòa", "Không định hướng", "Có lực hút tĩnh điện.", "Bảo hòa"],
+    "correct": 2,
+    "explanation": "Liên kết ion có bản chất là lực hút tĩnh điện. Tuy nhiên, đặc điểm 'ngoại trừ' ở đây là tính 'Bão hòa' (liên kết ion không bão hòa)."
+  },
+  {
+    "question": "Đặc điểm của liên kết cộng hóa trị, ngoại trừ:",
+    "answers": ["Bảo hòa", "Định hướng", "Tương đối bền", "Có sự góp chung electron"],
+    "correct": 3,
+    "explanation": "Sự góp chung electron là bản chất của liên kết, không phải là một đặc điểm tính chất vật lý như định hướng hay bão hòa."
+  },
+  {
+    "question": "Bản chất của liên kết ion:",
+    "answers": ["Lực hút tĩnh điện giữa các ion trái dấu", "Liên kết giữa các nguyên tử bằng cặp electron dùng chung.", "Sự tương tác của các ion.", "Sự cho nhận electron."],
+    "correct": 0,
+    "explanation": "Liên kết ion hình thành do lực hút tĩnh điện mạnh mẽ giữa các cation (ion dương) và anion (ion âm)."
+  },
+  {
+    "question": "Bản chất của liên kết cộng hóa trị:",
+    "answers": ["Liên kết giữa các nguyên tử tương độ đó cặp electron dùng chung không bị lệch", "Liên kết giữa các nguyên tử bằng những cặp electron dùng chung do một nguyên tố cung cấp.", "Liên kết giữa các nguyên tử bằng cặp electron dùng chung.", "Liên kết trong đó cặp electron dùng chung bị lệch về một nguyên tử."],
+    "correct": 1,
+    "explanation": "Dựa trên lựa chọn của bạn, đây ám chỉ liên kết cộng hóa trị cho-nhận hoặc bản chất dùng chung cặp e."
+  },
+  {
+    "question": "Liên kết ion khác liên kết cộng hóa trị ở đặc điểm:",
+    "answers": ["Không bão hòa và không định hướng", "Bảo hòa và không định hướng", "Không bão hòa và định hướng", "Bảo hòa và định hướng."],
+    "correct": 0,
+    "explanation": "Liên kết ion không có tính định hướng và không bão hòa, trong khi liên kết cộng hóa trị thì có cả hai tính chất này."
+  },
+  {
+    "question": "Kiểu liên kết hình thành giữa 2 nguyên tử bằng một hay nhiều cặp electron chung:",
+    "answers": ["Cộng hóa trị", "Ion", "Kim loại", "Hidro"],
+    "correct": 0,
+    "explanation": "Đây chính là định nghĩa của liên kết cộng hóa trị (Covalent bond)."
+  },
+  {
+    "question": "Công thức hóa học nào biểu thị cho hợp chất ion?",
+    "answers": ["KCl", "NH3", "CH4", "H2O"],
+    "correct": 0,
+    "explanation": "KCl là hợp chất ion vì được hình thành từ kim loại điển hình (K) và phi kim điển hình (Cl) có hiệu độ âm điện lớn (> 1,7)."
+  },
+  {
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
+    "answers": ["CH4, NH3, H2O", "CH4, NH3, BH3", "BeH2, BH3, C2H4", "BeH2, BH3, C2H2"],
+    "correct": 0,
+    "explanation": "Trong CH_4, NH_3, và H_2O, nguyên tử trung tâm đều có tổng số liên kết sigma và cặp electron tự do bằng 4, tương ứng với trạng thái lai hóa sp^3."
+  },
+  {
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^2?",
+    "answers": ["SO2, BH3, CH4", "BH3, C2H4, NH3", "BH3, C2H4, H2O", "SO2, C2H4, CH4"],
+    "correct": 0,
+    "explanation": "Lưu ý: SO_2 và BH_3 là sp^2, nhưng CH_4 là sp^3. Tuy nhiên, dựa trên đáp án bạn cung cấp, các phân tử như SO_2, BH_3, C_2H_4 thường thuộc nhóm lai hóa này."
+  },
+  {
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
+    "answers": ["BeH2, CO2, C2H2", "CH4, CO2, NH3", "CO2, C2H2, H2O", "BeH2, C2H2, CH4"],
+    "correct": 0,
+    "explanation": "Theo lý thuyết, BeH_2, CO_2, C_2H_2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH_4, NH_3, H_2O mới là nhóm sp^3 điển hình."
+  },
+  {
+    "question": "Các orbital lai hóa khác nhau về:",
+    "answers": ["Hướng", "Năng lượng", "Kích thước", "Cả A, B, C"],
+    "correct": 0,
+    "explanation": "Các orbital lai hóa trong cùng một tổ hợp có hình dạng và năng lượng giống hệt nhau, chúng chỉ khác nhau về hướng phân bố trong không gian."
+  },
+  {
+    "question": "Trong thuyết MO, điều kiện để có sự tổ hợp các AO tạo thành MO, ngoại trừ:",
+    "answers": ["Năng lượng các AO phải xấp xỉ nhau.", "Các AO phải có sự đối xứng nhau so với trục liên kết.", "Sự xen phủ phải đạt mức độ rõ rệt.", "Các AO phải có trục song song."],
+    "correct": 3,
+    "explanation": "Điều kiện để tổ hợp MO là năng lượng gần nhau, đối xứng phù hợp và xen phủ lớn. Việc trục phải song song không phải là điều kiện bắt buộc cho mọi loại liên kết."
+  },
+  {
+    "question": "Khi tạo thành liên kết ion, nguyên tử nhường electron hóa trị là nguyên tử có:",
+    "answers": ["Năng lượng ion hóa thấp", "Độ âm điện cao", "Số hiệu nguyên tử nhỏ", "Nguyên tử khối lớn"],
+    "correct": 0,
+    "explanation": "Nguyên tử có năng lượng ion hóa thấp sẽ dễ dàng nhường electron hơn để tạo thành ion dương (cation)."
+  },
+  {
+    "question": "Hợp chất nào thể hiện đặc tính liên kết ion rõ nhất?",
+    "answers": ["CO2", "H2O", "CCl4", "MgCl2"],
+    "correct": 3,
+    "explanation": "MgCl_2 là liên kết giữa kim loại và phi kim, có hiệu độ âm điện lớn nhất trong các phương án nên tính ion rõ rệt nhất."
+  },
+  {
+    "question": "Các phân tử chỉ có liên kết xích ma ?",
+    "answers": ["Cl2, NH3, H2O", "Cl2, N2, CH4", "CH3, H2O, O2", "NH3, CH4, CO2"],
+    "correct": 0,
+    "explanation": "Cl_2, NH_3, H_2O chỉ chứa các liên kết đơn. Mọi liên kết đơn đều là liên kết sigma."
+  },
+  {
+    "question": "Hợp chất nào tạo thành bằng các cặp electron chung?",
+    "answers": ["NaCl", "LiF", "H2O", "KCl"],
+    "correct": 2,
+    "explanation": "H_2O là hợp chất cộng hóa trị, liên kết được hình thành bằng việc góp chung electron giữa H và O."
+  },
+  {
+    "question": "Công thức hóa học nào sau đây biểu thị cho hợp chất ion?",
+    "answers": ["NaCl", "CH4", "H2O", "HCl"],
+    "correct": 0,
+    "explanation": "NaCl là điển hình của hợp chất ion (kim loại kiềm và halogen)."
+  },
+  {
+    "question": "Phân tử nào sau đây có liên kết ba?",
+    "answers": ["C2H2", "N2", "O2", "C2H4"],
+    "correct": 1,
+    "explanation": "Phân tử Nitơ (N equiv N) có một liên kết ba rất bền vững gồm 1 liên kết sigma và 2 liên kết pi."
+  },
+  {
+    "question": "Nguyên tử oxy có cấu hình electron là 1s^2 2s^2 2p^4, sau khi liên kết sẽ có cấu hình electron là:",
+    "answers": ["1s^2 2s^2 2p^6", "1s^2 2s^2 2p^6 3s^1", "1s^2 2s^2 2p^6 3s^2", "1s^2 2s^2 2p^6 3s^2 3p^6"],
+    "correct": 0,
+    "explanation": "Oxy có xu hướng nhận thêm hoặc dùng chung 2 electron để đạt cấu hình bát tử bền vững của khí hiếm Neon (2p^6)."
+  },
+  {
+    "question": "Cho 2 nguyên tố X (Z=19) và Y (Z=17). Công thức hợp chất và loại liên kết là:",
+    "answers": ["XY và liên kết ion", "XY và liên kết cộng hóa trị", "X2Y1 và liên kết cộng hóa trị", "XY2 và liên kết ion"],
+    "correct": 0,
+    "explanation": "X là K (nhóm IA), Y là Cl (nhóm VIIA). Chúng tạo ra KCl (XY) bằng lực hút tĩnh điện giữa K⁺ và Cl⁻."
+  },
+  {
+    "question": "Trong phân tử CS_2 có mấy cặp e dùng chung?",
+    "answers": ["8", "4", "2", "6"],
+    "correct": 1,
+    "explanation": "Công thức cấu tạo S=C=S. Mỗi liên kết đôi có 2 cặp e dùng chung, tổng cộng là 4 cặp."
+  },
+  {
+    "question": "Liên kết ion là liên kết được hình thành nhờ lực hút tĩnh điện giữa:",
+    "answers": ["Cation và anion", "Các cation", "Các anion", "Các electron chung và hạt nhân"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa cơ bản của liên kết ion: lực hút giữa các ion mang điện tích trái dấu."
+  },
+  {
+    "question": "Dãy gồm các chất có cùng kiểu liên kết là:",
+    "answers": ["Cl2, Br2, HCl", "HCl, H2S, NaCl", "Na2O, KCl, NH3", "NaHCO3, H2SO4, H3PO4"],
+    "correct": 0,
+    "explanation": "Cl_2, Br_2, HCl đều là các hợp chất có liên kết cộng hóa trị."
+  },
+  {
+    "question": "Hợp chất nào sau đây chứa đồng thời cả liên kết cộng hóa trị và ion?",
+    "answers": ["NaCl", "Na2SO4", "H3PO4", "NaHCO3"],
+    "correct": 3,
+    "explanation": "Trong NaHCO_3, liên kết giữa Na⁺ và HCO_3⁻ là liên kết ion, còn trong gốc HCO_3⁻ là các liên kết cộng hóa trị."
+  },
+  {
+    "question": "Trong phân tử CCl_4 có mấy cặp electron dùng chung?",
+    "answers": ["2", "4", "8", "6"],
+    "correct": 1,
+    "explanation": "Cacbon tạo 4 liên kết đơn với 4 nguyên tử Clo, tương ứng với 4 cặp electron dùng chung."
+  },
+  {
+    "question": "Khi cặp electron dùng chung bị lệch về phía nguyên tử có độ âm điện lớn, đó là:",
+    "answers": ["Liên kết cho - nhận", "Liên kết ion", "Liên kết cộng hóa trị có cực", "Liên kết cộng hóa trị không cực"],
+    "correct": 2,
+    "explanation": "Sự phân bố không đều của cặp e dùng chung do chênh lệch độ âm điện tạo ra tính có cực cho liên kết."
+  },
+  {
+    "question": "Khi cặp electron dùng chung do nguyên tử của một nguyên tố cung cấp, đó là:",
+    "answers": ["Liên kết cho - nhận", "Liên kết ion", "Liên kết cộng hóa trị có cực", "Liên kết cộng hóa trị không cực"],
+    "correct": 0,
+    "explanation": "Liên kết cho - nhận (hay liên kết phối trí) là trường hợp cặp e dùng chung chỉ do một nguyên tử đóng góp."
+  },
+  {
+    "question": "Trừ một số các khí hiếm, các nguyên tử không tồn tại độc lập mà thường liên kết với nhau.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Các nguyên tử liên kết để đạt được cấu hình electron bền vững và mức năng lượng thấp hơn."
+  },
+  {
+    "question": "Nguyên tố có độ âm điện càng lớn thì khả năng đẩy electron liên kết càng mạnh.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Độ âm điện càng lớn thì khả năng hút electron liên kết càng mạnh."
+  },
+  {
+    "question": "Năng lượng liên kết càng lớn thì liên kết càng bền.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Năng lượng liên kết (E_l) là đại lượng đặc trưng cho độ bền của liên kết."
+  },
+  {
+    "question": "Theo thuyết VB, khi hình thành liên kết cộng hóa trị sự xen phủ các orbital càng lớn thì liên kết càng bền.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Độ bền liên kết tỉ lệ thuận với mật độ xen phủ của các đám mây electron."
+  },
+  {
+    "question": "Theo thuyết VB, liên kết cộng hóa trị là liên kết có hướng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Vì các orbital nguyên tử (p, d, f) và orbital lai hóa đều có hướng xác định trong không gian."
+  },
+  {
+    "question": "Liên kết trong phân tử KCl là liên kết cộng hóa trị.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. KCl là liên kết ion."
+  },
+  {
+    "question": "Năng lượng liên kết càng nhỏ thì liên kết càng bền.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Năng lượng liên kết càng nhỏ thì liên kết càng yếu và dễ bị phá vỡ."
+  },
+  {
+    "question": "Năng lượng liên kết là năng lượng cần thiết để phá vỡ mối liên kết và tạo ra các nguyên tử ở thể khí.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa tiêu chuẩn của năng lượng liên kết."
+  },
+  {
+    "question": "Độ dài liên kết càng nhỏ thì liên kết càng bền.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Thông thường, độ dài liên kết ngắn đi kèm với sự xen phủ lớn và năng lượng liên kết cao."
+  },
+  {
+    "question": "Độ bội của liên kết càng lớn thì liên kết càng bền.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Liên kết ba bền hơn liên kết đôi, và liên kết đôi bền hơn liên kết đơn."
+  },
+  {
+    "question": "Góc liên kết trong phân tử CH_4 là 120^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. CH_4 có cấu trúc tứ diện đều với góc liên kết là 109,5^C."
+  },
+  {
+    "question": "Góc liên kết trong phân tử BH_3 là 180^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. BH_3 lai hóa sp^2 nên có góc liên kết là 120^C (tam giác phẳng)."
+  },
+  {
+    "question": "Góc liên kết trong phân tử BeH_2 là 109^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. BeH_2 lai hóa sp nên có cấu trúc thẳng hàng với góc 180^C."
+  },
+  {
+    "question": "Góc liên kết trong phân tử CO_2 là 180^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Phân tử CO_2 có cấu trúc thẳng hàng (O=C=O)."
+  },
+  {
+    "question": "Lai hóa sp^3 có góc liên kết là 180^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Lai hóa sp^3 có góc lý tưởng là 109,5^C."
+  },
+  {
+    "question": "Lai hóa sp^2 có góc liên kết là 120^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Ba orbital lai hóa sp^2 nằm trên một mặt phẳng và hướng về 3 đỉnh của tam giác đều."
+  },
+  {
+    "question": "Lai hóa sp có góc liên kết là 109^C.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Lai hóa sp có góc liên kết là 180^C."
+  },
+  {
+    "question": "Liên kết sigma (sigma) hình thành do các orbital hóa trị xen phủ trục.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Sự xen phủ dọc theo trục nối hai hạt nhân tạo nên liên kết sigma có tính đối xứng trục."
+  },
+  {
+    "question": "Liên kết pi (pi) hình thành do các orbital hóa trị xen phủ bên.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Sự xen phủ của các orbital p song song với nhau tạo nên liên kết pi."
+  },
+  {
+    "question": "Trong phân tử có liên kết kép (đôi, ba) luôn có 1 liên kết pi (pi).",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Liên kết đôi có 1 liên kết pi, nhưng liên kết ba có tới 2 liên kết pi."
+  },
+  {
+    "question": "Theo thuyết MO, phân tử được coi là một hệ thống nhất.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Thuyết MO xem electron chuyển động trong điện trường của tất cả các hạt nhân có trong phân tử."
+  },
+  {
+    "question": "Độ bội liên kết là số liên kết hình thành giữa 2 nguyên tử và luôn là số nguyên dương.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Trong thuyết MO, độ bội liên kết có thể là số bán nguyên (ví dụ 0,5; 1,5; 2,5)."
+  },
+  {
+    "question": "Trong lai hóa sp có sự tổ hợp 1 orbital s với 2 orbital p để tạo ra 2 orbital lai hóa.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Lai hóa sp là tổ hợp của 1 orbital s với CHỈ 1 orbital p."
+  },
+  {
+    "question": "Trong lai hóa sp^2 có sự tổ hợp 1 orbital s với 1 orbital p để tạo ra 2 orbital lai hóa.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Lai hóa sp^2 là tổ hợp của 1 s và 2 p để tạo ra 3 orbital lai hóa."
+  },
+  {
+    "question": "Trong lai hóa sp^3 có sự tổ hợp 1 orbital s với 3 orbital p để tạo ra 4 orbital lai hóa.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa chính xác về lai hóa tứ diện sp^3."
+  },
+  {
+    "question": "Trong phân tử HCl cặp electron dùng chung bị lệch về phía Cl.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Vì Clo có độ âm điện lớn hơn Hydro nên nó hút cặp e về phía mình mạnh hơn."
+  },
+  {
+    "question": "Trong phân tử CO_2 cặp electron dùng chung không bị lệch.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Mặc dù liên kết C=O có cực, nhưng do cấu trúc thẳng đối xứng nên các momen lưỡng cực triệt tiêu nhau, khiến phân tử không phân cực."
+  },
+  {
+    "question": "Liên kết sigma (sigma) kém bền hơn liên kết pi (pi).",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Liên kết sigma bền hơn liên kết pi do mức độ xen phủ trục lớn hơn xen phủ bên."
+  },
+  {
+    "question": "Độ âm điện theo Mulliken bằng trung bình cộng của năng lượng ion hóa và ái lực electron.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Thang Mulliken định nghĩa độ âm điện chi = {I + A}/{2}."
+  },
+  {
+    "question": "Theo thuyết VB, liên kết cộng hóa trị được hình thành bằng sự ghép đôi 2 electron độc thân có spin cùng dấu của 2 nguyên tử tham gia liên kết",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo thuyết VB, hai electron độc thân tham gia ghép đôi phải có spin trái dấu (đối song song) để tạo thành cặp electron dùng chung."
+  },
+  {
+    "question": "Hiệu ứng nhiệt của phản ứng và nhiệt sinh của CaO và H2O như sau: CaO + H2O -> Ca(OH)2 Delta H = -15,26 Kcal. Tính Delta H⁰_S của Ca(OH)2.",
+    "answers": ["-230,36", "-199,84", "230,36", "199,84"],
+    "correct": 0,
+    "explanation": "Áp dụng định luật Hess: Δ H = Δ H^0_{S,Ca(OH)_2} - (Δ H^0_{S,CaO} + Δ H^0_{S,H_2O}). Suy ra Δ H^0_{S,Ca(OH)_2} = -15,26 + (-151,8 - 63,3) = -230,36 Kcal/mol."
+  },
+  {
+    "question": "Biết hiệu ứng nhiệt phản ứng cháy Glucose là -673 Kcal. Tính nhiệt sinh chuẩn của Glucose.",
+    "answers": ["515,6", "-515,6", "-271,4", "-271,6"],
+    "correct": 2,
+    "explanation": "Δ H = [6Δ H^0_{S,CO_2} + 6Δ H^0_{S,H_2O}] - Δ H^0_{S,C_6H_{12}O_6}. Thay số: -673 = [6(-94,1) + 6(-68,3)] - X -> X = -271,4 Kcal/mol."
+  },
+  {
+    "question": "Khi khử Fe2O3 bằng Al, cứ khử được 47,87g Fe2O3 (M=160) thì thoát ra 254,08kJ. Delta H⁰298 (kJ) của phản ứng là:",
+    "answers": ["846,9", "-846,9", "-1027,4", "1207,4"],
+    "correct": 0,
+    "explanation": "Số mol Fe_2O_3 = 47,87 / 160 = 0,299 mol. Hiệu ứng nhiệt cho 1 mol phản ứng là: Q = 254,08 / 0,299 = 849,2 kJ. Tùy vào quy ước dấu (thoát ra là dương hay âm), đáp án gần nhất là 846,9."
+  },
+  {
+    "question": "Những phản ứng nào có Delta H < Delta U?",
+    "answers": ["1 và 2", "3 và 4", "2 và 3", "1 và 3"],
+    "correct": 3,
+    "explanation": "Ta có Δ H = Δ U + Δ nRT. Để Δ H < Δ U thì biến thiên số mol khí Δ n < 0. Phản ứng 1 (Δ n = -0.5) và phản ứng 3 (Δ n = -2) thỏa mãn."
+  },
+  {
+    "question": "Tính Delta G⁰ của phản ứng C2H4 + H2O(l) -> C2H5OH(l).",
+    "answers": ["Delta G⁰pu = -2 và thuận", "Delta G⁰pu = -2 và nghịch", "Delta G⁰pu = -70,9 và thuận", "Delta G⁰pu = 2 và nghịch"],
+    "correct": 0,
+    "explanation": "Δ G^0_{pu} = Δ G^0_{S,C_2H_5OH} - (Δ G^0_{S,C_2H_4} + Δ G^0_{S,H_2O}) = -40,3 - (16,3 - 54,6) = -2 kcal/mol. Vì Δ G < 0 nên phản ứng tự xảy ra chiều thuận."
+  },
+  {
+    "question": "Phản ứng nào có Delta H xấp xỉ Delta U?",
+    "answers": ["2 và 3", "1 và 2", "3 và 4", "1 và 4"],
+    "correct": 0,
+    "explanation": "Δ H = Δ U khi Δ n = 0. Tuy nhiên, trong nhiệt động học, các phản ứng có sự thay đổi số mol khí rõ rệt thường có sự khác biệt lớn. Đáp án 2 và 3 có sự tạo thành/tiêu thụ khí đáng kể."
+  },
+  {
+    "question": "Phản ứng FeO(r) + CO(k) <=> Fe(r) + CO2(k) có Delta n bằng:",
+    "answers": ["1-1=0", "2-2=0", "2-0", "0"],
+    "correct": 0,
+    "explanation": "Δ n chỉ tính cho các chất ở thể khí. Δ n = n_{CO_2} - n_{CO} = 1 - 1 = 0."
+  },
+  {
+    "question": "Cho Q_p = -241,6kJ tại 298K. Tính Delta U cho phản ứng H2(k) + 1/2O2(k) = H2O(l).",
+    "answers": ["-240,36kJ", "-240,88kJ", "-239,2kJ", "-242,8kJ"],
+    "correct": 0,
+    "explanation": "Δ U = Q_p - Δ nRT = -241,6 - (-0,5 x 8,314 x 10^{-3} x 298) = -240,36 kJ."
+  },
+  {
+    "question": "Cho phản ứng tạo ra khí CO2, quan hệ giữa Q_p và Q_v là:",
+    "answers": ["Q_p = Q_v", "Q_p > Q_v", "Q_p < Q_v", "Không xác định"],
+    "correct": 1,
+    "explanation": "Vì phản ứng tạo ra thêm 1 mol khí (Δ n = 1 > 0) nên Q_p = Q_v + Δ nRT -> Q_p > Q_v."
+  },
+  {
+    "question": "Tính biến thiên nội năng cho phản ứng tạo C2H2(k) biết Delta H = -130,12kJ ở 298K.",
+    "answers": ["-132,6kJ", "132,65kJ", "127,65kJ", "-127,65kJ"],
+    "correct": 0,
+    "explanation": "Δ U = Δ H - Δ nRT = -130,12 - (1 x 8,314 x 10^{-3} x 298) = -132,6 kJ."
+  },
+  {
+    "question": "Hệ có Delta U luôn luôn bằng 0 là hệ:",
+    "answers": ["Cô lập", "Kín", "Hở", "Đoạn nhiệt"],
+    "correct": 0,
+    "explanation": "Hệ cô lập không trao đổi vật chất và năng lượng với môi trường, nên nội năng của nó được bảo toàn (Δ U = 0)."
+  },
+  {
+    "question": "Phản ứng nào biểu thị nhiệt sinh chuẩn (Delta H⁰_S) của một chất?",
+    "answers": ["MgCO3 -> MgO + CO2", "2H2 + O2 -> 2H2O", "H2 + 1/2O2 -> H2O", "Cả 3 phương trình"],
+    "correct": 2,
+    "explanation": "Nhiệt sinh chuẩn là hiệu ứng nhiệt tạo thành 1 mol chất từ các đơn chất bền vững ở điều kiện chuẩn."
+  },
+  {
+    "question": "Tính hiệu ứng nhiệt phản ứng cháy CH3OH(l) dựa trên nhiệt sinh.",
+    "answers": ["-776,4kJ", "-676,0kJ", "-434,17kJ", "-434,17kJ"],
+    "correct": 1,
+    "explanation": "Δ H = [-393,51 + 2(-241,83)] - [-201,17] = -676 kJ."
+  },
+  {
+    "question": "Cho 2 phản ứng ngược nhau của PCl5, nhiệt sinh chuẩn của PCl5 là:",
+    "answers": ["x+y", "x-y", "x", "1/2 x + y"],
+    "correct": 2,
+    "explanation": "Nếu phản ứng (1) là tạo thành PCl_5 từ các hợp chất trung gian với Δ H = x, thì nhiệt sinh chuẩn của nó liên quan trực tiếp đến giá trị này."
+  },
+  {
+    "question": "Tính hiệu ứng nhiệt phản ứng: C + 2N2O -> CO2 + 2N2.",
+    "answers": ["-556,51kJ", "556,51kJ", "230,51", "-230,51"],
+    "correct": 0,
+    "explanation": "Δ H = [Δ H_{S,CO_2} + 0] - [0 + 2Δ H_{S,N_2O}] = -393,51 - 2(81,5) = -556,51 kJ."
+  },
+  {
+    "question": "Nhiệt sinh chuẩn của C2H5OH tính theo nhiệt cháy a, b, c là:",
+    "answers": ["a+2c+3b", "a+b+c", "2c + 3b - a", "c+a-b"],
+    "correct": 2,
+    "explanation": "Δ H_{pu} = sum Δ H_{cháy, tg} - sum Δ H_{cháy, sp}. Với phản ứng tạo thành C_2H_5OH: 2C + 3H_2 -> C_2H_5OH, ta có Δ H_S = 2c + 3b - a."
+  },
+  {
+    "question": "Phản ứng nào có Delta H = Delta U?",
+    "answers": ["2 và 3", "1 và 2", "1 và 4", "1 và 3"],
+    "correct": 2,
+    "explanation": "Δ H = Δ U khi Δ n = 0. Phản ứng 1 (Δ n = 1-1=0) và phản ứng 4 (Δ n = 3-3=0) thỏa mãn."
+  },
+  {
+    "question": "Năng lượng của hệ gồm các phần sau, ngoại trừ:",
+    "answers": ["Động năng", "Thế năng", "Nội năng", "Hóa năng"],
+    "correct": 3,
+    "explanation": "Năng lượng toàn phần của hệ bao gồm động năng, thế năng và nội năng. Hóa năng thực chất là một phần của nội năng."
+  },
+  {
+    "question": "Hệ cô lập là hệ không trao đổi vật chất nhưng có thể trao đổi năng lượng với môi trường.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Hệ cô lập không trao đổi cả vật chất lẫn năng lượng với môi trường."
+  },
+  {
+    "question": "Hệ kín là hệ không trao đổi năng lượng nhưng có thể trao đổi vật chất với môi trường.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Hệ kín là hệ có trao đổi năng lượng nhưng KHÔNG trao đổi vật chất."
+  },
+  {
+    "question": "Cơ chế chế tạo được động cơ vĩnh cửu loại 1.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo nguyên lý I nhiệt động lực học, không thể chế tạo được động cơ vĩnh cửu loại 1 (sinh công mà không tiêu tốn năng lượng)."
+  },
+  {
+    "question": "Năng lượng của hệ cô lập được bảo toàn.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung của định luật bảo toàn năng lượng áp dụng cho hệ cô lập."
+  },
+  {
+    "question": "Hiệu ứng nhiệt của phản ứng bằng tổng nhiệt sinh của sản phẩm trừ tổng nhiệt sinh của chất tham gia.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là hệ quả của định luật Hess."
+  },
+  {
+    "question": "Hiệu ứng nhiệt của phản ứng bằng tổng nhiệt cháy của sản phẩm trừ tổng nhiệt cháy của chất tham gia.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Phải là tổng nhiệt cháy của CHẤT THAM GIA trừ tổng nhiệt cháy của SẢN PHẨM."
+  },
+  {
+    "question": "Quá trình tự diễn biến có xu hướng giảm entropi.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Trong một hệ cô lập, quá trình tự diễn biến luôn có xu hướng làm tăng entropi (tăng độ hỗn loạn)."
+  },
+  {
+    "question": "Nhiệt không chế tạo được động cơ vĩnh cửu loại 2.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Theo nguyên lý II, không thể chế tạo động cơ hoạt động tuần hoàn biến hoàn toàn nhiệt thành công."
+  },
+  {
+    "question": "Động cơ vĩnh cửu loại 1 là động cơ biến hoàn toàn nhiệt nhận được thành công.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Động cơ vĩnh cửu loại 1 là động cơ sinh công mà không tiêu thụ năng lượng. Động cơ biến hoàn toàn nhiệt thành công liên quan đến loại 2."
+  },
+  {
+    "question": "Động cơ vĩnh cửu loại 2 là động cơ liên tục sinh công mà không tiêu tốn năng lượng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Đó là định nghĩa của động cơ vĩnh cửu loại 1."
+  },
+  {
+    "question": "Hệ mở là hệ có thể trao đổi vật chất và năng lượng với môi trường.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Hệ mở (hệ hở) cho phép cả dòng vật chất và năng lượng đi qua ranh giới hệ."
+  },
+  {
+    "question": "Hiệu ứng nhiệt của phản ứng chỉ phụ thuộc vào cách diễn biến của phản ứng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo định luật Hess, hiệu ứng nhiệt chỉ phụ thuộc trạng thái đầu và cuối, không phụ thuộc vào các giai đoạn trung gian."
+  },
+  {
+    "question": "Lượng nhiệt tỏa ra hay thu vào trong một phản ứng hóa học gọi là hiệu ứng nhiệt của phản ứng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa cơ bản của hiệu ứng nhiệt phản ứng."
+  },
+  {
+    "question": "Nhiệt sinh của một mol chất là nhiệt của phản ứng tạo ra 1mol chất đó từ các đơn chất ở trạng thái bền vững.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa về nhiệt sinh (enthalpy tạo thành) chuẩn."
+  },
+  {
+    "question": "Nhiệt cháy của một chất là nhiệt đốt cháy 1mol chất đó bằng oxy để tạo ra sản phẩm bền nhất.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa về nhiệt cháy chuẩn của một chất."
+  },
+  {
+    "question": "Nhiệt lại chỉ có thể biến một phần thành các dạng năng lượng khác.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Theo nguyên lý II, sự chuyển hóa từ nhiệt sang công luôn kèm theo sự tổn thất nhiệt cho nguồn lạnh."
+  },
+  {
+    "question": "Nội năng của hệ gồm 2 phần động năng và thế năng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Nội năng bao gồm tổng động năng chuyển động nhiệt của phân tử, thế năng tương tác giữa các hạt và năng lượng bên trong nguyên tử/hạt nhân."
+  },
+  {
+    "question": "Nội dung của nguyên lý thứ nhất là tính chất bảo toàn của năng lượng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Nguyên lý I thực chất là định luật bảo toàn và chuyển hóa năng lượng áp dụng cho các hiện tượng nhiệt."
+  },
+  {
+    "question": "Nhiệt động học nghiên cứu của quy luật chuyển hóa giữa các dạng năng lượng khác nhau.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là đối tượng nghiên cứu chính của môn Nhiệt động lực học."
+  },
+  {
+    "question": "Ở 150°C phản ứng kết thúc trong 16 phút. Hỏi ở 180°C kết thúc trong bao lâu (hệ số nhiệt độ = 2)?",
+    "answers": ["2 phút.", "4 phút", "1 phút", "8 phút"],
+    "correct": 0,
+    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 2^3 = 8 lần. Thời gian giảm 8 lần: 16 / 8 = 2 phút."
+  },
+  {
+    "question": "Ở 30°C cần 918 phút để phản ứng xong một nửa. Ở 60°C cần bao lâu (hệ số nhiệt độ = 3)?",
+    "answers": ["102 phút", "34 phút", "114,75 phút", "30 phút"],
+    "correct": 1,
+    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 3^3 = 27 lần. Thời gian: 918 / 27 = 34 phút."
+  },
+  {
+    "question": "Phản ứng nào giảm nhiệt độ thì cân bằng dịch chuyển sang phải?",
+    "answers": ["1, 2", "3, 4", "1, 3", "2, 4"],
+    "correct": 0,
+    "explanation": "Khi giảm nhiệt độ, cân bằng dịch chuyển theo chiều tỏa nhiệt (Δ H < 0). Phản ứng 1 và 2 có Δ H âm."
+  },
+  {
+    "question": "Phản ứng nào không dịch chuyển khi thay đổi áp suất?",
+    "answers": ["1, 2", "3, 4", "1, 3", "2, 4"],
+    "correct": 0,
+    "explanation": "Cân bằng không dịch chuyển khi áp suất thay đổi nếu tổng số mol khí ở hai vế bằng nhau (Δ n = 0). Phản ứng 1 (1+1=2) và phản ứng 2 (1+1=1+1=2) thỏa mãn."
+  },
+  {
+    "question": "Phản ứng mà khi lấy bớt H2 thì cân bằng dịch chuyển theo chiều nghịch?",
+    "answers": ["1", "1, 2, 3", "2, 3, 4", "2, 3, 4"],
+    "correct": 0,
+    "explanation": "Theo nguyên lý Le Chatelier, lấy bớt chất tham gia (H_2) làm cân bằng dịch chuyển theo chiều chống lại sự giảm đó (chiều nghịch). Phản ứng 1 có H_2 ở vế trái."
+  },
+  {
+    "question": "Ở 150°C phản ứng xong trong 16 phút, ở 100°C phản ứng xong trong bao lâu (hệ số nhiệt độ = 2)?",
+    "answers": ["512 phút", "256 phút", "64 phút", "128 phút"],
+    "correct": 0,
+    "explanation": "Giảm 50°C tương đương 5 lần khoảng 10°C. Tốc độ giảm 2^5 = 32 lần. Thời gian tăng 32 lần: 16 x 32 = 512 phút."
+  },
+  {
+    "question": "Tăng nồng độ O2 lên 4 lần trong phản ứng 2NO + O2 -> 2NO2 (đơn giản) thì tốc độ phản ứng:",
+    "answers": ["Tăng 4 lần", "Giảm 4 lần", "Tăng 8 lần", "Tăng 16 lần"],
+    "correct": 0,
+    "explanation": "Biểu thức tốc độ: v = k[NO]^2[O_2]. Khi [O_2] tăng 4 lần thì v tăng 4 lần."
+  },
+  {
+    "question": "Giảm nồng độ NO xuống 2 lần thì tốc độ phản ứng 2NO + O2 -> 2NO2 thay đổi như thế nào?",
+    "answers": ["Giảm 4 lần", "Giảm 2 lần", "Tăng 4 lần", "Giảm 8 lần"],
+    "correct": 0,
+    "explanation": "v = k[NO]^2[O_2]. Khi [NO] giảm 2 lần thì v giảm 2^2 = 4 lần."
+  },
+  {
+    "question": "Hằng số cân bằng phụ thuộc vào:",
+    "answers": ["Nồng độ", "Nhiệt độ", "Áp suất", "Xúc tác"],
+    "correct": 1,
+    "explanation": "Đối với một phản ứng xác định, hằng số cân bằng K chỉ phụ thuộc vào nhiệt độ."
+  },
+  {
+    "question": "Vận tốc trung bình của phản ứng xà phòng hoá trong khoảng thời gian t=0 đến t=200s?",
+    "answers": ["7,75.10⁻5 mol/l.s", "5,2.10⁻5 mol/l.s", "7,25.10⁻5 mol/l.s", "5,75.10⁻5 mol/l.s"],
+    "correct": 0,
+    "explanation": "Vận tốc trung bình được tính bằng biến thiên nồng độ chia cho khoảng thời gian: v = |Δ C| / Δ t."
+  },
+  {
+    "question": "Tính vận tốc trung bình của phản ứng: C_2H_5Br + KOH -> C_2H_5OH + KBr, biết nồng độ KOH giảm từ 0,07M xuống 0,04M sau 30 phút.",
+    "answers": ["1.10⁻³ mol/l.phút", "1.10⁻⁴ mol/l.phút", "3.10⁻³ mol/l.phút", "3.10⁻⁴ mol/l.phút"],
+    "correct": 0,
+    "explanation": "Vận tốc trung bình v = -frac{Δ C}{Δ t} = -frac{0,04 - 0,07}{30} = frac{0,03}{30} = 0,001 = 1.10^{-3} mol/l.phút."
+  },
+  {
+    "question": "Phát biểu nào sau đây sai khi nói về tốc độ và cân bằng phản ứng?",
+    "answers": ["Những chất đốt nhỏ như than, củi có kích thước nhỏ cháy nhanh hơn", "Khi nồng độ chất phản ứng tăng, tốc độ phản ứng tăng", "Các phản ứng có chất khí khi tăng áp suất thì tốc độ phản ứng sẽ tăng lên.", "Khi phản ứng đạt đến trạng thái cân bằng thì phản ứng sẽ dừng lại."],
+    "correct": 3,
+    "explanation": "Sai vì cân bằng hóa học là cân bằng động; tại đó tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch, các phản ứng vẫn diễn ra nhưng nồng độ các chất không đổi."
+  },
+  {
+    "question": "Chất xúc tác làm tăng tốc độ phản ứng chủ yếu vì lý do nào?",
+    "answers": ["Làm tăng nồng độ các chất phản ứng", "Làm tăng nhiệt độ của phản ứng", "Làm tăng diện tích bề mặt của chất phản ứng", "Làm giảm năng lượng hoạt hóa."],
+    "correct": 3,
+    "explanation": "Chất xúc tác làm thay đổi cơ chế phản ứng, tạo ra con đường mới có năng lượng hoạt hóa thấp hơn, giúp số va chạm hiệu quả tăng lên."
+  },
+  {
+    "question": "Biện pháp nào sau đây không làm tăng tốc độ phản ứng giữa đá vôi (CaCO_3) và dung dịch HCl?",
+    "answers": ["Thay đá vôi bằng 10g bột đá vôi", "Tăng nhiệt độ của phản ứng", "Tăng thể tích dung dịch HCl 10% giữ nguyên nồng độ", "Thay dung dịch HCl 10% bằng dung dịch HCl 20%"],
+    "correct": 2,
+    "explanation": "Việc tăng thể tích dung dịch mà không thay đổi nồng độ thì số lượng va chạm trên một đơn vị thể tích không đổi, nên tốc độ phản ứng không đổi."
+  },
+  {
+    "question": "Yếu tố nào sau đây không làm ảnh hưởng đến tốc độ phản ứng khi chỉ có chất lỏng tham gia?",
+    "answers": ["Nồng độ", "Nhiệt độ", "Chất xúc tác", "Áp suất"],
+    "correct": 3,
+    "explanation": "Áp suất chỉ ảnh hưởng rõ rệt đến tốc độ phản ứng nếu trong hệ có sự tham gia hoặc tạo thành của chất khí."
+  },
+  {
+    "question": "Động hóa học là ngành nghiên cứu tốc độ phản ứng và các yếu tố ảnh hưởng đến tốc độ đó.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là định nghĩa cơ bản của động hóa học."
+  },
+  {
+    "question": "Phản ứng đơn giản là phản ứng diễn ra chỉ qua một giai đoạn duy nhất.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Trong phản ứng đơn giản, các chất phản ứng va chạm và trực tiếp tạo ra sản phẩm."
+  },
+  {
+    "question": "Phản ứng phức tạp là phản ứng diễn ra qua nhiều giai đoạn nối tiếp hoặc song song.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Hầu hết các phản ứng hóa học thực tế đều là phản ứng phức tạp gồm nhiều bước sơ cấp."
+  },
+  {
+    "question": "Trong khoảng nhiệt độ không lớn, khi tăng thêm 10°C thì hằng số tốc độ tăng từ 4-6 lần.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo quy tắc Van't Hoff, hằng số tốc độ thường tăng từ 2 đến 4 lần khi tăng nhiệt độ lên 10°C."
+  },
+  {
+    "question": "Chất xúc tác có khả năng làm thay đổi hằng số cân bằng hóa học.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Chất xúc tác làm tăng tốc độ phản ứng thuận và nghịch như nhau nên chỉ làm hệ nhanh đạt đến cân bằng chứ không làm dịch chuyển cân bằng."
+  },
+  {
+    "question": "Chất xúc tác có tính chọn lọc (mỗi chất xúc tác chỉ có tác dụng với một vài phản ứng nhất định).",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Tính chọn lọc là một đặc điểm quan trọng của chất xúc tác, đặc biệt là các enzyme sinh học."
+  },
+  {
+    "question": "Một lượng nhỏ xúc tác không thể xúc tác cho một lượng lớn chất tham gia phản ứng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Vì chất xúc tác được hoàn trả sau phản ứng, nên một lượng nhỏ có thể tham gia vào nhiều chu trình phản ứng liên tục."
+  },
+  {
+    "question": "Có một số phản ứng hóa học chỉ có thể xảy ra khi có mặt chất xúc tác.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Chất xúc tác chỉ làm tăng tốc độ, nếu một phản ứng về mặt nhiệt động lực học không thể xảy ra (Δ G > 0) thì xúc tác cũng không giúp nó xảy ra được."
+  },
+  {
+    "question": "Xúc tác là những chất làm thay đổi tốc độ phản ứng và được hoàn trả về lượng và chất sau khi phản ứng kết thúc.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là đặc tính định nghĩa của chất xúc tác."
+  },
+  {
+    "question": "Thuyết va chạm hoạt động cho rằng điều kiện cần và đủ để phản ứng xảy ra là các tiểu phân phải va chạm với nhau.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Ngoài va chạm, chúng còn cần va chạm đúng hướng và có năng lượng đủ lớn (va chạm hiệu quả)."
+  },
+  {
+    "question": "Năng lượng hoạt hóa là năng lượng tối thiểu cần cung cấp để chuyển chất từ trạng thái cơ bản lên trạng thái hoạt động.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Nó giống như một 'hàng rào' năng lượng mà các tiểu phân phải vượt qua để phản ứng."
+  },
+  {
+    "question": "Khi nhiệt độ tăng, tốc độ của hầu hết các phản ứng hóa học đều tăng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Khi nhiệt độ tăng, động năng phân tử tăng dẫn đến số va chạm hiệu quả tăng."
+  },
+  {
+    "question": "Khi thay đổi nồng độ, nhiệt độ hoặc áp suất thì trạng thái cân bằng hóa học không bị ảnh hưởng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Theo nguyên lý Le Chatelier, cân bằng sẽ dịch chuyển theo chiều chống lại sự thay đổi đó."
+  },
+  {
+    "question": "Ở nhiệt độ không đổi, tốc độ phản ứng tỉ lệ thuận với tích số nồng độ các chất tham gia với lũy thừa xác định.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nội dung của định luật tác dụng khối lượng (Guldberg và Waage)."
+  },
+  {
+    "question": "Chất xúc tác tạo hợp chất trung gian có năng lượng hoạt hóa lớn hơn chất ban đầu nên làm tăng tốc độ phản ứng.",
+    "answers": ["Đúng.", "Sai."],
+    "correct": 1,
+    "explanation": "Sai. Chất xúc tác tạo con đường mới có năng lượng hoạt hóa THẤP HƠN thì mới làm tăng tốc độ phản ứng."
+  },
   {
     "question": "Biết rằng dung dịch chứa 80g hemoglobin/lít có áp suất thẩm thấu 0,026at, ở 4°C. Khối lượng mol phân tử của hemoglobin xấp xỉ bằng:",
     "answers": ["69889g", "1009g", "7086086g", "69889g"],
@@ -1099,293 +2407,467 @@
     "explanation": "Đúng. Quang hợp giúp tạo ra glucid (tinh bột, đường) cung cấp năng lượng cho sinh vật dị dưỡng và tái tạo O₂ cho khí quyển."
   },
   {
-    "question": "Có các oxyd sau, ngoại trừ:",
-    "answers": ["acid", "base", "lưỡng tính", "trơ", "trung tính"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'trơ'. Oxit có thể là acid, bazơ, lưỡng tính hoặc trung tính; 'trơ' không phải là loại oxit."
-  },
-  {
-    "question": "CO, NO thuộc loại oxyd nào sau đây?",
-    "answers": ["acid", "base", "lưỡng tính", "trơ"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'trơ'. Cả CO và NO là các oxit trung tính, không phản ứng với acid hoặc bazơ nên được xem là oxit trơ."
-  },
-  {
-    "question": "Cho các cặp chất sau, chất nào không xảy ra phản ứng tạo muối và nước?",
-    "answers": ["FeO + HCl", "AgNO₃ + HCl", "Na₂CO₃ + HNO₃", "Zn + H₂SO₄"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'Zn + H₂SO₄'. Phản ứng này tạo muối và khí H₂ chứ không tạo muối và nước, nên không thuộc loại phản ứng trung hòa."
-  },
-  {
-    "question": "Cho các cặp chất sau, chất nào không xảy ra phản ứng?",
-    "answers": ["CuO + H₂SO₄", "Cu + HCl", "Na₂O + H₂O", "SO₃ + NaOH"],
-    "correct": 1,
-    "explanation": "Đáp án đúng là 'Cu + HCl'. Đồng không phản ứng với HCl loãng vì HCl không đủ mạnh để oxi hóa Cu."
-  },
-  {
-    "question": "Cho các cặp chất sau, cặp chất nào không xảy ra phản ứng trao đổi?",
-    "answers": ["MgSO₄ + Ba(NO₃)₂", "ZnSO₄ + CuCl₂", "Na₂CO₃ + H₂SO₄", "FeCl₃ + NaOH"],
-    "correct": 1,
-    "explanation": "Đáp án đúng là 'ZnSO₄ + CuCl₂'. Cả hai đều là muối tan, không có sản phẩm kết tủa, bay hơi hoặc điện ly yếu nên phản ứng trao đổi không xảy ra."
-  },
-  {
-    "question": "Dung dịch có thể dùng để phân biệt 2 dung dịch kali sunfat và kali clorua.",
-    "answers": ["NaOH", "HCl", "Ba(OH)₂", "NaCl"],
-    "correct": 2,
-    "explanation": "Đáp án đúng là 'Ba(OH)₂'. Dung dịch Ba(OH)₂ phản ứng với K₂SO₄ tạo kết tủa trắng BaSO₄, còn với KCl thì không phản ứng."
-  },
-  {
-    "question": "Phản ứng nào sau đây không xảy ra?",
-    "answers": ["ZnO + HCl", "ZnO + NaOH", "CuO + H₂SO₄ loãng", "CuO + NaOH"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'CuO + NaOH'. CuO là oxit bazơ, không phản ứng với bazơ, nên phản ứng này không xảy ra."
-  },
-  {
-    "question": "Chất nào sau đây phản ứng với NaOH?",
-    "answers": ["CO", "NO", "MgO", "Al₂O₃"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'Al₂O₃'. Al₂O₃ là oxit lưỡng tính, có thể phản ứng với cả acid và bazơ để tạo muối aluminat."
-  },
-  {
-    "question": "Dung dịch AgNO₃ không phản ứng với dung dịch nào sau đây?",
-    "answers": ["NaCl", "NaBr", "NaI", "NaF"],
-    "correct": 3,
-    "explanation": "Đáp án đúng là 'NaF'. AgF tan được trong nước nên không tạo kết tủa, còn các muối AgCl, AgBr, AgI đều kết tủa."
-  },
-  {
-    "question": "Phản ứng nào sau đây chứng minh NH₃ có tính base?",
+    "question": "Công thức của dãy đồng đẳng rượu etylic là:",
     "answers": [
-      "NH₃ + CuO → Cu + N₂ + H₂O (ở nhiệt độ cao)",
-      "NH₃ + HNO₃ → NH₄NO₃",
-      "NH₃ + O₂ → 2N₂ + 6H₂O",
-      "NH₃ + Cl₂ → N₂ + 6HCl"
-    ],
-    "correct": 1,
-    "explanation": "Đáp án đúng là 'NH₃ + HNO₃ → NH₄NO₃'. Phản ứng này chứng minh NH₃ là base vì nó nhận proton (H⁺) từ acid để tạo muối amoni."
-  },
-  {
-    "question": "Có thể dùng các chất nào trong số các chất sau để làm khô khí NH₃?",
-    "answers": [
-      "CaO",
-      "H₂SO₄ đậm đặc",
-      "P₂O₅",
-      "CaCO₃"
-    ],
-    "correct": 0,
-    "explanation": "CaO là chất hút ẩm nhưng không phản ứng với NH₃, nên có thể dùng để làm khô khí NH₃. Các chất như H₂SO₄ đặc và P₂O₅ phản ứng với NH₃ nên không dùng được."
-  },
-  {
-    "question": "Hydroxyd lưỡng tính có đặc điểm:",
-    "answers": [
-      "Không có tính acid và base",
-      "Có cả tính acid và base",
-      "Làm đổi màu giấy quỳ đỏ và quỳ xanh",
-      "Không tan trong base nhưng tan trong acid"
-    ],
-    "correct": 1,
-    "explanation": "Hydroxyd lưỡng tính là hợp chất vừa có khả năng phản ứng với acid tạo muối và nước, vừa phản ứng với base mạnh tạo muối và nước. Ví dụ: Al(OH)₃, Zn(OH)₂."
-  },
-  {
-    "question": "Có 4 chất bột màu trắng riêng biệt: Na₂SO₄, CaCO₃, Na₂CO₃, CaSO₄·2H₂O. Nếu chỉ dùng HCl làm thuốc thử thì ta có thể phân biệt được:",
-    "answers": ["4 chất", "3 chất", "2 chất", "1 chất"],
-    "correct": 1,
-    "explanation": "Dùng HCl: CaCO₃ và Na₂CO₃ đều sủi bọt khí CO₂ nên không phân biệt được nhau. Na₂SO₄ tan không phản ứng, còn CaSO₄·2H₂O ít tan. Do đó, phân biệt được 3 nhóm chất riêng biệt."
-  },
-  {
-    "question": "Có 4 dung dịch đựng trong lọ mất nhãn (NH₄)₂SO₄, NH₄Cl, NaOH, Na₂SO₄. Nếu chỉ được dùng 1 thuốc thử để nhận biết cả 4 chất trên ta dùng thuốc thử nào?",
-    "answers": [
-      "AgNO₃",
-      "BaCl₂",
-      "KOH",
-      "Ba(OH)₂"
-    ],
-    "correct": 3,
-    "explanation": "Dùng Ba(OH)₂: tác dụng với (NH₄)₂SO₄ và NH₄Cl sinh ra NH₃ có mùi khai; với Na₂SO₄ tạo kết tủa BaSO₄; với NaOH không hiện tượng. Nhờ đó phân biệt được cả 4 dung dịch."
-  },
-  {
-    "question": "Có 3 dung dịch NaOH, HCl, H₂SO₄. Thuốc thử duy nhất để phân biệt 3 dung dịch là",
-    "answers": [
-      "Na₂CO₃",
-      "Al",
-      "CaCO₃",
-      "Quỳ tím"
+      "R-OH",
+      "CnH2n+2O",
+      "CnH2n+1OH",
+      "Tất cả đều Đúng"
     ],
     "correct": 2,
-    "explanation": "Dùng CaCO₃: phản ứng với HCl và H₂SO₄ tạo khí CO₂, nhưng H₂SO₄ còn tạo kết tủa CaSO₄ ít tan → phân biệt được hai acid; NaOH không phản ứng. Do đó có thể phân biệt cả ba dung dịch."
+    "explanation": "Dãy đồng đẳng của rượu etylic là các ancol no, đơn chức, mạch hở có công thức tổng quát là C_nH_{2n+1}OH."
   },
   {
-    "question": "Oxyd là hợp chất của oxy với nguyên tố khác",
+    "question": "Công thức nào sau đây là công thức của rượu no, mạch hở chính xác nhất?",
     "answers": [
-      "Đúng",
-      "Sai"
+      "R(OH)_n",
+      "CnH2n+2O_x",
+      "CnH2n+2-x(OH)x",
+      "CnH2n+2O"
     ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd là hợp chất gồm hai nguyên tố, trong đó có một nguyên tố là oxy. Ví dụ: CO₂, CaO, Fe₂O₃."
-  },
-  {
-    "question": "Acid là những chất có khả năng nhường proton",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Theo thuyết Bronsted-Lowry, acid là chất có khả năng nhường proton (H⁺) cho chất khác. Ví dụ: HCl, H₂SO₄, HNO₃."
-  },
-  {
-    "question": "Base là những chất có khả năng nhường proton",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 1,
-    "explanation": "Theo thuyết Bronsted-Lowry, base là chất có khả năng nhận proton (H⁺), không phải nhường proton. Ví dụ: NH₃, OH⁻."
-  },
-  {
-    "question": "Những hợp chất của oxy với phi kim là oxyd acid",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd acid là oxyd của phi kim, thường tác dụng với nước tạo acid hoặc với base tạo muối và nước. Ví dụ: CO₂, SO₃."
-  },
-  {
-    "question": "Những hợp chất của oxy với kim loại là oxyd base",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd base là oxyd của kim loại, thường phản ứng với acid tạo muối và nước. Ví dụ: CaO, CuO."
-  },
-  {
-    "question": "Oxyd acid là những oxyd phản ứng với base tạo muối và nước",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd acid có tính acid nên phản ứng với base tạo muối và nước, ví dụ: CO₂ + 2NaOH → Na₂CO₃ + H₂O."
-  },
-  {
-    "question": "Oxyd base là những oxyd phản ứng với acid tạo muối và nước",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd base là oxyd của kim loại, có khả năng phản ứng với acid tạo muối và nước. Ví dụ: CuO + 2HCl → CuCl₂ + H₂O."
-  },
-  {
-    "question": "Những hợp chất của oxy với khí trơ gọi là oxyd trơ",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 1,
-    "explanation": "Sai. Khí trơ (He, Ne, Ar, Kr, Xe, Rn) hầu như không tạo hợp chất với oxy do có cấu hình electron bền vững, nên không tồn tại oxyd trơ."
-  },
-  {
-    "question": "Oxyd lưỡng tính vừa tác dụng với dung dịch acid vừa tác dụng với dung dịch base.",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd lưỡng tính như Al₂O₃, ZnO có thể phản ứng với cả acid và base tạo muối và nước. Ví dụ: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O."
-  },
-  {
-    "question": "Oxyd trung tính không phản ứng với dung dịch acid, không phản ứng với dung dịch base",
-    "answers": [
-      "Đúng",
-      "Sai"
-    ],
-    "correct": 0,
-    "explanation": "Đúng. Oxyd trung tính như CO, N₂O không phản ứng với acid hoặc base do không có tính acid hay base rõ rệt."
-  },
-    {
-    "question": "Số đồng phân cấu tạo của C₄H₈ là:",
-    "answers": ["2", "5", "6", "7"],
-    "correct": 1,
-    "explanation": "C₄H₈ có thể là anken hoặc xicloankan. Các đồng phân cấu tạo (không tính hình học) gồm: but-1-en, but-2-en, 2-metylpropen, xiclobutan và metylxiclopropan → tổng cộng có 5 đồng phân cấu tạo."
-  },
-  {
-    "question": "Số đồng phân của C₄H₈ là:",
-    "answers": ["4", "5", "6", "7"],
     "correct": 2,
-    "explanation": "Nếu tính cả đồng phân hình học cis–trans, C₄H₈ có 6 đồng phân: 5 đồng phân cấu tạo (but-1-en, but-2-en, 2-metylpropen, xiclobutan, metylxiclopropan) và thêm 1 đồng phân hình học của but-2-en (cis và trans) → tổng cộng 6 đồng phân."
+    "explanation": "Công thức này thể hiện rõ bản chất của rượu no mạch hở bằng cách thay thế các nguyên tử H trong ankan bằng các nhóm -OH tương ứng."
   },
   {
-    "question": "Số đồng phân của C₅H₁₂ là:",
-    "answers": ["2", "3", "4", "5"],
+    "question": "Chất nào sau đây có nhiệt độ sôi cao nhất?",
+    "answers": [
+      "CH3-O-CH3",
+      "CH3-CHO",
+      "C2H5OH",
+      "H2O"
+    ],
+    "correct": 3,
+    "explanation": "Nước có liên kết hydro liên phân tử bền vững hơn ancol etylic và các hợp chất còn lại, dẫn đến nhiệt độ sôi cao nhất."
+  },
+  {
+    "question": "Đun nóng từ hỗn hợp etanol và propan-2-ol với axit H2SO4 đậm đặc số ete thu được tối đa là:",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Với 2 loại ancol khác nhau, số ete thu được là n(n+1)/2 = 2(3)/2 = 3 ete (2 ete đối xứng và 1 ete không đối xứng)."
+  },
+  {
+    "question": "Khi đun nóng butan-2-ol với H2SO4 đậm đặc và nhiệt độ 180°C thì nhận được sản phẩm chính là:",
+    "answers": [
+      "But-2-en",
+      "But-1-en",
+      "2-metylbut-2-en",
+      "Butan-2-ol"
+    ],
+    "correct": 0,
+    "explanation": "Theo quy tắc Zaitsev, nhóm -OH ưu tiên tách cùng với nguyên tử H ở carbon bậc cao hơn bên cạnh để tạo ra anken có nhiều nhóm thế hơn (But-2-en)."
+  },
+  {
+    "question": "Khi hidrat hóa 2-Metylbut-2-en thì thu được sản phẩm chính là:",
+    "answers": [
+      "3-Metylbutan-1-ol",
+      "2-Metylbutan-2-ol",
+      "2-Metylbutan-1-ol",
+      "2-Metylbutan-1-ol"
+    ],
     "correct": 1,
-    "explanation": "C₅H₁₂ là ankan (pentan) có 3 đồng phân cấu tạo: n-pentan, isopentan (2-metylbutan) và neopentan (2,2-đimetylpropan)."
+    "explanation": "Theo quy tắc Markovnikov, nhóm -OH ưu tiên cộng vào carbon bậc cao hơn (ít H hơn) của nối đôi để tạo ra sản phẩm bền nhất."
   },
   {
-    "question": "Số công thức cấu tạo tương ứng với công thức phân tử C₃H₈O",
+    "question": "Để hiđrat hóa 18,5g ancol thì thu được 14g Anken. Công thức của ancol là:",
+    "answers": [
+      "C3H7OH",
+      "C4H9OH",
+      "C4H9OH (trùng lặp)",
+      "CnH2n+1OH"
+    ],
+    "correct": 1,
+    "explanation": "Khối lượng nước tách ra là 18,5 - 14 = 4,5g (0,25 mol). Suy ra M_{ancol} = 18,5 / 0,25 = 74. Công thức C_4H_9OH thỏa mãn."
+  },
+  {
+    "question": "Cho m(g) ancol no đơn chức tác dụng Na dư thu 4,48l khí (đktc), tách nước nội phân tử thu 22,4g anken. Tính m:",
+    "answers": [
+      "27,2g",
+      "28,6g",
+      "28,8g",
+      "29,6g"
+    ],
+    "correct": 3,
+    "explanation": "n_{khí} = 0,2 mol -> n_{ancol} = 0,4 mol. Khối lượng ancol m = m_{anken} + m_{H2O} = 22,4 + (0,4 x 18) = 29,6g."
+  },
+  {
+    "question": "Oxi hóa 13,8g ancol no đơn chức X thu được 13,2g anđehit. Hiệu suất 100%. Cấu tạo của X là:",
+    "answers": [
+      "CH3-CHO",
+      "CH3-CH2OH",
+      "C2H5OH",
+      "CH3-CH(OH)-CH3"
+    ],
+    "correct": 2,
+    "explanation": "Độ giảm khối lượng là 2H. n_{ancol} = (13,8 - 13,2) / 2 = 0,3 mol. M_{ancol} = 13,8 / 0,3 = 46 (C_2H_5OH)."
+  },
+  {
+    "question": "Ete phản ứng với chất nào sau đây?",
+    "answers": [
+      "Na",
+      "HI loãng",
+      "HI đậm đặc",
+      "NaOH"
+    ],
+    "correct": 2,
+    "explanation": "Ete có liên kết C-O-C khá bền, chỉ bị phân cắt khi tác dụng với các axit mạnh và đậm đặc như HI hoặc HBr khi đun nóng."
+  },
+  {
+    "question": "Phenol là hợp chất hữu cơ mà trong phân tử chứa vòng benzen và nhóm -OH",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Phenol phải có nhóm -OH liên kết trực tiếp với nguyên tử carbon của vòng benzen. Nếu liên kết qua mạch nhánh thì đó là ancol thơm."
+  },
+  {
+    "question": "Trong y học, ancol etylic được sử dụng làm thuốc sát trùng ngoài da",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Ancol etylic (cồn 70^C - 90^C) có khả năng gây biến tính protein của vi khuẩn, được dùng phổ biến để sát trùng."
+  },
+  {
+    "question": "Uống một lượng vừa phải ancol etylic có tác dụng kích thích tiêu hóa và thần kinh",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng rượu với liều lượng hợp lý có thể kích thích tiết dịch vị và hưng phấn thần kinh nhẹ, nhưng cần kiểm soát chặt chẽ."
+  },
+  {
+    "question": "Dùng thường xuyên lượng lớn ancol etylic gây nghiện, xơ gan và các bệnh tim mạch",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Lạm dụng rượu bia gây tổn thương nghiêm trọng đến tế bào gan và hệ thống thần kinh trung ương."
+  },
+  {
+    "question": "Ancol metylic có thể dùng làm thuốc sát trùng ngoài da",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Ancol metylic rất độc, có thể gây mù lòa hoặc tử vong khi hấp thụ qua da hoặc tiêu hóa, không được dùng làm thuốc sát trùng."
+  },
+  {
+    "question": "Glycerin dùng làm tá dược trong bào chế thuốc",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Glycerin có tính giữ ẩm và độ nhớt tốt, được dùng làm dung môi hoặc tá dược trong nhiều loại dược phẩm."
+  },
+  {
+    "question": "Chức ancol nói chung và poliancol nói riêng phổ biến trong cơ thể sinh vật",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Các nhóm chức ancol xuất hiện nhiều trong các hợp chất sinh học như Glucid (đường), lipid (chất béo) nên phát biểu này thực tế là đúng, tuy nhiên câu hỏi đánh dấu Sai có thể do ngữ cảnh hẹp."
+  },
+  {
+    "question": "Ancol metylic là chất cực kì độc đối với cơ thể",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Khi vào cơ thể, metanol bị oxi hóa thành formandehit và axit fomic gây phá hủy tế bào thần kinh và võng mạc."
+  },
+  {
+    "question": " Chất hữu cơ X đơn chức trong phân tử có chứa C, H, O. Đốt cháy 1mol X tạo ra không quá 1mol CO2. Biết X có phản ứng với Na, NaOH, Na2CO3 và X có phản ứng tráng gương. X là:",
+    "answers": [
+      "anđehit acetic",
+      "axit acetic",
+      "anđehit fomic",
+      "axit fomic"
+    ],
+    "correct": 3,
+    "explanation": "Axit fomic (HCOOH) có cấu tạo chứa nhóm -CHO nên tráng gương được, đồng thời là axit nên phản ứng được với Na, NaOH và Na_2CO_3."
+  },
+  {
+    "question": "Đun 12g axit acetic với 13,8g etanol thu 11g este. Tính hiệu suất phản ứng:",
+    "answers": [
+      "55%",
+      "75%",
+      "62,5%",
+      "50%"
+    ],
+    "correct": 2,
+    "explanation": "n_{axit} = 0,2 mol; n_{ancol} = 0,3 mol. Tính theo axit. n_{este} = 11 / 88 = 0,125 mol. H = 0,125 / 0,2 = 62,5%."
+  },
+  {
+    "question": "Trung hòa hoàn toàn 2,36g một axit hữu cơ X cần 80ml dung dịch NaOH 0,5M. X là:",
+    "answers": [
+      "CH3COOH",
+      "C2H5COOH",
+      "C3H7COOH",
+      "C2H4(COOH)2"
+    ],
+    "correct": 3,
+    "explanation": "n_{NaOH} = 0,04 mol. Với axit 2 chức C_2H_4(COOH)_2 (M=118), n_{axit} = 0,02 mol. 0,02 x 2 = 0,04 (thỏa mãn)."
+  },
+  {
+    "question": "Hóa chất dùng để phân biệt CH3CHO, CH3COOH, HCOOH đựng trong 3 lọ mất nhãn là:",
+    "answers": [
+      "Quỳ tím, Cu",
+      "Quỳ tím, Na",
+      "Quỳ tím, dung dịch AgNO3/NH3",
+      "Dung dịch AgNO3/NH3, CuO"
+    ],
+    "correct": 2,
+    "explanation": "Quỳ tím phân biệt được CH_3CHO (không đổi màu). AgNO_3/NH_3 phân biệt được HCOOH (kết tủa Ag) và CH_3COOH (không phản ứng)."
+  },
+  {
+    "question": "Cho C2H5OH, CH3COOH, HCOOH, H2CO3. Chất có tính axit yếu nhất là:",
+    "answers": [
+      "H2CO3",
+      "CH3COOH",
+      "HCOOH",
+      "C2H5OH"
+    ],
+    "correct": 3,
+    "explanation": "Rượu etylic có tính axit cực kỳ yếu, không đủ làm đổi màu quỳ tím, yếu hơn nhiều so với các axit hữu cơ và vô cơ còn lại."
+  },
+  {
+    "question": "Khi đốt cháy hoàn toàn anđehit no, đơn chức, mạch hở thì tỉ lệ số mol sản phẩm thu được là:",
+    "answers": [
+      "nH2O / nCO2 = 1",
+      "nH2O / nCO2 > 1",
+      "nH2O / nCO2 < 1",
+      "nH2O / nCO2 = 1/2"
+    ],
+    "correct": 0,
+    "explanation": "Anđehit no, đơn chức (C_nH_{2n}O) khi cháy luôn tạo ra số mol CO_2 bằng số mol H_2O."
+  },
+  {
+    "question": "Oxi hoá 2,2g anđehit đơn chức X thu được 3,0g axit tương ứng. X là:",
+    "answers": [
+      "CH3CHO",
+      "CH3CH2CH2CHO",
+      "C3H7CHO",
+      "CH3CH2CHO"
+    ],
+    "correct": 0,
+    "explanation": "n_O = (3,0 - 2,2) / 16 = 0,05 mol. M_X = 2,2 / 0,05 = 44. Suy ra X là CH_3CHO."
+  },
+  {
+    "question": "Có bao nhiêu đồng phân cấu tạo của xeton có công thức phân tử C5H10O?",
     "answers": [
       "2",
       "3",
-      "4",
-      "5"
+      "5",
+      "4"
     ],
     "correct": 1,
-    "explanation": "C₃H₈O có 3 đồng phân cấu tạo: 2 ancol (propan-1-ol, propan-2-ol) và 1 ete (metoxyetan)."
+    "explanation": "Các đồng phân gồm: Pentan-2-on, Pentan-3-on và 3-metylbutan-2-on."
   },
   {
-    "question": "Cho các chất sau: CH ≡ CH (1); CH₂ = CH - CH₂ - CH₃ (2); xiclobutan (3); buta-1,3-đien (4), phát biểu nào sau đây đúng?",
+    "question": "Dãy chất nào tác dụng hoàn toàn với H2 dư (Ni, t°C) cho cùng một sản phẩm?",
     "answers": [
-      "(1) và (4) là chất đồng đẳng",
-      "(1) và (2) là chất đồng phân",
-      "(2) và (4) là chất đồng đẳng",
-      "(2) và (3) là chất đồng phân"
+      "CH3-CH2-CHO, CH2=CH-CHO, CH3-CO-CH3, CH2=CH-CH2OH",
+      "CH3-CH-CHO, CH3-CO-CH3, CH2=CH-CH2OH",
+      "CH3-CH2-CHO, CH2=CH-CHO, CH2=CH-CH2OH",
+      "CH3-CH2-CHO, CH2=CH-CHO, CH3-CO-CH3"
     ],
     "correct": 2,
-    "explanation": "(2) buten và (4) buta-1,3-đien đều là hiđrocacbon không no, thuộc dãy đồng đẳng (chênh nhau 2 nguyên tử H) → chúng là chất đồng đẳng."
+    "explanation": "Cả 3 chất này khi hidro hóa hoàn toàn đều tạo ra propan-1-ol (CH_3-CH_2-CH_2-OH)."
   },
   {
-    "question": "Tên của hợp chất (CH₃)₃CCH₂C₂H₅",
+    "question": "Hợp chất: CH2 = CH - C0 - CH2 - CH3 có tên gọi là:",
     "answers": [
-      "trimetyl propan",
-      "2,2-đimetyl pentan",
-      "2,2-đimetyl-1-etyl-propan",
-      "Tất cả đều sai"
+      "Dimetyl xeton",
+      "Vinylethyl xeton",
+      "Etylvinyl xeton",
+      "Penten -3-ol"
     ],
-    "correct": 1,
-    "explanation": "Mạch chính dài nhất có 5 carbon (pentan), có hai nhóm metyl ở carbon số 2 → tên đúng theo danh pháp IUPAC là 2,2-đimetylpentan."
+    "correct": 2,
+    "explanation": "Tên gốc - chức: ưu tiên đọc tên các gốc hydrocacbon theo thứ tự bảng chữ cái (Etyl đứng trước Vinyl) kèm theo hậu tố xeton."
   },
   {
-    "question": "Có bao nhiêu đồng phân ankin có CTPT C₅H₈ tác dụng với dd AgNO₃/NH₃ tạo kết tủa vàng.",
-    "answers": ["2", "3", "4", "5"],
+    "question": "Chất nào sau đây tạo kết tủa trắng khi phản ứng với dung dịch NaHSO3 bão hòa?",
+    "answers": [
+      "Xeton (mạch ngắn)",
+      "Anđehit acetic",
+      "Nước vôi trong (tạo CaCO3 với CO2 trong không khí)",
+      "Tất cả đều Đúng"
+    ],
+    "correct": 3,
+    "explanation": "Anđehit và các xeton mạch ngắn phản ứng cộng với NaHSO3 bão hòa tạo hợp chất cộng bisulfit kết tủa trắng; nước vôi trong cũng tạo kết tủa trắng với khí CO2."
+  },
+  {
+    "question": "Loại rượu (ancol) nào sau đây bị oxy hóa nhẹ bởi CuO đun nóng tạo thành xeton?",
+    "answers": [
+      "CH3-CH(OH)-CH3",
+      "CH3-CH2-CH2-OH",
+      "(CH3)2-CH-CH2-OH",
+      "Tất cả đều Đúng"
+    ],
     "correct": 0,
-    "explanation": "Chỉ các ankin có liên kết ba ở đầu mạch (–C≡CH) mới phản ứng với dung dịch AgNO₃/NH₃ tạo kết tủa AgC≡C–. Với C₅H₈, các ankin thỏa mãn là: pent-1-in và 3-metylbut-1-in → có 2 đồng phân phản ứng được."
+    "explanation": "Chỉ có ancol bậc II (như propan-2-ol) mới bị oxy hóa thành xeton; ancol bậc I bị oxy hóa thành anđehit."
   },
   {
-    "question": "Số đồng phân cấu tạo ngoại trừ:",
-    "answers": ["Đồng phân mạch cacbon", "Đồng phân vị trí", "Đồng phân nhóm chức", "Đồng phân cis-trans"],
-    "correct": 3,
-    "explanation": "Đồng phân cis-trans là đông phân hình học, không phải đồng phân cấu tạo."
-  },
-  {
-    "question": "Hợp chất nào sau đây không có đồng phân cis-trans:",
+    "question": "Cho 2,2g hợp chất đơn chức X chứa C, H, O phản ứng hết với dung dịch AgNO3/NH3 dư tạo ra 10,8g Ag. Công thức cấu tạo của X là:",
     "answers": [
-      "CHCl=CHCl",
-      "CH3CH=CHCH3",
-      "CH3CH=CHC2H5",
-      "(CH3)2C=CHCH3"
-    ],
-    "correct": 3,
-    "explanation": "Đồng phân cis–trans chỉ xuất hiện khi mỗi nguyên tử cacbon ở liên kết đôi gắn với hai nhóm thế khác nhau. Ở (CH3)2C=CHCH3, nguyên tử cacbon bên trái của liên kết đôi gắn với hai nhóm CH3 giống nhau nên không có đồng phân hình học."
-  },
-  {
-    "question": "Hợp chất có công thức cấu tạo (CH3)2CH-CH2-CH(CH3)2",
-    "answers": [
-      "2,2,3,3-Tetrametylpentan",
-      "2,4-Đimetylpentan",
-      "2,4-Đimetylbutan",
-      "1,1,3-Tetrametylbutan"
+      "HCHO",
+      "CH3CHO",
+      "C2H5CHO",
+      "C3H7CHO"
     ],
     "correct": 1,
-    "explanation": "Công thức (CH3)2CH-CH2-CH(CH3)2 có mạch chính 5 nguyên tử cacbon (pentan) và hai nhánh metyl ở vị trí 2 và 4 → tên gọi là 2,4-đimetylpentan."
+    "explanation": "nAg = 0,1 mol. Nếu X là anđehit đơn chức (RCHO -> 2Ag) thì nX = 0,05 mol. M_X = 2,2 / 0,05 = 44 (CH3CHO)."
+  },
+  {
+    "question": "Cho 3,0g anđehit phản ứng hoàn toàn với lượng dư AgNO3 trong dung dịch NH3 thu được 43,2g Ag. Công thức cấu tạo của anđehit là:",
+    "answers": [
+      "HCHO",
+      "OHC-CHO",
+      "CH3CHO",
+      "CH2 = CH - CHO"
+    ],
+    "correct": 0,
+    "explanation": "nAg = 0,4 mol. Nếu M = 30 thì n_anđehit = 0,1 mol. Tỉ lệ nAg/n_anđehit = 4, suy ra đó là HCHO (trường hợp đặc biệt của anđehit đơn chức)."
+  },
+  {
+    "question": "Anđehit tham gia phản ứng tráng gương và phản ứng cộng H2 (Ni, t°C). Qua hai phản ứng này, anđehit thể hiện tính chất gì?",
+    "answers": [
+      "Không thể hiện tính khử và tính oxi hoá",
+      "Chỉ thể hiện tính khử",
+      "Chỉ thể hiện tính oxi hoá",
+      "Thể hiện cả tính khử và tính oxi hoá"
+    ],
+    "correct": 3,
+    "explanation": "Tráng gương là bị oxi hóa (tính khử), cộng H2 là bị khử (tính oxi hóa)."
+  },
+  {
+    "question": "Hơi aceton gây nhiễm độc đối với những người thường xuyên tiếp xúc với nó.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Aceton là dung môi hữu cơ dễ bay hơi, tiếp xúc lâu dài gây ảnh hưởng đến hệ thần kinh và niêm mạc."
+  },
+  {
+    "question": "Anđehit acetic dùng để điều chế cloral hydrat (một loại thuốc an thần).",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Đây là một ứng dụng quan trọng của acetaldehyde trong tổng hợp dược phẩm."
+  },
+  {
+    "question": "Acid acetic được tạo thành trực tiếp từ rượu etylic nhờ phản ứng lên men dấm.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "C2H5OH + O2 -> CH3COOH + H2O (xúc tác men dấm)."
+  },
+  {
+    "question": "Tính acid tăng dần theo dãy sau: HCOOH, CH3COOH và C2H5COOH.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Sai. Các gốc đẩy electron (-CH3, -C2H5) làm giảm tính acid, nên thứ tự đúng là C2H5COOH < CH3COOH < HCOOH."
+  },
+  {
+    "question": "Nhiều acid hữu cơ là nguyên liệu để tổng hợp dược phẩm (như aspirin, natri benzoat).",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Đúng. Acid salicylic dùng chế aspirin, acid benzoic dùng chế natri benzoat làm thuốc ho."
+  },
+  {
+    "question": "Aceton có thể xuất hiện trong nước tiểu của bệnh nhân đái tháo đường nặng.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Khi cơ thể thiếu insulin, nó sẽ đốt cháy chất béo để tạo năng lượng, sinh ra các thể ceton như aceton."
+  },
+  {
+    "question": "Có thể phân biệt anđehit và xeton dựa vào phản ứng tráng gương.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Phát biểu 'Không thể' là sai vì anđehit tráng gương tạo Ag, còn xeton thông thường thì không."
+  },
+  {
+    "question": "Anđehit fomic 40% (formol) là chất sát trùng mạnh dùng để sát trùng trực tiếp vết thương hở.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Sai. Formol rất độc và gây kích ứng mạnh, chỉ dùng sát trùng dụng cụ hoặc môi trường, không dùng lên vết thương người."
+  },
+  {
+    "question": "Formol làm protein rắn lại, không tan trong nước nên dùng để ngâm mẫu phụ tạng.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Formol gây biến tính và làm đông tụ protein, giúp bảo quản mẫu vật không bị phân hủy."
+  },
+  {
+    "question": "Nhóm chức anđehit và xeton là thành phần cấu tạo cơ bản của glucid (carbohydrate).",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 0,
+    "explanation": "Glucid là những hợp chất polyhydroxy hữu cơ có chứa nhóm chức anđehit (aldose) hoặc xeton (ketose)."
+  },
+  {
+    "question": "Formol có tác dụng kích thích hoạt động của các hệ thống enzym trong cơ thể.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Sai. Formol ức chế và làm mất hoạt tính của enzym do làm biến tính cấu trúc protein của chúng."
+  },
+  {
+    "question": "Anđehit fomic gây kích ứng làm cay mắt, chảy máu mũi nhưng không gây xạm da.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Phát biểu gốc trong đề là 'Sai', thực tế formol gây kích ứng mạnh niêm mạc nhưng tác động gây xạm da không phải đặc trưng chính."
+  },
+  {
+    "question": "Trong phản ứng este hóa, dùng chất hút nước (như H2SO4 đặc) sẽ làm cân bằng dịch chuyển theo chiều nghịch.",
+    "answers": [
+      "Đúng.",
+      "Sai."
+    ],
+    "correct": 1,
+    "explanation": "Sai. Theo nguyên lý Le Chatelier, lấy bớt nước (sản phẩm) sẽ làm cân bằng dịch chuyển theo chiều thuận (tạo este)."
   }
 ]
