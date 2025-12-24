@@ -124,6 +124,16 @@ window.addEventListener('DOMContentLoaded', () => {
     return exEl;
   }
 
+  // Fisher-Yates shuffle that returns a new array
+  function shuffleArray(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
   function renderQuestion() {
     renderQuestionList();
     if (!questions.length) return;
@@ -137,10 +147,18 @@ window.addEventListener('DOMContentLoaded', () => {
     if (existingExplain) existingExplain.remove();
 
     const opts = q.answers || [];
-    opts.forEach((ans, idx) => {
+
+    // ensure stable shuffled order exists per question
+    if (!Array.isArray(q._order) || q._order.length !== opts.length) {
+      q._order = shuffleArray(opts.map((_, i) => i));
+    }
+
+    // render answers according to shuffled order, but preserve original indices for selection and correctness
+    q._order.forEach((origIdx, displayIdx) => {
+      const ansText = opts[origIdx];
       const btn = document.createElement('button');
-      btn.textContent = ans;
-      btn.className = selected[current] === idx ? 'selected' : '';
+      btn.textContent = ansText;
+      btn.className = (selected[current] === origIdx) ? 'selected' : '';
       btn.style.display = 'block';
       btn.style.width = '100%';
       btn.style.margin = '8px 0';
@@ -152,10 +170,10 @@ window.addEventListener('DOMContentLoaded', () => {
         // already answered -> show colors and disable
         btn.disabled = true;
         const chosen = selected[current];
-        if (idx === q.correct) {
+        if (origIdx === q.correct) {
           btn.style.background = '#dff0d8';
           btn.style.borderColor = '#b2d8a7';
-        } else if (idx === chosen && chosen !== q.correct) {
+        } else if (origIdx === chosen && chosen !== q.correct) {
           btn.style.background = '#f8d7da';
           btn.style.borderColor = '#e39aa2';
         } else {
@@ -164,7 +182,8 @@ window.addEventListener('DOMContentLoaded', () => {
       } else {
         // allow selecting
         btn.onclick = () => {
-          selected[current] = idx;
+          // save the original index as the user's choice so correctness mapping stays consistent
+          selected[current] = origIdx;
           saveState();
           renderQuestion(); // re-render to disable buttons & color
           showResult();     // show explanation immediately
@@ -287,6 +306,13 @@ window.addEventListener('DOMContentLoaded', () => {
           continue;
         }
         questions = data;
+        // generate stable per-question shuffled order to randomize answer positions
+        questions.forEach(q => {
+          const len = Array.isArray(q.answers) ? q.answers.length : 0;
+          if (!Array.isArray(q._order) || q._order.length !== len) {
+            q._order = shuffleArray(Array.from({length: len}, (_,i) => i));
+          }
+        });
         loaded = true;
         console.log('Loaded questions from', path, 'count=', questions.length);
         break;
