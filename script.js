@@ -38,6 +38,8 @@ window.addEventListener('DOMContentLoaded', () => {
       const li = document.createElement('li');
       // show numbering starting from startIndex
       li.textContent = (i + startIndex);
+      li.setAttribute('role', 'button');
+      li.tabIndex = 0;
       li.style.width = '32px';
       li.style.height = '32px';
       li.style.display = 'flex';
@@ -67,19 +69,43 @@ window.addEventListener('DOMContentLoaded', () => {
 
       if (i === current) {
         li.style.outline = '3px solid #ffe600';
+        li.setAttribute('aria-current', 'true');
       } else {
         li.style.outline = 'none';
+        li.removeAttribute('aria-current');
       }
 
-      li.onclick = () => {
+      const activate = () => {
         current = i;
         saveState();
         renderQuestion();
         showResult();
       };
+
+      li.onclick = activate;
+      li.onkeydown = (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          activate();
+        }
+      };
       ul.appendChild(li);
     });
     listInner.appendChild(ul);
+
+    // Auto-scroll the current item into view (centered)
+    const currentLi = ul.children[current];
+    if (currentLi) {
+      try {
+        currentLi.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      } catch (e) {
+        // Fallback for older browsers: adjust scrollLeft to center
+        const listRect = listInner.getBoundingClientRect();
+        const btnRect = currentLi.getBoundingClientRect();
+        const offset = (btnRect.left + btnRect.right) / 2 - (listRect.left + listRect.right) / 2;
+        listInner.scrollLeft += offset;
+      }
+    }
   }
 
   function ensureExplainEl() {
