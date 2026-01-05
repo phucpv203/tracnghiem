@@ -71,6 +71,7 @@
     let current = 0;
     let timerInterval = null;
     let timeLeft = 45 * 60; // 45 phút (tính bằng giây)
+    let submitted = false; // true sau khi nộp bài
 
     // Hàm shuffle array
     function shuffleArray(arr) {
@@ -131,23 +132,56 @@
       if (q.answers && Array.isArray(q.answers)) {
         q.answers.forEach((answer, idx) => {
           const isSelected = selected[current] === idx;
+          const correctIdx = q.correct;
+
+          // Compute styles depending on submission state
+          let bg = isSelected ? '#e3f2fd' : '#fff';
+          let borderColor = isSelected ? '#2196F3' : '#ddd';
+          let markerHTML = '';
+
+          if (submitted) {
+            // Disable selecting after submission
+            if (idx === correctIdx) {
+              bg = '#e8f5e9'; borderColor = '#2e7d32';
+              markerHTML = '';
+            } else if (isSelected && idx !== correctIdx) {
+              bg = '#ffebee'; borderColor = '#c52828';
+              markerHTML = `<span style="float:right;color:#c62828;font-weight:700">Sai</span>`;
+            } else {
+              bg = '#fff'; borderColor = '#ddd';
+            }
+          }
+
           const label = document.createElement('label');
           label.className = 'answer-option';
           label.style.cssText = `
-            display:block;padding:10px;margin:8px 0;border:2px solid #ddd;border-radius:6px;cursor:pointer;
-            background:${isSelected ? '#e3f2fd' : '#fff'};border-color:${isSelected ? '#2196F3' : '#ddd'};
+            display:block;padding:10px;margin:8px 0;border:2px solid ${borderColor};border-radius:6px;cursor:pointer;
+            background:${bg};
           `;
+
           label.innerHTML = `
-            <input type="radio" name="answer" value="${idx}" ${isSelected ? 'checked' : ''} style="margin-right:8px;"/>
+            <input type="radio" name="answer" value="${idx}" ${isSelected ? 'checked' : ''} ${submitted ? 'disabled' : ''} style="margin-right:8px;"/>
             ${answer}
+            ${markerHTML}
           `;
+
           label.addEventListener('change', () => {
+            if (submitted) return; // không cho sửa sau khi nộp
             selected[current] = parseInt(idx);
             renderQuestion();
             renderQuestionList();
           });
           answersEl.appendChild(label);
         });
+      }
+
+      // Show explanation after submission
+      if (submitted && q.explanation) {
+        const exDiv = document.createElement('div');
+        exDiv.className = 'question-explanation';
+        exDiv.style.cssText = 'margin-top:12px;padding:12px;background:#fff8e1;border-left:4px solid #ffca28;border-radius:4px;color:#333;';
+        exDiv.innerHTML = `<strong>Lời giải:</strong> ${q.explanation || ''}`;
+        answersEl.appendChild(exDiv);
       }
 
       // Update button states
@@ -164,18 +198,49 @@
         const btn = document.createElement('button');
         btn.className = 'question-btn';
         btn.textContent = idx + 1;
+
+        // Determine colors
+        let bg = '#fff';
+        let color = '#000';
+        if (current === idx) {
+          bg = '#2196F3'; color = '#fff';
+        } else if (submitted) {
+          const isSelected = selected[idx];
+          const isCorrect = selected[idx] === questions[idx].correct;
+          if (isCorrect) { bg = '#4CAF50'; color = '#fff'; }
+          else if (selected[idx] === undefined) { bg = '#9e9e9e'; color = '#fff'; } // unanswered
+          else { bg = '#f44336'; color = '#fff'; } // wrong
+        } else {
+          bg = selected[idx] !== undefined ? '#4CAF50' : '#fff';
+          color = selected[idx] !== undefined ? '#fff' : '#000';
+        }
+
         btn.style.cssText = `
           width:40px;height:40px;padding:0;border-radius:4px;border:2px solid #ddd;cursor:pointer;
-          background:${current === idx ? '#2196F3' : selected[idx] !== undefined ? '#4CAF50' : '#fff'};
-          color:${current === idx || selected[idx] !== undefined ? '#fff' : '#000'};font-weight:600;
+          background:${bg};
+          color:${color};font-weight:600;
         `;
         btn.addEventListener('click', () => {
           current = idx;
           renderQuestion();
-          document.getElementById('question-list-inner').scrollLeft = Math.max(0, idx * 48 - 200);
+          renderQuestionList(); // update highlight and auto-scroll
         });
         listEl.appendChild(btn);
       });
+
+      // Auto-scroll the current question button into view (centered)
+      const currentBtn = listEl.children[current];
+      if (currentBtn) {
+        try {
+          currentBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        } catch (e) {
+          // Fallback for older browsers: center via scrollLeft
+          const listRect = listEl.getBoundingClientRect();
+          const btnRect = currentBtn.getBoundingClientRect();
+          const offset = (btnRect.left + btnRect.right) / 2 - (listRect.left + listRect.right) / 2;
+          listEl.scrollLeft += offset;
+        }
+      }
     }
 
     // Timer countdown
@@ -199,6 +264,7 @@
       if (current > 0) {
         current--;
         renderQuestion();
+        renderQuestionList();
       }
     });
 
@@ -206,11 +272,13 @@
       if (current < questions.length - 1) {
         current++;
         renderQuestion();
+        renderQuestionList();
       }
     });
 
     // Submit test
     function submitTest() {
+      if (submitted) return;
       clearInterval(timerInterval);
       const correct = selected.reduce((sum, ans, idx) => {
         return sum + (ans === questions[idx].correct ? 1 : 0);
@@ -229,8 +297,33 @@
         }));
       } catch(e){}
 
-      alert(`Kết quả: ${correct}/${questions.length} câu đúng (${score}%)`);
-      window.location.href = 'index.html';
+      // Hiển thị kết quả trên trang và đánh dấu câu sai
+      submitted = true;
+      document.getElementById('submit-test').disabled = true;
+      // Show result panel above quiz
+      let panel = document.getElementById('result-panel');
+      if (!panel) {
+        panel = document.createElement('div');
+        panel.id = 'result-panel';
+        panel.style.cssText = 'margin:12px 0;padding:12px;border-radius:6px;background:#fff3cd;border:1px solid #ffeeba;font-weight:600;';
+        document.querySelector('.container').insertBefore(panel, document.getElementById('quiz-box'));
+      }
+      panel.innerHTML = `Kết quả: <strong>${correct}/${questions.length}</strong> câu đúng (${score}%). <button id="return-home" style="margin-left:12px;">Quay về trang chủ</button>`;
+
+      document.getElementById('return-home').addEventListener('click', () => {
+        window.location.href = 'index.html';
+      });
+
+      renderQuestion();
+      renderQuestionList();
+
+      // Focus first wrong question if any
+      const firstWrong = selected.findIndex((ans, idx) => ans !== questions[idx].correct);
+      if (firstWrong >= 0) {
+        current = firstWrong;
+        renderQuestion();
+        renderQuestionList();
+      }
     }
 
     document.getElementById('submit-test').addEventListener('click', submitTest);
