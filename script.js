@@ -3,8 +3,15 @@ window.addEventListener('DOMContentLoaded', () => {
   // start index for question numbering (câu bắt đầu từ 221)
   const startIndex = 1;
 
-  let current = parseInt(localStorage.getItem('quiz_current')) || 0;
-  let selected = JSON.parse(localStorage.getItem('quiz_selected') || 'null');
+  // use subject-scoped keys for review page so positions are saved per subject
+  const subject = window.QUIZ_SUBJECT || localStorage.getItem('quiz_subject') || 'hoahoc';
+  const currentKey = `review_current_${subject}`;
+  const selectedKey = `review_selected_${subject}`;
+
+  let current = parseInt(localStorage.getItem(currentKey));
+  if (isNaN(current)) current = 0;
+  let selected = null;
+  try { selected = JSON.parse(localStorage.getItem(selectedKey)); } catch (e) { selected = null; }
   let questions = [];
 
   const listInner = document.getElementById('question-list-inner');
@@ -21,8 +28,12 @@ window.addEventListener('DOMContentLoaded', () => {
   }
 
   function saveState() {
-    localStorage.setItem('quiz_selected', JSON.stringify(selected));
-    localStorage.setItem('quiz_current', String(current));
+    try {
+      localStorage.setItem(selectedKey, JSON.stringify(selected));
+      localStorage.setItem(currentKey, String(current));
+    } catch (e) {
+      console.warn('Could not save review state', e);
+    }
   }
 
   function renderQuestionList() {
@@ -252,7 +263,7 @@ window.addEventListener('DOMContentLoaded', () => {
       if (!confirm('Xóa toàn bộ điểm?')) return;
       selected = Array(questions.length).fill(undefined);
       current = 0;
-      saveState();
+      try { localStorage.removeItem(selectedKey); localStorage.removeItem(currentKey); } catch (e) {}
       renderQuestion();
       showResult();
     };
@@ -328,7 +339,20 @@ window.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // normalize selected/current after loading questions
+    // Try to restore saved selected/current for this subject (may have been set earlier)
+    try {
+      const savedSelected = JSON.parse(localStorage.getItem(selectedKey));
+      if (Array.isArray(savedSelected) && savedSelected.length === questions.length) {
+        selected = savedSelected;
+      }
+    } catch (e) { /* ignore parse errors */ }
+
+    const savedCurrent = parseInt(localStorage.getItem(currentKey));
+    if (!isNaN(savedCurrent) && savedCurrent >= 0 && savedCurrent < questions.length) {
+      current = savedCurrent;
+    }
+
+    // normalize to defaults if still invalid
     if (!selected || !Array.isArray(selected) || selected.length !== questions.length) {
       selected = Array(questions.length).fill(undefined);
     }
