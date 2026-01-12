@@ -21,6 +21,31 @@ window.addEventListener('DOMContentLoaded', () => {
   const nextBtn = document.getElementById('next');
   const resultBox = document.getElementById('result');
   const resetBtn = document.getElementById('reset-score');
+  
+ 
+  document.addEventListener("keydown", function (event) {
+
+    if (event.key === "ArrowRight") {
+        nextBtn.click();
+    };
+    if (event.key === "ArrowLeft") {
+        prevBtn.click();
+    };
+  });
+
+  document.addEventListener("keydown", function (e) {
+    console.log("Key:", e.key);
+
+    const index = parseInt(e.key) - 1;
+    if (isNaN(index)) return;
+
+    const buttons = document.querySelectorAll("#answers button");
+    if (index >= 0 && index < buttons.length) {
+        buttons[index].click();
+    }
+  });
+
+
 
   if (!listInner || !questionEl || !answersDiv) {
     console.error('Missing DOM elements. Check index.html structure.');
