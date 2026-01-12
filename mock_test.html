@@ -73,6 +73,31 @@
     let timeLeft = 45 * 60; // 45 phút (tính bằng giây)
     let submitted = false; // true sau khi nộp bài
 
+    const prevBtn = document.getElementById('prev');
+    const nextBtn = document.getElementById('next');
+
+    document.addEventListener("keydown", function (event) {
+
+    if (event.key === "ArrowRight") {
+        nextBtn.click();
+    };
+    if (event.key === "ArrowLeft") {
+        prevBtn.click();
+    };
+  });
+
+  document.addEventListener("keydown", function (e) {
+    console.log("Key:", e.key);
+
+    const index = parseInt(e.key) - 1;
+    if (isNaN(index)) return;
+
+    const buttons = document.querySelectorAll("#answers label");
+    if (index >= 0 && index < buttons.length) {
+        buttons[index].click();
+    }
+  });
+
     // Hàm shuffle array
     function shuffleArray(arr) {
       const result = [...arr];
