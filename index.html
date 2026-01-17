@@ -44,8 +44,17 @@
       </div>
       
     </div>
-    
-  <script>
+  
+     <div class="visitCounter">
+      <h2><span id="count"></span></h2>
+    </div>
+
+    <script>
+      fetch("https://api.countapi.xyz/hit/phucpv203.github.io/tracnghiem/visits")
+      .then(res => res.json())
+      .then(data => {
+      document.getElementById("count").innerText = data.value;
+    });
     function goTo(url, subjectKey) {
       try { localStorage.setItem('quiz_subject', subjectKey); } catch(e) {}
       location.href = url + '?subject=' + encodeURIComponent(subjectKey);
