@@ -351,13 +351,13 @@
     "question": "Số orbital trong lớp thứ 3 (n=3) là 9",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Số orbital trong một lớp được tính bằng công thức n^2. Với n=3, số orbital là 3^2 = 9."
+    "explanation": "Đúng. Số orbital trong một lớp được tính bằng công thức n². Với n=3, số orbital là 3² = 9."
   },
   {
     "question": "Số electron tối đa trong lớp thứ 4 là 18",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Số electron tối đa trong lớp n là 2n^2. Với lớp 4, số electron tối đa là 2 \times 4^2 = 32."
+    "explanation": "Sai. Số electron tối đa trong lớp n là 2n². Với lớp 4, số electron tối đa là 2 \times 4² = 32."
   },
   {
     "question": "Nhóm VIII trong bảng HTHH có 3 cột",
@@ -375,7 +375,7 @@
     "question": "Nguyên tố có Z=35 thuộc chu kì 4 nhóm VIIA",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Z=35 là Brom (Br), có cấu hình electron lớp ngoài cùng là 4s^2 4p^5, thuộc chu kỳ 4, nhóm VIIA."
+    "explanation": "Đúng. Z=35 là Brom (Br), có cấu hình electron lớp ngoài cùng là 4s² 4p⁵, thuộc chu kỳ 4, nhóm VIIA."
   },
   {
     "question": "Nguyên tố có Z=53 là kim loại",
@@ -477,13 +477,13 @@
     "question": "Cấu hình electron của ion Fe²+ là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết ZFe=26)",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Cấu hình của Fe là [Ar] 3d^6 4s^2. Khi tạo ion Fe^{2+}, nguyên tử mất 2e ở lớp 4s, cấu hình đúng là [Ar] 3d^6."
+    "explanation": "Sai. Cấu hình của Fe là [Ar] 3d⁶ 4s². Khi tạo ion Fe²⁺, nguyên tử mất 2e ở lớp 4s, cấu hình đúng là [Ar] 3d⁶."
   },
   {
     "question": "Cấu hình electron của ion Fe³+ là là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết ZFe=26)",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Khi tạo ion Fe^{3+}, nguyên tử mất thêm 1e ở phân lớp 3d, cấu hình đúng là [Ar] 3d^5."
+    "explanation": "Sai. Khi tạo ion Fe³⁺, nguyên tử mất thêm 1e ở phân lớp 3d, cấu hình đúng là [Ar] 3d⁵."
   },
   {
     "question": "Trong nhóm A, đi từ trên xuống dưới tính oxy hóa của nguyên tử của nguyên tố giảm dần",
@@ -525,7 +525,7 @@
     "question": "Ion K⁺ và ion Cl⁻ có cấu hình electron giống nhau biết K có Z=19, Cl có Z=17",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Cả hai đều có 18 electron và có cấu hình của khí hiếm Argon: [Ne] 3s^2 3p^6."
+    "explanation": "Đúng. Cả hai đều có 18 electron và có cấu hình của khí hiếm Argon: [Ne] 3s² 3p⁶."
   },
   {
     "question": "Tổng số electron hóa trị là tổng số mũ trên cấu hình ns (n-2)f (n-1)d np (với n max và nếu d, f đã đầy thì không cộng vào tổng)",
@@ -606,22 +606,22 @@
     "explanation": "KCl là hợp chất ion vì được hình thành từ kim loại điển hình (K) và phi kim điển hình (Cl) có hiệu độ âm điện lớn (> 1,7)."
   },
   {
-    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp³?",
     "answers": ["CH4, NH3, H2O", "CH4, NH3, BH3", "BeH2, BH3, C2H4", "BeH2, BH3, C2H2"],
     "correct": 0,
-    "explanation": "Trong CH4, NH3, và H2O, nguyên tử trung tâm đều có tổng số liên kết sigma và cặp electron tự do bằng 4, tương ứng với trạng thái lai hóa sp^3."
+    "explanation": "Trong CH4, NH3, và H2O, nguyên tử trung tâm đều có tổng số liên kết sigma và cặp electron tự do bằng 4, tương ứng với trạng thái lai hóa sp³."
   },
   {
-    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^2?",
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp²?",
     "answers": ["SO2, BH3, C2H4", "SO2,BH3,NH3", "BH3, C2H4, H2O", "SO2, C2H4, CH4"],
     "correct": 0,
-    "explanation": "Lưu ý: SO2 và BH3 là sp^2, nhưng CH4 là sp^3. các phân tử như SO2, BH3, C2H4 thường thuộc nhóm lai hóa này."
+    "explanation": "Lưu ý: SO2 và BH3 là sp², nhưng CH4 là sp³. các phân tử như SO2, BH3, C2H4 thường thuộc nhóm lai hóa này."
   },
   {
-    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
+    "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp³?",
     "answers": ["BeH2, CO2, C2H2", "BeH2, CO2, NH3", "CO2, C2H2, H2O", "BeH2, C2H2, CH4"],
     "correct": 0,
-    "explanation": "Theo lý thuyết, BeH2, CO2, C2H2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH4, NH3, H2O mới là nhóm sp^3 điển hình."
+    "explanation": "Theo lý thuyết, BeH2, CO2, C2H2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH4, NH3, H2O mới là nhóm sp³ điển hình."
   },
   {
     "question": "Các orbital lai hóa khác nhau về:",
@@ -672,10 +672,10 @@
     "explanation": "Phân tử Nitơ (N equiv N) có một liên kết ba rất bền vững gồm 1 liên kết sigma và 2 liên kết pi."
   },
   {
-    "question": "Nguyên tử oxy có cấu hình electron là 1s^2 2s^2 2p^4, sau khi liên kết sẽ có cấu hình electron là:",
-    "answers": ["1s^2 2s^2 2p^6", "1s^2 2s^2 2p^6 3s^1", "1s^2 2s^2 2p^6 3s^2", "1s^2 2s^2 2p^6 3s^2 3p^6"],
+    "question": "Nguyên tử oxy có cấu hình electron là 1s² 2s² 2p⁴, sau khi liên kết sẽ có cấu hình electron là:",
+    "answers": ["1s² 2s² 2p⁶", "1s² 2s² 2p⁶ 3s^1", "1s² 2s² 2p⁶ 3s²", "1s² 2s² 2p⁶ 3s² 3p⁶"],
     "correct": 0,
-    "explanation": "Oxy có xu hướng nhận thêm hoặc dùng chung 2 electron để đạt cấu hình bát tử bền vững của khí hiếm Neon (2p^6)."
+    "explanation": "Oxy có xu hướng nhận thêm hoặc dùng chung 2 electron để đạt cấu hình bát tử bền vững của khí hiếm Neon (2p⁶)."
   },
   {
     "question": "Cho 2 nguyên tố X (Z=19) và Y (Z=17). Công thức hợp chất và loại liên kết là:",
@@ -795,7 +795,7 @@
     "question": "Góc liên kết trong phân tử BH3 là 180^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. BH3 lai hóa sp^2 nên có góc liên kết là 120^C (tam giác phẳng)."
+    "explanation": "Sai. BH3 lai hóa sp² nên có góc liên kết là 120^C (tam giác phẳng)."
   },
   {
     "question": "Góc liên kết trong phân tử BeH2 là 109^C.",
@@ -810,16 +810,16 @@
     "explanation": "Đúng. Phân tử CO2 có cấu trúc thẳng hàng (O=C=O)."
   },
   {
-    "question": "Lai hóa sp^3 có góc liên kết là 180^C.",
+    "question": "Lai hóa sp³ có góc liên kết là 180^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Lai hóa sp^3 có góc lý tưởng là 109,5^C."
+    "explanation": "Sai. Lai hóa sp³ có góc lý tưởng là 109,5^C."
   },
   {
-    "question": "Lai hóa sp^2 có góc liên kết là 120^C.",
+    "question": "Lai hóa sp² có góc liên kết là 120^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Ba orbital lai hóa sp^2 nằm trên một mặt phẳng và hướng về 3 đỉnh của tam giác đều."
+    "explanation": "Đúng. Ba orbital lai hóa sp² nằm trên một mặt phẳng và hướng về 3 đỉnh của tam giác đều."
   },
   {
     "question": "Lai hóa sp có góc liên kết là 109^C.",
@@ -864,16 +864,16 @@
     "explanation": "Sai. Lai hóa sp là tổ hợp của 1 orbital s với CHỈ 1 orbital p."
   },
   {
-    "question": "Trong lai hóa sp^2 có sự tổ hợp 1 orbital s với 1 orbital p để tạo ra 2 orbital lai hóa.",
+    "question": "Trong lai hóa sp² có sự tổ hợp 1 orbital s với 1 orbital p để tạo ra 2 orbital lai hóa.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Lai hóa sp^2 là tổ hợp của 1 s và 2 p để tạo ra 3 orbital lai hóa."
+    "explanation": "Sai. Lai hóa sp² là tổ hợp của 1 s và 2 p để tạo ra 3 orbital lai hóa."
   },
   {
-    "question": "Trong lai hóa sp^3 có sự tổ hợp 1 orbital s với 3 orbital p để tạo ra 4 orbital lai hóa.",
+    "question": "Trong lai hóa sp³ có sự tổ hợp 1 orbital s với 3 orbital p để tạo ra 4 orbital lai hóa.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Đây là định nghĩa chính xác về lai hóa tứ diện sp^3."
+    "explanation": "Đúng. Đây là định nghĩa chính xác về lai hóa tứ diện sp³."
   },
   {
     "question": "Trong phân tử HCl cặp electron dùng chung bị lệch về phía Cl.",
@@ -1137,13 +1137,13 @@
     "question": "Ở 150°C phản ứng kết thúc trong 16 phút. Hỏi ở 180°C kết thúc trong bao lâu (hệ số nhiệt độ = 2)?",
     "answers": ["2 phút.", "4 phút", "1 phút", "8 phút"],
     "correct": 0,
-    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 2^3 = 8 lần. Thời gian giảm 8 lần: 16 / 8 = 2 phút."
+    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 2³ = 8 lần. Thời gian giảm 8 lần: 16 / 8 = 2 phút."
   },
   {
-    "question": "Ở 30°C cần 918 phút để phản ứng xong một nửa. Ở 60°C cần bao lâu (hệ số nhiệt độ = 3)?",
+    "question": "Có phản ứng xảy ra trong dung dịch <br> C2H5I + NaOH -> C2H5OH + NaI <br> Nồng độ bam đầu của hai chất tham gia phản ứng bằng nhau. Dể một nửa lượng ban đầu của chất phản ứng chuyển thành sản phẩm Ở 30°C cần 918 phút để phản ứng xong một nửa. Ở 60°C cần bao lâu (hệ số nhiệt độ = 3)?",
     "answers": ["102 phút", "34 phút", "114,75 phút", "30 phút"],
     "correct": 1,
-    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 3^3 = 27 lần. Thời gian: 918 / 27 = 34 phút."
+    "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 3³ = 27 lần. Thời gian: 918 / 27 = 34 phút."
   },
   {
     "question": "Phản ứng nào giảm nhiệt độ thì cân bằng dịch chuyển sang phải?<br>Cl2(k) + H2 (k) -> 2HCl(k) ΔH= -45,3 Kcal (1)<br>CO(k) + H2O(h) -> CO2(k) + H2(k)  ΔH= -10 Kcal (2)<br>C(r) + H2O(h) = CO(k) + H2(k) ΔH= 31,44 Kcal (3)<br>2NH3(k) = 3H2(k) + N2 ΔH= 22,08 Kcal (4)",
@@ -1152,13 +1152,13 @@
     "explanation": "Khi giảm nhiệt độ, cân bằng dịch chuyển theo chiều tỏa nhiệt (Δ H < 0). Phản ứng 1 và 2 có Δ H âm."
   },
   {
-    "question": "Phản ứng nào không dịch chuyển khi thay đổi áp suất?",
+    "question": "Phản ứng nào không dịch chuyển khi thay đổi áp suất?<br> Cl2(k) + H2 = 2HCl(k) ΔH= -45,3 Kcal(1) <br> Co(k) + H2O(h) = CO2(k) + H2 ΔH= -10Kcal(2)<br> C(r) + H2O(h) = CO(k) + H2(k) ΔH= 31,44 Kcal(3)<br> 2NH3(k) = 3H2(k) + N2 ΔH= 22,08 Kcal (4)",
     "answers": ["1, 2", "3, 4", "1, 3", "2, 4"],
     "correct": 0,
     "explanation": "Cân bằng không dịch chuyển khi áp suất thay đổi nếu tổng số mol khí ở hai vế bằng nhau (Δ n = 0). Phản ứng 1 (1+1=2) và phản ứng 2 (1+1=1+1=2) thỏa mãn."
   },
   {
-    "question": "Phản ứng mà khi lấy bớt H2 thì cân bằng dịch chuyển theo chiều nghịch?",
+    "question": "Phản ứng mà khi lấy bớt H2 thì cân bằng dịch chuyển theo chiều nghịch?<br>Cl2(k) + H2 = 2HCl(k) ΔH= -45,3 Kcal(1) <br> Co(k) + H2O(h) = CO2(k) + H2 ΔH= -10Kcal(2)<br> C(r) + H2O(h) = CO(k) + H2(k) ΔH= 31,44 Kcal(3)<br> 2NH3(k) = 3H2(k) + N2 ΔH= 22,08 Kcal (4)",
     "answers": ["1", "1, 2, 3", "2, 3, 4", "2, 3, 4"],
     "correct": 0,
     "explanation": "Theo nguyên lý Le Chatelier, lấy bớt chất tham gia (H2) làm cân bằng dịch chuyển theo chiều chống lại sự giảm đó (chiều nghịch). Phản ứng 1 có H2 ở vế trái."
@@ -1167,19 +1167,19 @@
     "question": "Ở 150°C phản ứng xong trong 16 phút, ở 100°C phản ứng xong trong bao lâu (hệ số nhiệt độ = 2)?",
     "answers": ["512 phút", "256 phút", "64 phút", "128 phút"],
     "correct": 0,
-    "explanation": "Giảm 50°C tương đương 5 lần khoảng 10°C. Tốc độ giảm 2^5 = 32 lần. Thời gian tăng 32 lần: 16 x 32 = 512 phút."
+    "explanation": "Giảm 50°C tương đương 5 lần khoảng 10°C. Tốc độ giảm 2⁵ = 32 lần. Thời gian tăng 32 lần: 16 x 32 = 512 phút."
   },
   {
-    "question": "Tăng nồng độ O2 lên 4 lần trong phản ứng 2NO + O2 -> 2NO2 (đơn giản) thì tốc độ phản ứng:",
+    "question": "Phản ứng 2NO + O2 -> 2NO2 là một phản ứng đơn giản. Tăng nồng độ O2 lên 4 lần trong phản ứng 2NO + O2 -> 2NO2 (đơn giản) thì tốc độ phản ứng:",
     "answers": ["Tăng 4 lần", "Giảm 4 lần", "Tăng 8 lần", "Tăng 16 lần"],
     "correct": 0,
-    "explanation": "Biểu thức tốc độ: v = k[NO]^2[O2]. Khi [O2] tăng 4 lần thì v tăng 4 lần."
+    "explanation": "Biểu thức tốc độ: v = k[NO]²[O2]. Khi [O2] tăng 4 lần thì v tăng 4 lần."
   },
   {
-    "question": "Giảm nồng độ NO xuống 2 lần thì tốc độ phản ứng 2NO + O2 -> 2NO2 thay đổi như thế nào?",
+    "question": "Phản ứng 2NO + O2 -> 2NO2 là một phản ứng đơn giản. Giảm nồng độ NO xuống 2 lần thì tốc độ phản ứng 2NO + O2 -> 2NO2 thay đổi như thế nào?",
     "answers": ["Giảm 4 lần", "Giảm 2 lần", "Tăng 4 lần", "Giảm 8 lần"],
     "correct": 0,
-    "explanation": "v = k[NO]^2[O2]. Khi [NO] giảm 2 lần thì v giảm 2^2 = 4 lần."
+    "explanation": "v = k[NO]²[O2]. Khi [NO] giảm 2 lần thì v giảm 2² = 4 lần."
   },
   {
     "question": "Hằng số cân bằng phụ thuộc vào:",
@@ -1188,16 +1188,16 @@
     "explanation": "Đối với một phản ứng xác định, hằng số cân bằng K chỉ phụ thuộc vào nhiệt độ."
   },
   {
-    "question": "Vận tốc trung bình của phản ứng xà phòng hoá trong khoảng thời gian t=0 đến t=200s?",
+    "question": "Theo dõi phản ứng xà phòng hoá:<br> CH3COOC4H9 + KOH _> CH3COOK + C4H9OH<br>Bằng cách chuẩn lượng KOH còn lại Kết quả như sau:<br>t(s)          0     100         200<br>KOH mol/l   0,02  9,6x10^-3  4,5x10^-3<br>Vận tốc trung bình của phản ứng xà phòng hoá trong khoảng thời gian t=0 đến t=200s?",
     "answers": ["7,75.10⁻5 mol/l.s", "5,2.10⁻5 mol/l.s", "7,25.10⁻5 mol/l.s", "5,75.10⁻5 mol/l.s"],
     "correct": 0,
-    "explanation": "Vận tốc trung bình được tính bằng biến thiên nồng độ chia cho khoảng thời gian: v = |Δ C| / Δ t."
+    "explanation": "Vận tốc trung bình được tính bằng biến thiên nồng độ chia cho khoảng thời gian: v = |Δ C| / Δ t= (0.02-4,5x10^-3)/200 = 7,75X10^-5"
   },
   {
     "question": "Tính vận tốc trung bình của phản ứng: C2H5Br + KOH -> C2H5OH + KBr, biết nồng độ KOH giảm từ 0,07M xuống 0,04M sau 30 phút.",
     "answers": ["1.10⁻³ mol/l.phút", "1.10⁻⁴ mol/l.phút", "3.10⁻³ mol/l.phút", "3.10⁻⁴ mol/l.phút"],
     "correct": 0,
-    "explanation": "Vận tốc trung bình v = -frac{Δ C}{Δ t} = -frac{0,04 - 0,07}{30} = frac{0,03}{30} = 0,001 = 1.10^{-3} mol/l.phút."
+    "explanation": "Vận tốc trung bình v = Δ C/Δ t = (0,04 - 0,07)/30  = 0,001 = 1.10^-3 mol/l.phút."
   },
   {
     "question": "Phát biểu nào sau đây sai khi nói về tốc độ và cân bằng phản ứng?",
@@ -1212,7 +1212,7 @@
     "explanation": "Chất xúc tác làm thay đổi cơ chế phản ứng, tạo ra con đường mới có năng lượng hoạt hóa thấp hơn, giúp số va chạm hiệu quả tăng lên."
   },
   {
-    "question": "Biện pháp nào sau đây không làm tăng tốc độ phản ứng giữa đá vôi (CaCO3) và dung dịch HCl?",
+    "question": "CHo một mẫu đá vôi nặng 10kg vào dung dịch HCL 10%. Biện pháp nào sau đây không làm tăng tốc độ bọt khí thoát ra?",
     "answers": ["Thay đá vôi bằng 10g bột đá vôi", "Tăng nhiệt độ của phản ứng", "Tăng thể tích dung dịch HCl 10% giữ nguyên nồng độ", "Thay dung dịch HCl 10% bằng dung dịch HCl 20%"],
     "correct": 2,
     "explanation": "Việc tăng thể tích dung dịch mà không thay đổi nồng độ thì số lượng va chạm trên một đơn vị thể tích không đổi, nên tốc độ phản ứng không đổi."
@@ -1315,7 +1315,7 @@
   },
   {
     "question": "Biết rằng dung dịch chứa 80g hemoglobin/lít có áp suất thẩm thấu 0,026at, ở 4°C. Khối lượng mol phân tử của hemoglobin xấp xỉ bằng:",
-    "answers": ["69889g", "1009g", "7086086g", "69889g"],
+    "answers": ["69889g", "1009g", "7086086g", "698g"],
     "correct": 0,
     "explanation": "Áp suất thẩm thấu được tính theo công thức π = C·R·T. Từ đó, ta suy ra nồng độ mol C = π / (R·T), biết khối lượng và thể tích dung dịch, suy ra khối lượng mol M = m / (C·V)."
   },
@@ -1339,7 +1339,7 @@
   },
   {
     "question": "Dung dịch nước của một chất A không điện li 0,192g trong 100ml dung dịch ở 32°C, có áp suất thẩm thấu bằng bao nhiêu? Biết MA = 60g.",
-    "answers": ["0,8at", "0,084at"],
+    "answers": ["0,8at", "0,084at","0,6","0,06"],
     "correct": 0,
     "explanation": "Áp suất thẩm thấu π = C·R·T, trong đó C = n/V = (m/M)/V. Thay số vào công thức để tính π (đơn vị at)."
   },
@@ -1563,6 +1563,17 @@
     ],
     "correct": 0,
     "explanation": "Vì pH = 12 nên pOH = 14 - 12 = 2. Suy ra [OH⁻] = 10⁻² = 0,01M."
+  },
+ {
+    "question": "Có 100ml dung dịch HCl 0,1M. Để thu được dung dịch có pH=3 cần pha loãng dung dịch này bao nhiêu lần?",
+    "answers": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "correct": 1,
+    "explanation": "Dung dịch HCl ban đầu H+(1) = 0,1 M, Dung dịch cần thu được có pH = 3  H+(2) = 10^-3 M. Hệ số pha loãng k = H+(1)/H+(2)= 0,1/10^-3 = 100"
   },
   {
     "question": "Dung dịch HCl và dung dịch CH₃COOH có cùng nồng độ và α của CH₃COOH là 0,01. pH của 2 dung dịch tương ứng là x, y. Quan hệ giữa x và y là:",
@@ -1846,21 +1857,27 @@
     "explanation": "Có 3 phản ứng có sự thay đổi số oxi hóa của Fe: FeO → Fe, Fe → FeCl₂ và Fe(OH)₂ → Fe(OH)₃."
   },
   {
-  "question": "Dãy các ion sắp xếp theo chiều giảm dần tính oxy hóa (biết trong dãy điện hóa cặp Fe³⁺/Fe²⁺ đứng trước cặp Ag⁺/Ag)",
-  "answers": [
-    "Ag⁺, Fe³⁺, Cu²⁺, Fe²⁺",
-    "Fe³⁺, Ag⁺, Cu²⁺, Fe²⁺",
-    "Ag⁺, Cu²⁺, Fe²⁺, Fe³⁺",
-    "Fe³⁺, Cu²⁺, Ag⁺, Fe²⁺"
-  ],
-  "correct": 0,
-  "explanation": "Trong dãy điện hóa, ion có thế khử càng lớn thì tính oxy hóa càng mạnh. Thứ tự thế khử chuẩn: Ag⁺/Ag (+0,80V) > Fe³⁺/Fe²⁺ (+0,77V) > Cu²⁺/Cu (+0,34V) > Fe²⁺/Fe (−0,44V). Vì Fe³⁺/Fe²⁺ đứng trước Ag⁺/Ag nên tính oxy hóa giảm dần là: Fe³⁺ > Ag⁺ > Cu²⁺ > Fe²⁺."
-},
+   "question": "Dãy các ion sắp xếp theo chiều giảm dần tính oxy hóa (biết trong dãy điện hóa cặp Fe³⁺/Fe²⁺ đứng trước cặp Ag⁺/Ag)",
+   "answers": [
+     "Ag⁺, Fe³⁺, Cu²⁺, Fe²⁺",
+     "Fe³⁺, Ag⁺, Cu²⁺, Fe²⁺",
+     "Ag⁺, Cu²⁺, Fe²⁺, Fe³⁺",
+     "Fe³⁺, Cu²⁺, Ag⁺, Fe²⁺"
+   ],
+   "correct": 0,
+   "explanation": "Trong dãy điện hóa, ion có thế khử càng lớn thì tính oxy hóa càng mạnh. Thứ tự thế khử chuẩn: Ag⁺/Ag (+0,80V) > Fe³⁺/Fe²⁺ (+0,77V) > Cu²⁺/Cu (+0,34V) > Fe²⁺/Fe (−0,44V). Vì Fe³⁺/Fe²⁺ đứng trước Ag⁺/Ag nên tính oxy hóa giảm dần là: Fe³⁺ > Ag⁺ > Cu²⁺ > Fe²⁺."
+  },
+ {
+    "question": "Muốn biến hoá năng thành điện năng ta phải thực hiện sự oxy hoá ở một nơi và sự khử ở một nơi khác và nối chúng bằng dây dẫn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Phản ứng oxi hóa – khử là phản ứng có sự chuyển electron giữa các chất làm thay đổi số oxi hóa của nguyên tố."
+  },
   {
     "question": "Phản ứng oxy hóa khử là phản ứng trong đó có sự thu nhường electron do đó làm thay đổi số oxy hóa.",
     "answers": ["Đúng", "Sai"],
     "correct": 0,
-    "explanation": "Đúng. Phản ứng oxi hóa – khử là phản ứng có sự chuyển electron giữa các chất làm thay đổi số oxi hóa của nguyên tố."
+    "explanation": "Muốn biến hóa năng thành điện năng (pin điện hóa), ta phải: Thực hiện phản ứng oxi hóa ở điện cực âm. Thực hiện phản ứng khử ở điện cực dương. Hai điện cực được nối với nhau bằng dây dẫn để electron di chuyển tạo thành dòng điện."
   },
   {
     "question": "Số oxy hóa của nguyên tố trong đơn chất bằng 0.",
@@ -2577,13 +2594,13 @@
     "explanation": "Glycerin có tính giữ ẩm và độ nhớt tốt, được dùng làm dung môi hoặc tá dược trong nhiều loại dược phẩm."
   },
   {
-    "question": "Chức ancol nói chung và poliancol nói riêng phổ biến trong cơ thể sinh vật",
+    "question": "Chức ancol nói chung và poliancol nói riêng không phổ biến trong cơ thể sinh vật",
     "answers": [
       "Đúng.",
       "Sai."
     ],
     "correct": 1,
-    "explanation": "Các nhóm chức ancol xuất hiện nhiều trong các hợp chất sinh học như Glucid (đường), lipid (chất béo) nên phát biểu này thực tế là đúng, tuy nhiên câu hỏi đánh dấu Sai có thể do ngữ cảnh hẹp."
+    "explanation": "Các nhóm chức ancol xuất hiện nhiều trong các hợp chất sinh học như Glucid (đường), lipid (chất béo) ."
   },
   {
     "question": "Ancol metylic là chất cực kì độc đối với cơ thể",
@@ -2814,7 +2831,7 @@
     "explanation": "Khi cơ thể thiếu insulin, nó sẽ đốt cháy chất béo để tạo năng lượng, sinh ra các thể ceton như aceton."
   },
   {
-    "question": "Có thể phân biệt anđehit và xeton dựa vào phản ứng tráng gương.",
+    "question": "Không Có thể phân biệt anđehit và xeton dựa vào phản ứng tráng gương.",
     "answers": [
       "Đúng.",
       "Sai."
@@ -2859,13 +2876,13 @@
     "explanation": "Sai. Formol ức chế và làm mất hoạt tính của enzym do làm biến tính cấu trúc protein của chúng."
   },
   {
-    "question": "Anđehit fomic gây kích ứng làm cay mắt, chảy máu mũi nhưng không gây xạm da.",
+    "question": "Anđehit fomic gây kích ứng làm cay mắt, chảy máu mũi và xạm da.",
     "answers": [
       "Đúng.",
       "Sai."
     ],
-    "correct": 1,
-    "explanation": "Phát biểu gốc trong đề là 'Sai', thực tế formol gây kích ứng mạnh niêm mạc nhưng tác động gây xạm da không phải đặc trưng chính."
+    "correct": 0,
+    "explanation": "Anđehit fomic (HCHO – fomanđehit) là chất độc, gây kích ứng mạnh, có thể: Gây cay mắt, chảy nước mắt. Kích ứng niêm mạc mũi, có thể gây chảy máu mũi khi tiếp xúc nhiều. Gây kích ứng, viêm da, làm xạm da khi tiếp xúc lâu dài"
   },
   {
     "question": "Trong phản ứng este hóa, dùng chất hút nước (như H2SO4 đặc) sẽ làm cân bằng dịch chuyển theo chiều nghịch.",
