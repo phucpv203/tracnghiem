@@ -25,8 +25,8 @@
   },
   {
     "question": "Trong nguyên tử trung hòa điện, số hạt nào bằng số proton?",
-    "answers": ["Số hạt e và số n", "Số hạt n và số e", "Số hạt e", "Số p và Z"],
-    "correct": 0,
+    "answers": ["Số hạt e và số n", "Số hạt n và số e", "Số hạt e", "Số p và e"],
+    "correct": 3,
     "explanation": "Trong một nguyên tử trung hòa về điện, tổng điện tích dương của proton phải bằng tổng điện tích âm của electron, do đó số p = số e."
   },
   {
