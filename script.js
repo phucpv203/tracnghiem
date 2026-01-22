@@ -175,7 +175,7 @@ window.addEventListener('DOMContentLoaded', () => {
     if (!questions.length) return;
     const q = questions[current] || {};
     // display question number using startIndex offset
-    questionEl.textContent = `Câu ${current + startIndex}: ${q.question || ''}`;
+    questionEl.innerHTML = `<p class="question-title">Câu ${current + startIndex}: ${q.question || ''}</p>`;
     answersDiv.innerHTML = '';
 
     // remove old explain (will be recreated by showResult)
