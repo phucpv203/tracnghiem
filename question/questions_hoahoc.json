@@ -912,7 +912,10 @@
     "explanation": "Áp dụng định luật Hess: Δ H = Δ H^0_{S,Ca(OH)_2} - (Δ H^0_{S,CaO} + Δ H^0_{S,H_2O}). Suy ra Δ H^0_{S,Ca(OH)_2} = -15,26 + (-151,8 - 63,3) = -230,36 Kcal/mol."
   },
   {
-    "question": "Biết hiệu ứng nhiệt phản ứng cháy Glucose là -673 Kcal. Tính nhiệt sinh chuẩn của Glucose.",
+    "question": "Biết hiệu ứng nhiệt phản ứng cháy Glucose như sau:
+   C6H12O6 + 6O2 -> 6CO2(k) + 6H2O(h) 
+   ????           -94,1     -63,3 
+   là -673 Kcal. Tính nhiệt sinh chuẩn của Glucose.",
     "answers": ["515,6", "-515,6", "-271,4", "-271,6"],
     "correct": 2,
     "explanation": "Δ H = [6Δ H^0_{S,CO_2} + 6Δ H^0_{S,H_2O}] - Δ H^0_{S,C_6H_{12}O_6}. Thay số: -673 = [6(-94,1) + 6(-68,3)] - X -> X = -271,4 Kcal/mol."
