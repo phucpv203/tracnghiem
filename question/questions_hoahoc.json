@@ -1,18 +1,18 @@
 [
  {
-    "question": "Nguyên tử được cấu tạo từ ba hạt cơ bản là:",
-    "answers": ["p, e, n", "p, n", "e, n", "p, e"],
-    "correct": 0,
+    "question": "Nguyên tử được cấu tạo bởi bao nhiêu hạt cơ bản:",
+    "answers": ["1", "2", "3", "4"],
+    "correct": 2,
     "explanation": "ba hạt cơ bản cấu tạo nên nguyên tử gồm proton (p), neutron (n) và electron (e)."
   },
   {
-    "question": "Trong nguyên tử hạt mang điện tích dương là:",
+    "question": "Trong nguyên tử hạt mang điện là:",
     "answers": ["Electron", "Proton", "Proton và electron", "Proton và neutron"],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Trong nguyên tử, proton mang điện tích dương (+1), electron mang điện tích âm (-1) và neutron không mang điện. Cụm proton và neutron tạo nên hạt nhân."
   },
   {
-    "question": "Hạt mang điện tích dương trong nhân nguyên tử là:",
+    "question": "Hạt mang điện tích trong nhân nguyên tử là:",
     "answers": ["Electron", "Proton", "Neutron", "Proton và neutron"],
     "correct": 1,
     "explanation": "Hạt nhân nguyên tử gồm proton và neutron, trong đó chỉ có proton mang điện tích dương."
@@ -368,8 +368,8 @@
   {
     "question": "Nguyên tố mà nguyên tử có 7e ở phân lớp 3d thuộc chu kì 3, nhóm VIIIB",
     "answers": ["Đúng.", "Sai."],
-    "correct": 0,
-    "explanation": "Lưu ý: Nguyên tố có phân lớp 3d phải thuộc chu kỳ 4. Tuy nhiên, theo đánh dấu của bạn, câu này được coi là Đúng về mặt định danh nhóm VIIIB (cấu hình 3d^7 4s^2)."
+    "correct": 1,
+    "explanation": "Lưu ý: Nguyên tố có phân lớp 3d phải thuộc chu kỳ 4."
   },
   {
     "question": "Nguyên tố có Z=35 thuộc chu kì 4 nhóm VIIA",
@@ -512,8 +512,8 @@
   {
     "question": "Nguyên tố mà nguyên tử có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² ở chu kì 4, nhóm IIA",
     "answers": ["Đúng.", "Sai."],
-    "correct": 0,
-    "explanation": "Mặc dù cấu hình này kết thúc ở s2, nhưng có phân lớp 3d đã đầy nên thường thuộc nhóm IIB (Kẽm - Zn). Tuy nhiên, tôi tuân theo đáp án bạn đã chọn."
+    "correct": 1,
+    "explanation": "Mặc dù cấu hình này kết thúc ở s2, nhưng có phân lớp 3d đã đầy nên thường thuộc nhóm IIB (Kẽm - Zn)."
   },
   {
     "question": "Ion Mg²+ có cấu hình electron 1s² 2s² 2p⁶ điện tích hạt nhân là 10+",
@@ -566,7 +566,7 @@
   {
     "question": "Đặc điểm của liên kết ion, ngoại trừ:",
     "answers": ["Không bão hòa", "Không định hướng", "Có lực hút tĩnh điện.", "Bảo hòa"],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Liên kết ion có bản chất là lực hút tĩnh điện. Tuy nhiên, đặc điểm 'ngoại trừ' ở đây là tính 'Bão hòa' (liên kết ion không bão hòa)."
   },
   {
@@ -613,13 +613,13 @@
   },
   {
     "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^2?",
-    "answers": ["SO2, BH3, CH4", "BH3, C2H4, NH3", "BH3, C2H4, H2O", "SO2, C2H4, CH4"],
+    "answers": ["SO2, BH3, C2H4", "SO2,BH3,NH3", "BH3, C2H4, H2O", "SO2, C2H4, CH4"],
     "correct": 0,
-    "explanation": "Lưu ý: SO_2 và BH_3 là sp^2, nhưng CH_4 là sp^3. Tuy nhiên, dựa trên đáp án bạn cung cấp, các phân tử như SO_2, BH_3, C_2H_4 thường thuộc nhóm lai hóa này."
+    "explanation": "Lưu ý: SO_2 và BH_3 là sp^2, nhưng CH_4 là sp^3. các phân tử như SO_2, BH_3, C_2H_4 thường thuộc nhóm lai hóa này."
   },
   {
     "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
-    "answers": ["BeH2, CO2, C2H2", "CH4, CO2, NH3", "CO2, C2H2, H2O", "BeH2, C2H2, CH4"],
+    "answers": ["BeH2, CO2, C2H2", "BeH2, CO2, NH3", "CO2, C2H2, H2O", "BeH2, C2H2, CH4"],
     "correct": 0,
     "explanation": "Theo lý thuyết, BeH_2, CO_2, C_2H_2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH_4, NH_3, H_2O mới là nhóm sp^3 điển hình."
   },
@@ -645,13 +645,13 @@
     "question": "Hợp chất nào thể hiện đặc tính liên kết ion rõ nhất?",
     "answers": ["CO2", "H2O", "CCl4", "MgCl2"],
     "correct": 3,
-    "explanation": "MgCl_2 là liên kết giữa kim loại và phi kim, có hiệu độ âm điện lớn nhất trong các phương án nên tính ion rõ rệt nhất."
+    "explanation": "MgCl2 là liên kết giữa kim loại và phi kim, có hiệu độ âm điện lớn nhất trong các phương án nên tính ion rõ rệt nhất."
   },
   {
     "question": "Các phân tử chỉ có liên kết xích ma ?",
     "answers": ["Cl2, NH3, H2O", "Cl2, N2, CH4", "CH3, H2O, O2", "NH3, CH4, CO2"],
     "correct": 0,
-    "explanation": "Cl_2, NH_3, H_2O chỉ chứa các liên kết đơn. Mọi liên kết đơn đều là liên kết sigma."
+    "explanation": "Cl2, NH3, H2O chỉ chứa các liên kết đơn. Mọi liên kết đơn đều là liên kết sigma."
   },
   {
     "question": "Hợp chất nào tạo thành bằng các cặp electron chung?",
@@ -906,7 +906,7 @@
     "explanation": "Sai. Theo thuyết VB, hai electron độc thân tham gia ghép đôi phải có spin trái dấu (đối song song) để tạo thành cặp electron dùng chung."
   },
   {
-    "question": "Hiệu ứng nhiệt của phản ứng và nhiệt sinh của CaO và H2O như sau: CaO + H2O -> Ca(OH)2 Delta H = -15,26 Kcal. Tính Delta H⁰_S của Ca(OH)2.",
+    "question": "Hiệu ứng nhiệt của phản ứng và nhiệt sinh của CaO và H2O như sau: <br> CaO + H2O -> Ca(OH)2 Delta H = -15,26 Kcal. <br> -151,8   -53,3    ??? <br>Tính Delta H⁰_S của Ca(OH)2.",
     "answers": ["-230,36", "-199,84", "230,36", "199,84"],
     "correct": 0,
     "explanation": "Áp dụng định luật Hess: Δ H = Δ H^0_{S,Ca(OH)_2} - (Δ H^0_{S,CaO} + Δ H^0_{S,H_2O}). Suy ra Δ H^0_{S,Ca(OH)_2} = -15,26 + (-151,8 - 63,3) = -230,36 Kcal/mol."
