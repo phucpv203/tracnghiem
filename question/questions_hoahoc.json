@@ -229,27 +229,27 @@
   },
   {
     "question": "Bộ 4 số lượng tử nào sau đây không thể là bộ 4 số lượng tử của cùng 1 electron:",
-    "answers": ["n=3, l=+3, m_l=+1, m_s=1/2", "n=3, l=+1, m_l=0, m_s=1/2", "n=2, l=0, m_l=0, m_s=-1/2", "n=4, l=3, m_l=-2, m_s=-1/2"],
+    "answers": ["n=3, l=+3, ml=+1, ms=1/2", "n=3, l=+1, ml=0, ms=1/2", "n=2, l=0, ml=0, ms=-1/2", "n=4, l=3, ml=-2, ms=-1/2"],
     "correct": 0,
     "explanation": "Điều kiện của số lượng tử phụ là 0 ≤ l ≤ n-1. Với n=3, l tối đa chỉ có thể là 2. l=3 là sai."
   },
   {
     "question": "Các electron lớp ngoài cùng của nguyên tử của nguyên tố Ca (Z=20) ứng với các số lượng tử:",
-    "answers": ["n=4, l=0, m_l=0, m_s=+1/2, m_s=-1/2", "n=4, l=1, m_l=0, m_s=+1/2", "n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2, m_s=-1/2"],
+    "answers": ["n=4, l=0, ml=0, ms=+1/2, ms=-1/2", "n=4, l=1, ml=0, ms=+1/2", "n=4, l=0, ml=0, ms=+1/2", "n=4, l=1, ml=0, ms=+1/2, ms=-1/2"],
     "correct": 0,
-    "explanation": "Ca (Z=20): [Ar] 4s². Lớp ngoài cùng là 4s có 2 electron với n=4, l=0 (phân lớp s), m_l=0 và hai giá trị spin đối kháng."
+    "explanation": "Ca (Z=20): [Ar] 4s². Lớp ngoài cùng là 4s có 2 electron với n=4, l=0 (phân lớp s), ml=0 và hai giá trị spin đối kháng."
   },
   {
     "question": "Ion X³+ có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p³ 3d¹. Các electron ngoài cùng của X ứng với các số lượng tử:",
-    "answers": ["n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2", "n=4, l=0, m_l=0, m_s=+1/2", "n=4, l=1, m_l=0, m_s=+1/2, m_s=-1/2"],
+    "answers": ["n=4, l=0, ml=0, ms=+1/2", "n=4, l=1, ml=0, ms=+1/2", "n=4, l=0, ml=0, ms=+1/2", "n=4, l=1, ml=0, ms=+1/2, ms=-1/2"],
     "correct": 0,
     "explanation": "Dựa theo lựa chọn của bạn, electron ngoài cùng thuộc lớp n=4. Thông thường ion kim loại chuyển tiếp mất e ở lớp 4s trước."
   },
   {
     "question": "Orbital 4s ứng với giá trị nào của các số lượng tử",
-    "answers": ["n=4, l=1, m_l=0", "n=4, l=1, m_l=1", "n=4, l=0, m_l=0", "n=4, l=2, m_l=1"],
+    "answers": ["n=4, l=1, ml=0", "n=4, l=1, ml=1", "n=4, l=0, ml=0", "n=4, l=2, ml=1"],
     "correct": 2,
-    "explanation": "Số lượng tử chính n=4. Ký hiệu phân lớp s tương ứng với l=0. Khi l=0 thì m_l chỉ có thể bằng 0."
+    "explanation": "Số lượng tử chính n=4. Ký hiệu phân lớp s tương ứng với l=0. Khi l=0 thì ml chỉ có thể bằng 0."
   },
   {
     "question": "Chọn phát biểu sai khi nói về bảng tuần hoàn:",
@@ -444,16 +444,16 @@
     "explanation": "Đúng. Đây là quy ước các giá trị của số lượng tử phụ l ứng với các phân lớp electron."
   },
   {
-    "question": "Một giá trị của số lượng tử từ m_l tương ứng với 1 orbital",
+    "question": "Một giá trị của số lượng tử từ ml tương ứng với 1 orbital",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
     "explanation": "Đúng. Số lượng tử từ xác định sự định hướng của orbital trong không gian."
   },
   {
-    "question": "Trạng thái của mỗi electron được đặc trưng bằng 3 số lượng tử: n, l, m_l",
+    "question": "Trạng thái của mỗi electron được đặc trưng bằng 3 số lượng tử: n, l, ml",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. Trạng thái của một electron cần 4 số lượng tử: n, l, m_l và m_s (số lượng tử spin)."
+    "explanation": "Sai. Trạng thái của một electron cần 4 số lượng tử: n, l, ml và ms (số lượng tử spin)."
   },
   {
     "question": "Số lượng tử spin có 3 giá trị +1/2, 0 và -1/2",
@@ -474,13 +474,13 @@
     "explanation": "Đúng. Đây là nội dung của quy tắc Hund."
   },
   {
-    "question": "Cấu hình electron của ion Fe²+ là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết Z_Fe=26)",
+    "question": "Cấu hình electron của ion Fe²+ là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết ZFe=26)",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
     "explanation": "Sai. Cấu hình của Fe là [Ar] 3d^6 4s^2. Khi tạo ion Fe^{2+}, nguyên tử mất 2e ở lớp 4s, cấu hình đúng là [Ar] 3d^6."
   },
   {
-    "question": "Cấu hình electron của ion Fe³+ là là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết Z_Fe=26)",
+    "question": "Cấu hình electron của ion Fe³+ là là 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s² (biết ZFe=26)",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
     "explanation": "Sai. Khi tạo ion Fe^{3+}, nguyên tử mất thêm 1e ở phân lớp 3d, cấu hình đúng là [Ar] 3d^5."
@@ -549,13 +549,13 @@
     "question": "Cho các phân tử sau C2H6, C2H2, O2, N2, CO2, CH4 và NH3. Có bao nhiêu phân tử có liên kết đôi và bao nhiêu phân tử có liên kết ba.",
     "answers": ["2 và 2", "3 và 2", "3 và 3", "2 và 3"],
     "correct": 0,
-    "explanation": "Liên kết đôi: O_2 (O=O), CO_2 (O=C=O). Liên kết ba: N_2 (N = N), C_2H_2 (H-C=C-H)."
+    "explanation": "Liên kết đôi: O2 (O=O), CO2 (O=C=O). Liên kết ba: N2 (N = N), C2H2 (H-C=C-H)."
   },
   {
     "question": "Các phân tử nào sau đây có cấu trúc thẳng hàng. CO2(1), H2O(2), C2H2(3), SO2(4), NH3(5), BeH2(6)",
     "answers": ["1,3,4", "1,2,6", "1,5,6", "1, 3 và 6"],
     "correct": 3,
-    "explanation": "CO_2, C_2H_2 và BeH_2 đều có kiểu lai hóa sp, tạo thành góc liên kết 180^c."
+    "explanation": "CO2, C2H2 và BeH2 đều có kiểu lai hóa sp, tạo thành góc liên kết 180^c."
   },
   {
     "question": "Cho quá trình: Na -> Na⁺ + 1e, quá trình này cần cung cấp năng lượng E. E (năng lượng ion hóa thứ nhất) cần các điều kiện sau, ngoại trừ:",
@@ -609,19 +609,19 @@
     "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
     "answers": ["CH4, NH3, H2O", "CH4, NH3, BH3", "BeH2, BH3, C2H4", "BeH2, BH3, C2H2"],
     "correct": 0,
-    "explanation": "Trong CH_4, NH_3, và H_2O, nguyên tử trung tâm đều có tổng số liên kết sigma và cặp electron tự do bằng 4, tương ứng với trạng thái lai hóa sp^3."
+    "explanation": "Trong CH4, NH3, và H2O, nguyên tử trung tâm đều có tổng số liên kết sigma và cặp electron tự do bằng 4, tương ứng với trạng thái lai hóa sp^3."
   },
   {
     "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^2?",
     "answers": ["SO2, BH3, C2H4", "SO2,BH3,NH3", "BH3, C2H4, H2O", "SO2, C2H4, CH4"],
     "correct": 0,
-    "explanation": "Lưu ý: SO_2 và BH_3 là sp^2, nhưng CH_4 là sp^3. các phân tử như SO_2, BH_3, C_2H_4 thường thuộc nhóm lai hóa này."
+    "explanation": "Lưu ý: SO2 và BH3 là sp^2, nhưng CH4 là sp^3. các phân tử như SO2, BH3, C2H4 thường thuộc nhóm lai hóa này."
   },
   {
     "question": "Các hợp chất nào sau đây đều ở trạng thái lai hóa sp^3?",
     "answers": ["BeH2, CO2, C2H2", "BeH2, CO2, NH3", "CO2, C2H2, H2O", "BeH2, C2H2, CH4"],
     "correct": 0,
-    "explanation": "Theo lý thuyết, BeH_2, CO_2, C_2H_2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH_4, NH_3, H_2O mới là nhóm sp^3 điển hình."
+    "explanation": "Theo lý thuyết, BeH2, CO2, C2H2 thực tế là lai hóa sp (cấu trúc thẳng). Có vẻ có sự nhầm lẫn trong đề bài hoặc đáp án gốc, vì CH4, NH3, H2O mới là nhóm sp^3 điển hình."
   },
   {
     "question": "Các orbital lai hóa khác nhau về:",
@@ -657,7 +657,7 @@
     "question": "Hợp chất nào tạo thành bằng các cặp electron chung?",
     "answers": ["NaCl", "LiF", "H2O", "KCl"],
     "correct": 2,
-    "explanation": "H_2O là hợp chất cộng hóa trị, liên kết được hình thành bằng việc góp chung electron giữa H và O."
+    "explanation": "H2O là hợp chất cộng hóa trị, liên kết được hình thành bằng việc góp chung electron giữa H và O."
   },
   {
     "question": "Công thức hóa học nào sau đây biểu thị cho hợp chất ion?",
@@ -684,7 +684,7 @@
     "explanation": "X là K (nhóm IA), Y là Cl (nhóm VIIA). Chúng tạo ra KCl (XY) bằng lực hút tĩnh điện giữa K⁺ và Cl⁻."
   },
   {
-    "question": "Trong phân tử CS_2 có mấy cặp e dùng chung?",
+    "question": "Trong phân tử CS2 có mấy cặp e dùng chung?",
     "answers": ["8", "4", "2", "6"],
     "correct": 1,
     "explanation": "Công thức cấu tạo S=C=S. Mỗi liên kết đôi có 2 cặp e dùng chung, tổng cộng là 4 cặp."
@@ -699,16 +699,16 @@
     "question": "Dãy gồm các chất có cùng kiểu liên kết là:",
     "answers": ["Cl2, Br2, HCl", "HCl, H2S, NaCl", "Na2O, KCl, NH3", "NaHCO3, H2SO4, H3PO4"],
     "correct": 0,
-    "explanation": "Cl_2, Br_2, HCl đều là các hợp chất có liên kết cộng hóa trị."
+    "explanation": "Cl2, Br2, HCl đều là các hợp chất có liên kết cộng hóa trị."
   },
   {
     "question": "Hợp chất nào sau đây chứa đồng thời cả liên kết cộng hóa trị và ion?",
     "answers": ["NaCl", "Na2SO4", "H3PO4", "NaHCO3"],
     "correct": 3,
-    "explanation": "Trong NaHCO_3, liên kết giữa Na⁺ và HCO_3⁻ là liên kết ion, còn trong gốc HCO_3⁻ là các liên kết cộng hóa trị."
+    "explanation": "Trong NaHCO3, liên kết giữa Na⁺ và HCO3⁻ là liên kết ion, còn trong gốc HCO3⁻ là các liên kết cộng hóa trị."
   },
   {
-    "question": "Trong phân tử CCl_4 có mấy cặp electron dùng chung?",
+    "question": "Trong phân tử CCl4 có mấy cặp electron dùng chung?",
     "answers": ["2", "4", "8", "6"],
     "correct": 1,
     "explanation": "Cacbon tạo 4 liên kết đơn với 4 nguyên tử Clo, tương ứng với 4 cặp electron dùng chung."
@@ -741,7 +741,7 @@
     "question": "Năng lượng liên kết càng lớn thì liên kết càng bền.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Năng lượng liên kết (E_l) là đại lượng đặc trưng cho độ bền của liên kết."
+    "explanation": "Đúng. Năng lượng liên kết (El) là đại lượng đặc trưng cho độ bền của liên kết."
   },
   {
     "question": "Theo thuyết VB, khi hình thành liên kết cộng hóa trị sự xen phủ các orbital càng lớn thì liên kết càng bền.",
@@ -786,28 +786,28 @@
     "explanation": "Đúng. Liên kết ba bền hơn liên kết đôi, và liên kết đôi bền hơn liên kết đơn."
   },
   {
-    "question": "Góc liên kết trong phân tử CH_4 là 120^C.",
+    "question": "Góc liên kết trong phân tử CH4 là 120^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. CH_4 có cấu trúc tứ diện đều với góc liên kết là 109,5^C."
+    "explanation": "Sai. CH4 có cấu trúc tứ diện đều với góc liên kết là 109,5^C."
   },
   {
-    "question": "Góc liên kết trong phân tử BH_3 là 180^C.",
+    "question": "Góc liên kết trong phân tử BH3 là 180^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. BH_3 lai hóa sp^2 nên có góc liên kết là 120^C (tam giác phẳng)."
+    "explanation": "Sai. BH3 lai hóa sp^2 nên có góc liên kết là 120^C (tam giác phẳng)."
   },
   {
-    "question": "Góc liên kết trong phân tử BeH_2 là 109^C.",
+    "question": "Góc liên kết trong phân tử BeH2 là 109^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
-    "explanation": "Sai. BeH_2 lai hóa sp nên có cấu trúc thẳng hàng với góc 180^C."
+    "explanation": "Sai. BeH2 lai hóa sp nên có cấu trúc thẳng hàng với góc 180^C."
   },
   {
-    "question": "Góc liên kết trong phân tử CO_2 là 180^C.",
+    "question": "Góc liên kết trong phân tử CO2 là 180^C.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
-    "explanation": "Đúng. Phân tử CO_2 có cấu trúc thẳng hàng (O=C=O)."
+    "explanation": "Đúng. Phân tử CO2 có cấu trúc thẳng hàng (O=C=O)."
   },
   {
     "question": "Lai hóa sp^3 có góc liên kết là 180^C.",
@@ -882,7 +882,7 @@
     "explanation": "Đúng. Vì Clo có độ âm điện lớn hơn Hydro nên nó hút cặp e về phía mình mạnh hơn."
   },
   {
-    "question": "Trong phân tử CO_2 cặp electron dùng chung không bị lệch.",
+    "question": "Trong phân tử CO2 cặp electron dùng chung không bị lệch.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
     "explanation": "Đúng. Mặc dù liên kết C=O có cực, nhưng do cấu trúc thẳng đối xứng nên các momen lưỡng cực triệt tiêu nhau, khiến phân tử không phân cực."
@@ -906,109 +906,115 @@
     "explanation": "Sai. Theo thuyết VB, hai electron độc thân tham gia ghép đôi phải có spin trái dấu (đối song song) để tạo thành cặp electron dùng chung."
   },
   {
-    "question": "Hiệu ứng nhiệt của phản ứng và nhiệt sinh của CaO và H2O như sau: <br> CaO + H2O -> Ca(OH)2 Delta H = -15,26 Kcal. <br> -151,8   -53,3    ??? <br>Tính Delta H⁰_S của Ca(OH)2.",
+    "question": "Hiệu ứng nhiệt của phản ứng và nhiệt sinh của CaO và H2O như sau: <br> CaO   + H2O -> Ca(OH)2 Δ H = -15,26 Kcal. <br> -151,8     -53,3    ??? <br>Tính Δ H⁰S của Ca(OH)2.",
     "answers": ["-230,36", "-199,84", "230,36", "199,84"],
     "correct": 0,
-    "explanation": "Áp dụng định luật Hess: Δ H = Δ H^0_{S,Ca(OH)_2} - (Δ H^0_{S,CaO} + Δ H^0_{S,H_2O}). Suy ra Δ H^0_{S,Ca(OH)_2} = -15,26 + (-151,8 - 63,3) = -230,36 Kcal/mol."
+    "explanation": "Áp dụng định luật Hess: Δ H = Δ H^0{S,Ca(OH)2} - (Δ H^0{S,CaO} + Δ H^0{S,H2O}). Suy ra Δ H^0{S,Ca(OH)2} = -15,26 + (-151,8 - 63,3) = -230,36 Kcal/mol."
   },
   {
-    "question": "Biết hiệu ứng nhiệt phản ứng cháy Glucose như sau: C6H12O6 + 6O2 -> 6CO2(k) + 6H2O(h) ????           -94,1     -63,3 là -673 Kcal. Tính nhiệt sinh chuẩn của Glucose.",
+    "question": "Biết hiệu ứng nhiệt phản ứng cháy Glucose như sau:<br>C6H12O6   + 6O2   -> 6CO2(k)   + 6H2O(h)<br>????           -94,1     -63,3 là -673 Kcal. <br> Tính nhiệt sinh chuẩn của Glucose.",
     "answers": ["515,6", "-515,6", "-271,4", "-271,6"],
     "correct": 2,
-    "explanation": "Δ H = [6Δ H^0_{S,CO_2} + 6Δ H^0_{S,H_2O}] - Δ H^0_{S,C_6H_{12}O_6}. Thay số: -673 = [6(-94,1) + 6(-68,3)] - X -> X = -271,4 Kcal/mol."
+    "explanation": "Δ H = [6Δ H^0{S,CO2} + 6Δ H^0{S,H2O}] - Δ H^0{S,C6H{12}O6}. Thay số: -673 = [6(-94,1) + 6(-68,3)] - X -> X = -271,4 Kcal/mol."
   },
   {
-    "question": "Khi khử Fe2O3 bằng Al, cứ khử được 47,87g Fe2O3 (M=160) thì thoát ra 254,08kJ. Delta H⁰298 (kJ) của phản ứng là:",
+    "question": "Khi khử Fe2O3 bằng Al, cứ khử được 47,87g Fe2O3 (M=160) thì thoát ra 254,08kJ. Δ H⁰298 (kJ) của phản ứng là:",
     "answers": ["846,9", "-846,9", "-1027,4", "1207,4"],
     "correct": 0,
-    "explanation": "Số mol Fe_2O_3 = 47,87 / 160 = 0,299 mol. Hiệu ứng nhiệt cho 1 mol phản ứng là: Q = 254,08 / 0,299 = 849,2 kJ. Tùy vào quy ước dấu (thoát ra là dương hay âm), đáp án gần nhất là 846,9."
+    "explanation": "Số mol Fe2O3 = 47,87 / 160 = 0,299 mol. Hiệu ứng nhiệt cho 1 mol phản ứng là: Q = 254,08 / 0,299 = 849,2 kJ. Tùy vào quy ước dấu (thoát ra là dương hay âm), đáp án gần nhất là 846,9."
   },
   {
-    "question": "Những phản ứng nào có Delta H < Delta U?",
+    "question": "Những phản ứng nào có Δ H < Δ U?",
     "answers": ["1 và 2", "3 và 4", "2 và 3", "1 và 3"],
     "correct": 3,
     "explanation": "Ta có Δ H = Δ U + Δ nRT. Để Δ H < Δ U thì biến thiên số mol khí Δ n < 0. Phản ứng 1 (Δ n = -0.5) và phản ứng 3 (Δ n = -2) thỏa mãn."
   },
   {
-    "question": "Tính Delta G⁰ của phản ứng C2H4 + H2O(l) -> C2H5OH(l).",
-    "answers": ["Delta G⁰pu = -2 và thuận", "Delta G⁰pu = -2 và nghịch", "Delta G⁰pu = -70,9 và thuận", "Delta G⁰pu = 2 và nghịch"],
+    "question": "Tính Δ G⁰ của phản ứng:<br> C2H4   + H2O(l) -> C2H5OH(l). <br>16,3   -54,6    -40,3 ",
+    "answers": ["Δ G⁰pu = -2 và thuận", "Δ G⁰pu = -2 và nghịch", "Δ G⁰pu = -70,9 và thuận", "Δ G⁰pu = 2 và nghịch"],
     "correct": 0,
-    "explanation": "Δ G^0_{pu} = Δ G^0_{S,C_2H_5OH} - (Δ G^0_{S,C_2H_4} + Δ G^0_{S,H_2O}) = -40,3 - (16,3 - 54,6) = -2 kcal/mol. Vì Δ G < 0 nên phản ứng tự xảy ra chiều thuận."
+    "explanation": "Δ G^0{pu} = Δ G^0{S,C2H5OH} - (Δ G^0{S,C2H4} + Δ G^0{S,H2O}) = -40,3 - (16,3 - 54,6) = -2 kcal/mol. Vì Δ G < 0 nên phản ứng tự xảy ra chiều thuận."
   },
   {
-    "question": "Phản ứng nào có Delta H xấp xỉ Delta U?",
+    "question": "Cho các phản ứng sau: <br>N2(k) + 3H2(k) -> 2NH3(k) <br> Cgr + CO2(k) -> 2CO(k) <br> CaCO3(r) -> CaO(r) + CO2(K) <br> FeO3(r) + 3CO(k) -> 2Fe(r) + 3CO(k) <br>Phản ứng nào có Δ H > Δ U?",
     "answers": ["2 và 3", "1 và 2", "3 và 4", "1 và 4"],
     "correct": 0,
     "explanation": "Δ H = Δ U khi Δ n = 0. Tuy nhiên, trong nhiệt động học, các phản ứng có sự thay đổi số mol khí rõ rệt thường có sự khác biệt lớn. Đáp án 2 và 3 có sự tạo thành/tiêu thụ khí đáng kể."
   },
   {
-    "question": "Phản ứng FeO(r) + CO(k) <=> Fe(r) + CO2(k) có Delta n bằng:",
+    "question": "Phản ứng FeO(r) + CO(k) <=> Fe(r) + CO2(k) có Δ n bằng:",
     "answers": ["1-1=0", "2-2=0", "2-0", "0"],
     "correct": 0,
-    "explanation": "Δ n chỉ tính cho các chất ở thể khí. Δ n = n_{CO_2} - n_{CO} = 1 - 1 = 0."
+    "explanation": "Δ n chỉ tính cho các chất ở thể khí. Δ n = n{CO2} - n{CO} = 1 - 1 = 0."
   },
   {
-    "question": "Cho Q_p = -241,6kJ tại 298K. Tính Delta U cho phản ứng H2(k) + 1/2O2(k) = H2O(l).",
+    "question": "Cho Qp = -241,6kJ tại 298K. Tính Δ U cho phản ứng H2(k) + 1/2O2(k) = H2O(l).",
     "answers": ["-240,36kJ", "-240,88kJ", "-239,2kJ", "-242,8kJ"],
     "correct": 0,
-    "explanation": "Δ U = Q_p - Δ nRT = -241,6 - (-0,5 x 8,314 x 10^{-3} x 298) = -240,36 kJ."
+    "explanation": "Δ U = Qp - Δ nRT = -241,6 - (-0,5 x 8,314 x 10^{-3} x 298) = -240,36 kJ."
   },
   {
-    "question": "Cho phản ứng tạo ra khí CO2, quan hệ giữa Q_p và Q_v là:",
-    "answers": ["Q_p = Q_v", "Q_p > Q_v", "Q_p < Q_v", "Không xác định"],
+    "question": "CaCO3(r) + HCl(l) = CaCl(l) + H2O(l) + CO2(k) <br> Coi khí là lý tưởng. Ở 298⁰K, quan hệ giữa Qp và Qv",
+    "answers": ["Qp = Qv", "Qp > Qv", "Qp < Qv", "Không xác định"],
     "correct": 1,
-    "explanation": "Vì phản ứng tạo ra thêm 1 mol khí (Δ n = 1 > 0) nên Q_p = Q_v + Δ nRT -> Q_p > Q_v."
+    "explanation": "Vì phản ứng tạo ra thêm 1 mol khí (Δ n = 1 > 0) nên Qp = Qv + Δ nRT -> Qp > Qv."
   },
   {
-    "question": "Tính biến thiên nội năng cho phản ứng tạo C2H2(k) biết Delta H = -130,12kJ ở 298K.",
+    "question": "Cho phản ứng ở 25 C, 1 atm <br> CaC2(r) + 2H2O(1) = C2H2(k) + Ca(OH)2 (1) <br> Tính biến thiên nội năng cho phản ứng tạo C2H2(k) biết Δ H = -130,12kJ ở 298K.",
     "answers": ["-132,6kJ", "132,65kJ", "127,65kJ", "-127,65kJ"],
     "correct": 0,
     "explanation": "Δ U = Δ H - Δ nRT = -130,12 - (1 x 8,314 x 10^{-3} x 298) = -132,6 kJ."
   },
   {
-    "question": "Hệ có Delta U luôn luôn bằng 0 là hệ:",
+    "question": "Hệ có Δ U luôn luôn bằng 0 là hệ:",
     "answers": ["Cô lập", "Kín", "Hở", "Đoạn nhiệt"],
     "correct": 0,
     "explanation": "Hệ cô lập không trao đổi vật chất và năng lượng với môi trường, nên nội năng của nó được bảo toàn (Δ U = 0)."
   },
   {
-    "question": "Phản ứng nào biểu thị nhiệt sinh chuẩn (Delta H⁰_S) của một chất?",
+    "question": "Phản ứng nào biểu thị nhiệt sinh chuẩn (Δ H⁰S) của một chất?",
     "answers": ["MgCO3 -> MgO + CO2", "2H2 + O2 -> 2H2O", "H2 + 1/2O2 -> H2O", "Cả 3 phương trình"],
     "correct": 2,
     "explanation": "Nhiệt sinh chuẩn là hiệu ứng nhiệt tạo thành 1 mol chất từ các đơn chất bền vững ở điều kiện chuẩn."
   },
   {
-    "question": "Tính hiệu ứng nhiệt phản ứng cháy CH3OH(l) dựa trên nhiệt sinh.",
+    "question": "Cho phản ứng: <br>CH3OH(h) + 3/2O2(k)   ->  CO2(k)  +  2H2O(h) <br>-201,17          -393,51     -241,83 <br> Tính hiệu ứng nhiệt phản ứng cháy CH3OH(l) dựa trên nhiệt sinh.",
     "answers": ["-776,4kJ", "-676,0kJ", "-434,17kJ", "-434,17kJ"],
     "correct": 1,
     "explanation": "Δ H = [-393,51 + 2(-241,83)] - [-201,17] = -676 kJ."
   },
   {
-    "question": "Cho 2 phản ứng ngược nhau của PCl5, nhiệt sinh chuẩn của PCl5 là:",
+    "question": "Cho các phản ứng xảy ra ở điều kiện chuẩn:<br> 2P + 3Cl2 =2PCl3  ΔH = x (kj)<br> PCl3 + Cl2 = PCl5 ΔH= y(kJ)<br>Vậy nhiệt sinh chuẩn của PCl5: ",
     "answers": ["x+y", "x-y", "x", "1/2 x + y"],
     "correct": 2,
-    "explanation": "Nếu phản ứng (1) là tạo thành PCl_5 từ các hợp chất trung gian với Δ H = x, thì nhiệt sinh chuẩn của nó liên quan trực tiếp đến giá trị này."
+    "explanation": "Nếu phản ứng (1) là tạo thành PCl5 từ các hợp chất trung gian với Δ H = x, thì nhiệt sinh chuẩn của nó liên quan trực tiếp đến giá trị này."
   },
   {
-    "question": "Tính hiệu ứng nhiệt phản ứng: C + 2N2O -> CO2 + 2N2.",
+    "question": "Tính hiệu ứng nhiệt phản ứng:<br> C + 2N2O -> CO2 + 2N2<br>      81,5        -393,51<br> Vậy hiệu ứng nhiệt cảu phản ứng là:",
     "answers": ["-556,51kJ", "556,51kJ", "230,51", "-230,51"],
     "correct": 0,
-    "explanation": "Δ H = [Δ H_{S,CO_2} + 0] - [0 + 2Δ H_{S,N_2O}] = -393,51 - 2(81,5) = -556,51 kJ."
+    "explanation": "Δ H = [Δ H{S,CO2} + 0] - [0 + 2Δ H{S,N2O}] = -393,51 - 2(81,5) = -556,51 kJ."
+  },
+ {
+    "question": "ΔH⁰298 ghi trong các phản ứng sau, giá trị nào là ΔH⁰298 ",
+    "answers": ["C_gr + 1/2O2(k) = CO(k)","2H2(k) + O2(k) + 2H2O(l)","C_gr + O2(k) = CO2(k)","Cả 3 deeuf là ΔH⁰298"],
+    "correct": 2,
+    "explanation": "CO không phải là oxit mạnh nhất, phản ứng toạ H2O có 2 mol H2,"
   },
   {
     "question": "Nhiệt sinh chuẩn của C2H5OH tính theo nhiệt cháy a, b, c là:",
     "answers": ["a+2c+3b", "a+b+c", "2c + 3b - a", "c+a-b"],
     "correct": 2,
-    "explanation": "Δ H_{pu} = sum Δ H_{cháy, tg} - sum Δ H_{cháy, sp}. Với phản ứng tạo thành C_2H_5OH: 2C + 3H_2 -> C_2H_5OH, ta có Δ H_S = 2c + 3b - a."
+    "explanation": "Δ H{pu} = sum Δ H{cháy, tg} - sum Δ H{cháy, sp}. Với phản ứng tạo thành C2H5OH: 2C + 3H2 -> C2H5OH, ta có Δ HS = 2c + 3b - a."
   },
   {
-    "question": "Phản ứng nào có Delta H = Delta U?",
+    "question": "Cho các phản ứng:<br>C_gr + O(k) -> CO2(k) <br> C_gr + O2(k) -> 2CO2(k)<br>CH4(k) + 2O2(K) + 2H2O(l)<br>Fe2O3(r) + 3CO(k) -> 2Fe(r) + 3CO2(k)<br>Phản ứng nào có Δ H = Δ U?",
     "answers": ["2 và 3", "1 và 2", "1 và 4", "1 và 3"],
     "correct": 2,
     "explanation": "Δ H = Δ U khi Δ n = 0. Phản ứng 1 (Δ n = 1-1=0) và phản ứng 4 (Δ n = 3-3=0) thỏa mãn."
   },
   {
-    "question": "Năng lượng của hệ gồm các phần sau, ngoại trừ:",
+    "question": "Năng lượng của hệ gồm 3 phẩn, ngoại trừ:",
     "answers": ["Động năng", "Thế năng", "Nội năng", "Hóa năng"],
     "correct": 3,
     "explanation": "Năng lượng toàn phần của hệ bao gồm động năng, thế năng và nội năng. Hóa năng thực chất là một phần của nội năng."
@@ -1026,7 +1032,7 @@
     "explanation": "Sai. Hệ kín là hệ có trao đổi năng lượng nhưng KHÔNG trao đổi vật chất."
   },
   {
-    "question": "Cơ chế chế tạo được động cơ vĩnh cửu loại 1.",
+    "question": "Có chế chế tạo được động cơ vĩnh cửu loại 1.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
     "explanation": "Sai. Theo nguyên lý I nhiệt động lực học, không thể chế tạo được động cơ vĩnh cửu loại 1 (sinh công mà không tiêu tốn năng lượng)."
@@ -1104,7 +1110,7 @@
     "explanation": "Đúng. Đây là định nghĩa về nhiệt cháy chuẩn của một chất."
   },
   {
-    "question": "Nhiệt lại chỉ có thể biến một phần thành các dạng năng lượng khác.",
+    "question": "Trong khi các dạng năng lượng khác có thể biến hoàn toàn thành nhiệt thì Nhiệt lại chỉ có thể biến một phần thành các dạng năng lượng khác.",
     "answers": ["Đúng.", "Sai."],
     "correct": 0,
     "explanation": "Đúng. Theo nguyên lý II, sự chuyển hóa từ nhiệt sang công luôn kèm theo sự tổn thất nhiệt cho nguồn lạnh."
@@ -1140,7 +1146,7 @@
     "explanation": "Tăng 30°C tương đương 3 lần khoảng 10°C. Tốc độ tăng 3^3 = 27 lần. Thời gian: 918 / 27 = 34 phút."
   },
   {
-    "question": "Phản ứng nào giảm nhiệt độ thì cân bằng dịch chuyển sang phải?",
+    "question": "Phản ứng nào giảm nhiệt độ thì cân bằng dịch chuyển sang phải?<br>Cl2(k) + H2 (k) -> 2HCl(k) ΔH= -45,3 Kcal (1)<br>CO(k) + H2O(h) -> CO2(k) + H2(k)  ΔH= -10 Kcal (2)<br>C(r) + H2O(h) = CO(k) + H2(k) ΔH= 31,44 Kcal (3)<br>2NH3(k) = 3H2(k) + N2 ΔH= 22,08 Kcal (4)",
     "answers": ["1, 2", "3, 4", "1, 3", "2, 4"],
     "correct": 0,
     "explanation": "Khi giảm nhiệt độ, cân bằng dịch chuyển theo chiều tỏa nhiệt (Δ H < 0). Phản ứng 1 và 2 có Δ H âm."
@@ -1155,7 +1161,7 @@
     "question": "Phản ứng mà khi lấy bớt H2 thì cân bằng dịch chuyển theo chiều nghịch?",
     "answers": ["1", "1, 2, 3", "2, 3, 4", "2, 3, 4"],
     "correct": 0,
-    "explanation": "Theo nguyên lý Le Chatelier, lấy bớt chất tham gia (H_2) làm cân bằng dịch chuyển theo chiều chống lại sự giảm đó (chiều nghịch). Phản ứng 1 có H_2 ở vế trái."
+    "explanation": "Theo nguyên lý Le Chatelier, lấy bớt chất tham gia (H2) làm cân bằng dịch chuyển theo chiều chống lại sự giảm đó (chiều nghịch). Phản ứng 1 có H2 ở vế trái."
   },
   {
     "question": "Ở 150°C phản ứng xong trong 16 phút, ở 100°C phản ứng xong trong bao lâu (hệ số nhiệt độ = 2)?",
@@ -1167,13 +1173,13 @@
     "question": "Tăng nồng độ O2 lên 4 lần trong phản ứng 2NO + O2 -> 2NO2 (đơn giản) thì tốc độ phản ứng:",
     "answers": ["Tăng 4 lần", "Giảm 4 lần", "Tăng 8 lần", "Tăng 16 lần"],
     "correct": 0,
-    "explanation": "Biểu thức tốc độ: v = k[NO]^2[O_2]. Khi [O_2] tăng 4 lần thì v tăng 4 lần."
+    "explanation": "Biểu thức tốc độ: v = k[NO]^2[O2]. Khi [O2] tăng 4 lần thì v tăng 4 lần."
   },
   {
     "question": "Giảm nồng độ NO xuống 2 lần thì tốc độ phản ứng 2NO + O2 -> 2NO2 thay đổi như thế nào?",
     "answers": ["Giảm 4 lần", "Giảm 2 lần", "Tăng 4 lần", "Giảm 8 lần"],
     "correct": 0,
-    "explanation": "v = k[NO]^2[O_2]. Khi [NO] giảm 2 lần thì v giảm 2^2 = 4 lần."
+    "explanation": "v = k[NO]^2[O2]. Khi [NO] giảm 2 lần thì v giảm 2^2 = 4 lần."
   },
   {
     "question": "Hằng số cân bằng phụ thuộc vào:",
@@ -1188,7 +1194,7 @@
     "explanation": "Vận tốc trung bình được tính bằng biến thiên nồng độ chia cho khoảng thời gian: v = |Δ C| / Δ t."
   },
   {
-    "question": "Tính vận tốc trung bình của phản ứng: C_2H_5Br + KOH -> C_2H_5OH + KBr, biết nồng độ KOH giảm từ 0,07M xuống 0,04M sau 30 phút.",
+    "question": "Tính vận tốc trung bình của phản ứng: C2H5Br + KOH -> C2H5OH + KBr, biết nồng độ KOH giảm từ 0,07M xuống 0,04M sau 30 phút.",
     "answers": ["1.10⁻³ mol/l.phút", "1.10⁻⁴ mol/l.phút", "3.10⁻³ mol/l.phút", "3.10⁻⁴ mol/l.phút"],
     "correct": 0,
     "explanation": "Vận tốc trung bình v = -frac{Δ C}{Δ t} = -frac{0,04 - 0,07}{30} = frac{0,03}{30} = 0,001 = 1.10^{-3} mol/l.phút."
@@ -1206,7 +1212,7 @@
     "explanation": "Chất xúc tác làm thay đổi cơ chế phản ứng, tạo ra con đường mới có năng lượng hoạt hóa thấp hơn, giúp số va chạm hiệu quả tăng lên."
   },
   {
-    "question": "Biện pháp nào sau đây không làm tăng tốc độ phản ứng giữa đá vôi (CaCO_3) và dung dịch HCl?",
+    "question": "Biện pháp nào sau đây không làm tăng tốc độ phản ứng giữa đá vôi (CaCO3) và dung dịch HCl?",
     "answers": ["Thay đá vôi bằng 10g bột đá vôi", "Tăng nhiệt độ của phản ứng", "Tăng thể tích dung dịch HCl 10% giữ nguyên nồng độ", "Thay dung dịch HCl 10% bằng dung dịch HCl 20%"],
     "correct": 2,
     "explanation": "Việc tăng thể tích dung dịch mà không thay đổi nồng độ thì số lượng va chạm trên một đơn vị thể tích không đổi, nên tốc độ phản ứng không đổi."
@@ -1323,16 +1329,16 @@
     "question": "Một dung dịch chứa 17,1g chất tan không bay hơi trong 500g nước đông đặc ở -0,186°C. Khối lượng mol của chất tan? Biết Kđ = 1,86",
     "answers": ["342g", "171g", "340g", "170g"],
     "correct": 0,
-    "explanation": "Dựa vào công thức ΔT = Kđ·Cm, tính Cm = ΔT/Kđ. Từ Cm = n/m_dung_môi, ta tính số mol chất tan và khối lượng mol M = m/n."
+    "explanation": "Dựa vào công thức ΔT = Kđ·Cm, tính Cm = ΔT/Kđ. Từ Cm = n/mdungmôi, ta tính số mol chất tan và khối lượng mol M = m/n."
   },
   {
     "question": "Một dung dịch chứa 17,1g chất tan không bay hơi trong 500g nước đông đặc ở -0,186°C Tính nhiệt độ sôi của dung dịch? Biết Kđ = 1,86 và Ks = 0,52.",
     "answers": ["100,052°C", "0,052°C", "99,948°C", "100°C"],
     "correct": 0,
-    "explanation": "Sau khi tính Cm từ ΔT = Kđ·Cm, dùng công thức ΔT_sôi = Ks·Cm để tìm độ tăng nhiệt độ sôi. Nhiệt độ sôi dung dịch = 100 + ΔT_sôi."
+    "explanation": "Sau khi tính Cm từ ΔT = Kđ·Cm, dùng công thức ΔTsôi = Ks·Cm để tìm độ tăng nhiệt độ sôi. Nhiệt độ sôi dung dịch = 100 + ΔTsôi."
   },
   {
-    "question": "Dung dịch nước của một chất A không điện li 0,192g trong 100ml dung dịch ở 32°C, có áp suất thẩm thấu bằng bao nhiêu? Biết M_A = 60g.",
+    "question": "Dung dịch nước của một chất A không điện li 0,192g trong 100ml dung dịch ở 32°C, có áp suất thẩm thấu bằng bao nhiêu? Biết MA = 60g.",
     "answers": ["0,8at", "0,084at"],
     "correct": 0,
     "explanation": "Áp suất thẩm thấu π = C·R·T, trong đó C = n/V = (m/M)/V. Thay số vào công thức để tính π (đơn vị at)."
@@ -1347,13 +1353,13 @@
     "question": "Phải lấy bao nhiêu gam glucose tan trong 150g nước để hạ nhiệt độ đông đặc của dung dịch thu được xuống 0,75°C. Biết Kđ = 1,86",
     "answers": ["10,89g", "12,5g", "60,48g", "8,9g"],
     "correct": 0,
-    "explanation": "Từ ΔT = Kđ·Cm ⇒ Cm = ΔT/Kđ. Với Cm = n/m_dung_môi, ta suy ra số mol và khối lượng chất tan cần thiết."
+    "explanation": "Từ ΔT = Kđ·Cm ⇒ Cm = ΔT/Kđ. Với Cm = n/mdungmôi, ta suy ra số mol và khối lượng chất tan cần thiết."
   },
   {
     "question": "Dung dịch glucose có độ hạ điểm đông là 0,930°. Nhiệt độ sôi của dung dịch là bao nhiêu? Biết Kđ = 1,86 và Ks = 0,52.",
     "answers": ["100,26°C", "100,026°C", "0,26°C", "0,026°C"],
     "correct": 0,
-    "explanation": "Từ ΔT_đ = Kđ·Cm ⇒ Cm = ΔT_đ/Kđ. Sau đó ΔT_s = Ks·Cm. Nhiệt độ sôi dung dịch = 100 + ΔT_s."
+    "explanation": "Từ ΔTđ = Kđ·Cm ⇒ Cm = ΔTđ/Kđ. Sau đó ΔTs = Ks·Cm. Nhiệt độ sôi dung dịch = 100 + ΔTs."
   },
   {
     "question": "Không thể sử dụng phương pháp sau để xác định khối lượng mol của chất.",
@@ -1362,16 +1368,16 @@
     "explanation": "Đo thể tích dung dịch không cho biết số mol hoặc nồng độ, nên không thể xác định khối lượng mol của chất."
   },
   {
-    "question": "Dung dịch chứa 0,217gam lưu huỳnh trong 19,31gam CS₂ có độ tăng điểm sôi là 0,104°; Ks(CS₂) là 2,37. Xác định số nguyên tử lưu huỳnh trong một phân tử khi tan trong CS₂. Biết M_S = 32.",
+    "question": "Dung dịch chứa 0,217gam lưu huỳnh trong 19,31gam CS₂ có độ tăng điểm sôi là 0,104°; Ks(CS₂) là 2,37. Xác định số nguyên tử lưu huỳnh trong một phân tử khi tan trong CS₂. Biết MS = 32.",
     "answers": ["6", "7", "8", "9"],
     "correct": 2,
     "explanation": "Dùng công thức ΔT = Ks·Cm để tính Cm, từ đó suy ra khối lượng mol M của chất tan. So sánh M với 32·n để tìm n (số nguyên tử S trong phân tử)."
   },
   {
     "question": "Các kí hiệu của các loại nồng độ, ngoại trừ",
-    "answers": ["C_M", "C_n", "C_m", "C_%", "C_p"],
+    "answers": ["CM", "Cn", "Cm", "C%", "Cp"],
     "correct": 4,
-    "explanation": "Các ký hiệu chuẩn gồm: C_M (mol/lít), C_m (molal), C_% (phần trăm khối lượng), C_n không phổ biến; C_p không phải ký hiệu dùng cho nồng độ dung dịch."
+    "explanation": "Các ký hiệu chuẩn gồm: CM (mol/lít), Cm (molal), C% (phần trăm khối lượng), Cn không phổ biến; Cp không phải ký hiệu dùng cho nồng độ dung dịch."
   },
   {
     "question": "Mệnh đề nào sai khi nói về áp suất hơi của chất lỏng:",
@@ -1386,9 +1392,9 @@
   },
   {
     "question": "Mệnh đề nào sai",
-    "answers": ["K_s là hằng số nghiệm sôi", "K_đ là hằng số nghiệm đông", "K_s và K_đ chỉ phụ thuộc vào dung môi.", "K_s và K_đ chỉ phụ thuộc vào chất tan."],
+    "answers": ["Ks là hằng số nghiệm sôi", "Kđ là hằng số nghiệm đông", "Ks và Kđ chỉ phụ thuộc vào dung môi.", "Ks và Kđ chỉ phụ thuộc vào chất tan."],
     "correct": 3,
-    "explanation": "K_s và K_đ là hằng số đặc trưng cho dung môi, không phụ thuộc vào chất tan."
+    "explanation": "Ks và Kđ là hằng số đặc trưng cho dung môi, không phụ thuộc vào chất tan."
   },
   {
     "question": "Khi xác định đương lượng gam của chất ta sử dụng công thức E = M/n, cách xác định n sai?",
@@ -1474,7 +1480,7 @@
     "explanation": "Đúng. Từ công thức π = (n/V)·R·T, có thể tính số mol và suy ra khối lượng mol M = m/n khi biết áp suất thẩm thấu π."
   },
   {
-    "question": "Một chất lỏng sôi khi P_hơi bão hòa = P_khí quyển",
+    "question": "Một chất lỏng sôi khi Phơi bão hòa = Pkhí quyển",
     "answers": ["Đúng", "Sai"],
     "correct": 0,
     "explanation": "Đúng. Khi áp suất hơi bão hòa của chất lỏng bằng áp suất khí quyển bên ngoài, chất lỏng bắt đầu sôi."
@@ -1504,7 +1510,7 @@
     "explanation": "Nồng độ ion H⁺ = C·α = 0,05·0,4 = 0,02M."
   },
   {
-    "question": "Nồng độ H⁺ trong dung dịch CH₃COOH 1M có K_a = 10⁻⁴·⁷⁵",
+    "question": "Nồng độ H⁺ trong dung dịch CH₃COOH 1M có Ka = 10⁻⁴·⁷⁵",
     "answers": [
       "10⁻⁴·⁷⁵M",
       "1,32×10⁻³M",
@@ -1512,7 +1518,7 @@
       "10⁻²·³⁷M"
     ],
     "correct": 2,
-    "explanation": "Với CH₃COOH là axit yếu, có [H⁺] ≈ √(K_a × C). Thay K_a = 10⁻⁴·⁷⁵ và C = 1M → [H⁺] = √(10⁻⁴·⁷⁵) = 10⁻²·³⁷⁵M."
+    "explanation": "Với CH₃COOH là axit yếu, có [H⁺] ≈ √(Ka × C). Thay Ka = 10⁻⁴·⁷⁵ và C = 1M → [H⁺] = √(10⁻⁴·⁷⁵) = 10⁻²·³⁷⁵M."
   },
   {
     "question": "Một dung dịch chứa 0,2mol Na⁺, 0,1mol Mg²⁺, 0,005mol Ca²⁺, 0,15mol HCO₃⁻ và x mol Cl⁻. Giá trị x là",
@@ -1947,7 +1953,7 @@
     "explanation": "E°pin = -0,44 - 0,34 = -0,78V < 0, phản ứng không xảy ra theo chiều thuận mà theo chiều nghịch."
   },
   {
-    "question": "Một pin gồm điện cực Ag nhúng vào dung dịch AgNO₃ 1M và một điện cực Cu nhúng vào dung dịch Cu(NO₃)₂ 1M. Cho biết suất điện động E_pin 0,442V, kí hiệu của pin là Ag/AgNO₃//Cu(NO₃)₂/Cu",
+    "question": "Một pin gồm điện cực Ag nhúng vào dung dịch AgNO₃ 1M và một điện cực Cu nhúng vào dung dịch Cu(NO₃)₂ 1M. Cho biết suất điện động Epin 0,442V, kí hiệu của pin là Ag/AgNO₃//Cu(NO₃)₂/Cu",
     "answers": ["Đúng", "Sai"],
     "correct": 1,
     "explanation": "Trong pin, cực dương là Ag (có thế khử cao hơn), cực âm là Cu. Kí hiệu đúng là: Cu/Cu(NO₃)₂//AgNO₃/Ag."
@@ -2415,13 +2421,13 @@
       "Tất cả đều Đúng"
     ],
     "correct": 2,
-    "explanation": "Dãy đồng đẳng của rượu etylic là các ancol no, đơn chức, mạch hở có công thức tổng quát là C_nH_{2n+1}OH."
+    "explanation": "Dãy đồng đẳng của rượu etylic là các ancol no, đơn chức, mạch hở có công thức tổng quát là CnH{2n+1}OH."
   },
   {
     "question": "Công thức nào sau đây là công thức của rượu no, mạch hở chính xác nhất?",
     "answers": [
-      "R(OH)_n",
-      "CnH2n+2O_x",
+      "R(OH)n",
+      "CnH2n+2Ox",
       "CnH2n+2-x(OH)x",
       "CnH2n+2O"
     ],
@@ -2481,7 +2487,7 @@
       "CnH2n+1OH"
     ],
     "correct": 1,
-    "explanation": "Khối lượng nước tách ra là 18,5 - 14 = 4,5g (0,25 mol). Suy ra M_{ancol} = 18,5 / 0,25 = 74. Công thức C_4H_9OH thỏa mãn."
+    "explanation": "Khối lượng nước tách ra là 18,5 - 14 = 4,5g (0,25 mol). Suy ra M{ancol} = 18,5 / 0,25 = 74. Công thức C4H9OH thỏa mãn."
   },
   {
     "question": "Cho m(g) ancol no đơn chức tác dụng Na dư thu 4,48l khí (đktc), tách nước nội phân tử thu 22,4g anken. Tính m:",
@@ -2492,7 +2498,7 @@
       "29,6g"
     ],
     "correct": 3,
-    "explanation": "n_{khí} = 0,2 mol -> n_{ancol} = 0,4 mol. Khối lượng ancol m = m_{anken} + m_{H2O} = 22,4 + (0,4 x 18) = 29,6g."
+    "explanation": "n{khí} = 0,2 mol -> n{ancol} = 0,4 mol. Khối lượng ancol m = m{anken} + m{H2O} = 22,4 + (0,4 x 18) = 29,6g."
   },
   {
     "question": "Oxi hóa 13,8g ancol no đơn chức X thu được 13,2g anđehit. Hiệu suất 100%. Cấu tạo của X là:",
@@ -2503,7 +2509,7 @@
       "CH3-CH(OH)-CH3"
     ],
     "correct": 2,
-    "explanation": "Độ giảm khối lượng là 2H. n_{ancol} = (13,8 - 13,2) / 2 = 0,3 mol. M_{ancol} = 13,8 / 0,3 = 46 (C_2H_5OH)."
+    "explanation": "Độ giảm khối lượng là 2H. n{ancol} = (13,8 - 13,2) / 2 = 0,3 mol. M{ancol} = 13,8 / 0,3 = 46 (C2H5OH)."
   },
   {
     "question": "Ete phản ứng với chất nào sau đây?",
@@ -2597,7 +2603,7 @@
       "axit fomic"
     ],
     "correct": 3,
-    "explanation": "Axit fomic (HCOOH) có cấu tạo chứa nhóm -CHO nên tráng gương được, đồng thời là axit nên phản ứng được với Na, NaOH và Na_2CO_3."
+    "explanation": "Axit fomic (HCOOH) có cấu tạo chứa nhóm -CHO nên tráng gương được, đồng thời là axit nên phản ứng được với Na, NaOH và Na2CO3."
   },
   {
     "question": "Đun 12g axit acetic với 13,8g etanol thu 11g este. Tính hiệu suất phản ứng:",
@@ -2608,7 +2614,7 @@
       "50%"
     ],
     "correct": 2,
-    "explanation": "n_{axit} = 0,2 mol; n_{ancol} = 0,3 mol. Tính theo axit. n_{este} = 11 / 88 = 0,125 mol. H = 0,125 / 0,2 = 62,5%."
+    "explanation": "n{axit} = 0,2 mol; n{ancol} = 0,3 mol. Tính theo axit. n{este} = 11 / 88 = 0,125 mol. H = 0,125 / 0,2 = 62,5%."
   },
   {
     "question": "Trung hòa hoàn toàn 2,36g một axit hữu cơ X cần 80ml dung dịch NaOH 0,5M. X là:",
@@ -2619,7 +2625,7 @@
       "C2H4(COOH)2"
     ],
     "correct": 3,
-    "explanation": "n_{NaOH} = 0,04 mol. Với axit 2 chức C_2H_4(COOH)_2 (M=118), n_{axit} = 0,02 mol. 0,02 x 2 = 0,04 (thỏa mãn)."
+    "explanation": "n{NaOH} = 0,04 mol. Với axit 2 chức C2H4(COOH)2 (M=118), n{axit} = 0,02 mol. 0,02 x 2 = 0,04 (thỏa mãn)."
   },
   {
     "question": "Hóa chất dùng để phân biệt CH3CHO, CH3COOH, HCOOH đựng trong 3 lọ mất nhãn là:",
@@ -2630,7 +2636,7 @@
       "Dung dịch AgNO3/NH3, CuO"
     ],
     "correct": 2,
-    "explanation": "Quỳ tím phân biệt được CH_3CHO (không đổi màu). AgNO_3/NH_3 phân biệt được HCOOH (kết tủa Ag) và CH_3COOH (không phản ứng)."
+    "explanation": "Quỳ tím phân biệt được CH3CHO (không đổi màu). AgNO3/NH3 phân biệt được HCOOH (kết tủa Ag) và CH3COOH (không phản ứng)."
   },
   {
     "question": "Cho C2H5OH, CH3COOH, HCOOH, H2CO3. Chất có tính axit yếu nhất là:",
@@ -2652,7 +2658,7 @@
       "nH2O / nCO2 = 1/2"
     ],
     "correct": 0,
-    "explanation": "Anđehit no, đơn chức (C_nH_{2n}O) khi cháy luôn tạo ra số mol CO_2 bằng số mol H_2O."
+    "explanation": "Anđehit no, đơn chức (CnH{2n}O) khi cháy luôn tạo ra số mol CO2 bằng số mol H2O."
   },
   {
     "question": "Oxi hoá 2,2g anđehit đơn chức X thu được 3,0g axit tương ứng. X là:",
@@ -2663,7 +2669,7 @@
       "CH3CH2CHO"
     ],
     "correct": 0,
-    "explanation": "n_O = (3,0 - 2,2) / 16 = 0,05 mol. M_X = 2,2 / 0,05 = 44. Suy ra X là CH_3CHO."
+    "explanation": "nO = (3,0 - 2,2) / 16 = 0,05 mol. MX = 2,2 / 0,05 = 44. Suy ra X là CH3CHO."
   },
   {
     "question": "Có bao nhiêu đồng phân cấu tạo của xeton có công thức phân tử C5H10O?",
@@ -2685,7 +2691,7 @@
       "CH3-CH2-CHO, CH2=CH-CHO, CH3-CO-CH3"
     ],
     "correct": 2,
-    "explanation": "Cả 3 chất này khi hidro hóa hoàn toàn đều tạo ra propan-1-ol (CH_3-CH_2-CH_2-OH)."
+    "explanation": "Cả 3 chất này khi hidro hóa hoàn toàn đều tạo ra propan-1-ol (CH3-CH2-CH2-OH)."
   },
   {
     "question": "Hợp chất: CH2 = CH - C0 - CH2 - CH3 có tên gọi là:",
@@ -2729,7 +2735,7 @@
       "C3H7CHO"
     ],
     "correct": 1,
-    "explanation": "nAg = 0,1 mol. Nếu X là anđehit đơn chức (RCHO -> 2Ag) thì nX = 0,05 mol. M_X = 2,2 / 0,05 = 44 (CH3CHO)."
+    "explanation": "nAg = 0,1 mol. Nếu X là anđehit đơn chức (RCHO -> 2Ag) thì nX = 0,05 mol. MX = 2,2 / 0,05 = 44 (CH3CHO)."
   },
   {
     "question": "Cho 3,0g anđehit phản ứng hoàn toàn với lượng dư AgNO3 trong dung dịch NH3 thu được 43,2g Ag. Công thức cấu tạo của anđehit là:",
@@ -2740,7 +2746,7 @@
       "CH2 = CH - CHO"
     ],
     "correct": 0,
-    "explanation": "nAg = 0,4 mol. Nếu M = 30 thì n_anđehit = 0,1 mol. Tỉ lệ nAg/n_anđehit = 4, suy ra đó là HCHO (trường hợp đặc biệt của anđehit đơn chức)."
+    "explanation": "nAg = 0,4 mol. Nếu M = 30 thì nanđehit = 0,1 mol. Tỉ lệ nAg/nanđehit = 4, suy ra đó là HCHO (trường hợp đặc biệt của anđehit đơn chức)."
   },
   {
     "question": "Anđehit tham gia phản ứng tráng gương và phản ứng cộng H2 (Ni, t°C). Qua hai phản ứng này, anđehit thể hiện tính chất gì?",
