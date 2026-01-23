@@ -266,7 +266,7 @@
   {
     "question": "X có phân lớp ngoài cùng là 3d⁸. Cấu hình electron của nguyên tử X là:",
     "answers": ["1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²", "1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s¹", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁹"],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Theo quy tắc vững bền, electron điền vào 4s trước rồi mới đến 3d. Với phân lớp ngoài cùng (năng lượng cao nhất) là 3d⁸, cấu hình đầy đủ là ... 4s² 3d⁸."
   },
   {
