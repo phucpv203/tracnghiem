@@ -924,7 +924,7 @@
     "explanation": "Số mol Fe2O3 = 47,87 / 160 = 0,299 mol. Hiệu ứng nhiệt cho 1 mol phản ứng là: Q = 254,08 / 0,299 = 849,2 kJ. Tùy vào quy ước dấu (thoát ra là dương hay âm), đáp án gần nhất là 846,9."
   },
   {
-    "question": "Những phản ứng nào có Δ H < Δ U?",
+    "question": "Những phản ứng nào có Δ H < Δ U?<br>CO(k) + O2(k) -> CO2(k)<br>2C(gr) + O2(k) -> 2CO(k)<br>CH4(k) + 2O2 -> 2H2O(l)<br>C(gr) + O2 -> 2CO2(k)",
     "answers": ["1 và 2", "3 và 4", "2 và 3", "1 và 3"],
     "correct": 3,
     "explanation": "Ta có Δ H = Δ U + Δ nRT. Để Δ H < Δ U thì biến thiên số mol khí Δ n < 0. Phản ứng 1 (Δ n = -0.5) và phản ứng 3 (Δ n = -2) thỏa mãn."
@@ -986,11 +986,11 @@
   {
     "question": "Cho các phản ứng xảy ra ở điều kiện chuẩn:<br> 2P + 3Cl2 =2PCl3  ΔH = x (kj)<br> PCl3 + Cl2 = PCl5 ΔH= y(kJ)<br>Vậy nhiệt sinh chuẩn của PCl5: ",
     "answers": ["x+y", "x-y", "x", "1/2 x + y"],
-    "correct": 2,
-    "explanation": "Nếu phản ứng (1) là tạo thành PCl5 từ các hợp chất trung gian với Δ H = x, thì nhiệt sinh chuẩn của nó liên quan trực tiếp đến giá trị này."
+    "correct": 3,
+    "explanation": "Nhiệt sinh cho phản ứng 1 là x/2, nhiệt sinh của phản ứng 2 là y => nhiệt sinh chuẩn của PCl5 là x/2+y"
   },
   {
-    "question": "Tính hiệu ứng nhiệt phản ứng:<br> C + 2N2O -> CO2 + 2N2<br>      81,5        -393,51<br> Vậy hiệu ứng nhiệt cảu phản ứng là:",
+    "question": "Tính hiệu ứng nhiệt phản ứng:<br> C + 2N2O -> CO2 + 2N2<br>                 81,5        -393,51<br> Vậy hiệu ứng nhiệt cảu phản ứng là:",
     "answers": ["-556,51kJ", "556,51kJ", "230,51", "-230,51"],
     "correct": 0,
     "explanation": "Δ H = [Δ H{S,CO2} + 0] - [0 + 2Δ H{S,N2O}] = -393,51 - 2(81,5) = -556,51 kJ."
@@ -1002,7 +1002,7 @@
     "explanation": "CO không phải là oxit mạnh nhất, phản ứng toạ H2O có 2 mol H2,"
   },
   {
-    "question": "Nhiệt sinh chuẩn của C2H5OH tính theo nhiệt cháy a, b, c là:",
+    "question": "Nhiệt cháy chuẩn của C2H5OH, H2 và C(gr) lần lượt là a,b,c )kJ/mol) thì nhiệt sinh chuẩn của C2H2OH là:",
     "answers": ["a+2c+3b", "a+b+c", "2c + 3b - a", "c+a-b"],
     "correct": 2,
     "explanation": "Δ H{pu} = sum Δ H{cháy, tg} - sum Δ H{cháy, sp}. Với phản ứng tạo thành C2H5OH: 2C + 3H2 -> C2H5OH, ta có Δ HS = 2c + 3b - a."
@@ -1032,7 +1032,7 @@
     "explanation": "Sai. Hệ kín là hệ có trao đổi năng lượng nhưng KHÔNG trao đổi vật chất."
   },
   {
-    "question": "Có chế chế tạo được động cơ vĩnh cửu loại 1.",
+    "question": "Có thế chế tạo được động cơ vĩnh cửu loại 1.",
     "answers": ["Đúng.", "Sai."],
     "correct": 1,
     "explanation": "Sai. Theo nguyên lý I nhiệt động lực học, không thể chế tạo được động cơ vĩnh cửu loại 1 (sinh công mà không tiêu tốn năng lượng)."
