@@ -546,7 +546,7 @@
     "explanation": "Sai. Nguyên tố nhóm A là các nguyên tố s hoặc p. Nếu e cuối cùng điền vào d hoặc f, đó là nguyên tố nhóm B."
   },
   {
-    "question": "Cho các phân tử sau C2H6, C2H2, O2, N2, CO2, CH4 và NH3. Có bao nhiêu phân tử có liên kết đôi và bao nhiêu phân tử có liên kết ba.",
+    "question": "Cho các phân tử sau C2H4, C2H2, O3, N2, CO2, CH4 và NH3. Có bao nhiêu phân tử có liên kết đôi và bao nhiêu phân tử có liên kết ba.",
     "answers": ["2 và 2", "3 và 2", "3 và 3", "2 và 3"],
     "correct": 0,
     "explanation": "Liên kết đôi: O2 (O=O), CO2 (O=C=O). Liên kết ba: N2 (N = N), C2H2 (H-C=C-H)."
