@@ -240,7 +240,7 @@
     "explanation": "Ca (Z=20): [Ar] 4s². Lớp ngoài cùng là 4s có 2 electron với n=4, l=0 (phân lớp s), ml=0 và hai giá trị spin đối kháng."
   },
   {
-    "question": "Ion X³+ có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p³ 3d¹. Các electron ngoài cùng của X ứng với các số lượng tử:",
+    "question": "Ion X³+ có cấu hình electron 1s² 2s² 2p⁶ 3s² 3p³ 4s¹. Các electron ngoài cùng của X ứng với các số lượng tử:",
     "answers": ["n=4, l=0, ml=0, ms=+1/2", "n=4, l=1, ml=0, ms=+1/2", "n=4, l=0, ml=0, ms=+1/2", "n=4, l=1, ml=0, ms=+1/2, ms=-1/2"],
     "correct": 0,
     "explanation": "Dựa theo lựa chọn của bạn, electron ngoài cùng thuộc lớp n=4. Thông thường ion kim loại chuyển tiếp mất e ở lớp 4s trước."
