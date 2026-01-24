@@ -25,10 +25,10 @@ window.addEventListener('DOMContentLoaded', () => {
  
   document.addEventListener("keydown", function (event) {
 
-    if (event.key === "ArrowRight") {
+    if (event.key === "ArrowRight" || event.key === "e") {
         nextBtn.click();
     };
-    if (event.key === "ArrowLeft") {
+    if (event.key === "ArrowLeft" || event.key === "q") {
         prevBtn.click();
     };
   });
