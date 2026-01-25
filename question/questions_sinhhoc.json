@@ -518,7 +518,7 @@
   {
     "question": "Nhận định sai về chức năng màng nhân",
     "answers": ["Trao đổi thông tin qua màng", "Phân lập, cách ly NST với tế bào chất", "Tổng hợp và chuyên chở các chất", "Thực hiện trao đổi chất giữa nhân và tế bào chất"],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Màng nhân chủ yếu đóng vai trò ngăn cách và kiểm soát lưu thông, không phải là nơi chính để tổng hợp các chất như lưới nội chất."
   },
   {
@@ -3462,3 +3462,4 @@
     "explanation": "Sai. Bán bảo tồn có nghĩa là cả 2 ADN con đều giống hệt nhau và giống mẹ, trong đó mỗi ADN con có 1 mạch cũ của mẹ và 1 mạch mới tổng hợp."
   }
 ]
+
