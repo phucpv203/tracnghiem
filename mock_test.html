@@ -141,11 +141,20 @@
         });
     })();
 
+    function shuffleArray(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
     // Render câu hỏi hiện tại
     function renderQuestion() {
       if (!questions.length) return;
 
-      const q = questions[current];
+      const q = questions[current] || {};
       const questionEl = document.getElementById('question');
       const answersEl = document.getElementById('answers');
       const countEl = document.getElementById('question-count');
@@ -154,10 +163,17 @@
       countEl.textContent = current + 1;
 
       answersEl.innerHTML = '';
+      const opts = q.answers || [];
+
       if (q.answers && Array.isArray(q.answers)) {
-        q.answers.forEach((answer, idx) => {
-          const isSelected = selected[current] === idx;
+        if (!Array.isArray(q._order) || q._order.length !== opts.length) {
+          q._order = shuffleArray(opts.map((_, i) => i));
+        }
+
+        q._order.forEach((origIdx, displayIdx) => {
+          const isSelected = selected[current] === origIdx;
           const correctIdx = q.correct;
+          const answer = opts[origIdx] || '';
 
           // Compute styles depending on submission state
           let bg = isSelected ? '#e3f2fd' : '#fff';
@@ -166,10 +182,10 @@
 
           if (submitted) {
             // Disable selecting after submission
-            if (idx === correctIdx) {
+            if (origIdx === correctIdx) {
               bg = '#e8f5e9'; borderColor = '#0000FF';
               markerHTML = '';
-            } else if (isSelected && idx !== correctIdx) {
+            } else if (isSelected && origIdx !== correctIdx) {
               bg = '#ffebee'; borderColor = '#FF0000';
               markerHTML = `<span style="float:right;color:#c62828;font-weight:700">Sai</span>`;
             } else {
@@ -185,14 +201,14 @@
           `;
 
           label.innerHTML = `
-            <input type="radio" name="answer" value="${idx}" ${isSelected ? 'checked' : ''} ${submitted ? 'disabled' : ''} style="margin-right:8px;"/>
+            <input type="radio" name="answer" value="${origIdx}" ${isSelected ? 'checked' : ''} ${submitted ? 'disabled' : ''} style="margin-right:8px;"/>
             ${answer}
             ${markerHTML}
           `;
 
           label.addEventListener('change', () => {
-            if (submitted) return; // không cho sửa sau khi nộp
-            selected[current] = parseInt(idx);
+            if (submitted) return;
+            selected[current] = origIdx; // ✅ index gốc của đáp án
             renderQuestion();
             renderQuestionList();
           });
