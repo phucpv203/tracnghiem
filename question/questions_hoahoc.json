@@ -2378,5 +2378,1129 @@
     "answers": ["Nguồn lực tài chính.", "Đảng cách mạng.", "Sự giúp đỡ quốc tế.", "Tư tưởng, lý luận."],
     "correct": 1,
     "explanation": "Hồ Chí Minh khẳng định: 'Cách mạng trước hết phải có Đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi'."
+  },
+ {
+    "question": "Khái niệm tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng từ bao giờ?",
+    "answers": ["Từ năm 1945.", "Từ năm 1969.", "Từ năm 1986", "Từ năm 1991"],
+    "correct": 3,
+    "explanation": "Tại Đại hội đại biểu toàn quốc lần thứ VII (1991), Đảng ta chính thức đưa ra khái niệm Tư tưởng Hồ Chí Minh và khẳng định lấy chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh làm nền tảng tư tưởng."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
+    "answers": ["Truyền thống tốt đẹp của dân tộc Việt Nam", "Tinh hoa văn hóa nhân loại (Phương Đông và Phương Tây).", "Chủ nghĩa Mác - Lênin và phẩm chất năng lực cá nhân của Hồ Chí Minh", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Tư tưởng Hồ Chí Minh là sản phẩm của sự kết hợp giữa các giá trị truyền thống, tinh hoa văn hóa nhân loại và lý luận cách mạng khoa học nhất của thời đại."
+  },
+  {
+    "question": "Chọn phương án trả lời đúng nhất với tư tưởng Hồ Chí Minh?",
+    "answers": ["Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.", "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta.", "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.", "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta"],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh không chỉ vận dụng mà còn phát triển sáng tạo chủ nghĩa Mác-Lênin để giải quyết các vấn đề thực tiễn của cách mạng Việt Nam."
+  },
+  {
+    "question": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh.",
+    "answers": ["Từ năm 1890 đến năm 1911: Thời kỳ nghiên cứu, khảo sát thực tế, đến với chủ nghĩa Mác - Lênin.", "Từ năm 1911 - 1920: Thời kỳ hình thành tư tưởng yêu nước, chí hướng cứu nước.", "Từ năm 1921 - 1930: Thời kỳ hình thành cơ bản tư tưởng về con đường cách mạng Việt Nam.", "Từ 1931 - 1940: Thời kỳ Bác về nước và trực tiếp chỉ đạo cách mạng Việt Nam."],
+    "correct": 2,
+    "explanation": "Giai đoạn 1921-1930 là lúc Người hoạt động tích cực trong phong trào cộng sản quốc tế, xuất bản tác phẩm 'Đường Kách mệnh' và thành lập Đảng, định hình con đường cách mạng."
+  },
+  {
+    "question": "Tại Đại hội VII (6/1991), tư tưởng Hồ Chí Minh được xác định vị trí như thế nào trong hệ thống tư tưởng của Đảng cộng Sản Việt Nam?",
+    "answers": ["Là một bộ phận trong hệ thống tư tưởng của Đảng", "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng", "Là bộ phận rất quan trọng trong hệ thống tư tưởng của Đảng.", "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng"],
+    "correct": 3,
+    "explanation": "Đây là dấu mốc lịch sử quan trọng khẳng định tư tưởng Hồ Chí Minh là tài sản tinh thần vô giá, cùng với chủ nghĩa Mác-Lênin soi sáng con đường cách mạng Việt Nam."
+  },
+  
+  {
+    "question": "Nội dung cốt lõi của tư tưởng Hồ Chí Minh là gì?",
+    "answers": ["Chủ nghĩa yêu nước", "Chủ nghĩa xã hội", "Chủ nghĩa nhân đạo chiến đấu", "Độc lập dân tộc gắn liền với chủ nghĩa xã hội"],
+    "correct": 3,
+    "explanation": "Đây là tư tưởng xuyên suốt và là mục tiêu chiến lược tối cao của toàn bộ sự nghiệp cách mạng của Người."
+  },
+ 
+  {
+    "question": "Nguyễn Tất Thành lúc ra đi tìm đường cứu nước bao nhiêu tuổi?",
+    "answers": ["19 tuổi", "20 tuổi", "21 tuổi", "24 tuổi"],
+    "correct": 2,
+    "explanation": "Nguyễn Tất Thành sinh năm 1890, ra đi tìm đường cứu nước năm 1911. Vậy lúc đó Người 21 tuổi."
+  },
+  {
+    "question": "Nguyễn Ái Quốc đọc “Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa” của V. I. Lênin vào thời gian nào?",
+    "answers": ["7/1917", "7/1918", "7/1920", "7/1922"],
+    "correct": 2,
+    "explanation": "Tháng 7/1920, trên báo L'Humanité (Nhân đạo), Nguyễn Ái Quốc đã đọc bản Luận cương của Lênin, từ đó Người tìm thấy con đường giải phóng dân tộc."
+  },
+  {
+    "question": "\"Luận cương của V. I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên... Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng của chúng ta\". Nguyễn Ái Quốc đang đề cập đến Luận cương nào?",
+    "answers": ["Luận cương tháng Mười.", "Luận cương về Phoiơbắc.", "Luận cương về vấn đề dân tộc và thuộc địa.", "Tất cả các đáp án trên đều đúng."],
+    "correct": 2,
+    "explanation": "Đây là cảm xúc của Nguyễn Ái Quốc khi đọc 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa' của Lênin."
+  },
+  {
+    "question": "Địa danh đầu tiên mà Hồ Chí Minh đặt chân đến khi mới về nước, tại Cột mốc 108 trên biên giới Việt - Trung thuộc huyện nào của tỉnh Cao Bằng?",
+    "answers": ["Hòa An", "Hà Quảng", "Nguyên Bình", "Trà Lĩnh"],
+    "correct": 1,
+    "explanation": "Ngày 28/01/1941, Người về nước qua cột mốc 108 thuộc xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng."
+  },
+  {
+    "question": "Núi Các Mác, suối V. I. Lênin là những ngọn núi, con suối được Hồ Chí Minh đặt tên, hiện nay thuộc huyện, tỉnh nào?",
+    "answers": ["Bắc Sơn, Lạng Sơn", "Sơn Dương, Tuyên Quang", "Hà Quảng, Cao Bằng", "Đại Từ, Thái Nguyên"],
+    "correct": 2,
+    "explanation": "Hai địa danh này nằm trong khu di tích quốc gia đặc biệt Pác Bó, huyện Hà Quảng, tỉnh Cao Bằng."
+  },
+  {
+    "question": "Tại phiên họp của Đại hội đồng UNESCO (1987) đã khẳng định:",
+    "answers": ["Chủ tịch Hồ Chí Minh là anh hùng giải phóng dân tộc Việt Nam, là nhà văn hóa lớn.", "Hồ Chí Minh là anh hùng giải phóng của dân tộc Việt Nam và là danh nhân văn hóa kiệt xuất của thế giới.", "Hồ Chí Minh là anh hùng giải phóng dân tộc của Việt Nam và là một nhà văn hóa kiệt xuất.", "Hồ Chí Minh là nhà văn hoá kiệt xuất của thế giới."],
+    "correct": 0,
+    "explanation": "Nghị quyết 24C/18.65 của UNESCO vinh danh Người là: 'Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất của Việt Nam'."
+  },
+  {
+    "question": "\"Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động\" câu nói trên được Đảng ta khẳng định tại Đại hội Đảng toàn quốc lần thứ mấy?",
+    "answers": ["Đại hội Đảng toàn quốc lần thứ IV", "Đại hội Đảng toàn quốc lần thứ V", "Đại hội Đảng toàn quốc lần thứ VI", "Đại hội Đảng toàn quốc lần thứ VII"],
+    "correct": 3,
+    "explanation": "Đại hội VII (1991) là mốc quan trọng khi Đảng chính thức đưa Tư tưởng Hồ Chí Minh vào Cương lĩnh xây dựng đất nước."
+  },
+  {
+    "question": "Hồ Chí Minh ví tuổi trẻ như mùa nào trong năm?",
+    "answers": ["Mùa xuân.", "Mùa hạ.", "Mùa thu", "Mùa đông"],
+    "correct": 0,
+    "explanation": "Người nói: 'Một năm khởi đầu từ mùa xuân. Một đời khởi đầu từ tuổi trẻ. Tuổi trẻ là mùa xuân của xã hội'."
+  },
+  {
+    "question": "Hồ Chí Minh viết “Tuyên ngôn độc lập” vào năm nào?",
+    "answers": ["1930.", "1941.", "1945", "1946"],
+    "correct": 2,
+    "explanation": "Người soạn thảo và đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa vào ngày 2/9/1945."
+  },
+  {
+    "question": "Tác phẩm nào sau đây không phải là của Hồ Chí Minh?",
+    "answers": ["Bản án chế độ thực dân Pháp", "Đường cách mệnh.", "Tuyên ngôn độc lập.", "Tuyên ngôn Đảng Cộng sản."],
+    "correct": 3,
+    "explanation": "Tuyên ngôn của Đảng Cộng sản là tác phẩm của Các Mác và Ph.Ăngghen viết năm 1848."
+  },
+  {
+    "question": "Truyền thống quý báu nhất của dân tộc Việt Nam được Hồ Chí Minh kế thừa và phát triển là gì?",
+    "answers": ["Lòng nhân ái", "Chủ nghĩa yêu nước.", "Tinh thần hiếu học", "Cần cù lao động"],
+    "correct": 1,
+    "explanation": "Yêu nước là dòng chủ lưu xuyên suốt lịch sử Việt Nam, là cội nguồn sức mạnh và là nền tảng đầu tiên hình thành tư tưởng của Người."
+  },
+  {
+    "question": "Hoàn thành câu với từ còn thiếu trong dấu (…): Tư tưởng……(1)…. là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, là kết quả của sự vận dụng và phát triển sáng tạo …(2)… vào điều kiện cụ thể của nước ta, kế thừa và phát triển các giá trị truyền thống tốt đẹp của …(3)…….., tiếp thu tinh hoa văn hóa nhân loại.",
+    "answers": ["(1) Mác- Ăngghen, (2) Chủ nghĩa Mác- Lê nin, (3) dân tộc", "(1) Hồ Chí Minh, (2) Chủ nghĩa Mác- Lê nin, (3) dân tộc", "(1) Hồ Chí Minh, (2) Chủ nghĩa Mác, (3) dân tộc", "(1) Hồ Chí Minh, (2) Chủ nghĩa Mác- Ăng ghen, (3) dân tộc"],
+    "correct": 1,
+    "explanation": "Đây là định nghĩa đầy đủ về Tư tưởng Hồ Chí Minh đã được nêu rõ trong các văn kiện Đảng."
+  },
+  {
+    "question": "Bác Hồ đã rời Tổ quốc ra đi tìm con đường cứu nước trong bao nhiêu năm?",
+    "answers": ["30", "40", "50", "60"],
+    "correct": 0,
+    "explanation": "Người ra đi năm 1911 và trở về Tổ quốc vào năm 1941 (30 năm bôn ba)."
+  },
+  {
+    "question": "Theo quan điểm Hồ Chí Minh, gốc của người cách mạng là:",
+    "answers": ["Đạo đức", "Tài", "Đức và tài", "Chí công vô tư"],
+    "correct": 0,
+    "explanation": "Người khẳng định: 'Cũng như sông có nguồn mới có nước... người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân'."
+  },
+  {
+    "question": "Chọn cụm từ đúng điền vào chỗ trống: \"Toàn thể dân tộc Việt Nam quyết đem...... để giữ vững quyền tự do, độc lập ấy\".",
+    "answers": ["Toàn bộ sức lực.", "Tất cả tinh thần và lực lượng.", "Tất cả tinh thần và lực lượng, tính mạng và của cải.", "Tất cả các đáp án trên đều đúng."],
+    "correct": 2,
+    "explanation": "Đây là lời khẳng định đanh thép ở cuối bản Tuyên ngôn Độc lập ngày 2/9/1945."
+  },
+  {
+    "question": "Luận điểm: \"Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hàng ngày mà phát triển và củng cố...\" là của ai?",
+    "answers": ["Các Mác.", "V.I. Lênin.", "Hồ Chí Minh", "Lê Duẩn"],
+    "correct": 2,
+    "explanation": "Đây là trích dẫn trong tác phẩm 'Đạo đức cách mạng' (1958) của Hồ Chí Minh."
+  },
+  {
+    "question": "Chọn cụm từ đúng điền vào dấu “...”: \"Người cách mạng phải có ... thì mới gánh được nặng và đi được xa\".",
+    "answers": ["Trí tuệ", "Phương pháp cách mạng", "Đạo đức cách mạng", "Ý chí cách mạng"],
+    "correct": 2,
+    "explanation": "Người ví đạo đức như cái gốc, cái nền tảng giúp người cách mạng vượt qua khó khăn để đi đến đích cuối cùng."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì?",
+    "answers": ["Khoa học - kỹ thuật tiên tiến.", "Kinh tế phát triển.", "Con người xã hội chủ nghĩa.", "Tất cả các đáp án đều đúng."],
+    "correct": 2,
+    "explanation": "Người khẳng định: 'Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa'."
+  },
+  {
+    "question": "Điểm nổi bật trong nhân cách Hồ Chí Minh là gì?",
+    "answers": ["Năng lực tư duy năng động, nhạy bén, nhìn xa trông rộng", "Lòng nhân ái rộng mở", "Có ý chí mãnh liệt và nghị lực phi thường trong thực hiện mục đích đã chọn", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Nhân cách của Người là sự tổng hòa giữa trí tuệ anh minh, tâm hồn cao thượng và ý chí sắt đá."
+  },
+  {
+    "question": "Đối lập với đạo đức cách mạng là:",
+    "answers": ["Trung với nước, hiếu với dân", "Tinh thần quốc tế trong sáng", "Chủ nghĩa cá nhân", "Cần kiệm"],
+    "correct": 2,
+    "explanation": "Người coi chủ nghĩa cá nhân là 'giặc nội xâm', là trở lực lớn nhất của đạo đức cách mạng."
+  },
+  {
+    "question": "Điền vào chỗ trống: \"Cũng như sông thì có nguồn mới có nước... Người cách mạng phải có ..., không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân\".",
+    "answers": ["Đạo đức", "Tài năng", "Trí tuệ", "Sức khoẻ"],
+    "correct": 0,
+    "explanation": "Trích tác phẩm 'Sửa đổi lối làm việc' (1947), nhấn mạnh đạo đức là cái gốc của người cách mạng."
+  },
+  {
+    "question": "Theo Nguyễn Ái Quốc, phong trào cứu nước của dân ta muốn giành thắng lợi phải làm sao?",
+    "answers": ["Đi theo một con đường mới.", "Cứu viện của nước ngoài", "Đi theo con đường của các bậc tiền bối", "Tất cả đều đúng"],
+    "correct": 0,
+    "explanation": "Sau khi chứng kiến sự thất bại của các con đường cứu nước cũ, Người quyết định đi sang phương Tây để tìm một con đường mới (cách mạng vô sản)."
+  },
+  {
+    "question": "Giá trị văn hóa Phương đông được Bác Hồ tiếp thu là gì?",
+    "answers": ["Truyền thống đoàn kết của dân tộc Việt Nam", "Những mặt tích cực của tư tưởng Nho giáo", "Yêu nước thương dân", "Tinh thần yêu nước Việt Nam"],
+    "correct": 1,
+    "explanation": "Người đã gạn đục khơi trong, tiếp thu những yếu tố tích cực của Nho giáo như tinh thần tu thân, hành đạo vào tư tưởng của mình."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh hình thành từ nguồn gốc nào sau đây?",
+    "answers": ["Giá trị truyền thống dân tộc Việt Nam", "Phong trào công nhân thế giới", "Phong trào giải phóng các dân tộc thuộc địa", "Tất cả đều đúng"],
+    "correct": 0,
+    "explanation": "Trong các phương án trên, giá trị truyền thống dân tộc (đặc biệt là yêu nước) là nguồn gốc quan trọng nhất hình thành nhân cách và tư tưởng Người."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh hình thành từ nguồn gốc nào sau đây?",
+    "answers": ["Chủ nghĩa Mác - Lênin", "Cách mạng tháng Mười Nga", "Cách mạng tư sản Anh, Pháp, Mỹ", "Tất cả đều đúng"],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác-Lênin là nguồn gốc lý luận trực tiếp, quyết định bản chất cách mạng và khoa học của tư tưởng Hồ Chí Minh."
+  },
+  {
+    "question": "Giá trị văn hóa Phương tây được Bác tiếp thu để hình thành tư tưởng của mình là gì?",
+    "answers": ["Tư tưởng cách mạng tư sản Anh, Pháp, Mỹ", "Tư tưởng chủ nghĩa tam dân của Tôn Trung Sơn", "Tư tưởng đoàn kết của dân tộc Việt Nam", "Tất cả đều đúng"],
+    "correct": 0,
+    "explanation": "Người đã tiếp thu các giá trị 'Tự do - Bình đẳng - Bác ái' từ các cuộc cách mạng tư sản phương Tây nhưng áp dụng một cách chọn lọc."
+  },
+  {
+    "question": "Bắt đầu thời kỳ nào, ở Bác hình thành tư tưởng yêu nước và chí hướng cứu nước?",
+    "answers": ["Trước 1911", "Từ 1911 - 1920", "Từ 1920 - 1930", "Từ 1930 - 1941"],
+    "correct": 0,
+    "explanation": "Giai đoạn từ khi sinh ra đến 1911 là lúc Người lớn lên trong truyền thống quê hương, gia đình và hình thành chí hướng cứu nước."
+  },
+  {
+    "question": "Thời kỳ tìm tòi, khảo sát để đến với chủ nghĩa Mác - Lênin được tính từ:",
+    "answers": ["Trước năm 1911", "Từ 1911 - 1920", "Từ 1921 - 1930", "Từ 1931 - 1941"],
+    "correct": 1,
+    "explanation": "Đây là giai đoạn Người bôn ba qua nhiều nước, lao động và học tập để tìm thấy chân lý cứu nước (1920)."
+  },
+  {
+    "question": "Thời kỳ Người hoạt động chuẩn bị chu đáo cho sự thành lập Đảng Cộng sản Việt Nam được tính từ:",
+    "answers": ["Trước năm 1911", "Từ 1911 - 1920", "Từ 1921 - 1930", "Từ 1931 - 1941"],
+    "correct": 2,
+    "explanation": "Giai đoạn này Người thành lập Hội Việt Nam Cách mạng Thanh niên, huấn luyện cán bộ và tiến tới thành lập Đảng (1930)."
+  },
+  {
+    "question": "Thời kỳ Người gặp những thử thách và kiên trì giữ vững quan điểm tư tưởng của mình về đấu tranh giải phóng dân tộc được tính từ:",
+    "answers": ["Trước năm 1911", "Từ 1911 - 1920", "Từ 1921 - 1930", "Từ 1931 - 1940"],
+    "correct": 3,
+    "explanation": "Đây là giai đoạn Người bị bắt ở Hồng Kông và phải đối mặt với những bất đồng quan điểm trong phong trào cộng sản quốc tế về vấn đề dân tộc."
+  },
+  {
+    "question": "Thời kỳ Người về nước trực tiếp lãnh đạo cách mạng được tính từ:",
+    "answers": ["1941 - 1969", "Từ 1911 - 1920", "Từ 1921 - 1930", "Từ 1931 - 1940"],
+    "correct": 3,
+    "explanation": "Câu hỏi có sự nhầm lẫn nhẹ về mốc thời gian trong đáp án chuẩn, nhưng mốc về nước trực tiếp lãnh đạo bắt đầu từ năm 1941 (thời kỳ 1941-1969)."
+  },
+  {
+    "question": "Lúc nhỏ chủ tịch Hồ Chí Minh có tên là gì?",
+    "answers": ["Nguyễn Sinh Khiêm", "Nguyễn Sinh Sắc", "Nguyễn Sinh Cung", "Nguyễn Sinh Thành"],
+    "correct": 2,
+    "explanation": "Nguyễn Sinh Cung là tên khai sinh của Người. Nguyễn Sinh Khiêm là anh trai, Nguyễn Sinh Sắc là thân phụ."
+  },
+  {
+    "question": "Vì sao Nguyễn Tất Thành quyết định đi sang Pháp?",
+    "answers": ["Vì hiếu kỳ", "Vì mưu sinh", "Vì nhận ra sự bế tắc của các con đường cứu nước trong thời gian đó.", "Vì muốn tìm hiểu nền văn minh Tây Âu."],
+    "correct": 2,
+    "explanation": "Người muốn 'xem họ làm thế nào để về giúp đồng bào' sau khi thấy các phong trào Cần Vương, Đông Du... đều thất bại."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh ra đời trong bối cảnh lịch sử nào?",
+    "answers": ["Chủ nghĩa tư bản chuyển sang giai đoạn chủ nghĩa đế quốc.", "Cuộc đấu tranh giải phóng dân tộc của Việt Nam đến đầu thế kỷ XX thất bại.", "Quốc tế cộng sản ra đời dẫn dắt phong trào cách mạng vô sản và giải phóng dân tộc.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Tư tưởng của Người ra đời đáp ứng đòi hỏi khách quan của lịch sử dân tộc và phù hợp với xu thế thời đại."
+  },
+  {
+    "question": "Tìm đáp án sai trong các câu sau đây: Khái niệm tư tưởng Hồ Chí Minh bao gồm",
+    "answers": ["Bản chất cách mạng và khoa học của tư tưởng Hồ CHí Minh.", "Nguồn gốc tư tưởng - lý luận của tư tưởng Hồ Chí Minh.", "Nội dung tư tưởng Hồ Chí Minh.", "Kết cấu tư tưởng Hồ Chí Minh."],
+    "correct": 3,
+    "explanation": "Định nghĩa chính thức về Tư tưởng Hồ Chí Minh không đề cập đến khái niệm 'kết cấu tư tưởng'."
+  },
+  {
+    "question": "Ham muốn tột bậc của Hồ Chí Minh là gì?",
+    "answers": ["Nước được độc lập.", "Dân được tự do.", "Đồng bào ai cũng có cơm ăn, áo mặc, ai cũng được học hành.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Đây là tâm nguyện cháy bỏng cả đời Người, thể hiện qua câu nói nổi tiếng trả lời các phóng viên nước ngoài năm 1946."
+  },
+  {
+    "question": "Trong Thư gửi thanh niên và nhi đồng toàn quốc nhân dịp Tết sắp đến, Hồ Chí Minh viết: \"Một năm [.......] vào mùa xuân. Một đời [.......] từ tuổi trẻ. Tuổi trẻ là mùa xuân của xã hội\". Điền vào chỗ trống những từ còn thiếu.",
+    "answers": ["Đầu tiên;", "Kết thúc;", "Khởi đầu;", "Không có đáp án nào đúng."],
+    "correct": 2,
+    "explanation": "Điền 'Khởi đầu' vào cả hai vị trí để hoàn thiện câu nói kinh điển về vai trò của thanh niên."
+  },
+  {
+    "question": "Chủ tịch Hồ Chí Minh đọc “Tuyên ngôn độc lập” vào thời gian nào?",
+    "answers": ["Ngày 2/8/1945.", "Ngày 2/10/1945.", "Ngày 2/9/1945.", "Ngày 2/11/1945."],
+    "correct": 2,
+    "explanation": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Hà Nội."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường nào?",
+    "answers": ["Cách mạng tư sản.", "Cách mạng vô sản.", "Cách mạng xã hội chủ nghĩa.", "Không có đáp án nào đúng."],
+    "correct": 1,
+    "explanation": "Người khẳng định: 'Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản'."
+  },
+  {
+    "question": "Thành phần gia đình Bác Hồ là:",
+    "answers": ["Nông dân", "Công nhân", "Tri thức, nhà giáo", "Nhà nho yêu nước"],
+    "correct": 3,
+    "explanation": "Thân phụ Người là cụ Phó bảng Nguyễn Sinh Sắc, một nhà nho yêu nước có tư tưởng tiến bộ."
+  },
+  {
+    "question": "Tư tưởng Hồ Chí Minh hình thành và phát triển qua mấy giai đoạn?",
+    "answers": ["2", "3", "4", "5"],
+    "correct": 3,
+    "explanation": "Gồm 5 giai đoạn: 1890-1911; 1911-1920; 1921-1930; 1930-1941; 1941-1969."
+  },
+  {
+    "question": "Sinh viên cần học những gì ở đạo đức Hồ Chí Minh?",
+    "answers": ["Học trung với nước, hiếu với dân; Cần, kiệm, liêm, chính.", "Học đức tin vào sức mạnh của nhân dân, luôn nhân ái, vị tha, khoan dung, độ lượng, nhân hậu với con người.", "Học tấm gương về ý chí và nghị lực tinh thần to lớn, quyết tâm vượt qua mọi thử thách, gian nguy để đạt được mục đích cuộc sống.", "Tất cả những phẩm chất đã nêu."],
+    "correct": 3,
+    "explanation": "Tất cả các phương án đều là những giá trị đạo đức cốt lõi mà sinh viên cần học tập và làm theo."
+  },
+  {
+    "question": "“Thanh niên phải có đức, có tài. Có tài mà không có đức ví như một anh làm kinh tế tài chính rất giỏi nhưng lại đi đến thụt két... Nếu có đức mà không có tài ví như ông Bụt không làm hại gì, nhưng cũng không có lợi gì cho loài người\". Bác Hồ nói những điều trên với lực lượng nào?",
+    "answers": ["Sinh viên", "Công an nhân dân", "Bộ đội", "Cán bộ Đảng."],
+    "correct": 3,
+    "explanation": "Người nói điều này tại lớp đào tạo cán bộ để nhắc nhở về sự song hành giữa 'Đức' và 'Tài' của người lãnh đạo."
+  },
+  {
+    "question": "Nguyễn Ái Quốc lựa chọn con đường giải phóng dân tộc theo khuynh hướng chính trị vô sản vào thời gian nào?",
+    "answers": ["1917", "1918", "1919", "1920"],
+    "correct": 3,
+    "explanation": "Tháng 12/1920, tại Đại hội Tour, Người bỏ phiếu tán thành Quốc tế III và trở thành người cộng sản đầu tiên của Việt Nam."
+  },
+  {
+    "question": "Bài thơ: \"Gạo đem vào giã bao đau đớn; Gạo giã xong rồi, trắng tựa bông. Sống ở trên đời người cũng vậy; Gian nan rèn luyện mới thành công\" ở trong tác phẩm nào của Hồ Chí Minh?",
+    "answers": ["Ca binh lính", "Bài ca du kích", "Nhật ký trong tù", "Ca sợi chỉ"],
+    "correct": 2,
+    "explanation": "Đây là bài thơ 'Nghe tiếng giã gạo' trong tập 'Nhật ký trong tù' (1942-1943)."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, học chủ nghĩa Mác - Lênin nghĩa là gì?",
+    "answers": ["Học thuộc các luận điểm lý luận.", "Để sống với nhau có tình, có nghĩa.", "Để chứng tỏ trình độ lý luận.", "Để làm việc"],
+    "correct": 1,
+    "explanation": "Người quan niệm học Mác-Lênin không phải để học thuộc lòng mà để áp dụng vào thực tế và đối đãi với nhau đầy tính nhân văn."
+  },
+  {
+    "question": "Hồ Chí Minh sinh ngày:",
+    "answers": ["19 tháng 5 năm 1895", "19 tháng 5 năm 1890", "19 tháng 5 năm 1881", "19 tháng 5 năm 1870"],
+    "correct": 1,
+    "explanation": "Chủ tịch Hồ Chí Minh sinh ngày 19/5/1890 tại làng Chùa, quê ngoại."
+  },
+  {
+    "question": "Câu nói “Bây giờ học thuyết nhiều, chủ nghĩa nhiều nhưng chủ nghĩa chân chính nhất, cách mạng nhất, chắc chắn nhất là chủ nghĩa Lênin” là của ai:",
+    "answers": ["Phan Bội Châu", "Phan Châu Trinh", "V.I.Lênin", "Tất cả đều sai."],
+    "correct": 3,
+    "explanation": "Câu nói này là của Nguyễn Ái Quốc (Hồ Chí Minh) trích trong tác phẩm 'Đường Kách mệnh'."
+  },
+  {
+    "question": "Điền vào chỗ trống từ còn thiếu: Một nhà báo nước ngoài đã nhận xét: “Hồ Chí Minh là hình ảnh hoàn chỉnh của sự kết hợp: Đức khôn ngoan của Phật, lòng bác ái của Chúa, Triết học của ….(1)…, thiên tài cách mạng của ….(2)…. và là tình cảm của người chủ gia tộc - tất cả đều hòa hợp trong một dáng dấp tự nhiên”.",
+    "answers": ["(1) Mác, (2) Ganđi;", "(1) Khổng Tử, (2) Ganđi;", "(1) Mác, (2) Lênin;", "(1) Tôn Trung Sơn, (2) Ganđi;"],
+    "correct": 2,
+    "explanation": "Câu nhận xét nổi tiếng này nhấn mạnh sự hội tụ tinh hoa văn hóa và tư tưởng cách mạng ở Hồ Chí Minh."
+  },
+  {
+    "question": "Năm 1919 Người lấy tên gọi là:",
+    "answers": ["Nguyễn Tất Thành", "Nguyễn Ái Quốc", "Hồ Chí Minh", "Nguyễn Sinh Cung"],
+    "correct": 1,
+    "explanation": "Khi gửi bản 'Yêu sách của nhân dân An Nam' tới Hội nghị Versailles (1919), Người ký tên là Nguyễn Ái Quốc."
+  },
+  {
+    "question": "Cơ sở khách quan của phát triển kinh tế là",
+    "answers": ["Mỗi hình thái kinh tế xã hội đều có cơ sở vật chất - kỹ thuật tương ứng đảm bảo cho sự tồn tại và phát triển.", "Đất nước ta có những thuận lợi cho sự phát triển kinh tế.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Theo quy luật khách quan, lực lượng sản xuất quyết định quan hệ sản xuất. Mỗi giai đoạn lịch sử cần một nền tảng vật chất kỹ thuật nhất định để duy trì và thúc đẩy xã hội đi lên."
+  },
+  {
+    "question": "Cơ sở khách quan của phát triển kinh tế là",
+    "answers": ["Dựa trên quan điểm của chủ nghĩa Mác - Lênin là vật chất quyết định ý thức.", "Đất nước ta có những thuận lợi cho sự phát triển kinh tế.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin khẳng định kinh tế (vật chất) là nền tảng của xã hội, quyết định sự hình thành và biến đổi của các hình thái ý thức xã hội (chính trị, tư tưởng)."
+  },
+  {
+    "question": "Cơ sở khách quan của phát triển kinh tế là",
+    "answers": ["Đất nước ta có những thuận lợi cho sự phát triển kinh tế.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế là cơ sở quyết định thắng lợi của xã hội này với xã hội khác", "Tất cả đều đúng."],
+    "correct": 2,
+    "explanation": "Lênin từng khẳng định: Xét đến cùng, năng suất lao động (kinh tế) là cái quan trọng nhất cho sự thắng lợi của chế độ xã hội mới."
+  },
+  {
+    "question": "Cơ sở khách quan của phát triển kinh tế là",
+    "answers": ["Đất nước ta có những thuận lợi cho sự phát triển kinh tế.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Tất cả đều sai."],
+    "correct": 2,
+    "explanation": "Chỉ khi kinh tế phát triển mạnh mới có đủ nguồn lực để giải quyết các vấn đề về văn hóa, giáo dục, y tế và an ninh quốc phòng."
+  },
+  {
+    "question": "Đất nước ta có những thuận lợi cho sự phát triển kinh tế là",
+    "answers": ["Chúng ta đang ở thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước; cơ sở vật chất kỹ thuật được xây dựng trước đây và trong hơn 30 năm đổi mới đang phát huy tác dụng.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Tất cả đều sai."],
+    "correct": 0,
+    "explanation": "Thành tựu của công cuộc đổi mới tạo ra tiền đề vật chất và kinh nghiệm quản lý quan trọng để tiếp tục phát triển kinh tế."
+  },
+  {
+    "question": "Đất nước ta có những thuận lợi cho sự phát triển kinh tế là",
+    "answers": ["Chất lượng phát triển kinh tế - xã hội và năng lực cạnh tranh của nền kinh tế nước ta còn kém.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Chế độ chính trị, tình hình kinh tế - xã hội ổn định, quốc phòng, an ninh giữ vững, quan hệ đối ngoại ngày càng mở rộng."],
+    "correct": 3,
+    "explanation": "Ổn định chính trị - xã hội là điều kiện tiên quyết và là lợi thế lớn thu hút đầu tư, tạo môi trường thuận lợi cho kinh doanh và sản xuất."
+  },
+  {
+    "question": "Đất nước ta có những thuận lợi cho sự phát triển kinh tế là",
+    "answers": ["Chất lượng phát triển kinh tế - xã hội và năng lực cạnh tranh của nền kinh tế nước ta còn kém.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Vị trí địa chính trị của nước ta rất quan trọng, nguồn nhân lực khá dồi dào, tài nguyên đa dạng."],
+    "correct": 3,
+    "explanation": "Nằm ở trung tâm khu vực Đông Nam Á năng động, có dân số vàng và tài nguyên phong phú là những lợi thế tự nhiên khách quan."
+  },
+  {
+    "question": "Đất nước ta có những thuận lợi cho sự phát triển kinh tế là",
+    "answers": ["Chất lượng phát triển kinh tế - xã hội và năng lực cạnh tranh của nền kinh tế nước ta còn kém.", "Nước ta vốn từ nông nghiệp lạc hậu, nghèo và kém phát triển đi lên.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Nhân dân ta có nhiều phẩm chất tốt đẹp, Đảng và Nhà nước có thêm những kinh nghiệm lãnh đạo."],
+    "correct": 3,
+    "explanation": "Nhân tố con người và vai trò lãnh đạo của Đảng là những nguồn lực nội sinh quan trọng thúc đẩy tăng trưởng kinh tế."
+  },
+  {
+    "question": "Đất nước ta có những khó khăn cho sự phát triển kinh tế là",
+    "answers": ["Chất lượng phát triển kinh tế - xã hội và năng lực cạnh tranh của nền kinh tế nước ta còn kém.", "Chế độ chính trị, an ninh, quốc phòng được giữ vững.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Nhân dân ta có nhiều phẩm chất tốt đẹp, Đảng và Nhà nước có thêm những kinh nghiệm lãnh đạo."],
+    "correct": 0,
+    "explanation": "Năng suất lao động thấp và khả năng cạnh tranh quốc tế hạn chế là rào cản lớn khi Việt Nam hội nhập sâu rộng."
+  },
+  {
+    "question": "Đất nước ta có những khó khăn cho sự phát triển kinh tế là",
+    "answers": ["Quy mô nền kinh tế còn nhỏ, thu nhập bình quân đầu người thấp.", "Chế độ chính trị, an ninh, quốc phòng được giữ vững.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Nhân dân ta có nhiều phẩm chất tốt đẹp, Đảng và Nhà nước có thêm những kinh nghiệm lãnh đạo."],
+    "correct": 0,
+    "explanation": "Mặc dù có tăng trưởng, nhưng xuất phát điểm thấp khiến quy mô kinh tế Việt Nam vẫn chưa đủ mạnh so với tiềm lực mong muốn."
+  },
+  {
+    "question": "Đất nước ta có những khó khăn cho sự phát triển kinh tế là",
+    "answers": ["Chưa thực hiện thật tốt việc kết hợp tăng trưởng kinh tế với tiến bộ và công bằng xã hội.", "Chế độ chính trị, an ninh, quốc phòng được giữ vững.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Nhân dân ta có nhiều phẩm chất tốt đẹp, Đảng và Nhà nước có kinh nghiệm lãnh đạo."],
+    "correct": 0,
+    "explanation": "Khoảng cách giàu nghèo và các vấn đề an sinh xã hội chưa được giải quyết triệt để trong quá trình phát triển nóng của kinh tế."
+  },
+  {
+    "question": "Đất nước ta có những khó khăn cho sự phát triển kinh tế là",
+    "answers": ["Nhân dân ta có nhiều phẩm chất tốt đẹp.", "Chế độ chính trị, an ninh, quốc phòng được giữ vững.", "Kinh tế phát triển là cơ sở quyết định sự phát triển toàn diện và mạnh mẽ của toàn xã hội.", "Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa còn nhiều hạn chế."],
+    "correct": 3,
+    "explanation": "Các rào cản về thủ tục hành chính, tính minh bạch và khung pháp lý chưa hoàn thiện gây khó khăn cho việc huy động nguồn lực xã hội."
+  },
+  {
+    "question": "Tầm quan trọng của phát triển kinh tế là",
+    "answers": ["Phát triển kinh tế với nhiều hình thức sở hữu", "Phát huy quyền dân chủ của nhân dân", "Chỉ có lấy phát triển kinh tế làm trọng tâm mới đưa đất nước thoát ra khỏi nghèo nàn và khắc phục nguy cơ tụt hậu xa hơn kinh tế so với các nước trong khu vực và trên thế giới.", "Tất cả đều đúng."],
+    "correct": 2,
+    "explanation": "Phát triển kinh tế là nhiệm vụ trung tâm để củng cố sức mạnh tổng hợp quốc gia."
+  },
+  {
+    "question": "Tầm quan trọng của phát triển kinh tế là",
+    "answers": ["Phát triển kinh tế với nhiều hình thức sở hữu", "Phát huy quyền dân chủ của nhân dân", "Phát triển kinh tế là trọng tâm mới giữ được ổn định về chính trị, tăng cường sức mạnh quốc phòng, an ninh; bảo vệ được độc lập chủ quyền và định hướng xã hội chủ nghĩa.", "Tất cả đều sai."],
+    "correct": 2,
+    "explanation": "Kinh tế mạnh mới có thực lực để hiện đại hóa quân đội và giữ vững ổn định chính trị trong mọi tình huống."
+  },
+  {
+    "question": "Cơ cấu kinh tế nhiều thành phần có vai trò gì.",
+    "answers": ["Cho phép khai thác, sử dụng có hiệu quả các yếu tố sản xuất, các nguồn lực và tiềm năng của nền kinh tế.", "Thúc đẩy kinh tế hàng hóa phát triển, khoa học công nghệ phát triển nhanh.", "Làm cho năng suất lao động tăng, kinh tế tăng trưởng nhanh và hiệu quả.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Nền kinh tế nhiều thành phần giúp huy động vốn, nhân lực và trí tuệ từ mọi khu vực (Nhà nước, tập thể, tư nhân, vốn đầu tư nước ngoài)."
+  },
+  {
+    "question": "Đâu là đặc trưng chủ yếu của kinh tế thị trường.",
+    "answers": ["Các chủ thể kinh tế có tính độc lập, tự chủ cao, giá cả do thị trường quyết định.", "Nền kinh tế vận động theo các quy luật của kinh tế thị trường.", "Có sự điều tiết của nhà nước.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Kinh tế thị trường hiện đại đòi hỏi sự tự do của chủ thể, sự vận hành theo quy luật khách quan và vai trò 'bàn tay hữu hình' của Nhà nước."
+  },
+  {
+    "question": "Mục tiêu hàng đầu của phát triển kinh tế thị trường ở nước ta là gì.",
+    "answers": ["Để tăng trưởng kinh tế nhanh và bền vững.", "Giải phóng lực lượng sản xuất, huy động mọi nguồn lực cho công nghiệp hoá, hiện đại hoá, cải thiện đời sống nhân dân.", "Để phù hợp với xu thế quốc tế hóa, khu vực hóa.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Kinh tế thị trường tại Việt Nam là phương tiện để đạt được mục tiêu ấm no cho nhân dân và sự hưng thịnh của dân tộc."
+  },
+  {
+    "question": "Hiện nay trong nền kinh tế thị trường ở nước ta, nhà nước có chức năng kinh tế gì.",
+    "answers": ["Đảm bảo ổn định kinh tế - xã hội, tạo lập khuôn khổ pháp luật cho hoạt động kinh tế.", "Định hướng phát triển kinh tế và điều tiết các hoạt động kinh tế làm cho kinh tế tăng trưởng ổn định, hiệu quả.", "Hạn chế, khắc phục mặt tiêu cực của cơ chế thị trường.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Nhà nước đóng vai trò kiến tạo, quản lý vĩ mô và sửa chữa những thất bại của thị trường."
+  },
+  {
+    "question": "Ở Việt Nam, kinh tế thị trường định hướng xã hội chủ nghĩa là.",
+    "answers": ["Nền kinh tế quản lý theo kiểu tập trung, quan liêu bao cấp.", "Nền kinh tế hiện vật.", "Nền kinh tế vừa hoạt động theo những quy luật của nền kinh tế thị trường, vừa được dẫn dắt bởi các nguyên tắc của chủ nghĩa xã hội.", "Về thực chất là nền kinh tế thị trường tư bản chủ nghĩa."],
+    "correct": 2,
+    "explanation": "Đây là mô hình kinh tế đặc thù của Việt Nam: sử dụng cơ chế thị trường để xây dựng cơ sở vật chất cho chủ nghĩa xã hội."
+  },
+  {
+    "question": "Thành phần kinh tế nhà nước bao gồm.",
+    "answers": ["Các doanh nghiệp nhà nước, các tổ chức kinh tế của nhà nước.", "Các tài sản thuộc sở hữu tập thể.", "Các quỹ đầu tư của nhà nước.", "Các nguồn vốn đầu tư của nước ngoài."],
+    "correct": 0,
+    "explanation": "Kinh tế nhà nước bao gồm tài sản công và các doanh nghiệp do Nhà nước nắm giữ cổ phần chi phối, đóng vai trò chủ đạo."
+  },
+  {
+    "question": "Nền kinh tế thị trường hiện đại có tính chất chung.",
+    "answers": ["Chủ thể thị trường độc lập.", "Hệ thống thị trường hoàn hảo.", "Giá cả cơ bản là do cung cầu điều tiết.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Đây là những yếu tố cốt lõi giúp thị trường vận hành một cách trơn tru và hiệu quả."
+  },
+  {
+    "question": "Nền kinh tế thị trường hiện đại có tính chất chung.",
+    "answers": ["Hệ thống pháp quy kiện toàn.", "Hệ thống pháp quy hoàn hảo.", "Kinh tế thị trường hệ thống nhất.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Kinh tế thị trường phải được vận hành trong hành lang pháp lý minh bạch và thống nhất."
+  },
+  {
+    "question": "Nền kinh tế thị trường hiện đại có tính chất chung.",
+    "answers": ["Tính khép kín của hoạt động kinh tế.", "Chính phủ thực hiện quản lý vĩ mô đối với nền kinh tế.", "Thừa nhận nhiều hình thức phân phối.", "Tất cả các phương án đã nêu."],
+    "correct": 1,
+    "explanation": "Quản lý vĩ mô của Chính phủ giúp kiểm soát lạm phát, thất nghiệp và thúc đẩy tăng trưởng ổn định."
+  },
+  {
+    "question": "Cần phát triển đồng bộ và quản lý có hiệu quả sự vận hành theo cơ chế cạnh tranh lành mạnh của các loại thị trường cơ bản nào sau đây:",
+    "answers": ["Thị trường hàng hóa và dịch vụ", "Thị trường tài chính; thị trường khoa học và công nghệ;", "Thị trường bất động sản; thị trường sức lao động.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Sự phát triển đồng bộ các loại thị trường là điều kiện để các nguồn lực xã hội được phân bổ tối ưu."
+  },
+  {
+    "question": "Phát triển kinh tế thị trường sẽ có tác động",
+    "answers": ["Tích cực", "Tiêu cực", "Tích cực và tiêu cực", "Tất cả đều sai."],
+    "correct": 2,
+    "explanation": "Kinh tế thị trường giúp tăng năng suất lao động (tích cực) nhưng cũng dẫn đến phân hóa giàu nghèo, ô nhiễm môi trường (tiêu cực)."
+  },
+  {
+    "question": "Phát triển kinh tế thị trường nhằm mục tiêu:",
+    "answers": ["“Dân giàu, nước mạnh, dân chủ, công bằng, văn minh”", "Giải phóng mạnh mẽ và không ngừng phát triển sức sản xuất, nâng cao đời sống nhân dân.", "Đẩy mạnh xóa đói, giảm nghèo, khuyến khích mọi người vươn lên làm giàu chính đáng.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Các mục tiêu này phản ánh bản chất nhân văn và định hướng xã hội chủ nghĩa của nền kinh tế nước ta."
+  },
+  {
+    "question": "Một trong những chính sách Nhà nước cần làm để phát huy mặt tích cực, khắc phục mặt tiêu cực của kinh tế thị trường là:",
+    "answers": ["Phát triển thị trường hàng hóa và dịch vụ", "Định hướng phát triển bằng các chiến lược, quy hoạch, kế hoạch và cơ chế, chính sách trên cơ sở tôn trọng các nguyên tắc của thị trường.", "Thực hiện tiến bộ và công bằng xã hội trong từng bước và từng chính sách phát triển.", "Phát huy quyền làm chủ của nhân dân, bảo đảm vai trò quản lý, điều tiết nền kinh tế của Nhà nước dưới sự lãnh đạo của Đảng."],
+    "correct": 1,
+    "explanation": "Nhà nước sử dụng các công cụ quy hoạch để dẫn dắt thị trường đi đúng mục tiêu mà không triệt tiêu tính chủ động của thị trường."
+  },
+  {
+    "question": "Một trong những chính sách Nhà nước cần làm để phát huy mặt tích cực, khắc phục mặt tiêu cực của kinh tế thị trường là:",
+    "answers": ["Phát triển thị trường hàng hóa và dịch vụ", "Tạo môi trường pháp lý và cơ chế chính sách thuận lợi để phát huy các nguồn lực của xã hội cho phát triển, các chủ thể hoạt động kinh doanh bình đẳng, cạnh tranh lành mạnh, công khai, minh bạch, có trật tự, có kỷ cương.", "Thực hiện tiến bộ và công bằng xã hội trong từng bước và từng chính sách phát triển.", "Phát huy quyền làm chủ của nhân dân, bảo đảm vai trò quản lý, điều tiết nền kinh tế của Nhà nước dưới sự lãnh đạo của Đảng."],
+    "correct": 1,
+    "explanation": "Môi trường kinh doanh bình đẳng là chìa khóa để khuyến khích sáng tạo và tăng cường sức mạnh nền kinh tế."
+  },
+  {
+    "question": "Một trong những chính sách Nhà nước cần làm để phát huy mặt tích cực, khắc phục mặt tiêu cực của kinh tế thị trường là:",
+    "answers": ["Phát triển thị trường hàng hóa và dịch vụ", "Hỗ trợ phát triển, xây dựng hệ thống kết cấu hạ tầng kinh tế xã hội quan trọng, hệ thống an sinh xã hội.", "Thực hiện tiến bộ và công bằng xã hội trong từng bước và từng chính sách phát triển.", "Phát huy quyền làm chủ của nhân dân, bảo đảm vai trò quản lý, điều tiết nền kinh tế của Nhà nước dưới sự lãnh đạo của Đảng."],
+    "correct": 1,
+    "explanation": "Nhà nước đầu tư vào hạ tầng và an sinh để tạo nền tảng vững chắc cho thị trường và bảo vệ những người yếu thế."
+  },
+  {
+    "question": "Một trong những chính sách Nhà nước cần làm để phát huy mặt tích cực, khắc phục mặt tiêu cực của kinh tế thị trường là:",
+    "answers": ["Phát triển thị trường hàng hóa và dịch vụ", "Tiếp tục đổi mới chính sách tài chính và tiền tệ, bảo đảm tính ổn định và sự phát triển bền vững của nền tài chính quốc gia..", "Thực hiện tiến bộ và công bằng xã hội trong từng bước và từng chính sách phát triển.", "Phát huy quyền làm chủ của nhân dân, bảo đảm vai trò quản lý, điều tiết nền kinh tế của Nhà nước dưới sự lãnh đạo của Đảng."],
+    "correct": 1,
+    "explanation": "Sự ổn định của giá trị đồng tiền và hệ thống tài chính là huyết mạch của sự phát triển kinh tế."
+  },
+  {
+    "question": "Chủ trương của Đảng nhằm phát triển kinh tế gắn với thực hiện tiến bộ và công bằng xã hội là",
+    "answers": ["Kết hợp các mục tiêu kinh tế với các mục tiêu xã hội trong phạm vi cả nước, ở từng lĩnh vực, địa phương.", "Khuyến khích mọi người làm giàu theo luật pháp.", "Xây dựng, hoàn chỉnh hệ thống chính sách bảo đảm xã hội", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Tiến bộ và công bằng xã hội không đứng ngoài mà phải được lồng ghép ngay trong quá trình tăng trưởng kinh tế."
+  },
+  {
+    "question": "Chủ trương của Đảng nhằm phát triển kinh tế gắn với thực hiện tiến bộ và công bằng xã hội là",
+    "answers": ["Phát triển hệ thống y tế công bằng và hiệu quả.", "Xây dựng chiến lược quốc gia về nâng cao sức khỏe, tầm vóc con người Việt Nam, tăng tuổi thọ và cải thiện chất lượng giống nòi.", "Thực hiện tốt các chính sách dân số và kế hoạch hóa gia đình", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Sức khỏe và thể chất con người là nguồn lực quý giá nhất của đất nước."
+  },
+  {
+    "question": "Chủ trương của Đảng nhằm phát triển kinh tế gắn với thực hiện tiến bộ và công bằng xã hội là",
+    "answers": ["Kết hợp các mục tiêu kinh tế với các mục tiêu xã hội trong phạm vi cả nước, ở từng lĩnh vực, địa phương.", "Thực hiện các chính sách ưu đãi xã hội.", "Đổi mới cơ chế quản lý và phương thức cung ứng các dịch vụ công cộng.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Các giải pháp này đảm bảo quyền lợi cơ bản của nhân dân, đặc biệt là các đối tượng chính sách và người nghèo."
+  },
+  {
+    "question": "Chúng ta cần phải làm gì để bảo vệ và sử dụng có hiệu quả tài nguyên quốc gia, cải thiện môi trường tự nhiên:",
+    "answers": ["Tăng cường quản lý tài nguyên quốc gia, nhất là các tài nguyên đất, nước, khoáng sản và rừng.", "Tích cực phục hồi môi trường và các hệ sinh thái bị phá hủy.", "Quan tâm đầu tư cho lĩnh vực môi trường, nhất là các hoạt động thu gom, tái chế và xử lý chất thải.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Đây là các biện pháp hướng tới sự phát triển bền vững, không đánh đổi môi trường lấy tăng trưởng bằng mọi giá."
+  },
+  {
+    "question": "Để thực hiện tốt các chính sách dân số và kế hoạch hóa gia đình cần phải làm gì:",
+    "answers": ["Vận động nhân dân tham gia các hoạt động đền ơn đáp nghĩa.", "Khuyến khích mọi người làm giàu theo luật pháp.", "Duy trì kế hoạch giảm sinh và giữ mức sinh thay thế, bảo đảm quy mô và cơ cấu dân số hợp lý, nâng cao chất lượng dân số.", "Thúc đẩy phong trào toàn xã hội chăm sóc, giáo dục, bảo vệ trẻ em."],
+    "correct": 2,
+    "explanation": "Kiểm soát dân số giúp cân đối nguồn lực quốc gia với nhu cầu tiêu dùng và dịch vụ công cộng."
+  },
+  {
+    "question": "Giải pháp nào sau đây không phải nhằm mục đích phát triển hệ thống y tế công bằng và hiệu quả:",
+    "answers": ["Nhà nước tiếp tục tăng đầu tư để nâng cấp các cơ sở y tế, y tế dự phòng.", "Tăng cường hiệu lực quản lý nhà nước trong lĩnh vực y tế.", "Kết hợp y học hiện đại với y học cổ truyền.", "Làm tốt công tác chăm sóc sức khỏe sinh sản."],
+    "correct": 3,
+    "explanation": "Chăm sóc sức khỏe sinh sản thuộc về lĩnh vực dân số - chất lượng giống nòi, không phải là giải pháp cốt lõi cho tính 'công bằng' của hệ thống y tế chung."
+  },
+  {
+    "question": "Giải pháp nào sau đây không phải nhằm mục đích xây dựng chiến lược quốc gia về nâng cao sức khỏe, tầm vóc con người Việt Nam, tăng tuổi thọ và cải thiện chất lượng giống nòi:",
+    "answers": ["Giảm tốc độ tăng dân số", "Tăng cường thể lực của thanh niên.", "Phát triển mạnh thể dục thể thao, kết hợp tốt thể thao phong trào và thể thao thành tích cao, dân tộc và hiện đại.", "Làm tốt công tác chăm sóc sức khỏe sinh sản."],
+    "correct": 0,
+    "explanation": "Giảm tốc độ tăng dân số là mục tiêu về quy mô, không trực tiếp tác động đến 'tầm vóc' hay 'sức khỏe' cá thể."
+  },
+  {
+    "question": "Ngày 10 tháng 3 âm lịch hằng năm là ngày gì?",
+    "answers": ["Giỗ tổ Hùng Vương", "Giỗ tổ Thánh Gióng", "Giỗ tổ Đức Thánh Trần", "Giỗ tổ làng nghề"],
+    "correct": 0,
+    "explanation": "Ngày Giỗ Tổ Hùng Vương là ngày hội truyền thống của dân tộc Việt Nam nhằm tưởng nhớ công ơn các vua Hùng đã có công dựng nước."
+  },
+  {
+    "question": "Toàn bộ những giá trị vật chất và tinh thần do con người tạo ra bằng lao động và hoạt động thực tiễn trong quá trình lịch sử của mình gọi là gì?",
+    "answers": ["Vật chất", "Ý thức", "Văn hoá", "Văn học"],
+    "correct": 2,
+    "explanation": "Đây là định nghĩa rộng nhất về Văn hóa theo nghĩa khoa học xã hội."
+  },
+  {
+    "question": "Ngôn ngữ, tư tưởng, giá trị ... thuộc khía cạnh văn hoá nào?",
+    "answers": ["Văn hoá vật chất", "Văn hoá phi vật chất", "Văn hoá hỗn hợp", "Văn hóa vật chất lẫn tinh thần"],
+    "correct": 1,
+    "explanation": "Văn hóa phi vật chất (văn hóa tinh thần) bao gồm các sản phẩm không tồn tại dưới dạng vật thể hữu hình."
+  },
+  {
+    "question": "Tìm một di sản văn hoá không cùng loại hình với các di sản văn hoá còn lại?",
+    "answers": ["Phong Nha - Kẻ Bàng", "Quan họ Bắc Ninh", "Nhã Nhạc cung đình Huế", "Không gian văn hoá cồng chiêng Tây Nguyên"],
+    "correct": 0,
+    "explanation": "Phong Nha - Kẻ Bàng là Di sản Thiên nhiên thế giới, trong khi 3 cái tên còn lại là Di sản Văn hóa phi vật thể."
+  },
+  {
+    "question": "Đâu là nền tảng tinh thần của xã hội?",
+    "answers": ["Văn hiến", "Văn vật", "Văn hoá", "Văn chương"],
+    "correct": 2,
+    "explanation": "Văn hóa vừa là mục tiêu, vừa là động lực, đồng thời là nền tảng tinh thần vững chắc của xã hội."
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “.... là động lực thúc đẩy sự phát triển xã hội”.",
+    "answers": ["Văn hiến", "Văn hoá", "Văn vật", "Văn chương"],
+    "correct": 1,
+    "explanation": "Văn hóa khơi dậy lòng yêu nước, ý chí tự lực tự cường và khát vọng vươn lên của mỗi cá nhân và cả dân tộc."
+  },
+  {
+    "question": "Bản sắc văn hoá dân tộc Việt Nam bao gồm:",
+    "answers": ["Lòng yêu nước", "Tinh thần đoàn kết.", "Đức tính cần cù sáng tạo trong lao động.", "Tất cả các đáp án trên đều đúng"],
+    "correct": 3,
+    "explanation": "Bản sắc dân tộc là tổng hòa những giá trị bền vững, tinh túy nhất của cộng đồng các dân tộc Việt Nam."
+  },
+  {
+    "question": "Theo Đề cương văn hóa Việt Nam, nền văn hóa mới Việt Nam có những nguyên tắc gì.",
+    "answers": ["Dân tộc hóa", "Đại chúng hóa", "Khoa học hóa", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Ba nguyên tắc này do Tổng Bí thư Trường Chinh đề ra năm 1943 nhằm xây dựng nền văn hóa cách mạng."
+  },
+  {
+    "question": "Các di sản văn hoá sau đây, di sản nào thuộc loại di sản văn hoá phi vật thể?",
+    "answers": ["Cây đa Tân Trào", "Lễ hội chùa Hương", "Vịnh Hạ Long", "Quốc Tử Giám"],
+    "correct": 1,
+    "explanation": "Lễ hội là một dạng thức của văn hóa phi vật thể, thể hiện qua các nghi lễ, diễn xướng và niềm tin cộng đồng."
+  },
+  {
+    "question": "Hát quan họ là nét văn hoá độc đáo của tỉnh nào?",
+    "answers": ["Bắc Ninh", "Hà Tây", "Bắc Giang", "Hà Đông"],
+    "correct": 0,
+    "explanation": "Dân ca Quan họ Bắc Ninh đã được UNESCO công nhận là Di sản Văn hóa phi vật thể đại diện của nhân loại."
+  },
+  {
+    "question": "Hãy điền từ còn thiếu vào chỗ trống: “Vì lẽ sinh tồn cũng như mục đích của cuộc sống, loài người mới …………. ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, văn học, nghệ thuật; những công cụ cho sinh hoạt hàng ngày về ăn, mặc, ở và các phương thức sử dụng. Toàn bộ những ……….. đó tức là văn hoá”.",
+    "answers": ["Phát hiện", "Sáng tạo và phát minh", "Sáng tạo", "Phát minh"],
+    "correct": 1,
+    "explanation": "Câu nói của Chủ tịch Hồ Chí Minh định nghĩa văn hóa là thành quả sáng tạo và phát minh của loài người vì mục đích sinh tồn."
+  },
+  {
+    "question": "“Đề cương văn hóa Việt Nam” năm 1943 do ai soạn thảo:",
+    "answers": ["Trường Chinh", "Hồ Chí Minh", "Lê Duẩn", "Đỗ Mười"],
+    "correct": 0,
+    "explanation": "Đồng chí Trường Chinh là người soạn thảo bản Đề cương lịch sử này, đặt nền móng lý luận cho văn hóa văn nghệ cách mạng Việt Nam."
+  },
+  {
+    "question": "Quan điểm nào trong các quan điểm sau đây nói về chức năng, vị trí, vai trò đặc biệt quan trọng của văn hóa đối với sự phát triển xã hội.",
+    "answers": ["Văn hóa là nền tảng tinh thần của xã hội, vừa là mục tiêu, vừa là động lực thúc đẩy sự phát triển kinh tế - xã hội và hội nhập quốc tế.", "Nền văn hóa mà chúng ta xây dựng là nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.", "Nền văn hóa Việt Nam là nền văn hóa thống nhất mà đa dạng trong cộng đồng các dân tộc Việt Nam.", "Xây dựng và phát triển văn hóa là sự nghiệp của toàn dân do Đảng lãnh đạo, trong đó đội ngũ tri thức giữ vai trò quan trọng."],
+    "correct": 0,
+    "explanation": "Văn hóa không chỉ là kết quả của sự phát triển mà còn là yếu tố dẫn dắt, tạo động lực tinh thần và định hướng cho các hoạt động kinh tế, chính trị."
+  },
+  {
+    "question": "Văn hóa có mấy chức năng:",
+    "answers": ["3", "4", "5", "6"],
+    "correct": 1,
+    "explanation": "Thông thường văn hóa có 4 chức năng cơ bản: Chức năng nhận thức, chức năng giáo dục, chức năng thẩm mỹ và chức năng giải trí/điều tiết xã hội."
+  },
+  {
+    "question": "Trong Cương lĩnh được Đại hội VII (1991) thông qua, nền văn hóa Việt Nam có những đặc trưng gì.",
+    "answers": ["Tiên tiến.", "Đậm đà bản sắc dân tộc.", "Khoa học.", "Tiên tiến và đậm đà bản sắc dân tộc."],
+    "correct": 3,
+    "explanation": "Đặc trưng 'Tiên tiến' thể hiện tinh thần yêu nước và tiến bộ; 'Đậm đà bản sắc dân tộc' thể hiện sự kế thừa giá trị truyền thống tốt đẹp."
+  },
+  {
+    "question": "Đường lối xây dựng và phát triển văn hóa trong giai đoạn cách mạng xã hội chủ nghĩa được hình thành bắt đầu từ Đại hội nào của Đảng.",
+    "answers": ["Đại hội III.", "Đại hội IV.", "Đại hội V.", "Đại hội VI"],
+    "correct": 0,
+    "explanation": "Đại hội III (1960) đã xác định nhiệm vụ cách mạng tư tưởng và văn hóa là một bộ phận khăng khít của cách mạng xã hội chủ nghĩa."
+  },
+  {
+    "question": "Phương hướng nhằm xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc là",
+    "answers": ["Tiếp tục phát triển sâu rộng và nâng cao chất lượng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc.", "Xây dựng và hoàn thiện giá trị, nhân cách con người Việt Nam.", "Xây dựng môi trường văn hóa.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Đây là các nhiệm vụ trọng tâm để tạo nên sức mạnh nội sinh bền vững cho đất nước."
+  },
+  {
+    "question": "Phương hướng nhằm xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc là",
+    "answers": ["Xây dựng và nâng cấp đồng bộ hệ thống thiết chế văn hóa.", "Bảo tồn và phát huy các di sản văn hóa.", "Giữ gìn và phát huy các giá trị văn hóa của các dân tộc thiểu số.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Văn hóa Việt Nam là sự thống nhất trong đa dạng, việc bảo tồn di sản và văn hóa dân tộc thiểu số là yếu tố sống còn của bản sắc."
+  },
+  {
+    "question": "Phương hướng nhằm xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc là",
+    "answers": ["Phát huy những giá trị văn hóa đạo đức tốt đẹp của các tôn giáo.", "Phát triển đi đôi với quản lý tốt hệ thống thông tin đại chúng", "Phát huy tiềm năng, khuyến khích sáng tạo văn học, nghệ thuật.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Kết hợp hài hòa các giá trị tôn giáo, truyền thông và sự sáng tạo nghệ thuật giúp làm phong phú đời sống tinh thần của nhân dân."
+  },
+  {
+    "question": "Phương hướng nhằm xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc là",
+    "answers": ["Tích cực mở rộng giao lưu và hợp tác quốc tế về văn hóa", "Xây dựng và phát triển văn hóa là sự nghiệp của toàn dân do Đảng lãnh đạo.", "Tăng cường quản lý của Nhà nước về văn hóa.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Giao lưu quốc tế giúp văn hóa Việt Nam tiếp thu tinh hoa nhân loại trong khi vẫn giữ vững định hướng chính trị xã hội của Đảng."
+  },
+  {
+    "question": "Đảng đã xác định mấy phương hướng nhằm xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc.",
+    "answers": ["10", "11", "12", "13"],
+    "correct": 3,
+    "explanation": "Nghị quyết Trung ương 9 khóa XI và các văn kiện liên quan đã cụ thể hóa thành 13 nhóm nhiệm vụ và phương hướng lớn."
+  },
+  {
+    "question": "Điểm cốt lõi của đường lối xây dựng và phát triển văn hóa trong giai đoạn cách mạng xã hội chủ nghĩa là.",
+    "answers": ["Chủ trương tiến hành cuộc cách mạng tư tưởng và văn hóa đi trước một bước so với cuộc cách mạng về quan hệ sản xuất và cách mạng về khoa học kĩ thuật.", "Chủ trương tiến hành cuộc cách mạng tư tưởng và văn hóa độc lập so với cuộc cách mạng về quan hệ sản xuất và cách mạng về khoa học kĩ thuật.", "Chủ trương tiến hành cuộc cách mạng tư tưởng và văn hóa đồng thời so với cuộc cách mạng về quan hệ sản xuất và cách mạng về khoa học kĩ thuật."],
+    "correct": 2,
+    "explanation": "Đảng chủ trương ba cuộc cách mạng (Quan hệ sản xuất, Khoa học kĩ thuật, Tư tưởng và văn hóa) phải được thực hiện đồng thời và gắn kết chặt chẽ."
+  },
+  {
+    "question": "Ở giai đoạn 1945 - 1954, các vấn đề xã hội được giải quyết trong.",
+    "answers": ["Mô hình dân chủ nhân dân.", "Mô hình chủ nghĩa xã hội kiểu cũ.", "Cơ chế kế hoạch hóa tập trung, quan liêu bao cấp.", "Cơ chế kinh tế thị trường."],
+    "correct": 0,
+    "explanation": "Trong kháng chiến chống Pháp, Chính phủ tập trung vào các vấn đề cấp bách (giặc đói, giặc dốt) dưới mô hình dân chủ nhân dân."
+  },
+  {
+    "question": "Ở giai đoạn 1955 - 1975, các vấn đề xã hội được giải quyết trong.",
+    "answers": ["Mô hình dân chủ nhân dân.", "Mô hình chủ nghĩa xã hội kiểu cũ.", "Cơ chế kế hoạch hóa tập trung, quan liêu bao cấp.", "Cơ chế kinh tế thị trường."],
+    "correct": 1,
+    "explanation": "Giai đoạn này miền Bắc xây dựng CNXH theo mô hình kế hoạch hóa, xã hội được quản lý bởi Nhà nước và các tập thể."
+  },
+  {
+    "question": "Gia đình có chức năng gì",
+    "answers": ["Chức năng sinh đẻ, duy trì và phát triển giống nòi.", "Chức năng nuôi nấng, giáo dục con cái", "Chức năng tổ chức cuộc sống hòa thuận và hoạt động kinh tế.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Gia đình là tế bào của xã hội, gánh vác các chức năng sinh học, giáo dục, văn hóa và kinh tế nền tảng."
+  },
+  {
+    "question": "Vì sao phải xây dựng nền quốc phòng toàn dân?",
+    "answers": ["Là quy luật khách quan.", "Vì địch xâm lược.", "Bảo vệ là một công đoạn của sản xuất và đời sống", "Vì ta yếu."],
+    "correct": 0,
+    "explanation": "Sựng nước phải đi đôi với giữ nước là quy luật tồn tại và phát triển tất yếu của dân tộc Việt Nam."
+  },
+  {
+    "question": "Nguyên tắc Đảng lãnh đạo Quân đội nhân dân Việt Nam?",
+    "answers": ["Tuyệt đối, trực tiếp về mọi mặt", "Tuyệt đối và trực tiếp", "Tuyệt đối", "Trực tiếp về mọi mặt"],
+    "correct": 0,
+    "explanation": "Đây là nguyên tắc bất biến đảm bảo Quân đội luôn là công cụ bạo lực sắc bén và trung thành của Đảng và nhân dân."
+  },
+  {
+    "question": "Phương châm xây dựng quân đội ta được Đảng khẳng định trong các kì Đại hội là gì?",
+    "answers": ["Xây dựng quân đội nhân dân cách mạng, chính qui, tinh nhuệ, từng bước hiện đại", "Lập tức mua sắm vũ khí trang bị hiện đại cho quân đội", "Xây dựng quân đội theo hướng chuyên nghiệp, nhà nghề", "Chú trọng xây dựng đời sống văn hóa tinh thần của quân đội"],
+    "correct": 0,
+    "explanation": "Phương châm này đảm bảo quân đội mạnh cả về chính trị (cách mạng), tổ chức (chính quy), trình độ (tinh nhuệ) và vũ khí (hiện đại)."
+  },
+  {
+    "question": "Quân đội nhân dân Việt Nam thành lập vào ngày nào?",
+    "answers": ["Ngày 19 tháng 12", "Ngày 19 tháng 12", "Ngày 22 tháng 12", "Ngày 24 tháng 12"],
+    "correct": 2,
+    "explanation": "Ngày 22/12/1944 là ngày thành lập Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội nhân dân Việt Nam."
+  },
+  {
+    "question": "Mục tiêu, nhiệm vụ của quốc phòng, an ninh là gì?",
+    "answers": ["Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc,", "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa, giữ vững hòa bình, ổn định chính trị và an ninh quốc gia, trật tự, an toàn xã hội;", "Chủ động đấu tranh, làm thất bại mọi âm mưu và hành động chống phá của các thế lực thù địch đối với sự nghiệp cách mạng của nhân dân ta.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Quốc phòng an ninh không chỉ là chống ngoại xâm mà còn bảo vệ sự ổn định và bền vững của chế độ chính trị xã hội."
+  },
+  {
+    "question": "Một trong những nhiệm vụ của quốc phòng và an ninh là gì?",
+    "answers": ["Phát huy sức mạnh của nhân dân", "Phát huy sức mạnh của Nhà nước", "Phát huy sức mạnh của khối đại đoàn kết toàn dân tộc", "Phát huy sức mạnh của Đảng"],
+    "correct": 2,
+    "explanation": "Khối đại đoàn kết toàn dân tộc là sức mạnh tổng hợp, là 'trận đồ bát quái' ngăn chặn mọi kẻ thù."
+  },
+  {
+    "question": "Quan điểm sức mạnh dân tộc trong chính sách quốc phòng và an ninh được hiểu là gì?",
+    "answers": ["Truyền thống đánh giặc của ông cha ta.", "Quân đội chính quy hiện đại.", "Những truyền thống tốt đẹp, sức mạnh của văn hóa tinh thần và sức mạnh vật chất của dân tộc.", "Nền kinh tế hiện đại"],
+    "correct": 2,
+    "explanation": "Sức mạnh dân tộc kết hợp giữa quá khứ (truyền thống) và hiện tại (vật chất), giữa sức mạnh tinh thần và tiềm lực thực tế."
+  },
+  {
+    "question": "Việt Nam là thành viên thứ mấy của Tổ chức Thương mại thế giới (WTO)?",
+    "answers": ["140", "150.", "160", "170"],
+    "correct": 1,
+    "explanation": "Ngày 11/01/2007, Việt Nam chính thức trở thành thành viên thứ 150 của WTO, đánh dấu bước tiến lớn trong hội nhập kinh tế."
+  },
+  {
+    "question": "Việt Nam gia nhập Hội đồng Tương trợ kinh tế (khối SEV) vào năm nào.",
+    "answers": ["Năm 1975.", "Năm 1976.", "Năm 1977.", "Năm 1978."],
+    "correct": 3,
+    "explanation": "Năm 1978, Việt Nam gia nhập SEV để nhận được sự hỗ trợ và hợp tác từ các nước xã hội chủ nghĩa trong điều kiện bị bao vây cấm vận."
+  },
+  {
+    "question": "Việt Nam tiếp nhận ghế thành viên tại Liên hợp quốc vào năm nào.",
+    "answers": ["Năm 1975.", "Năm 1976.", "Năm 1977.", "Năm 1978."],
+    "correct": 2,
+    "explanation": "Ngày 20/09/1977, Việt Nam chính thức gia nhập Liên Hợp Quốc, mở rộng quan hệ đa phương trên toàn cầu."
+  },
+  {
+    "question": "Chủ trương chủ động và tích cực hội nhập kinh tế quốc tế là trực tiếp xuất phát từ cơ sở nào trong các cơ sở dưới đây.",
+    "answers": ["Các nước, nhất là những nước đang phát triển đã đổi mới tư duy đối ngoại, thực hiện chính sách đa phương hóa, đa dạng hóa quan hệ quốc tế.", "Toàn cầu hóa kinh tế là một xu thế khách quan, lôi cuốn ngày càng nhiều nước tham gia để tránh khỏi nguy cơ bị biệt lập, tụt hậu, kém phát triển.", "Vấn đề giải tỏa tình trạng đối đầu, thù địch, phá thế bị bao vây, cấm vận xây dựng kinh tế là nhu cầu cấp bách với nước ta.", "Nhu cầu chống tụt hậu về kinh tế, tranh thủ các nguồn lực bên ngoài đặt ra gay gắt với Việt Nam."],
+    "correct": 1,
+    "explanation": "Hội nhập kinh tế là yêu cầu khách quan của thời đại, Việt Nam không thể phát triển nếu tách rời khỏi dòng chảy kinh tế thế giới."
+  },
+  {
+    "question": "Bắt đầu từ Đại hội nào Đảng ta khẳng định: “Việt Nam muốn là bạn với tất cả các nước trong cộng đồng thế giới, phấn đấu vì hòa bình độc lập và phát triển”.",
+    "answers": ["Đại hội VI.", "Đại hội VII.", "Đại hội VIII.", "Đại hội IX."],
+    "correct": 1,
+    "explanation": "Đại hội VII (1991) đưa ra thông điệp 'muốn là bạn' để phá thế bị bao vây cấm vận."
+  },
+  {
+    "question": "Bắt đầu từ Đại hội nào Đảng ta khẳng định: “Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế, phấn đấu hoà bình, độc lập và phát triển”.",
+    "answers": ["Đại hội VI.", "Đại hội VII.", "Đại hội VIII.", "Đại hội IX."],
+    "correct": 3,
+    "explanation": "Đại hội IX (2001) nâng tầm quan hệ đối ngoại từ 'muốn là bạn' sang 'sẵn sàng là bạn và là đối tác tin cậy'."
+  },
+  {
+    "question": "Việt Nam gia nhập ASEAN vào năm nào.",
+    "answers": ["Năm 1993.", "Năm 1994.", "Năm 1995.", "Năm 1996."],
+    "correct": 2,
+    "explanation": "Ngày 28/07/1995, Việt Nam chính thức là thành viên thứ 7 của ASEAN tại Hội nghị Ngoại trưởng ASEAN lần thứ 28 tại Brunei."
+  },
+  {
+    "question": "Việt Nam bắt đầu thực hiện cam kết gia nhập Khu vực Mậu dịch tự do ASEAN (AFTA) vào năm nào.",
+    "answers": ["Năm 1995.", "Năm 1996.", "Năm 1997.", "Năm 1998."],
+    "correct": 1,
+    "explanation": "Năm 1996, Việt Nam bắt đầu triển khai biểu thuế ưu đãi đặc biệt (CEPT) để tham gia khu vực tự do thương mại."
+  },
+  {
+    "question": "Việt Nam gia nhập tổ chức Diễn đàn Hợp tác kinh tế châu Á – Thái Bình Dương (APEC) vào năm nào.",
+    "answers": ["Năm 1996.", "Năm 1997.", "Năm 1998.", "Năm 1999."],
+    "correct": 2,
+    "explanation": "Việt Nam trở thành thành viên APEC tháng 11/1998, một dấu mốc quan trọng trong hội nhập kinh tế liên khu vực."
+  },
+  {
+    "question": "Việt Nam bình thường hóa quan hệ với Hoa kỳ vào năm nào.",
+    "answers": ["Năm 1992.", "Năm 1993.", "Năm 1994.", "Năm 1995."],
+    "correct": 3,
+    "explanation": "Ngày 11/07/1995, Tổng thống Bill Clinton và Thủ tướng Võ Văn Kiệt tuyên bố bình thường hóa quan hệ ngoại giao."
+  },
+  {
+    "question": "Việt Nam được kết nạp làm thành viên thứ 150 của Tổ chức thương mại Thế giới (WTO) vào năm nào.",
+    "answers": ["Năm 2005.", "Năm 2006.", "Năm 2007.", "Năm 2008."],
+    "correct": 2,
+    "explanation": "Sau 11 năm đàm phán ròng rã, Việt Nam đã chính thức vào WTO đầu năm 2007."
+  },
+  {
+    "question": "Đại hội nào của Đảng đề ra chủ trương “Chủ động và tích cực hội nhập kinh tế quốc tế”.",
+    "answers": ["Đại hội VII.", "Đại hội VIII.", "Đại hội IX.", "Đại hội X"],
+    "correct": 3,
+    "explanation": "Đại hội X (2006) khẳng định tinh thần 'chủ động, tích cực' để tận dụng thời cơ và vượt qua thách thức của toàn cầu hóa."
+  },
+  {
+    "question": "Đại hội nào xác định công tác đối ngoại phải trở thành một mặt trận chủ động, tích cực trong đấu tranh nhằm làm thất bại chính sách của các thế lực hiếu chiến mưu toan chống phá cách mạng nước ta.",
+    "answers": ["Đại hội IV ", "Đại hội V ", "Đại hội VI "],
+    "correct": 1,
+    "explanation": "Đại hội V (1982) nhấn mạnh vai trò đấu tranh của mặt trận đối ngoại trong bối cảnh quốc tế còn nhiều phức tạp sau chiến tranh."
+  },
+  {
+    "question": "Tình hình thế giới và tác động của nó đến chủ trương đối ngoại của Đảng ta thời kỳ 1975 – 1986 là.",
+    "answers": ["Cả nước đi lên chủ nghĩa xã hội với khí thế của một dân tộc vừa giành được thắng lợi vĩ đại.", "Sự tiến bộ nhanh của cuộc cách mạng khoa học và công nghệ đã thúc đẩy lực lượng sản xuất thế giới phát triển mạnh; xu thế chạy đua phát triển kinh tế đã dẫn đến cục diện hoà hoãn giữa các nước lớn.", "Hệ thống các nước xã hội chủ nghĩa lâm vào thoái trào và khủng hoảng.", "Củng cố và tăng cường tình đoàn kết chiến đấu và quan hệ hợp tác với các nước xã hội chủ nghĩa."],
+    "correct": 1,
+    "explanation": "Đây là đặc điểm thế giới giai đoạn 1975-1986 buộc các nước lớn phải điều chỉnh quan hệ theo hướng đối thoại thay vì đối đầu gay gắt."
+  },
+  {
+    "question": "Đường lối đối ngoại thời kỳ đổi mới gồm những luận điểm quan trọng là.",
+    "answers": ["Chủ trương hợp tác bình đẳng và cùng có lợi với tất cả các nước, không phân biệt chế độ chính trị - xã hội khác nhau, trên cơ sở các nguyên tắc cùng tồn tại hoà bình.", "Thực hiện nhất quán đường lối đối ngoại độc lập tự chủ, hoà bình, hợp tác và phát triển; thực hiện chính sách đối ngoại rộng mở, đa phương hoá, đa dạng hoá quan hệ quốc tế.", "Chủ động và tích cực hội nhập quốc tế.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Đường lối đối ngoại đổi mới giúp Việt Nam thoát khỏi cô lập và vươn mình ra thế giới một cách mạnh mẽ."
+  },
+  {
+    "question": "Kết quả của việc thực hiện đường lối đối ngoại của Đảng thời kỳ trước đổi mới (1975 - 1986) là.",
+    "answers": ["Quan hệ đối ngoại của Việt Nam với các nước xã hội chủ nghĩa được tăng cường, đặc biệt là với Liên Xô.", "Thiết lập thêm quan hệ ngoại giao với nhiều nước. Tham gia nhiều tổ chức quốc tế.", "Thiết lập ngoại giao với các nước còn lại trong ASEAN.", "Tất cả các phương án đã nêu."],
+    "correct": 3,
+    "explanation": "Dù trong bối cảnh khó khăn, Việt Nam vẫn nỗ lực mở rộng các kênh ngoại giao quan trọng."
+  },
+  {
+    "question": "Việt Nam hiện nay đang đối đầu với những nguy cơ nào?",
+    "answers": ["Tụt hậu về kinh tế; tham nhũng, quan liêu.", "Chệch hướng xã hội chủ nghĩa.", "Diễn biến hòa bình.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Đây là 'bốn nguy cơ' được Đảng xác định từ Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII đến nay vẫn còn nguyên giá trị cảnh báo."
+  },
+  {
+    "question": "“Đoàn kết, đoàn kết, đại đoàn kết, Thành công, thành công, đại thành công!” được trích từ tác phẩm nào của Hồ Chí Minh?",
+    "answers": ["Bài nói chuyện trong buổi lễ bế mạc đại hội thành lập mặt trận Tổ Quốc Việt Nam.", "Bài nói chuyện tại lớp bồi dưỡng cán bộ về công tác Mặt trận.", "Bài nói chuyện tại hội nghị mở rộng Ủy ban Trung ương Mặt trận Tổ Quốc Việt Nam.", "Bài nói chuyện tại Đại hội đại biểu Mặt trận Tổ Quốc Việt Nam lần thứ II."],
+    "correct": 1,
+    "explanation": "Hồ Chí Minh đưa ra câu khẩu hiệu nổi tiếng này tại lớp bồi dưỡng cán bộ về công tác Mặt trận năm 1962."
+  },
+  {
+    "question": "Nội dung chủ đề “Nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng, phát huy sức mạnh đại đoàn kết dân tộc, đẩy mạnh toàn diện công cuộc đổi mới, sớm đưa nước ta ra khỏi tình trạng kém phát triển” được nêu ra trong Đại hội mấy của Đảng:",
+    "answers": ["Đại hội VII", "Đại hội VIII", "Đại hội IX", "Đại hội X"],
+    "correct": 3,
+    "explanation": "Đại hội X (2006) đặt ra mục tiêu cốt lõi là thoát khỏi tình trạng kém phát triển thông qua sức mạnh đại đoàn kết."
+  },
+  {
+    "question": "Đảng ta khẳng định vấn đề dân tộc và đoàn kết các dân tộc có vị trí như thế nào trong sự nghiệp cách mạng:",
+    "answers": ["Chiến lược", "Sách lược", "Chủ yếu", "Bình thường"],
+    "correct": 0,
+    "explanation": "Đây không phải biện pháp nhất thời mà là sợi chỉ đỏ xuyên suốt, quyết định thành bại của cách mạng Việt Nam."
+  },
+  {
+    "question": "Sức mạnh dân tộc bao gồm những yếu tố chủ yếu nào?",
+    "answers": ["Chủ nghĩa yêu nước.", "Tinh thần đoàn kết.", "Ý thức tự lực, tự cường.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Sức mạnh dân tộc là sự kết tinh của giá trị lịch sử, tinh thần và khả năng hành động độc lập của nhân dân."
+  },
+  {
+    "question": "Trong quá trình lãnh đạo Mặt trận dân tộc thống nhất, Đảng phải làm gì?",
+    "answers": ["Có năng lực lãnh đạo", "Có chính sách đúng đắn.", "Có uy tín.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Đảng lãnh đạo Mặt trận không phải bằng mệnh lệnh mà bằng sự thuyết phục thông qua chính sách và uy tín thực tế."
+  },
+  {
+    "question": "Nhận định: “Dân ta có một lòng nồng nàn yêu nước. Đó là một truyền thống quý báu của ta...” được trích từ tác phẩm nào của Hồ Chí Minh?",
+    "answers": ["Tuyên ngôn độc lập.", "Lời kêu gọi toàn quốc kháng chiến.", "Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng.", "Diễn văn khai mạc Đại hội đại biểu toàn quốc lần thứ III của Đảng lao động Việt Nam."],
+    "correct": 2,
+    "explanation": "Đây là đoạn trích bất hủ trong Báo cáo Chính trị tại Đại hội II (1951) khẳng định sức mạnh vô địch của lòng yêu nước."
+  },
+  {
+    "question": "Trong thực tiễn của cách mạng, một nguyên nhân sâu xa dẫn đến cuộc đấu tranh cứu nước của nhân dân ta cuối thế kỷ XIX, dầu thế kỷ XX bị thất bại?",
+    "answers": ["Cả nước đã không đoàn kết được một khối thống nhất.", "Lãnh đạo cuộc đấu tranh cứu nước là các sỹ phu phong kiến.", "Con đường đấu tranh cứu nước theo ý thức hệ tư tưởng phong kiến hoặc tư sản.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Dù yêu nước nhưng do thiếu một tổ chức lãnh đạo thống nhất và đường lối đoàn kết rộng rãi nên các phong trào đều bị dập tắt."
+  },
+  {
+    "question": "Lựa chọn đáp án đúng nhất:",
+    "answers": ["Đại đoàn kết dân tộc là vấn đề sách lược.", "Đại đoàn kết dân tộc là vấn đề chiến lược.", "Đại đoàn kết dân tộc là thủ đoạn chính trị.", "Tất cả đều đúng."],
+    "correct": 1,
+    "explanation": "Chiến lược là vấn đề sống còn, lâu dài. Hồ Chí Minh khẳng định: 'Đoàn kết là sức mạnh, là then chốt của thành công'."
+  },
+  {
+    "question": "Lực lượng chủ yếu của khối đại đoàn kết dân tộc gồm?",
+    "answers": ["Công nhân.", "Công nhân, nông dân.", "Phụ nữ, cựu chiến binh.", "Tất cả các giai cấp, tầng lớp trong xã hội."],
+    "correct": 3,
+    "explanation": "Mặt trận đại đoàn kết không loại trừ bất kỳ ai có lòng yêu nước, tán thành độc lập dân tộc và CNXH."
+  },
+  {
+    "question": "Lựa chọn đáp án đúng nhất:",
+    "answers": ["Đặng Cộng Sản Việt Nam là một thành viên của Mặt trận dân tộc thống nhất.", "Đảng Cộng sản Việt Nam là lực lượng lãnh đạo mặt trận.", "Đảng Cộng Sản Việt Nam vừa là thành viên, vừa là lực lượng lãnh đạo mặt trận.", "Tất cả đều đúng."],
+    "correct": 1,
+    "explanation": "Đảng lãnh đạo Mặt trận bằng đường lối và sự gương mẫu của đảng viên, được các thành viên khác thừa nhận tự nguyện."
+  },
+  {
+    "question": "Chọn câu trả lời đúng nhất về tổ chức mặt trận dân tộc thống nhất?",
+    "answers": ["Mặt trận dân tộc thống nhất là tổ chức của các Đảng phái, các đoàn thể, các nhân sĩ.", "Mặt trận dân tộc thống nhất là tổ chức của các tầng lớp nhân dân.", "Mặt trận dân tộc thống nhất là tổ chức của giai cấp công nhân, nông dân, lao động trí óc.", "Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân trong và ngoài nước."],
+    "correct": 3,
+    "explanation": "Mặt trận là tổ chức liên minh chính trị rộng lớn nhất, bao hàm cả kiều bào yêu nước ở nước ngoài."
+  },
+  {
+    "question": "Cơ sở lý luận quan trọng nhất hình thành quan điểm của Đảng về đại đoàn kết dân tộc là gì?",
+    "answers": ["Chủ nghĩa Mác - Lênin", "Tinh thần yêu nước Việt Nam.", "Tinh thần đoàn kết dân tộc.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Chủ nghĩa Mác - Lênin về liên minh giai cấp và giải phóng dân tộc là nền tảng khoa học cho đường lối đoàn kết của Đảng."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, thế nào là đoàn kết?",
+    "answers": ["Sức mạnh.", "Then chốt của thành công.", "Điểm mẹ.", "Tất cả đều đúng."],
+    "correct": 3,
+    "explanation": "Hồ Chí Minh dùng nhiều hình ảnh ví von để nhấn mạnh đoàn kết là 'điểm mẹ' (gốc rễ) sinh ra mọi thắng lợi."
+  },
+  {
+    "question": "Sức mạnh đại đoàn kết dân tộc phải được quán triệt trong:",
+    "answers": ["Đường lối chính sách của Đảng.", "Đường lối của Mặt trận.", "Chủ trương của Nhà nước..", "Chính sách của Nhà nước."],
+    "correct": 0,
+    "explanation": "Đường lối của Đảng là kim chỉ nam, mọi chính sách sau đó của Nhà nước và Mặt trận đều phải dựa trên quan điểm này."
+  },
+  {
+    "question": "Theo Hồ Chí Minh chủ thể của đại đoàn kết dân tộc là những đối tượng nào?",
+    "answers": ["Đảng.", "Mọi người dân Việt Nam.", "Con rồng cháu tiên.", "Đảng và mọi người dân Việt Nam."],
+    "correct": 3,
+    "explanation": "Chủ thể của đại đoàn kết dân tộc theo tư tưởng Hồ Chí Minh là toàn thể nhân dân Việt Nam, bao gồm mọi tầng lớp, giai cấp và Đảng Cộng sản vừa là thành viên, vừa là lực lượng lãnh đạo."
+  },
+  {
+    "question": "Đoàn kết dân tộc nhằm mục đích là",
+    "answers": ["Chống lại sự khắc nghiệt của thiên nhiên để tồn tại", "Chống lại các thế lực ngoại xâm ở bên ngoài", "Tiến hành các hoạt động chung để bảo vệ môi trường sống", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Đoàn kết là sức mạnh tổng hợp giúp dân tộc Việt Nam vượt qua mọi thử thách từ thiên tai, địch họa đến các vấn đề sinh tồn và phát triển."
+  },
+  {
+    "question": "Đoàn kết dân tộc tức là",
+    "answers": ["Mang tính tự nguyện vì một mục tiêu chung", "Áp đặt giữa các dân tộc, thiếu tính tự nguyện, thường có tính chất ép buộc, bắt buộc ", "Lợi ích của một tập đoàn người hay của một dân tộc đa số ", "Thiếu tính bền vững, không phản ánh đúng thực chất tâm tư, nguyện vọng ý chí của các dân tộc."],
+    "correct": 0,
+    "explanation": "Đoàn kết thực sự phải dựa trên sự tự nguyện, tin tưởng lẫn nhau và cùng hướng tới lợi ích chung của quốc gia dân tộc."
+  },
+  {
+    "question": "Đoàn kết dân tộc tức là",
+    "answers": ["Có tiêu chí chung, điểm tương đồng", "Áp đặt giữa các dân tộc, thiếu tính tự nguyện, thường có tính chất ép buộc, bắt buộc ", "Lợi ích của một tập đoàn người hay của một dân tộc đa số ", "Thiếu tính bền vững, không phản ánh đúng thực chất tâm tư, nguyện vọng ý chí của các dân tộc."],
+    "correct": 0,
+    "explanation": "Cần tìm ra những điểm tương đồng, lấy lợi ích chung của dân tộc làm mục tiêu tối thượng để tập hợp mọi lực lượng."
+  },
+  {
+    "question": "Đoàn kết dân tộc tức là",
+    "answers": ["Có tính bền vững, phản ánh đúng thực chất tâm tư, nguyện vọng ý chí của các dân tộc.", "Áp đặt giữa các dân tộc, thiếu tính tự nguyện, thường có tính chất ép buộc, bắt buộc ", "Lợi ích của một tập đoàn người hay của một dân tộc đa số ", "Thiếu tính bền vững, không phản ánh đúng thực chất tâm tư, nguyện vọng ý chí của các dân tộc."],
+    "correct": 0,
+    "explanation": "Sự đoàn kết chỉ bền vững khi nó đáp ứng được nguyện vọng chính đáng của nhân dân và dựa trên sự chân thành."
+  },
+  {
+    "question": "Nhà nước pháp quyền xã hội chủ nghĩa quản lý mọi mặt đời sống xã hội chủ yếu bằng",
+    "answers": ["Đường lối chính sách ", "Tuyên truyền giáo dục", "Hiến pháp pháp luật", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Nhà nước quản lý bằng sự kết hợp giữa định hướng chính trị (Đường lối), khung pháp lý (Pháp luật) và nâng cao nhận thức người dân (Tuyên truyền)."
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: Nhà nước xã hội chủ nghĩa vừa có bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi và tính ... sâu sắc.",
+    "answers": ["Giai cấp", "Nhân đạo", "Dân tộc", "Cộng đồng"],
+    "correct": 2,
+    "explanation": "Tính dân tộc thể hiện ở việc Nhà nước bảo vệ lợi ích của toàn dân tộc và kế thừa truyền thống lịch sử vẻ vang của đất nước."
+  },
+  {
+    "question": "Mặt trận Tổ quốc VN và các tổ chức chính trị xã hội có vai trò gì trong việc thực hiện quyền làm chủ của nhân dân?",
+    "answers": ["Tập hợp, vận động, đoàn kết rộng rãi các tầng lớp nhân dân.", "Đại diện cho quyền và lợi ích hợp pháp của nhân dân.", "Đề xuất các chủ trương, chinh sách về kinh tế, văn hoá, an ninh, quốc phòng.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Đây là cầu nối quan trọng giữa Đảng, Nhà nước và nhân dân, giúp phát huy sức mạnh khối đại đoàn kết."
+  },
+  {
+    "question": "Nhà nước pháp quyền XHCN Việt Nam có mấy đặc trưng cơ bản:",
+    "answers": ["4", "5", "6", "7"],
+    "correct": 1,
+    "explanation": "Cương lĩnh (bổ sung, phát triển năm 2011) và Hiến pháp 2013 xác định 5 đặc trưng cơ bản của Nhà nước pháp quyền XHCN Việt Nam."
+  },
+  {
+    "question": "Đặc trưng đầu tiên của nhà nước pháp quyền XHCN Việt Nam là gì?",
+    "answers": ["Nhà nước của dân, do dân và vì dân; tất cả quyền lực nhà nước thuộc về nhân dân.", "Quyền lực nhà nước là thống nhất, có sự phân công rành mạch và phối hợp chặt chẽ giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.", "Nhà nước được tổ chức và hoạt động trên cơ sở Hiến pháp, pháp luật và bảo đảm cho Hiến pháp và các đạp luật giữ vị trí tối thượng trong điều chỉnh các quan hệ thuộc tất cả các lĩnh vực của đời sống xã hội", "Nhà nước tôn trọng và bảo đảm quyền con người, quyền công dân; nâng cao trách nhiệm pháp lý giữa Nhà nước và công dân; thực hành dân chủ, đồng thời tăng cường kỷ cương, kỷ luật."],
+    "correct": 0,
+    "explanation": "Đây là đặc trưng quan trọng nhất, khẳng định nguồn gốc và mục tiêu của quyền lực nhà nước là ở nhân dân."
+  },
+  {
+    "question": "Hệ thống chính trị ở nước ta hiện nay bao gồm những tổ chức nào?",
+    "answers": ["Đảng cộng sản Việt Nam", "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam", "Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân.", "Tất cả đều đúng"],
+    "correct": 3,
+    "explanation": "Hệ thống chính trị Việt Nam cấu thành từ 3 bộ phận: Đảng (lãnh đạo), Nhà nước (quản lý) và Mặt trận/Đoàn thể (làm chủ)."
+  },
+  {
+    "question": "Hãy cho biết cơ quan hành chính Nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
+    "answers": ["Quốc hội ", "Đảng cộng sản Việt Nam ", "Chính phủ", "Hội đồng nhân dân"],
+    "correct": 2,
+    "explanation": "Chính phủ thực hiện chức năng hành pháp, quản lý vĩ mô mọi mặt đời sống xã hội và là cơ quan hành chính cao nhất."
+  },
+  {
+    "question": "Chính phủ là cơ quan",
+    "answers": ["Chấp hành của Quốc hội", "Hành pháp", "Lập pháp ", "Cả a và b đều đúng"],
+    "correct": 1,
+    "explanation": "Trong cấu trúc nhà nước, Chính phủ nắm quyền hành pháp, thực thi các luật và nghị quyết do Quốc hội ban hành."
+  },
+  {
+    "question": "Tòa án, Viện kiểm sát được gọi là cơ quan gì?",
+    "answers": ["Cơ quan hành pháp", "Cơ quan tư pháp", "Cơ quan lập pháp ", "Tất cả đều sai"],
+    "correct": 1,
+    "explanation": "Tòa án thực hiện quyền xét xử, Viện kiểm sát thực hiện quyền công tố và kiểm sát hoạt động tư pháp."
+  },
+  {
+    "question": "Toàn bộ hệ thống chính trị nước ta được tổ chức và hoạt động dựa trên nền tảng tư tưởng nào?",
+    "answers": ["Chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh", "Triết học Mác - Lênin và tư tưởng Hồ Chí Minh", "Chủ nghĩa Mác - Lênin", "Tư tưởng Hồ Chí Minh"],
+    "correct": 0,
+    "explanation": "Đây là kim chỉ nam, nền tảng tư tưởng không đổi của Đảng và sự nghiệp cách mạng Việt Nam."
+  },
+  {
+    "question": "Việc thực hiện quyền lực trong nhà nước cộng hoà xã hội chủ nghĩa Việt Nam có sự:",
+    "answers": ["Phân chia quyền lực", "Quyền lực nhà nước là thống nhất, có sự phân công rành mạch và phối hợp chặt chẽ giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp và tư pháp.", "Ba quyền hành pháp, lập pháp, tư pháp giao cho các cơ quan Chính phủ, Toà án.", "Tất cả các đáp án trên đều đúng."],
+    "correct": 1,
+    "explanation": "Khác với các nước phương Tây (phân quyền độc lập), Việt Nam theo nguyên tắc quyền lực nhà nước là thống nhất nhưng có sự phối hợp."
+  },
+  {
+    "question": "Biện pháp tiếp tục đổi mới tổ chức và hoạt động của Quốc hội là nhằm xây dựng thành tố nào trong hệ thống nào trong hệ thống chính trị Việt Nam.",
+    "answers": ["Đảng cộng sản Việt Nam.", "Nhà nước pháp quyền xã hội chủ nghĩa.", "Mặt trận Tổ Quốc Việt Nam và các đoàn thể chính trị - xã hội.", "Tất cả đều đúng.."],
+    "correct": 1,
+    "explanation": "Quốc hội là cơ quan đại biểu cao nhất của nhân dân, thành tố chủ chốt trong bộ máy Nhà nước."
+  },
+  {
+    "question": "Trong các điểm nêu dưới đây, điểm nào không phải là đặc điểm của nhà nước pháp quyền xã hội chủ nghĩa Việt Nam.",
+    "answers": ["Nhà nước của dân, do dân, vì dân, tất cả quyền lực nhà nước thuộc về nhân dân.", "Nhà nước tam quyền phân lập.", "Nhà nước được tổ chức và hoạt động trên cơ sở Hiến Pháp, pháp luật và bảo đảm cho hiến pháp và các đạo luật giữ vị trí tối thượng trong điều chỉnh các quan hệ thuộc tất cả các lĩnh vực của đời sống xã hội.", "Nhà nước tôn trọng và bảo đảm quyền con người, quyền công dân; nâng cao trách nhiệm pháp lý giữa Nhà nước và công dân, thực hành dân chủ, đồng thời tăng cường kỷ cương, kỷ luật."],
+    "correct": 1,
+    "explanation": "Việt Nam không áp dụng 'tam quyền phân lập' mà áp dụng nguyên tắc 'quyền lực nhà nước là thống nhất, có sự phân công, phối hợp'."
+  },
+  {
+    "question": "Trong các tổ chức nêu dưới đây, tổ chức nào không phải là tổ chức chính trị - xã hội ở nước ta hiện nay.",
+    "answers": ["Tổng Liên đoàn Lao động Việt Nam.", "Hội Phụ nữ Việt Nam.", "Hội Cựu chiến binh Việt Nam.", "Hội Khuyến học"],
+    "correct": 3,
+    "explanation": "Hội Khuyến học được coi là tổ chức xã hội - nghề nghiệp hoặc hội đặc thù, không nằm trong 5 tổ chức chính trị - xã hội trụ cột."
+  },
+  {
+    "question": "Trong các thành tố của hệ thống chính trị ở Việt Nam hiện nay, thành tố nào sau đây vừa là lãnh đạo hệ thống chính trị, vừa là bộ phận của hệ thống đó.",
+    "answers": ["Đảng cộng sản Việt Nam.", "Nhà nước pháp quyền xã hội chủ nghĩa.", "Mặt trận Tổ Quốc Việt Nam và các đoàn thể chính trị - xã hội.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Đảng vừa lãnh đạo toàn bộ hệ thống bằng đường lối, vừa là một thành viên tích cực trong Mặt trận Tổ quốc."
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Nhà nước được tổ chức và hoạt động trên cơ sở ...., pháp luật và bảo đảm cho Hiến pháp và các đạo luật giữ vị trí tối thượng trong điều chỉnh các quan hệ thuộc tất cả các lĩnh vực của đời sống xã hội”.",
+    "answers": ["Hiến pháp", "Pháp luật", "Nghị định", "Nghị quyết"],
+    "correct": 0,
+    "explanation": "Trong Nhà nước pháp quyền, Hiến pháp có giá trị pháp lý cao nhất, mọi quy định khác không được trái với Hiến pháp."
+  },
+  {
+    "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mang bản chất của giai cấp nào.",
+    "answers": ["Giai cấp tư sản", "Giai cấp nông dân.", "Giai cấp công nhân.", "Tất cả đều đúng"],
+    "correct": 2,
+    "explanation": "Nhà nước ta mang bản chất giai cấp công nhân vì mục tiêu cuối cùng là xây dựng chủ nghĩa xã hội và cộng sản chủ nghĩa."
+  },
+  {
+    "question": "Bầu cử các đại biểu của dân vào các cơ quan quyền lực nhà nước thuộc loại hình dân chủ nào?",
+    "answers": ["Trực tiếp.", "Gián tiếp.", "Trực tiếp và gián tiếp", "Vô sản."],
+    "correct": 0,
+    "explanation": "Cử tri tự mình đi bỏ phiếu để chọn người đại diện là hình thức dân chủ trực tiếp."
+  },
+  {
+    "question": "Lựa chọn đáp án đúng nhất:",
+    "answers": ["Pháp luật đúng là pháp luật thể hiện và bảo vệ được lợi ích của dân.", "Pháp luật đúng là pháp luật bảo vệ lợi ích của giai cấp cầm quyền.", "Pháp luật đúng là pháp luật duy trì sự cầm quyền của Đảng.", "Tất cả đều đúng."],
+    "correct": 0,
+    "explanation": "Trong Nhà nước dân chủ, pháp luật phải là công cụ bảo vệ quyền lợi chính đáng và hạnh phúc của nhân dân."
+  },
+  {
+    "question": "Hồ Chí Minh là người đã trực tiếp chỉ đạo, biên soạn các hiến pháp nào của nước ta?",
+    "answers": ["Hiến pháp 1946.", "Hiên pháp 1959.", "Hiến pháp 1980.", "Hiến pháp 1946 và 1959."],
+    "correct": 3,
+    "explanation": "Người là Trưởng ban dự thảo của hai bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa."
+  },
+  {
+    "question": "Ủy ban dự thảo Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa do ai làm Trưởng ban?",
+    "answers": ["Đặng Xuân Khu.", "Nguyễn Lương Bằng.", "Hồ Chí Minh.", "Lê Văn Hiến."],
+    "correct": 2,
+    "explanation": "Chủ tịch Hồ Chí Minh đã trực tiếp chỉ đạo công tác soạn thảo bản Hiến pháp lịch sử năm 1946."
+  },
+  {
+    "question": "Điền vào chỗ trống để hoàn thiện đoạn văn Hồ Chí Minh viết: “Những người trúng cử, sẽ phải ra sức giữ vững nền độc lập của tổ quốc, ra sức…cho đồng bào. Phải luôn luôn nhớ và thực hành câu: Vì lợi nước, quên lợi nhà; Vì lợi chung, quên lợi riêng”?",
+    "answers": ["Làm giàu.", "Giải phóng.", "Tăng phúc lợi.", "Mưu sự hạnh phúc."],
+    "correct": 3,
+    "explanation": "Đây là lời nhắc nhở sâu sắc của Người đối với các đại biểu dân cử về trách nhiệm lo cho đời sống ấm no, hạnh phúc của dân."
+  },
+  {
+    "question": "Đảng Cộng Sản Việt Nam là Đảng của giai cấp, tầng lớp nào?",
+    "answers": ["Giai cấp công nhân", "Nhân dân lao động", "Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam", "Của tầng lớp trí thức Việt Nam"],
+    "correct": 2,
+    "explanation": "Đảng không chỉ đại diện cho giai cấp công nhân mà còn là đại biểu trung thành cho lợi ích của nhân dân lao động và toàn dân tộc."
+  },
+  {
+    "question": "Xét trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân có vị trí như thế nào?",
+    "answers": ["Là giai cấp nghèo khổ nhất, không có tài sản ", "Là giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư", "Là giai cấp có số lượng đông trong dân cư, luôn đi đầu trong cuộc đấu tranh chống giai cấp tư sản ", "Tất cả đều đúng "],
+    "correct": 1,
+    "explanation": "Theo chủ nghĩa Mác, đặc trưng kinh tế của công nhân dưới thời tư bản là không có tư liệu sản xuất và phải bán sức lao động."
+  },
+  {
+    "question": "Cơ sở giai cấp của Đảng Cộng sản là:",
+    "answers": ["Giai cấp công nhân", "Giai cấp công nhân và giai cấp nông dân", "Giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức", "Giai cấp công nhân và tầng lớp trí thức"],
+    "correct": 0,
+    "explanation": "Dù đoàn kết nhiều tầng lớp, nhưng nền tảng và bản chất giai cấp của Đảng luôn là giai cấp công nhân."
+  },
+  {
+    "question": "Sứ mệnh lịch sử của giai cấp công nhân là:",
+    "answers": ["Lãnh đạo nhân dân lao động đấu tranh xóa bỏ chế độ tư bản chủ nghĩa ", "Lãnh đạo nhân dân lao động đấu tranh xóa bỏ mọi chế độ áp bức bóc lột ", "Lãnh đạo nhân dân lao động xây dựng xã hội mới - xã hội xã hội chủ nghĩa và xã hội cộng sản chủ nghĩa ", "Lãnh đạo nhân dân lao động đấu tranh xóa bỏ chế độ tư bản chủ nghĩa, xóa bỏ mọi chế độ áp bức bóc lột, dựng xã hội mới - xã hội xã hội chủ nghĩa và xã hội cộng sản chủ nghĩa "],
+    "correct": 3,
+    "explanation": "Đây là sứ mệnh toàn diện và triệt để nhất nhằm giải phóng loài người khỏi mọi xiềng xích áp bức."
   }
 ]
