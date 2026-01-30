@@ -25,7 +25,7 @@
 <body>
   <div class="container">
     <h1>Thử kiểm tra — <span id="subject-name"></span></h1>
-    <h2>Ngủ đi đừng học nữa</h2>
+    
     <div id="quiz-box">
       <!-- Timer và thông tin -->
       <div class="top-controls" style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;padding:12px;background:#f0f8ff;border-radius:8px;border:1px solid #b0d4ff;">
@@ -59,7 +59,7 @@
   <script>
     // Hiển thị tên môn
     (function(){
-      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Hoá học', chinhttri:'Chính trị', sinhhoc:'Sinh học' };
+      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Chính trị LT', chinhttri:'Chính trị', sinhhoc:'Chính trị DS' };
       const sub = window.QUIZ_SUBJECT || 'hoahoc';
       const el = document.getElementById('subject-name');
       if (el) el.textContent = map[sub] || sub;
