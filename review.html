@@ -56,7 +56,7 @@
   <script>
     // hiển thị tên môn ngắn
     (function(){
-      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Hoá học', chinhttri:'Chính trị', sinhhoc:'Sinh học' };
+      const map = { tin:'Tin học', vatly:'Vật lý', hoahoc:'Chính trị lý thuyết', chinhttri:'Chính trị', sinhhoc:'Chính trị DS' };
       const sub = window.QUIZ_SUBJECT || localStorage.getItem('quiz_subject') || 'hoahoc';
       const el = document.getElementById('subject-name');
       if (el) el.textContent = map[sub] || sub;
