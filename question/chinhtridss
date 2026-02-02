@@ -1,0 +1,798 @@
+[
+  {
+    "question": "Chính trị xuất hiện cùng với con người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chính trị chỉ xuất hiện khi xã hội phân chia giai cấp và có nhà nước."
+  },
+ 
+  {
+    "question": "Quốc tế Cộng sản (Quốc tế III) ra đời vào tháng 3/1920.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Quốc tế III ra đời vào tháng 3/1919 tại Matscơva."
+  },
+  {
+    "question": "Định luật bảo toàn và chuyển hoá năng lượng, thuyết tế bào và thuyết tiến hóa là tiền đề lý luận trực tiếp của sự ra đời chủ nghĩa Mác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đây là tiền đề khoa học tự nhiên, không phải tiền đề lý luận."
+  },
+  {
+    "question": "Những phát minh của khoa học tự nhiên thế kỷ XIX là tiền đề của sự ra đời triết học Mác gồm: Thuyết tương đối, thuyết nhật tâm và thuyết vạn vật hấp dẫn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tiền đề khoa học tự nhiên trực tiếp là Thuyết tế bào, Thuyết tiến hóa và Định luật bảo toàn chuyển hóa năng lượng."
+  },
+  {
+    "question": "Các Mác và Ph.Ăngghen gặp nhau từ tháng 8 năm 1884.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Cuộc gặp lịch sử giữa Mác và Ăngghen diễn ra tại Paris vào tháng 8 năm 1844."
+  },
+  {
+    "question": "Giá trị lý luận tiêu biểu mà Các Mác và Ph.Ăngghen đã sáng tạo và cống hiến cho nhân loại trước hết là về chủ nghĩa xã hội khoa học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Cống hiến vĩ đại nhất của Mác là Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư."
+  },
+  {
+    "question": "Giá trị lý luận tiêu biểu mà Các Mác và Ph.Ăngghen đã sáng tạo và cống hiến cho nhân loại trước hết là về triết học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Triết học (Duy vật biện chứng và Duy vật lịch sử) là nền tảng thế giới quan cho toàn bộ hệ thống lý luận của chủ nghĩa Mác."
+  },
+  {
+    "question": "Năm 1889, Các Mác và Ph. Ăngghen cùng nhau sáng lập quốc tế II.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Năm 1889, chỉ có Ăngghen lãnh đạo việc thành lập Quốc tế II vì Các Mác đã mất năm 1883."
+  },
+  {
+    "question": "Triết học Mác - Lênin là triết học duy vật siêu hình.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Triết học Mác - Lênin phê phán chủ nghĩa duy vật siêu hình và thay thế bằng chủ nghĩa duy vật biện chứng."
+  },
+  {
+    "question": "Vấn đề cơ bản của triết học là mối quan hệ giữa tồn tại xã hội và ý thức xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đây là vấn đề cơ bản của chủ nghĩa duy vật lịch sử, không phải vấn đề cơ bản của triết học nói chung."
+  },
+  {
+    "question": "Quan niệm duy vật thừa nhận ý thức có trước, vật chất có sau, ý thức quyết định vật chất.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Chủ nghĩa duy vật khẳng định vật chất là tính thứ nhất, ý thức là tính thứ hai; vật chất có trước và quyết định ý thức."
+  },
+  {
+    "question": "Thuộc tính chung nhất của vật chất là tồn tại phụ thuộc vào con người.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Thuộc tính chung nhất của vật chất là thực tại khách quan, tồn tại độc lập và không phụ thuộc vào ý thức hay cảm giác của con người."
+  },
+  {
+    "question": "Triết học Mác - Lênin đã đồng nhất vật chất với các vật thể cụ thể.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Triết học Mác - Lênin định nghĩa vật chất là một phạm trù triết học khái quát thuộc tính thực tại khách quan, khác với các vật thể cụ thể của khoa học tự nhiên."
+  },
+  {
+    "question": "Ý thức là “sự hồi tưởng về những cái có sẵn, có trước, không liên quan đến thế giới vật chất”.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Đây là quan điểm duy tâm khách quan (của Platon); còn chủ nghĩa duy vật biện chứng khẳng định ý thức là sự phản ánh thế giới vật chất vào não người."
+  },
+  {
+    "question": "Các Mác là người đã đưa ra định nghĩa hoàn chỉnh về phạm trù vật chất.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "V.I. Lênin mới là người đưa ra định nghĩa hoàn chỉnh về vật chất trong tác phẩm 'Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán'."
+  },
+
+  {
+    "question": "Quan niệm của chủ nghĩa duy vật biện chứng cho rằng: Vận động gắn liền với vật thể và vận động đơn thuần chỉ là sự thay đổi vị trí của các vật thể trong không gian.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Đây là quan niệm siêu hình; chủ nghĩa duy vật biện chứng cho rằng vận động bao gồm mọi sự biến đổi từ đơn giản đến phức tạp."
+  },
+
+  {
+    "question": "Nguồn gốc xã hội của ý thức là: Văn hoá và ngôn ngữ.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Nguồn gốc xã hội trực tiếp và quyết định nhất phải là lao động và ngôn ngữ."
+  },
+  {
+    "question": "Nguồn gốc tự nhiên của ý thức là: Thế giới tự nhiên tồn tại khách quan.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Nguồn gốc tự nhiên của ý thức bao gồm bộ não người và sự tác động của thế giới khách quan lên bộ não đó."
+  },
+  {
+    "question": "Các quy luật của phép biện chứng duy vật thuộc loại quy luật riêng.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Các quy luật của phép biện chứng duy vật là những quy luật phổ biến, tác động trong mọi lĩnh vực tự nhiên, xã hội và tư duy."
+  },
+  {
+    "question": "Phủ định của phủ định là phủ định lần hai, phủ định tuyệt đối, cái cũ hoàn toàn bị xóa bỏ.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Phủ định biện chứng không phải phủ định sạch trơn (tuyệt đối) mà là sự phủ định có kế thừa và tạo đà cho cái mới ra đời."
+  },
+  {
+    "question": "Con người có 2 mặt tự nhiên và xã hội. Bản chất của con người là mặt tự nhiên.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Theo Mác, bản chất con người không phải là cái trừu tượng mà là tổng hòa các mối quan hệ xã hội."
+  },
+
+  {
+    "question": "Quan hệ sản xuất là mối quan hệ giữa con người với tự nhiên.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Quan hệ giữa con người với tự nhiên là lực lượng sản xuất; còn quan hệ sản xuất là mối quan hệ giữa người với người trong quá trình sản xuất."
+  },
+
+  {
+    "question": "Quan hệ sản xuất quyết định lực lượng sản xuất.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Ngược lại, lực lượng sản xuất quyết định quan hệ sản xuất; quan hệ sản xuất chỉ tác động trở lại (thúc đẩy hoặc kìm hãm)."
+  },
+
+  {
+    "question": "Đảng phái là thiết chế giữ vai trò quan trọng và có hiệu lực mạnh nhất trong kiến trúc thượng tầng.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Trong kiến trúc thượng tầng của xã hội có giai cấp, nhà nước mới là thiết chế có quyền lực và hiệu lực mạnh nhất."
+  },
+  {
+    "question": "Đấu tranh kinh tế là hình thức đấu tranh cao nhất của đấu tranh giai cấp.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Đấu tranh chính trị (nhằm giành lấy chính quyền) mới là hình thức đấu tranh cao nhất của giai cấp bị áp bức."
+  },
+
+  {
+    "question": "Nhà nước chiếm hữu nô lệ là một nhà nước kiểu mới.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Nhà nước chiếm hữu nô lệ là kiểu nhà nước đầu tiên trong lịch sử; nhà nước kiểu mới thường dùng để chỉ nhà nước vô sản (xã hội chủ nghĩa)."
+  },
+
+  {
+    "question": "Dân tộc ra đời cùng với sự xuất hiện của xã hội loài người.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Dân tộc là một hình thức cộng đồng người xuất hiện muộn, sau các hình thức bộ lạc, bộ tộc; gắn liền với sự hình thành chủ nghĩa tư bản."
+  },
+  {
+    "question": "Sản xuất hàng hóa là sản phẩm của lao động, dùng để thỏa mãn những nhu cầu của con người thông qua trao đổi, mua bán.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Câu này phát biểu sai về khái niệm: 'Hàng hóa' mới là sản phẩm của lao động để trao đổi; còn 'Sản xuất hàng hóa' là một kiểu tổ chức kinh tế."
+  },
+  {
+    "question": "Hàng hóa là sản phẩm của lao động, dùng để thỏa mãn những nhu cầu của người sản xuất ra nó.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Nếu sản xuất ra để tự tiêu dùng thì đó là sản xuất tự cung tự cấp; hàng hóa phải được sản xuất ra để bán (cho người khác)."
+  },
+
+
+  {
+    "question": "Giá trị sử dụng là phạm trù lịch sử.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Giá trị sử dụng là thuộc tính tự nhiên của vật thể, do đó nó tồn tại trong mọi phương thức sản xuất (phạm trù vĩnh viễn)."
+  },
+
+  {
+    "question": "Giá trị của hàng hóa là phạm trù vĩnh viễn.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Giá trị là phạm trù lịch sử, nó chỉ tồn tại ở những xã hội có sản xuất và trao đổi hàng hóa."
+  },
+  {
+    "question": "Công thức H-T-H được gọi là công thức chung của tư bản vì sự vận động của mọi tư bản đều biểu hiện trong lưu thông dưới dạng khái quát đó.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "H-T-H là công thức của lưu thông hàng hóa giản đơn (bán để mua), mục đích là giá trị sử dụng."
+  },
+
+  {
+    "question": "Mục đích của nền sản xuất tư bản chủ nghĩa không phải là giá trị mà là giá trị sử dụng.",
+    "answers": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct": 1,
+    "explanation": "Mục đích tối cao và trực tiếp của nhà tư bản là sản xuất ra giá trị thặng dư (giá trị), không phải giá trị sử dụng."
+  },
+  {
+    "question": "Điều kiện để sức lao động trở thành hàng hóa là phân công lao động xã hội phát triển tới mức có một số lĩnh vực sản xuất không đủ số lượng lao động và phải thuê thêm công nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Điều kiện để sức lao động trở thành hàng hóa gồm hai điều kiện: Người lao động được tự do về thân thể và người lao động không có tư liệu sản xuất, phải bán sức lao động để sống."
+  },
+  {
+    "question": "Tư bản tài chính là liên minh giữa các nhà tư bản để nắm trong tay phần lớn việc sản xuất và tiêu thụ một số loại hàng hóa nào đó nhằm thu lợi nhuận cao.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là định nghĩa về tổ chức độc quyền. Tư bản tài chính là kết quả của sự thâm nhập và dung hợp giữa tư bản độc quyền ngân hàng và tư bản độc quyền công nghiệp."
+  },
+  {
+    "question": "Phương thức sản xuất tư bản chủ nghĩa gồm có 2 giai đoạn đó là chủ nghĩa tư bản hiện đại và chủ nghĩa tư bản độc quyền.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Phương thức sản xuất TBCN gồm 2 giai đoạn chính là: CNTB tự do cạnh tranh và CNTB độc quyền (trong đó bao gồm CNTB độc quyền nhà nước)."
+  },
+  {
+    "question": "Để xác định bước đi và tìm cách làm phù hợp với Việt Nam, Hồ Chí Minh đã nêu ra ba nguyên tắc có tính chất phương pháp luận trong thời kỳ quá độ lên chủ nghĩa xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Hồ Chí Minh không nêu cụ thể 'ba nguyên tắc' như một hệ thống cứng nhắc, mà Người nhấn mạnh việc phải căn cứ vào điều kiện thực tế của dân tộc và tuân theo quy luật khách quan."
+  },
+  
+  {
+    "question": "Theo Hồ Chí Minh, mục tiêu tổng quát của chủ nghĩa xã hội là phát triển mạnh mẽ khoa học - kỹ thuật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Theo Hồ Chí Minh, mục tiêu tổng quát là không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân, làm cho dân giàu, nước mạnh."
+  },
+  {
+    "question": "Theo tư tưởng Hồ Chí Minh công nghiệp hóa phải bắt đầu từ xây dựng và phát triển công nghiệp nặng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Khác với mô hình ưu tiên công nghiệp nặng của Liên Xô lúc bấy giờ, Hồ Chí Minh nhấn mạnh việc ưu tiên phát triển nông nghiệp, coi nông nghiệp là mặt trận hàng đầu, sau đó mới đến công nghiệp nhẹ và công nghiệp nặng."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, quá độ lên chủ nghĩa xã hội ở nước ta thuộc loại hình quá độ trực tiếp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Việt Nam đi lên CNXH bằng con đường quá độ gián tiếp (bỏ qua giai đoạn phát triển TBCN)."
+  },
+  {
+    "question": "Mỗi hình thái kinh tế - xã hội tương ứng với một kiểu quan hệ sản xuất đặc trưng phù hợp với tính chất và trình độ phát triển của lực lượng sản xuất và một kiến trúc thượng tầng được xây dựng trên quan hệ sản xuất đó.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đúng. Đây là nguyên lý cơ bản của chủ nghĩa duy vật lịch sử về cấu trúc của xã hội."
+  },
+  {
+    "question": "Câu nói “Chủ nghĩa cộng sản là chính quyền xô viết cộng với điện khí hóa toàn quốc” là của Chủ tịch Hồ Chí Minh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là câu nói nổi tiếng của V.I. Lênin nhằm nhấn mạnh vai trò của kỹ thuật đối với CNCS."
+  },
+  {
+    "question": "Thực dân Pháp tiến hành cuộc khai thác thuộc địa lần thứ nhất ở Việt Nam từ năm 1858 đến 1884.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Cuộc khai thác thuộc địa lần thứ nhất diễn ra từ sau khi Pháp hoàn thành bình định Việt Nam (khoảng 1897) đến trước Chiến tranh thế giới thứ nhất (1914)."
+  },
+  {
+    "question": "So với Cương lĩnh năm 1991, Cương lĩnh năm 2011 đã bổ sung thêm 2 đặc trưng của chủ nghĩa xã hội là gì?",
+    "answers": ["Thực hiện chính sách đại đoàn kết dân tộc", "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh", "Có Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo.", "Xây dựng Đảng trong sạch vững mạnh."],
+    "correct": 1,
+    "explanation": "Cương lĩnh 2011 (Đại hội XI) bổ sung đặc trưng: 'Dân giàu, nước mạnh, dân chủ, công bằng, văn minh' và 'Có Nhà nước pháp quyền XHCN...' nâng tổng số đặc trưng lên 8."
+  },
+  {
+    "question": "Cương lĩnh năm 1991đã nêu lên các phương hướng cơ bản để xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "answers": ["Phát triển lực lượng sản xuất bằng cách tiến hành công nghiệp hóa, hiện đại hóa đất nước theo hướng hiện đại gắn với phát triển công nghiệp hóa toàn diện.", "Thực hiện chính sách đại đoàn kết dân tộc.", "Có một nền kinh tế phát triển cao dựa vào lực lượng sản xuất hiện đại và chế độ công hữu về các tư liệu sản xuất chủ yếu.", "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc."],
+    "correct": 1,
+    "explanation": "Đoàn kết dân tộc là phương hướng và nguồn lực quan trọng trong sự nghiệp xây dựng đất nước."
+  },
+  {
+    "question": "Cương lĩnh năm 1991đã nêu lên các phương hướng cơ bản để xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "answers": ["Có một nền kinh tế phát triển cao dựa vào lực lượng sản xuất hiện đại và chế độ công hữu về các tư liệu sản xuất chủ yếu.", "Tiến hành cách mạng xã hội chủ nghĩa trên lĩnh vực tư tưởng văn hóa làm cho lý luận chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh ngày càng giữ vị trí chủ đạo trong đời sống tinh thần của xã hội.", "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc.", "Xây dựng chủ nghĩa xã hội và bảo vệ tổ quốc là hai nhiệm vụ chiến lược của cách mạng Việt Nam."],
+    "correct": 1,
+    "explanation": "Phương hướng trên lĩnh vực tư tưởng là làm cho hệ tư tưởng của Đảng giữ vai trò chủ đạo."
+  },
+  {
+    "question": "Cương lĩnh năm 1991đã nêu lên các phương hướng cơ bản để xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "answers": ["Thực hiện đại đoàn kết dân tộc", "Xây dựng Đảng trong sạch vững mạnh", "Xây dựng Mặt trận Tổ quốc Việt Nam", "Thực hiện chính sách về y tế."],
+    "correct": 1,
+    "explanation": "Xây dựng Đảng là khâu then chốt, đảm bảo vai trò lãnh đạo xuyên suốt quá trình xây dựng CNXH."
+  },
+ 
+  {
+    "question": "Xác định phương hướng cơ bản xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội đã được Cương lĩnh Đại hội XI (2011) bổ sung và phát triển là",
+    "answers": ["Tăng cường xây dựng cơ sở cho chủ nghĩa xã hội.", "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc, xây dựng con người, nâng cao đời sống nhân dân, thực hiện tiến bộ và công bằng xã hội.", "Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội.", "Bảo vệ chính quyền cách mạng còn non trẻ."],
+    "correct": 1,
+    "explanation": "Đại hội XI nhấn mạnh việc xây dựng văn hóa gắn liền với xây dựng con người và thực hiện tiến bộ, công bằng xã hội ngay trong từng bước phát triển."
+  },
+
+  {
+    "question": "Đảng Cộng sản Việt Nam được xây dựng dựa trên các nguyên tắc:",
+    "answers": ["Lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng;", "Xây dựng đội ngũ cán bộ vừa “hồng”, vừa “chuyên”;", "Kỷ luật nghiêm minh, tự giác;", "Đoàn kết thống nhất trong Đảng."],
+    "correct": 3,
+    "explanation": "Đoàn kết thống nhất trong Đảng là nguyên tắc tồn tại và phát triển, đảm bảo sức mạnh chiến đấu của Đảng."
+  },
+  {
+    "question": "Hãy điền vào dấu chấm: Người thường nhắc: “Chúng ta không sợ có……và khuyết điểm, chỉ sợ không chịu cố gắng sữa chữa sai lầm và khuyết điểm. Phải giữ gìn sự đoàn kết, nhất trí trong Đảng như ……con ngươi của mắt mình”.",
+    "answers": ["Hạn chế;", "Sai lầm;", "Bảo vệ;", "Giữ gìn."],
+    "correct": 1,
+    "explanation": "Câu đúng: 'Chúng ta không sợ có sai lầm và khuyết điểm...'. Đây là lời dặn trong Di chúc của Người về sự đoàn kết trong Đảng."
+  },
+  
+  {
+    "question": "Ý nghĩa thắng lợi của cuộc kháng chiến chống thực dân Pháp xâm lược:",
+    "answers": ["Bảo vệ và phát triển thành quả của Cách mạng tháng Tám 1945;", "Nước Việt Nam dân chủ cộng hòa ra đời;", "Giải phóng miền Bắc, hoàn thành cách mạng dân tộc dân chủ nhân dân trên một nửa đất nước;", "Chứng tỏ một Đảng 15 năm tuổi đã lãnh đạo cách mạng giành thắng lợi."],
+    "correct": 2,
+    "explanation": "Thắng lợi 1954 đã giải phóng hoàn toàn miền Bắc, tạo hậu phương vững chắc cho sự nghiệp giải phóng miền Nam."
+  },
+ 
+  {
+    "question": "Nguyên thắng lợi của cuộc kháng chiến chống Mỹ, cứu nước:",
+    "answers": ["Chớp lấy cơ hội “ngàn năm có một”;", "Có sự lãnh đạo đúng đắn của Đảng Cộng sản Việt Nam;", "Có miền Bắc là căn cứ địa, hậu phương lớn của cách mạng miền Nam;", "Dân tộc ta có tiềm lực về kinh tế, quân sự, khoa học …lớn hơn Mỹ nhiều lần."],
+    "correct": 1,
+    "explanation": "Sự lãnh đạo của Đảng là nhân tố quyết định hàng đầu mọi thắng lợi của cách mạng Việt Nam."
+  },
+  {
+    "question": "Chính trị là một bộ phận của cơ sở hạ tầng và xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chính trị là một bộ phận của Kiến trúc thượng tầng, không phải Cơ sở hạ tầng (kinh tế)."
+  },
+  {
+    "question": "Chính trị xuất hiện cùng với xã hội loài người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chính trị là một phạm trù lịch sử, nó chỉ xuất hiện khi xã hội đã phát triển đến một trình độ nhất định, có sự phân chia giai cấp và sự ra đời của nhà nước."
+  },
+  
+  {
+    "question": "Chính trị và kinh tế là hai phạm trù độc lập, không có mối quan hệ nào.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chính trị và kinh tế có mối quan hệ biện chứng chặt chẽ; kinh tế là gốc, là cơ sở hạ tầng, còn chính trị là kiến trúc thượng tầng phản ánh và phục vụ kinh tế."
+  },
+  
+  {
+    "question": "Chủ nghĩa Mác - Lênin bao gồm những bộ phận nào cấu thành là: Triết học Mác - Lênin; Kinh tế chính trị học Mác - Lênin và Chủ nghĩa xã hội không tưởng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Ba bộ phận cấu thành là: Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội khoa học."
+  },
+  {
+    "question": "Ăngghen là người kế thừa, bổ sung và phát triển học thuyết Mác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Ph.Ăngghen là người cùng sáng lập ra học thuyết Mác với Các Mác. Người kế thừa, bổ sung và phát triển học thuyết này lên tầm cao mới là V.I. Lênin."
+  },
+  {
+    "question": "Quan niệm duy tâm thừa nhận ý thức con người là sản phẩm của quá trình vận động, phát triển lâu dài của giới tự nhiên.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là quan điểm của chủ nghĩa duy vật. Chủ nghĩa duy tâm cho rằng ý thức là cái có trước, là tinh thần khách quan hoặc ý muốn chủ quan tạo ra thế giới."
+  },
+  {
+    "question": "Quan điểm duy tâm cho rằng bản chất thế giới là vật chất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chủ nghĩa duy tâm cho rằng bản chất thế giới là ý thức (tinh thần). Quan điểm bản chất thế giới là vật chất thuộc về chủ nghĩa duy vật."
+  },
+  {
+    "question": "Quan điểm Ăngghen cho rằng: sự vận động của vật chất là tạm thời.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Ăngghen khẳng định vận động là phương thức tồn tại của vật chất, là thuộc tính cố hữu của vật chất nên vận động là vĩnh cửu và tuyệt đối."
+  },
+  {
+    "question": "Ph.Ăngghen đã chia vận động thành 4 hình thức cơ bản là vận động cơ học, lý học, hóa học, sinh học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Ăngghen chia vận động thành 5 hình thức cơ bản từ thấp đến cao: Cơ học, Lý học, Hóa học, Sinh học và Xã hội."
+  },
+ 
+  {
+    "question": "Theo V.I. Lênin, Quy luật thống nhất và đấu tranh của các mặt đối lập có vị trí trong phép biện chứng duy vật là: Vạch ra khuynh hướng của sự phát triển.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Quy luật thống nhất và đấu tranh của các mặt đối lập vạch ra nguồn gốc, động lực của sự phát triển. Quy luật vạch ra khuynh hướng là quy luật phủ định của phủ định."
+  },
+ 
+  {
+    "question": "Trong nhận thức và thực tiễn cần quán triệt quan điểm toàn diện. Nguyên tắc đó dựa trên cơ sở lý luận của nguyên lý về sự phát triển.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Quan điểm toàn diện dựa trên cơ sở lý luận của nguyên lý về mối liên hệ phổ biến."
+  },
+ 
+  {
+    "question": "Theo quan điểm duy vật biện chứng: không gian, thời gian là phương thức tồn tại của vật chất, là thuộc tính cố hữu của vật chất nên nó gắn liền với vật chất vận động và mang tính chủ quan, phụ thuộc vào con người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Không gian và thời gian mang tính khách quan, không phụ thuộc vào ý chí hay cảm giác chủ quan của con người."
+  },
+  {
+    "question": "Theo quan điểm duy vật biện chứng: ý thức là tiền đề, là cơ sở và nguồn gốc cho sự ra đời, tồn tại và phát triển của vật chất",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là quan điểm duy tâm. Chủ nghĩa duy vật biện chứng khẳng định vật chất là cơ sở, nguồn gốc sinh ra ý thức."
+  },
+ 
+  {
+    "question": "Vận động là một khuynh hướng của phát triển, đó là khuynh hướng đi lên từ thấp đến cao, từ kém hoàn thiện đến hoàn thiện hơn của sự vật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Phát triển mới là khuynh hướng đi lên từ thấp đến cao. Vận động bao gồm mọi sự biến đổi nói chung (cả đi lên, đi xuống, đứng yên tương đối)."
+  },
+  {
+    "question": "Trong các yếu tố hợp thành hình thái kinh tế-xã hội thì quan hệ sản xuất là yếu tố năng động và cách mạng nhất, luôn phát triển một cách khách quan.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Lực lượng sản xuất mới là yếu tố năng động và cách mạng nhất trong một hình thái kinh tế - xã hội."
+  },
+  {
+    "question": "Sản xuất tinh thần là cơ sở của mọi sự tiến bộ xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Sản xuất vật chất mới là cơ sở của đời sống xã hội và là nền tảng của mọi sự tiến bộ xã hội."
+  },
+  
+  {
+    "question": "Mỗi phương thức sản xuất gồm hai mặt cấu thành là cơ sở hạ tầng và quan hệ sản xuất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Một phương thức sản xuất gồm hai mặt: Lực lượng sản xuất và Quan hệ sản xuất."
+  },
+  
+  {
+    "question": "Nhà nước là một phạm trù vĩnh viễn. Nhà nước ra đời khi xã hội xuất hiện loài người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Nhà nước là phạm trù lịch sử, chỉ ra đời khi xã hội có sự phân chia giai cấp và mâu thuẫn giai cấp không thể điều hòa được."
+  },
+  {
+    "question": "Nhà nước cộng sản nguyên thủy là kiểu nhà nước đầu tiên trong lịch sử.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Thời kỳ cộng sản nguyên thủy chưa có nhà nước. Kiểu nhà nước đầu tiên trong lịch sử là nhà nước chiếm hữu nô lệ."
+  },
+ 
+  {
+    "question": "Các dân tộc trên thế giới ra đời cùng thời điểm với nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Sự hình thành dân tộc phụ thuộc vào điều kiện lịch sử, kinh tế, văn hóa riêng của từng khu vực nên thời điểm ra đời khác nhau."
+  },
+  
+ 
+  {
+    "question": "Giá trị của hàng hóa biểu thị quan hệ xã hội giữa những người trao đổi hàng hoá.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Phát biểu này thiếu chính xác. Giá trị hàng hóa là lao động xã hội của người sản xuất hàng hóa kết tinh trong hàng hóa, nó phản ánh quan hệ giữa những người sản xuất hàng hóa."
+  },
+  
+  {
+    "question": "Trong giai đoạn đầu của nhân loại, con người đã biết sử dụng tiền tệ để trao đổi, mua bán.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Tiền tệ là kết quả của một quá trình phát triển lâu dài của các hình thái giá trị, không xuất hiện ở giai đoạn sơ khai của nhân loại."
+  },
+  {
+    "question": "Giá trị thặng dư là phần giá trị dôi ra ngoài giá trị sức lao động do người công nhân sáng tạo ra và nó thuộc về người công nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Giá trị thặng dư do công nhân tạo ra nhưng bị nhà tư bản chiếm đoạt không công."
+  },
+  
+  {
+    "question": "Tích lũy tư bản là tư bản hóa giá trị sử dụng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Tích lũy tư bản là tư bản hóa giá trị thặng dư (biến một phần giá trị thặng dư thành tư bản phụ thêm)."
+  },
+  {
+    "question": "Cuối thế kỷ XVIII, đầu thế kỷ XIX, chủ nghĩa tư bản phát triển sang giai đoạn độc quyền (chủ nghĩa đế quốc).",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Chủ nghĩa tư bản chuyển sang giai đoạn độc quyền vào cuối thế kỷ XIX, đầu thế kỷ XX."
+  },
+  {
+    "question": "Mục đích xuất khẩu tư bản là tìm kiếm giá trị sử dụng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Mục đích của xuất khẩu tư bản là để chiếm đoạt giá trị thặng dư và các nguồn lợi nhuận cao ở các nước nhập khẩu tư bản."
+  },
+
+  {
+    "question": "Hồ Chí Minh bắt đầu viết bản Di chúc lịch sử vào năm 1960. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Hồ Chí Minh bắt đầu viết Di chúc vào tháng 5 năm 1965 nhân dịp sinh nhật lần thứ 75 của Người."
+  },
+  {
+    "question": "Nguyễn Tất Thành vào Đảng xã hội Pháp vào đầu năm 1920. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Người gia nhập Đảng Xã hội Pháp vào đầu năm 1919."
+  },
+  {
+    "question": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải đi theo con đường cách mạng tư sản. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Hồ Chí Minh khẳng định: 'Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản'."
+  },
+  {
+    "question": "Hồ Chí Minh nói câu \"Không có gì quý hơn độc lập tự do\" vào năm 1945. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Câu nói nổi tiếng này được Người đưa ra trong 'Lời kêu gọi đồng bào và chiến sĩ cả nước' ngày 17/7/1966."
+  },
+  {
+    "question": "Quan điểm: “Đảng lấy chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động” được nêu ra trong Đại hội đại biểu toàn quốc lần thứ VIII của Đảng. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Quan điểm này lần đầu tiên được ghi nhận tại Đại hội đại biểu toàn quốc lần thứ VII (1911)."
+  },
+  {
+    "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước lúc Người 25 tuổi. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Người ra đi tìm đường cứu nước vào ngày 5/6/1911, lúc đó Người 21 tuổi (1890-1911)."
+  },
+  {
+    "question": "Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc khi Người đang ở Anh. ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Tên Nguyễn Ái Quốc lần đầu xuất hiện khi Người gửi bản 'Yêu sách của nhân dân An Nam' tới Hội nghị Versailles tại Pháp (1919)."
+  },
+  {
+    "question": "Các bài giảng của Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ tuyên truyền của Hội liên hiệp các dân tộc bị áp bức được tập hợp lại và xuất bản thành tác phẩm Bản án chế độ thực dân Pháp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Các bài giảng tại các lớp huấn luyện cán bộ ở Quảng Châu (Trung Quốc) được tập hợp thành cuốn 'Đường cách mệnh' (1927). 'Bản án chế độ thực dân Pháp' là tác phẩm viết bằng tiếng Pháp, xuất bản tại Paris năm 1925."
+  },
+  {
+    "question": "Nguyễn Sinh Cung theo cha vào Huế và học tại Trường Tiểu học Đông Ba lúc 4 tuổi.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Năm 1895 (lúc 5 tuổi), Nguyễn Sinh Cung mới theo cha lần đầu vào Huế."
+  },
+  {
+    "question": "Năm 1914 Người ở Trung Quốc",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Năm 1914, do ảnh hưởng của Chiến tranh thế giới thứ nhất, Người đang ở Anh và tham gia các hoạt động lao động, học tập tại đây."
+  },
+  {
+    "question": "Những năm tháng ở nước ngoài, Người đã đi 3 nước và làm rất nhiều nghề.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Người đã đi qua gần 30 quốc gia và vùng lãnh thổ thuộc 4 châu lục (Á, Âu, Phi, Mỹ) để khảo sát thực tế."
+  },
+  {
+    "question": "Cuối năm 1924, Người hoạt động ở Anh, sáng lập Hội Việt Nam cách mạng thanh niên (6/1925) và ra tờ báo Thanh niên của Hội",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Cuối năm 1924, Người từ Liên Xô về Quảng Châu (Trung Quốc), không phải ở Anh."
+  },
+  {
+    "question": "Hồ Chí Minh bị bắt ở Hồng Kông ngày 10 tháng 6 năm 1931.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Người bị chính quyền Anh bắt tại Hồng Kông vào ngày 6/6/1931."
+  },
+  {
+    "question": "Mọi công dân đều có quyền tham gia các hoạt động đầu tư, kinh doanh với quyền sở hữu tài sản và quyền tự do kinh doanh bất hợp pháp, có quyền bình đẳng trong đầu tư, kinh doanh, tiếp cận các cơ hội, nguồn lực kinh doanh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Công dân có quyền tự do kinh doanh nhưng phải theo quy định của pháp luật (kinh doanh hợp pháp), không thể kinh doanh 'bất hợp pháp'."
+  },
+  {
+    "question": "Đại hội IX của Đảng xác định nền kinh tế nước ta có 5 thành phần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đại hội IX xác định nền kinh tế có 6 thành phần kinh tế (Nhà nước, tập thể, cá thể tiểu chủ, tư bản tư nhân, tư bản nhà nước, có vốn đầu tư nước ngoài)."
+  },
+  {
+    "question": "Đường lối công nghiệp hoá đất nước được hình thành từ sau khi giải phóng miền Nam 1975.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đường lối CNH đã được hình thành từ Đại hội III (1960) tại miền Bắc."
+  },
+  {
+    "question": "Nông nghiệp là các hoạt động kinh tế ngoài trời.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Dù phần lớn diễn ra ngoài trời, nông nghiệp hiện đại bao gồm cả canh tác trong nhà kính, trong phòng thí nghiệm và quy trình khép kín công nghệ cao."
+  },
+
+  {
+    "question": "Đại hội III xác định cơ cấu kinh tế là kết hợp công nghiệp với nông nghiệp và dịch vụ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đại hội III xác định cơ cấu kinh tế Công - Nông nghiệp, chưa nhấn mạnh đến khu vực dịch vụ như sau này."
+  },
+  {
+    "question": "Gia đình được xây dựng trên cơ sở hôn nhân và pháp luật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Gia đình được xây dựng trên cơ sở hôn nhân và huyết thống (hoặc nuôi dưỡng), không chỉ đơn thuần là các quy định pháp luật."
+  },
+
+  {
+    "question": "Văn hóa có 5 chức năng cơ bản.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Thông thường, văn hóa được xác định có 4 chức năng chính: Chức năng nhận thức, chức năng giáo dục, chức năng thẩm mỹ và chức năng giải trí."
+  },
+  {
+    "question": "Văn hoá tinh thần là năng lực sáng tạo của con người được thể hiện và kết tinh trong sản phẩm vật chất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Văn hóa tinh thần kết tinh trong các sản phẩm phi vật chất như tư tưởng, nghệ thuật, niềm tin, tri thức."
+  },
+
+  {
+    "question": "Văn hoá vật chất là tổng thể các tư tưởng, lý luận và giá trị được sáng tạo ra trong đời sống tinh thần và hoạt động tinh thần của con người",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là định nghĩa của văn hóa tinh thần, không phải văn hóa vật chất."
+  },
+  {
+    "question": "An ninh là các công việc, các hoạt động nhằm phục vụ cho việc giữ gìn và bảo vệ độc lập, chủ quyền và toàn vẹn lãnh thổ của đất nước.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là định nghĩa của Quốc phòng."
+  },
+  {
+    "question": "Quốc phòng là các công việc, các hoạt động nhằm đảm bảo cho sự ổn định chính trị, trật tự và an toàn xã hội trên các mặt, làm thất bại mọi hành động phá hoại của kẻ địch.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là định nghĩa của An ninh."
+  },
+  {
+    "question": "Vận dụng tư tưởng đại đoàn kết Hồ Chí Minh, Đảng ta đã thành lập Mặt trận Việt Nam Độc lập Đồng Minh (Việt Minh) vào năm 1952.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Mặt trận Việt Minh được thành lập vào ngày 19/5/1941 tại Hội nghị Trung ương 8 (Pác Bó, Cao Bằng)."
+  },
+ 
+
+  {
+    "question": "Nhà nước Pháp quyền xã hội chủ nghĩa Việt Nam được xây dựng theo 7 đặc điểm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Theo các văn kiện gần đây của Đảng, Nhà nước pháp quyền XHCN Việt Nam có 5 hoặc 6 đặc trưng cơ bản tùy theo giai đoạn khái quát."
+  },
+ 
+  {
+    "question": "Nhà nước Việt Nam dân chủ Cộng hòa do Hồ Chí Minh khai sinh vào ngày 5/9/1945 là nhà nước thực sự của dân, do dân, vì dân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Nước Việt Nam Dân chủ Cộng hòa được khai sinh vào ngày 2/9/1945."
+  },
+ 
+  {
+    "question": "Quốc hội không được bầu ra Chủ tịch nước, Ủy ban Thường vụ Quốc hội và Chính phủ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Quốc hội có quyền bầu, miễn nhiệm Chủ tịch nước, các thành viên của Ủy ban Thường vụ Quốc hội và phê chuẩn bộ máy Chính phủ."
+  },
+  
+  {
+    "question": "Chủ tịch Hồ Chí Minh là người giữ cương vị đứng đầu Nhà nước trong suốt 25 năm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Người giữ cương vị Chủ tịch nước từ năm 1945 đến khi qua đời năm 1969 (khoảng 24 năm)."
+  },
+ 
+  {
+    "question": "Giai cấp công nhân Việt Nam ra đời trong cuộc khai thác thuộc địa lần thứ 2 của thực dân Pháp ở Việt Nam.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Giai cấp công nhân Việt Nam ra đời từ cuộc khai thác thuộc địa lần thứ nhất (1897 - 1914)."
+  },
+  {
+    "question": "Giai cấp công nhân Việt Nam ra đời sau giai cấp tư sản dân tộc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Giai cấp công nhân Việt Nam ra đời trước giai cấp tư sản dân tộc."
+  },
+ 
+  {
+    "question": "Từ năm 1919 đến năm 1925, giai cấp công nhân Việt Nam không có sự thay đổi về số lượng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Sau Chiến tranh thế giới thứ nhất, cuộc khai thác thuộc địa lần thứ 2 của Pháp đã khiến số lượng công nhân tăng lên nhanh chóng (đạt khoảng 22 vạn người)."
+  },
+  {
+    "question": "Ba tổ chức Cộng sản đầu tiên ra đời ở Việt Nam là: Đông Dương Cộng sảng Đảng, An Nam Cộng sản Đảng và Đảng Cộng sản Việt Nam.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Ba tổ chức là: Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn."
+  },
+  {
+    "question": "Giai cấp công nhân và giai cấp nông dân Việt Nam không có mối liên hệ gì với nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Hai giai cấp này có mối liên hệ khăng khít (liên minh công nông) do cùng xuất thân từ người lao động bị áp bức."
+  },
+
+  {
+    "question": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là lựa chọn chủ quan của cách mạng Việt Nam.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Đây là sự lựa chọn phù hợp với quy luật khách quan của lịch sử và xu thế thời đại sau Cách mạng tháng Mười Nga."
+  },
+  
+  {
+    "question": "Một trong những đặc điểm của Giai cấp công nhân Việt Nam là chịu 2 tầng ấp bức bóc lột của phong kiến và địa chủ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sai. Giai cấp công nhân Việt Nam chịu ba tầng áp bức, bóc lột là: Đế quốc (thực dân), tư sản và phong kiến."
+  }
+]
