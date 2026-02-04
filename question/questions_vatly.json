@@ -968,7 +968,7 @@
     "explanation": "Biểu thức này là phương trình giải tìm nồng độ ion tại trạng thái cân bằng Donnan, dựa trên các nồng độ ion ban đầu (Cl⁻ và Na⁺)."
   },
   {
-    "question": "Trong Cân bằng Donnan, trường hợp C_1 ll C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
+    "question": "Trong Cân bằng Donnan, trường hợp C_1 << C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
     "answers": [
       "C_2/3",
       "C_2",
@@ -979,7 +979,7 @@
     "explanation": "Khi nồng độ ion không khuếch tán được (C_1) rất nhỏ so với ion khuếch tán được (C_2), áp suất thẩm thấu hiệu dụng Deltapi propto frac{C_2}{2}. Dòng chảy nước vào tế bào tỷ lệ với áp suất thẩm thấu hiệu dụng."
   },
   {
-    "question": "Trong Cân bằng Donnan, trường hợp C_1 gg C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
+    "question": "Trong Cân bằng Donnan, trường hợp C_1 g>> C_2 biểu thị Dòng chảy vật chất từ ngoài qua màng vào trong tế bào là",
     "answers": [
       "C_2/2",
       "C_2/3",
