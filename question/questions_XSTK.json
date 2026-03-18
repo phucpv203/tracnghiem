@@ -1,0 +1,2649 @@
+[
+  {
+    "question": "Phép thử là gì?",
+    "answers": [
+      "Khi thực hiện một nhóm các điều kiện cơ bản để quan sát một hiện tượng nào đó có xảy ra hay không được là thực hiện một phép thử.",
+      "Hiện tượng có thể xảy ra trong kết quả của phép thử.",
+      "Các kết quả cơ bản nhất có thể xảy ra của một phép thử.",
+      "Tập các biến cố sơ cấp có thể xảy ra của phép thử."
+    ],
+    "correct": 0,
+    "explanation": "Theo định nghĩa, phép thử là việc thực hiện các điều kiện để quan sát sự xảy ra của một hiện tượng [1]."
+  },
+  {
+    "question": "Biến cố là gì?",
+    "answers": [
+      "Khi thực hiện một nhóm các điều kiện cơ bản để quan sát một hiện tượng nào đó có xảy ra hay không được là thực hiện một phép thử.",
+      "Hiện tượng có thể xảy ra trong kết quả của phép thử.",
+      "Các kết quả cơ bản nhất có thể xảy ra của một phép thử.",
+      "Tập các biến cố sơ cấp có thể xảy ra của phép thử."
+    ],
+    "correct": 1,
+    "explanation": "Biến cố là hiện tượng có thể xảy ra trong kết quả của một phép thử [1], [6]."
+  },
+  {
+    "question": "Biến cố sơ cấp?",
+    "answers": [
+      "Là Các kết quả cơ bản nhất có thể xảy ra của một phép thử.",
+      "Là biến cố nhất định xảy ra sau phép thử, ký hiệu là U.",
+      "Là biến cố nhất định không xảy ra sau phép thử, ký hiệu là V.",
+      "Là biến cố có thể xảy ra, củng có thể không xảy ra sau phép thử."
+    ],
+    "correct": 0,
+    "explanation": "Biến cố sơ cấp là kết quả cơ bản nhất không thể phân chia thêm của phép thử [6]."
+  },
+  {
+    "question": "Biến cố chắc chắn?",
+    "answers": [
+      "Là Các kết quả cơ bản nhất có thể xảy ra của một phép thử.",
+      "Là biến cố nhất định xảy ra sau phép thử, ký hiệu là U.",
+      "Là biến cố nhất định không xảy ra sau phép thử, ký hiệu là V.",
+      "Là biến cố có thể xảy ra, củng có thể không xảy ra sau phép thử."
+    ],
+    "correct": 1,
+    "explanation": "Biến cố chắc chắn (U) là biến cố luôn luôn xảy ra sau khi thực hiện phép thử [6], [7]."
+  },
+  {
+    "question": "Biến cố không thể có?",
+    "answers": [
+      "Là Các kết quả cơ bản nhất có thể xảy ra của một phép thử.",
+      "Là biến cố nhất định xảy ra sau phép thử, ký hiệu là U.",
+      "Là biến cố nhất định không xảy ra sau phép thử, ký hiệu là V.",
+      "Là biến cố có thể xảy ra, củng có thể không xảy ra sau phép thử."
+    ],
+    "correct": 2,
+    "explanation": "Biến cố không thể (V) là biến cố nhất định không xảy ra sau phép thử [7]."
+  },
+  {
+    "question": "Giao (tích) của các biến cố?",
+    "answers": [
+      "Biến cố xảy ra khi tất cả các biến cố thành phần cùng phải xảy ra. Ký hiệu A = A1.A2...An.",
+      "Biến cố xảy ra khi ít nhất một trong các biến cố thành phần phải xảy ra. Ký hiệu B = A1 + A2 +...+ An.",
+      "Hai biến cố không thể đồng thời xảy ra trong một phép thử.",
+      "Hai biến cố mà nếu cái này xảy ra thì cái kia không xảy ra."
+    ],
+    "correct": 0,
+    "explanation": "Biến cố giao xảy ra khi đồng thời tất cả các biến cố thành phần đều xảy ra [8]."
+  },
+  {
+    "question": "Định nghĩa xác suất cổ điển là:",
+    "answers": [
+      "P(A) = m/n",
+      "P(A) = n/m",
+      "P(A) = n.m",
+      "P(A) = n + m"
+    ],
+    "correct": 0,
+    "explanation": "Xác suất là tỷ lệ giữa số trường hợp thuận lợi (m) và tổng số trường hợp có thể xảy ra (n) [9]."
+  },
+  {
+    "question": "Công thức cộng 2 xác suất A và B xung khắc?",
+    "answers": [
+      "P(A ∪ B) = P(A) + P(B) – P(AB)",
+      "P(A ∪ B) = P(A) + P(B)",
+      "P(A ∪ B) = P(A).P(B)",
+      "P(A ∪ B) = P(B/A)"
+    ],
+    "correct": 1,
+    "explanation": "Khi A và B xung khắc, xác suất của tổng bằng tổng các xác suất thành phần vì P(AB) = 0 [10]."
+  },{
+    "question": "Biến cố xung khắc?",
+    "answers": [
+      "Biến cố xảy ra khi tất cả n biến cố cùng phải xảy ra.",
+      "Biến cố xảy ra khi ít nhất một trong các biến cố phải xảy ra.",
+      "Hai biến cố không thể đồng thời xảy ra trong một phép thử. Nếu A xảy ra thì B không xảy ra và ngược lại.",
+      "Hai biến cố mà phép thử chỉ có hai kết quả có thể xảy ra."
+    ],
+    "correct": 2,
+    "explanation": "Hai biến cố xung khắc là hai biến cố không thể cùng xuất hiện trong một phép thử [1]."
+  },
+  {
+    "question": "Biến cố đối lập?",
+    "answers": [
+      "Biến cố xảy ra khi tất cả n biến cố cùng phải xảy ra.",
+      "Biến cố xảy ra khi ít nhất một trong các biến cố phải xảy ra.",
+      "Hai biến cố không thể đồng thời xảy ra trong một phép thử.",
+      "Phép thử chỉ có hai biến cố A và B có thể xảy ra, nếu A xảy ra thì B không xảy ra và ngược lại."
+    ],
+    "correct": 3,
+    "explanation": "Biến cố đối lập là trường hợp đặc biệt của xung khắc khi tổng xác suất của chúng bằng 1 và chỉ có hai kết quả duy nhất có thể xảy ra [2]."
+  },
+  {
+    "question": "Định nghĩa xác suất theo quan điểm cổ điển?",
+    "answers": [
+      "P(A) = m/n (số trường hợp thuận lợi / tổng số trường hợp)",
+      "P(A) = n/m",
+      "P(A) = n.m",
+      "P(A) = n + m"
+    ],
+    "correct": 0,
+    "explanation": "Xác suất cổ điển được tính bằng tỷ lệ giữa số trường hợp thuận lợi (m) và tổng số trường hợp đồng khả năng (n) [2]."
+  },
+  {
+    "question": "Công thức cộng 2 xác suất A và B bất kỳ?",
+    "answers": [
+      "P(A ∪ B) = P(A) + P(B) – P(AB)",
+      "P(A ∪ B) = P(A) + P(B)",
+      "P(A ∪ B) = P(A) / P(B)",
+      "P(A ∪ B) = P(B/A)"
+    ],
+    "correct": 0,
+    "explanation": "Với hai biến cố bất kỳ, xác suất của tổng bằng tổng các xác suất trừ đi xác suất của biến cố giao [3]."
+  },
+  {
+    "question": "Công thức cộng 2 xác suất A và B xung khắc?",
+    "answers": [
+      "P(A ∪ B) = P(A) + P(B) – P(AB)",
+      "P(A ∪ B) = P(A) + P(B)",
+      "P(A ∪ B) = P(A).P(B)",
+      "P(A ∪ B) = P(B/A)"
+    ],
+    "correct": 1,
+    "explanation": "Khi A và B xung khắc, biến cố giao AB không thể xảy ra (P(AB)=0), nên xác suất tổng bằng tổng các xác suất [4]."
+  },
+  {
+    "question": "Công thức nhân 2 xác suất A và B tổng quát?",
+    "answers": [
+      "P(AB) = P(A) + P(B)",
+      "P(AB) = P(A) - P(B)",
+      "P(AB) = P(A).P(B)",
+      "P(AB) = P(A).P(B/A)"
+    ],
+    "correct": 3,
+    "explanation": "Xác suất của một tích bằng xác suất của biến cố thứ nhất nhân với xác suất điều kiện của biến cố thứ hai khi biến cố thứ nhất đã xảy ra [4]."
+  },
+  {
+    "question": "Công thức nhân 2 xác suất A và B độc lập?",
+    "answers": [
+      "P(AB) = P(A) + P(B)",
+      "P(AB) = P(A) / P(B)",
+      "P(AB) = P(A).P(B)",
+      "P(AB) = P(B/A)"
+    ],
+    "correct": 2,
+    "explanation": "Khi A và B độc lập, việc biến cố này xảy ra không ảnh hưởng đến xác suất của biến cố kia, do đó P(AB) = P(A).P(B) [4]."
+  },
+  {
+    "question": "Tại một địa phương có 10.000 người, 620 người bị sốt rét, trong đó 20 người sốt rét ác tính. Tính tỷ lệ sốt rét thường?",
+    "answers": [
+      "0,06",
+      "0,07",
+      "0,08",
+      "0,09"
+    ],
+    "correct": 0,
+    "explanation": "Số người sốt rét thường = 620 - 20 = 600. Tỷ lệ = 600 / 10.000 = 0,06 [4, 5]."
+  },
+  {
+    "question": "Trong số 20 người sốt rét ác tính có 4 người chết. Tìm tỷ lệ chết của sốt rét ác tính?",
+    "answers": [
+      "0,1",
+      "0,2",
+      "0,3",
+      "0,4"
+    ],
+    "correct": 1,
+    "explanation": "Tỷ lệ chết do sốt rét ác tính = 4 (chết) / 20 (mắc ác tính) = 0,2 [5]."
+  },
+  {
+    "question": "Hai máy siêu âm hoạt động độc lập với xác suất không hỏng là 0,9 và 0,8. Tính xác suất cả hai máy đều không hỏng?",
+    "answers": [
+      "0,73",
+      "0,74",
+      "0,72",
+      "0,75"
+    ],
+    "correct": 2,
+    "explanation": "Vì hai máy độc lập, P = 0,9 * 0,8 = 0,72 [6]."
+  },
+  {
+    "question": "Tập 10 hồ sơ có 2 hồ sơ không hợp lệ. Rút lần lượt 2 hồ sơ. Tính xác suất cả 2 đều hợp lệ?",
+    "answers": [
+      "0,63",
+      "0,64",
+      "0,65",
+      "0,62"
+    ],
+    "correct": 3,
+    "explanation": "Xác suất lần 1 hợp lệ là 8/10, lần 2 là 7/9. P = (8/10) * (7/9) ≈ 0,62 [6]."
+  },
+  {
+    "question": "Rút tiếp hồ sơ thứ 3 từ tập trên. Tính xác suất chỉ có chứng từ thứ ba không hợp lệ?",
+    "answers": [
+      "0,15",
+      "0,17",
+      "0,18",
+      "0,19"
+    ],
+    "correct": 0,
+    "explanation": "P = (8/10) * (7/9) * (2/8) = 112/720 ≈ 0,15 [7]."
+  },
+  {
+    "question": "Hộp có 6 bơm to, 4 bơm nhỏ. Lấy lần lượt 2 chiếc. Tính xác suất lần 2 lấy được bơm nhỏ nếu biết lần 1 đã lấy được bơm to?",
+    "answers": [
+      "0,3",
+      "0,4",
+      "0,5",
+      "0,6"
+    ],
+    "correct": 1,
+    "explanation": "Sau khi lấy 1 bơm to, hộp còn 9 chiếc (5 to, 4 nhỏ). Xác suất lần 2 lấy bơm nhỏ là 4/9 ≈ 0,4 [7]."
+  },
+  {
+    "question": "Hộp 1 có 6 B1, 4 VitC. Hộp 2 có 8 B1, 2 VitC. Lấy mỗi hộp 1 viên. Tính xác suất cả 2 đều là VitC?",
+    "answers": [
+      "0,06",
+      "0,07",
+      "0,08",
+      "0,09"
+    ],
+    "correct": 2,
+    "explanation": "P = (4/10) * (2/10) = 0,08 [7, 8]."
+  },
+  {
+    "question": "Từ 2 hộp thuốc trên, tính xác suất lấy được ít nhất 1 viên VitC?",
+    "answers": [
+      "0,50",
+      "0,51",
+      "0,52",
+      "0,53"
+    ],
+    "correct": 2,
+    "explanation": "P(ít nhất 1) = 1 - P(cả hai đều không phải VitC) = 1 - (6/10 * 8/10) = 1 - 0,48 = 0,52 [8]."
+  },
+  {
+    "question": "Hộp 50 ống thuốc có 10 ống gây mê. Lấy ngẫu nhiên 3 ống. Tính xác suất lấy được đúng 2 ống gây mê?",
+    "answers": [
+      "0,09",
+      "0,08",
+      "0,07",
+      "0,06"
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng công thức tổ hợp để tính xác suất chọn đúng 2 trong 10 ống gây mê và 1 trong 40 ống thường trên tổng số cách chọn 3 từ 50 [8]."
+  },
+  {
+    "question": "Hộp 50 ống có 10 ống gây mê. Lấy 3 ống, tính xác suất lấy được ít nhất 1 ống gây mê?",
+    "answers": [
+      "0,5",
+      "0,6",
+      "0,7",
+      "0,8"
+    ],
+    "correct": 0,
+    "explanation": "P = 1 - P(không có ống gây mê nào) = 1 - (C(40,3) / C(50,3)) ≈ 0,5 [8, 9]."
+  },
+   {
+    "question": "Bệnh viện có 3 loại cấp cứu: ngộ độc (1/6), bỏng (1/3), tai nạn (1/2). Tỷ lệ cứu sống tương ứng là 70%, 80%, 20%. Tính xác suất lấy được hồ sơ bệnh nhân được cứu sống?",
+    "answers": ["0,47", "0,48", "0,49", "0,50"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức xác suất đầy đủ: P = (1/6 * 0,7) + (1/3 * 0,8) + (1/2 * 0,2) = 0,4833... làm tròn thành 0,48."
+  },
+  {
+    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị ngộ độc?",
+    "answers": ["0,23", "0,24", "0,25", "0,26"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức Bayes: P = (1/6 * 0,7) / 0,48 ≈ 0,24."
+  },
+  {
+    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị bỏng?",
+    "answers": ["0,54", "0,55", "0,56", "0,57"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức Bayes: P = (1/3 * 0,8) / 0,48 ≈ 0,55."
+  },
+  {
+    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị tai nạn?",
+    "answers": ["0,20", "0,21", "0,22", "0,23"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức Bayes: P = (1/2 * 0,2) / 0,48 ≈ 0,21."
+  },
+  {
+    "question": "Trạm cấp cứu bỏng có 80% do nóng, 20% do hóa chất. Tỷ lệ biến chứng tương ứng là 30% và 50%. Tính xác suất gặp bệnh nhân bị biến chứng?",
+    "answers": ["0,32", "0,33", "0,34", "0,35"],
+    "correct": 2,
+    "explanation": "P(Biến chứng) = (0,8 * 0,3) + (0,2 * 0,5) = 0,24 + 0,1 = 0,34."
+  },
+  {
+    "question": "Từ dữ liệu câu 30, rút ngẫu nhiên bệnh nhân bị biến chứng. Tính xác suất người đó bỏng do nóng?",
+    "answers": ["0,69", "0,70", "0,71", "0,72"],
+    "correct": 2,
+    "explanation": "P(Nóng|Biến chứng) = (0,8 * 0,3) / 0,34 ≈ 0,71."
+  },
+  {
+    "question": "Từ dữ liệu câu 30, rút ngẫu nhiên bệnh nhân bị biến chứng. Tính xác suất người đó bỏng do hóa chất?",
+    "answers": ["0,27", "0,28", "0,29", "0,30"],
+    "correct": 2,
+    "explanation": "P(Hóa chất|Biến chứng) = (0,2 * 0,5) / 0,34 ≈ 0,29."
+  },
+  {
+    "question": "Có 3 hộp thuốc, mỗi hộp 5 vỉ. Hộp i có i vỉ Pamin. Chọn ngẫu nhiên 1 hộp rồi lấy 3 vỉ. Tính xác suất lấy được 3 vỉ Pamin?",
+    "answers": ["0,03", "0,04", "0,05", "0,06"],
+    "correct": 0,
+    "explanation": "Chỉ hộp 3 (3 vỉ Pamin), hộp 4 (không tồn tại trong đề bài), hộp 5 (không tồn tại). Tính trên 3 hộp: P = 1/3 * (C3-3/C5-3) = 1/3 * 1/10 = 0,033."
+  },
+  {
+    "question": "Từ dữ liệu câu 33, tính xác suất lấy được đúng 2 vỉ Pamin?",
+    "answers": ["0,30", "0,31", "0,32", "0,33"],
+    "correct": 0,
+    "explanation": "P = 1/3 * [(C2-2*C3-1/C5-3) + (C3-2*C2-1/C5-3)] = 1/3 * (3/10 + 6/10) = 0,3."
+  },
+  {
+    "question": "Ba phương pháp điều trị cho 5000, 3000, 2000 bệnh nhân. Xác suất khỏi tương ứng là 0,85; 0,9; 0,95. Tính xác suất khỏi bệnh chung?",
+    "answers": ["0,88", "0,89", "0,90", "0,91"],
+    "correct": 1,
+    "explanation": "P = (0,5 * 0,85) + (0,3 * 0,9) + (0,2 * 0,95) = 0,425 + 0,27 + 0,19 = 0,885 (làm tròn 0,89)."
+  },
+  {
+    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 1?",
+    "answers": ["0,47", "0,48", "0,49", "0,50"],
+    "correct": 1,
+    "explanation": "P = (0,5 * 0,85) / 0,885 ≈ 0,48."
+  },
+  {
+    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 2?",
+    "answers": ["0,30", "0,31", "0,32", "0,33"],
+    "correct": 1,
+    "explanation": "P = (0,3 * 0,9) / 0,885 ≈ 0,31."
+  },
+  {
+    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 3?",
+    "answers": ["0,21", "0,22", "0,23", "0,24"],
+    "correct": 1,
+    "explanation": "P = (0,2 * 0,95) / 0,885 ≈ 0,22."
+  },
+  {
+    "question": "Tỷ lệ bệnh Chàm là 0,005. Phản ứng dương tính: 90% nếu bệnh, 5% nếu không bệnh. Tính xác suất dương tính chung của phản ứng?",
+    "answers": ["0,03", "0,04", "0,05", "0,06"],
+    "correct": 2,
+    "explanation": "P(+) = (0,005 * 0,9) + (0,995 * 0,05) = 0,0045 + 0,04975 = 0,05425 ≈ 0,05."
+  },
+  {
+    "question": "Từ dữ liệu câu 39, một người dương tính, tính xác suất người đó thực sự bị bệnh?",
+    "answers": ["0,06", "0,07", "0,08", "0,09"],
+    "correct": 2,
+    "explanation": "P(Bệnh|+) = (0,005 * 0,9) / 0,05425 ≈ 0,08."
+  },
+  {
+    "question": "Từ dữ liệu câu 39, tính xác suất chẩn đoán đúng của phản ứng?",
+    "answers": ["0,93", "0,94", "0,95", "0,96"],
+    "correct": 2,
+    "explanation": "P(Đúng) = P(Bệnh)*P(+|Bệnh) + P(Không bệnh)*P(-|Không bệnh) = 0,0045 + 0,995*0,95 ≈ 0,95."
+  },
+  {
+    "question": "Tỷ lệ bệnh A là 0,05. Nếu (+) thì bị bệnh là 20%, nếu (-) thì bị bệnh là 1,25%. Tính xác suất dương tính của phản ứng?",
+    "answers": ["0,18", "0,19", "0,20", "0,21"],
+    "correct": 2,
+    "explanation": "Sử dụng công thức Bayes đảo: P(Bệnh) = P(+)*P(Bệnh|+) + P(-)*P(Bệnh|-). Gọi P(+) là x: 0,05 = x*0,2 + (1-x)*0,0125 => x = 0,2."
+  },
+  {
+    "question": "Từ dữ liệu câu 42, tính độ nhạy của phản ứng?",
+    "answers": ["0,78", "0,79", "0,80", "0,81"],
+    "correct": 2,
+    "explanation": "Độ nhạy P(+|Bệnh) = P(Bệnh|+)*P(+) / P(Bệnh) = (0,2 * 0,2) / 0,05 = 0,8."
+  },
+  {
+    "question": "Từ dữ liệu câu 42, tính độ đặc hiệu của phản ứng?",
+    "answers": ["0,81", "0,82", "0,83", "0,84"],
+    "correct": 2,
+    "explanation": "Độ đặc hiệu P(-|Không bệnh) = P(Không bệnh|-)*P(-) / P(Không bệnh) = (1 - 0,0125)*0,8 / 0,95 ≈ 0,83."
+  },
+  {
+    "question": "Từ dữ liệu câu 42, tính xác suất sai của phản ứng?",
+    "answers": ["0,15", "0,16", "0,17", "0,18"],
+    "correct": 2,
+    "explanation": "P(Sai) = 1 - P(Đúng). P(Đúng) = P(Bệnh)*Độ nhạy + P(Khỏe)*Độ đặc hiệu = 0,05*0,8 + 0,95*0,83 = 0,04 + 0,7885 = 0,8285. P(Sai) ≈ 0,17."
+  },
+  {
+    "question": "Tại một phòng khám đa khoa có tỷ lệ người bị bệnh X là 0,04. Tỷ lệ dương tính chung là 0,132 và tỷ lệ dương tính trong người bị bệnh là 90%. Nếu người không bị bệnh thì tỷ lệ dương tính của phản ứng là bao nhiêu?",
+    "answers": ["0,09", "0,10", "0,11", "0,12"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức xác suất đầy đủ: P(+) = P(B).P(+|B) + P(KB).P(+|KB). Thay số: 0,132 = 0,04 * 0,9 + 0,96 * x => x = 0,1."
+  },
+  {
+    "question": "Dựa trên dữ liệu câu 46, một người làm phản ứng thấy âm tính. Tính xác suất sao cho người đó bị bệnh?",
+    "answers": ["0,0045", "0,0046", "0,0047", "0,0048"],
+    "correct": 1,
+    "explanation": "Sử dụng công thức Bayes: P(B|-) = [P(B).P(-|B)] / P(-). Trong đó P(-) = 1 - 0,132 = 0,868 và P(-|B) = 1 - 0,9 = 0,1."
+  },
+  {
+    "question": "Trong hộp thuốc cấp cứu có 100 ống, trong đó có 10 ống Atropin. Lấy ngẫu nhiên lần lượt 3 ống. Tính xác suất lấy được đúng 3 ống Atropin?",
+    "answers": ["0,0007", "0,0008", "0,0009", "0,0010"],
+    "correct": 0,
+    "explanation": "Xác suất lấy lần lượt không hoàn lại: P = (10/100) * (9/99) * (8/98) ≈ 0,0007."
+  },
+  {
+    "question": "Từ dữ liệu câu 48, tính xác suất lấy được đúng 2 ống Atropin?",
+    "answers": ["0,025", "0,026", "0,027", "0,028"],
+    "correct": 0,
+    "explanation": "Sử dụng tổ hợp: P = [C(10,2) * C(90,1)] / C(100,3) ≈ 0,025."
+  },
+  {
+    "question": "Ba bác sĩ độc lập chẩn đoán sai với xác suất 0,05; 0,1 và 0,15. Tính xác suất không ai chẩn đoán sai khi cùng khám 1 bệnh nhân?",
+    "answers": ["0,72", "0,73", "0,74", "0,75"],
+    "correct": 1,
+    "explanation": "Xác suất cả 3 đều đúng: P = (1 - 0,05) * (1 - 0,1) * (1 - 0,15) = 0,95 * 0,9 * 0,85 ≈ 0,73."
+  },
+  {
+    "question": "Từ dữ liệu câu 50, tính xác suất không ai chẩn đoán đúng?",
+    "answers": ["0,00075", "0,00076", "0,00077", "0,00078"],
+    "correct": 0,
+    "explanation": "Xác suất cả 3 đều sai: P = 0,05 * 0,1 * 0,15 = 0,00075."
+  },
+  {
+    "question": "Từ dữ liệu câu 50, tính xác suất ít nhất một người chẩn đoán đúng?",
+    "answers": ["0,99925", "0,99926", "0,99927", "0,99928"],
+    "correct": 0,
+    "explanation": "Xác suất ít nhất 1 người đúng = 1 - P(cả 3 đều sai) = 1 - 0,00075 = 0,99925."
+  },
+  {
+    "question": "Bác sĩ xác định triệu chứng đúng (0,9), chẩn đoán bệnh đúng (0,8) và điều trị khỏi (0,9). Tính xác suất không khỏi của người bệnh?",
+    "answers": ["0,33", "0,34", "0,35", "0,36"],
+    "correct": 2,
+    "explanation": "Xác suất khỏi = 0,9 * 0,8 * 0,9 = 0,648. Xác suất không khỏi = 1 - 0,648 = 0,352."
+  },
+  {
+    "question": "Tỷ lệ nghiện thuốc là 20%. Ho do nghiện là 50%, ho do không nghiện là 25%. Gặp người bị ho, tính xác suất người đó nghiện thuốc?",
+    "answers": ["0,33", "0,34", "0,35", "0,36"],
+    "correct": 0,
+    "explanation": "P(Ho) = 0,2 * 0,5 + 0,8 * 0,25 = 0,3. P(Nghiện|Ho) = (0,2 * 0,5) / 0,3 ≈ 0,33."
+  },
+  {
+    "question": "Dựa trên dữ liệu câu 54, nếu người đó không bị ho thì xác suất người đó nghiện thuốc là bao nhiêu?",
+    "answers": ["0,13", "0,14", "0,15", "0,16"],
+    "correct": 1,
+    "explanation": "P(Không ho) = 1 - 0,3 = 0,7. P(Nghiện|Không ho) = (0,2 * 0,5) / 0,7 ≈ 0,14."
+  },
+  {
+    "question": "Phản ứng có độ nhạy 0,84, giá trị âm tính 0,968 và xác suất âm tính chung là 0,852. Tính giá trị dương tính của phản ứng?",
+    "answers": ["0,52", "0,53", "0,54", "0,55"],
+    "correct": 2,
+    "explanation": "Giá trị dương tính (PVP) trong trường hợp này được tính toán dựa trên các thông số chẩn đoán y học đã cho."
+  },
+  {
+    "question": "Tỷ lệ điều trị A, B, C, D là 0,2; 0,25; 0,25; 0,3. Xác suất khỏi tương ứng 0,75; 0,82; 0,84; 0,8. Một người đã khỏi, tính xác suất người đó khỏi bởi phương pháp A?",
+    "answers": ["0,19", "0,18", "0,17", "0,16"],
+    "correct": 0,
+    "explanation": "P(Khỏi) = 0,2*0,75 + 0,25*0,82 + 0,25*0,84 + 0,3*0,8 = 0,805. P(A|Khỏi) = 0,15 / 0,805 ≈ 0,19."
+  },
+  {
+    "question": "Từ dữ liệu câu 57, tính xác suất người đó điều trị khỏi bởi phương pháp C?",
+    "answers": ["0,24", "0,25", "0,26", "0,27"],
+    "correct": 2,
+    "explanation": "P(C|Khỏi) = (0,25 * 0,84) / 0,805 ≈ 0,26."
+  },
+  {
+    "question": "Từ dữ liệu câu 57, tính xác suất người đó điều trị khỏi bởi phương pháp D?",
+    "answers": ["0,27", "0,28", "0,29", "0,30"],
+    "correct": 3,
+    "explanation": "P(D|Khỏi) = (0,3 * 0,8) / 0,805 ≈ 0,30."
+  },
+  {
+    "question": "Xác suất sinh con trai là 0,518. Tìm xác suất sinh được con trai ở lần thứ 4 sau khi đã sinh 3 con gái trước đó?",
+    "answers": ["0,058", "0,059", "0,060", "0,061"],
+    "correct": 0,
+    "explanation": "Xác suất của dãy biến cố độc lập (G-G-G-T) = 0,482^3 * 0,518 ≈ 0,058."
+  },
+  {
+    "question": "Xác suất sinh con trai là 0,518. Tìm xác suất sinh 3 con đều là gái?",
+    "answers": ["0,11", "0,12", "0,13", "0,14"],
+    "correct": 0,
+    "explanation": "P = 0,482^3 ≈ 0,11."
+  },
+  {
+    "question": "Xác suất sinh con trai là 0,518. Tìm xác suất sinh được 3 con có ít nhất 1 con là gái?",
+    "answers": ["0,86", "0,87", "0,88", "0,89"],
+    "correct": 0,
+    "explanation": "P = 1 - P(3 con trai) = 1 - 0,518^3 ≈ 0,86."
+  },
+  {
+    "question": "Vùng có 20% mắc dịch, trong đó 15% đi cấp cứu. Tỷ lệ tử vong do mắc dịch đi cấp cứu là 0,0003. Tính xác suất gặp người mắc dịch đi cấp cứu mà không bị tử vong?",
+    "answers": ["0,02", "0,03", "0,04", "0,05"],
+    "correct": 1,
+    "explanation": "P(Mắc & Cấp cứu) = 0,2 * 0,15 = 0,03. Xác suất không tử vong ≈ 0,03 - 0,0003 ≈ 0,03."
+  },
+  {
+    "question": "Phản ứng dương tính là 0,22. Tỷ lệ dương tính nếu bệnh là 0,76, không bệnh là 0,08. Tính tỷ lệ không bị bệnh trong nhóm phản ứng âm tính?",
+    "answers": ["0,93", "0,94", "0,95", "0,96"],
+    "correct": 0,
+    "explanation": "Sử dụng Bayes để tính xác suất âm tính thật trong số những người có kết quả âm tính."
+  },
+  {
+    "question": "Trong hộp có 15 viên bi (5 trắng, 10 đen). Tính xác suất rút được viên bi đen?",
+    "answers": ["0.9", "0.8", "0.7", "0.6"],
+    "correct": 3,
+    "explanation": "P = 10 / 15 = 2/3 ≈ 0,6."
+  },
+ {
+    "question": "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 trắng và 4 đen. Lấy ngẫu nhiên trong hộp ra 2 viên bi. Tính xác suất để cả 2 viên bi đều trắng?",
+    "answers": ["1", "1/2", "1/3", "1/4"],
+    "correct": 2,
+    "explanation": "Số cách chọn 2 bi trắng từ 6 bi trắng là C(6,2) = 15. Tổng số cách chọn 2 bi từ 10 bi là C(10,2) = 45. Xác suất P = 15/45 = 1/3 [1, 2]."
+  },
+  {
+    "question": "Trong hộp I có các viên thuốc đánh số từ 1 đến 5, hộp II có các viên thuốc đánh số từ 6 đến 10. Lấy ngẫu nhiên ở mỗi hộp 1 viên thuốc. Tính xác suất để tổng các số viết trên 2 viên thuốc lấy ra không lớn hơn 11?",
+    "answers": ["1", "1/5", "3/5", "0"],
+    "correct": 2,
+    "explanation": "Tổng số kết quả có thể là 5 * 5 = 25. Các cặp có tổng ≤ 11 là: (1,6-10), (2,6-9), (3,6-8), (4,6-7), (5,6). Có 15 cặp thuận lợi. P = 15/25 = 3/5 [2]."
+  },
+  {
+    "question": "Có 2 hộp giống nhau đựng thuốc, hộp I có 3 ống Propin và 7 ống loại khác, hộp II có 5 ống Propin và 7 ống loại khác. Chọn ngẫu nhiên mỗi hộp 1 ống. Tính xác suất để cả hai đều là ống Propin?",
+    "answers": ["1/8", "1/4", "3/8", "1/5"],
+    "correct": 0,
+    "explanation": "P = (3/10) * (5/12) = 15/120 = 1/8 [2]."
+  },
+  {
+    "question": "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 trắng và 4 đen. Lấy ngẫu nhiên trong hộp ra 2 viên bi. Tính xác suất để trong 2 viên bi có ít nhất 1 viên bi trắng?",
+    "answers": ["110", "2/15", "1/3", "13/15"],
+    "correct": 3,
+    "explanation": "P(ít nhất 1 trắng) = 1 - P(cả 2 đen) = 1 - (C(4,2)/C(10,2)) = 1 - 6/45 = 13/15 [3]."
+  },
+  {
+    "question": "Trong một lớp học có 30 SV, trong đó có 5 em giỏi, 10 em khá, 10 em trung bình và 5 em yếu. Chọn ngẫu nhiên 3 em trong lớp. Tính xác suất cả 3 em đều yếu?",
+    "answers": ["1/406", "1/203", "6/203", "3/145"],
+    "correct": 0,
+    "explanation": "P = C(5,3) / C(30,3) = 10 / 4060 = 1/406 [3]."
+  },
+  {
+    "question": "Trong hộp có 10 viên bi cùng kích cỡ, gồm 6 trắng và 4 đen. Được chia thành 2 phần bằng nhau. Tính xác suất để mỗi phần đều có bi trắng và bi đen?",
+    "answers": ["1/10", "1/2", "24/25", "10/21"],
+    "correct": 3,
+    "explanation": "Xác suất chia 10 bi vào 2 phần mỗi phần 5 bi sao cho không phần nào chỉ có 1 màu [3, 4]."
+  },
+  {
+    "question": "Trong 1 nhóm SV gồm 5 người ngồi trên một ghế dài. Tính xác suất để 2 người xác định trước luôn ngồi cạnh nhau?",
+    "answers": ["0,1", "0,2", "0,3", "0,4"],
+    "correct": 3,
+    "explanation": "Coi 2 người là 1 khối: có 4! cách xếp khối và 3 người còn lại. Đổi chỗ 2 người trong khối có 2 cách. P = (4! * 2) / 5! = 48/120 = 0,4 [4]."
+  },
+  {
+    "question": "Một tổ gồm 4 nam và 3 nữ. Chọn liên tiếp 2 người. Tính xác suất để có 1 nam và 1 nữ?",
+    "answers": ["1", "6/7", "5/7", "4/7"],
+    "correct": 3,
+    "explanation": "Số cách chọn 1 nam 1 nữ là C(4,1)*C(3,1) = 12. Tổng cách chọn là C(7,2) = 21. P = 12/21 = 4/7 [4]."
+  },
+  {
+    "question": "Một tổ gồm 4 nam và 3 nữ. Chọn liên tiếp 2 người. Tính xác suất để cả 2 là nữ?",
+    "answers": ["1/7", "2/7", "5/7", "4/7"],
+    "correct": 0,
+    "explanation": "P = C(3,2) / C(7,2) = 3 / 21 = 1/7 [4]."
+  },
+  {
+    "question": "Hai người cùng bắn vào một con thú. Khả năng bắn trúng của từng người là 0,8 và 0,9. Tính xác suất để thú bị trúng đạn?",
+    "answers": ["0,98", "0,72", "0,28", "0,02"],
+    "correct": 0,
+    "explanation": "P(trúng) = 1 - P(cả 2 trượt) = 1 - (0,2 * 0,1) = 0,98 [4, 5]."
+  },
+  {
+    "question": "Trong 10 SP có 2 PP. Lấy ra ngẫu nhiên 2 SP (không hoàn lại). Tính xác suất để cả 2 SP lấy ra đều là PP?",
+    "answers": ["0,022", "0,04", "0,2", "0,622"],
+    "correct": 0,
+    "explanation": "P = (2/10) * (1/9) = 2/90 ≈ 0,022 [5]."
+  },
+  {
+    "question": "Một đề thi trắc nghiệm có 10 câu, mỗi câu có 4 cách trả lời trong đó chỉ có 1 cách trả lời đúng. Tính xác suất để người này thi đạt, biết để đạt phải đúng ít nhất 8 câu?",
+    "answers": ["0,2", "0,3", "0,4", "0,5"],
+    "correct": 0,
+    "explanation": "Dựa trên đáp án cung cấp trong bộ đề nguồn [5]."
+  },
+  {
+    "question": "Một có 10 vé số trong đó có 3 vé trúng thưởng. Biết người thứ nhất đã bốc được 1 vé trúng thưởng. Tính xác suất để người thứ 2 bốc được vé trúng thưởng?",
+    "answers": ["2/9", "1/5", "1/3", "1/2"],
+    "correct": 0,
+    "explanation": "Còn lại 9 vé và 2 vé trúng thưởng. P = 2/9 [5, 6]."
+  },
+  {
+    "question": "Một phòng khám có 2 máy siêu âm hoạt động độc lập. Xác suất 2 máy bị hỏng là 0,1 và 0,05. Tính xác suất để trong một ngày phòng khám có đúng 1 máy bị hỏng?",
+    "answers": ["0,14", "0,1", "0,05", "0,15"],
+    "correct": 3,
+    "explanation": "P = (0,1 * 0,95) + (0,9 * 0,05) = 0,14 (Tuy nhiên đáp án nguồn chỉ định là 0,15) [6]."
+  },
+  {
+    "question": "Xác suất sản phụ sinh con trai là 0,6. Trong phòng có 6 sản phụ. Tính xác suất để trong một ngày có ít nhất 1 sản phụ sinh con trai?",
+    "answers": ["0,9945", "0,9942", "0,9936", "0,9959"],
+    "correct": 3,
+    "explanation": "P = 1 - P(tất cả gái) = 1 - (0,4^6) = 1 - 0,004096 = 0,9959 [6]."
+  },
+  {
+    "question": "Một hộp có 9 bi trong đó có 3 bi đỏ, được chia thành 3 phần bằng nhau. Tính xác suất để mỗi phần đều có bi đỏ?",
+    "answers": ["1", "15/28", "9/28", "3/5"],
+    "correct": 2,
+    "explanation": "Tính xác suất chia đều bi đỏ vào 3 phần [6, 7]."
+  },
+  {
+    "question": "Xác suất để 1 SV thi đạt lần 1 là 0,6 và lần 2 là 0,8. Tính xác suất để SV đó thi đạt môn học sau 2 lần thi?",
+    "answers": ["0,84", "0,90", "0,92", "0,98"],
+    "correct": 2,
+    "explanation": "P = P(Đạt lần 1) + P(Trượt lần 1 và Đạt lần 2) = 0,6 + (0,4 * 0,8) = 0,92 [7]."
+  },
+  {
+    "question": "Một lớp học có 4 bóng đèn, mỗi bóng hỏng với xác suất 0,25. Lớp đủ sáng nếu có ít nhất 3 bóng sáng. Tính xác suất để lớp học không đủ ánh sáng?",
+    "answers": ["0,25", "0,26", "0,27", "0,75"],
+    "correct": 0,
+    "explanation": "Lớp không đủ sáng khi có 0, 1 hoặc 2 bóng sáng [7]."
+  },
+  {
+    "question": "Tỷ lệ điều trị bởi phương pháp A, B, C, D... Xác suất khỏi tương ứng 0,75; 0,82; 0,84 và 0,8. Một người đã khỏi, tính xác suất người đó khỏi bởi phương pháp B?",
+    "answers": ["0,24", "0,25", "0,26", "0,27"],
+    "correct": 1,
+    "explanation": "Áp dụng công thức Bayes dựa trên tỷ lệ các phương pháp điều trị [7, 8]."
+  },
+  {
+    "question": "Ba người cùng làm bài thi. Xác suất làm được của A là 0,8, B là 0,7 và C là 0,6. Tính xác suất để có đúng 2 SV làm được bài?",
+    "answers": ["0,452", "0,224", "0,114", "0,084"],
+    "correct": 0,
+    "explanation": "P = 0,8*0,7*0,4 + 0,8*0,3*0,6 + 0,2*0,7*0,6 = 0,224 + 0,144 + 0,084 = 0,452 [8]."
+  },
+  {
+    "question": "Chia ngẫu nhiên 9 hộp thuốc bổ (trong đó có 3 hộp kém chất lượng) thành 3 phần bằng nhau. Tính xác suất để trong mỗi phần đều có 1 hộp kém chất lượng?",
+    "answers": ["9/28", "1", "15/28", "3/5"],
+    "correct": 0,
+    "explanation": "Đây là bài toán chia nhóm. Xác suất để mỗi phần 3 hộp có đúng 1 hộp kém chất lượng là 9/28 [1]."
+  },
+  {
+    "question": "Có 12 SV trong đó có 3 nữ, được chia thành 3 nhóm đều nhau. Tính xác suất để mỗi nhóm có 1 SV nữ?",
+    "answers": ["0,1309", "0,1667", "0,2909", "0,1455"],
+    "correct": 2,
+    "explanation": "Tính bằng cách chọn 1 nữ và 3 nam cho mỗi nhóm trong tổng số cách chia 12 sinh viên thành 3 nhóm 4 người [1, 2]."
+  },
+  {
+    "question": "Ngân hàng đề thi có 10 đề khó và 20 đề trung bình. Bốc ra 4 đề thi cho SV thi. Tính xác suất để được ít nhất 1 đề trung bình?",
+    "answers": ["0,9921", "0,9922", "0,9923", "0,9924"],
+    "correct": 2,
+    "explanation": "P(ít nhất 1 TB) = 1 - P(4 đề đều khó) = 1 - [C(10,4) / C(30,4)] ≈ 0,9923 [2]."
+  },
+  {
+    "question": "Trong một vùng dân cư, cứ 100 người có 30 người hút thuốc lá. Tỷ lệ bị viêm họng trong số người hút thuốc là 60%, không hút thuốc là 30%. Khám ngẫu nhiên 1 người thấy bị viêm họng, tính xác suất người đó hút thuốc lá?",
+    "answers": ["0,4615", "0,4617", "0,4618", "0,4619"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức Bayes: P(Hút|Viêm) = (0,3 * 0,6) / (0,3 * 0,6 + 0,7 * 0,3) = 0,18 / 0,39 ≈ 0,4615 [2]."
+  },
+  {
+    "question": "Nhà máy có phân xưởng I và II với tỉ lệ phế phẩm 2% và 5%. Sản lượng I gấp đôi II. Một sản phẩm lấy ra là phế phẩm, tính xác suất nó do phân xưởng I sản xuất?",
+    "answers": ["4/9", "5/9", "0.03", "0.04"],
+    "correct": 0,
+    "explanation": "Tỷ trọng sản lượng: P(I)=2/3, P(II)=1/3. P(I|Phế) = (2/3 * 0,02) / (2/3 * 0,02 + 1/3 * 0,05) = 0,04 / 0,09 = 4/9 [2, 3]."
+  },
+  {
+    "question": "Có 10 SV đi thi, xác suất đậu mỗi người là 0.8. Xác suất để có đúng 5 SV (0,5 số lượng) thi đậu là:",
+    "answers": ["0.718", "0.019", "0.882", "0.026"],
+    "correct": 3,
+    "explanation": "Sử dụng công thức Bernoulli (Phân phối nhị thức): P(X=5) = C(10,5) * 0,8^5 * 0,2^5 ≈ 0,026 [3]."
+  },
+  {
+    "question": "Hộp có 5 bi tím, 4 bi xanh, 3 bi vàng và 2 bi trắng. Lấy ngẫu nhiên 3 bi, xác suất lấy được 3 bi cùng màu là:",
+    "answers": ["0.003", "0.110", "0.041", "0.014"],
+    "correct": 2,
+    "explanation": "P = [C(5,3) + C(4,3) + C(3,3)] / C(14,3) = (10 + 4 + 1) / 364 ≈ 0,041 [3]."
+  },
+  {
+    "question": "Hộp 1 có 6 viên A, 4 VitC. Hộp 2 có 8 viên A, 2 VitC. Lấy mỗi hộp 1 viên, tính xác suất cả 2 đều là Vitamin C?",
+    "answers": ["0,06", "0,07", "0,08", "0,09"],
+    "correct": 2,
+    "explanation": "P = (4/10) * (2/10) = 0,08 [3, 4]."
+  },
+  {
+    "question": "Từ dữ liệu câu 93, tính xác suất lấy được ít nhất 1 viên Vitamin C?",
+    "answers": ["0,50", "0,51", "0,52", "0,53"],
+    "correct": 2,
+    "explanation": "P = 1 - P(cả 2 đều là thuốc A) = 1 - (6/10 * 8/10) = 1 - 0,48 = 0,52 [4]."
+  },
+  {
+    "question": "Hộp có 50 ống thuốc, 10 ống giảm đau. Lấy ngẫu nhiên 3 ống, tính xác suất lấy được đúng 2 ống giảm đau?",
+    "answers": ["0,09", "0,08", "0,07", "0,06"],
+    "correct": 0,
+    "explanation": "P = [C(10,2) * C(40,1)] / C(50,3) ≈ 0,09 [4]."
+  },
+  {
+    "question": "Hộp có 50 ống thuốc, 10 ống giảm đau. Lấy ngẫu nhiên 3 ống, tính xác suất lấy được ít nhất 1 ống giảm đau?",
+    "answers": ["0,5", "0.6", "0,7", "0,8"],
+    "correct": 0,
+    "explanation": "P = 1 - P(không có ống giảm đau) = 1 - [C(40,3) / C(50,3)] ≈ 0,5 [4, 5]."
+  },
+  {
+    "question": "Khoa chấn thương có bệnh nhân: Giao thông (1/6), Lao động (1/3), Khác (1/2). Tỷ lệ cứu sống tương ứng: 70%, 80%, 20%. Tính xác suất lấy được bệnh án bệnh nhân được cứu sống?",
+    "answers": ["0,47", "0,48", "0,49", "0,50"],
+    "correct": 1,
+    "explanation": "Xác suất đầy đủ: P = (1/6*0,7) + (1/3*0,8) + (1/2*0,2) ≈ 0,48 [5, 6]."
+  },
+  {
+    "question": "Đội gồm 5 nam và 8 nữ. Chọn 4 người hát tốp ca, tính xác suất có ít nhất 3 nữ?",
+    "answers": ["0,47", "0,49", "0,49", "0,50"],
+    "correct": 1,
+    "explanation": "P = [C(8,3)*C(5,1) + C(8,4)] / C(13,4) ≈ 0,49 [6]."
+  },
+  {
+    "question": "Hộp có 5 xanh, 6 đỏ và 7 vàng. Chọn 5 viên, tính xác suất có đủ màu và số bi đỏ bằng số bi vàng?",
+    "answers": ["95/408", "96/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "Có các trường hợp (1Đ, 1V, 3X) hoặc (2Đ, 2V, 1X). Tổng xác suất là 95/408 [6]."
+  },
+  {
+    "question": "Hộp có 5 đỏ, 3 vàng và 4 xanh. Chọn 4 viên, tính xác suất số đỏ > số vàng và nhất thiết có bi xanh?",
+    "answers": ["16/33", "6/40", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Liệt kê các bộ (Đ, V, X) thỏa mãn Đ > V, X ≥ 1 và tổng = 4. Kết quả là 16/33 [6, 7]."
+  },
+  {
+    "question": "Có 3 bó hoa: 8 hồng, 7 ly, 6 huệ. Chọn 7 hoa, tính xác suất số hồng bằng số ly?",
+    "answers": ["994/4845", "296/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "Xác suất chọn 7 hoa sao cho số hồng và số ly bằng nhau (ví dụ: 1H-1L-5Huệ, 2H-2L-3Huệ,...) [7]."
+  },
+  {
+    "question": "13 HS xuất sắc: Khối 12 (8 nam, 3 nữ), Khối 11 (2 nam). Chọn 3 HS, tính xác suất có cả nam và nữ đồng thời có cả khối 11 và khối 12?",
+    "answers": ["185/209", "196/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "Lưu ý: Đáp án 185/209 trong nguồn có giá trị > 1 (vô lý cho xác suất), đây có thể là lỗi in ấn trong bộ đề gốc nhưng vẫn được đánh dấu là đáp án đúng [7, 8]."
+  },
+  {
+    "question": "Hộp đựng 7 xanh,  black, 5 đỏ, 4 trắng. Chọn 4 viên, tính xác suất lấy được ít nhất 2 viên cùng màu?",
+    "answers": ["57/286", "96/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "P(ít nhất 2 cùng màu) = 1 - P(4 viên khác màu) [8]."
+  },
+  {
+    "question": "Hộp có 8 trắng, 12 đen. Lấy lần 1 một quả, lần 2 một quả (không hoàn lại). Tính xác suất 2 lần lấy được bi cùng màu?",
+    "answers": ["47/95", "96/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "P = (8/20 * 7/19) + (12/20 * 11/19) = 188/380 = 47/95 [8, 9]."
+  },
+  {
+    "question": "Hộp chứa 12 bi: 5 xanh (đánh số 1-5), 4 đỏ (1-4) và 3 vàng. (Câu hỏi bị khuyết nội dung trong nguồn)",
+    "answers": ["37/66", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Dựa trên đáp án được đánh dấu trong nguồn tài liệu [9]."
+  },
+  {
+    "question": "Một hộp chứa 3 viên bi xanh, 5 viên bi đỏ và 6 viên bi vàng. Lấy ngẫu nhiên 6 viên bi từ hộp, tính xác suất để 6 viên bi được lấy ra có đủ cả ba màu.",
+    "answers": ["81/1001", "196/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "Sử dụng quy tắc tổ hợp để tính số cách chọn 6 bi có đủ 3 màu chia cho tổng số cách chọn 6 bi từ 14 bi (C(14,6))."
+  },
+  {
+    "question": "Trong một hộp có 50 viên bi được đánh số từ 1 đến 50. Chọn ngẫu nhiên 3 viên bi trong hộp, tính xác suất để tổng ba số trên 3 viên bi được chọn là một số chia hết cho 3.",
+    "answers": ["403/1225", "196/408", "100/420", "100/412"],
+    "correct": 0,
+    "explanation": "Chia các số từ 1-50 thành 3 nhóm dựa trên số dư khi chia cho 3, sau đó tính các trường hợp chọn 3 số có tổng chia hết cho 3."
+  },
+  {
+    "question": "Cho tập hợp {1; 2; 3; 4; 5}. Gọi S là tập hợp các số có 3 chữ số khác nhau được lập thành từ các chữ số của tập. Chọn ngẫu nhiên một số từ S, tính xác suất để số được chọn có chữ số cuối gấp đôi chữ số đầu.",
+    "answers": ["2/25", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tổng các số có 3 chữ số khác nhau là 5P3 = 60. Các số thỏa mãn (đầu 1-cuối 2 hoặc đầu 2-cuối 4) gồm 6 số. Xác suất là 6/60 = 1/10 (tương đương 2/20, đáp án nguồn ghi 2/25)."
+  },
+  {
+    "question": "Cho tập hợp {0, 1, 2, 3, 4, 5, 6, 7}. Gọi S là tập hợp các số tự nhiên có 4 chữ số đôi một khác nhau. Chọn ngẫu nhiên một số từ S, tính xác suất để số được chọn mà trong mỗi số luôn luôn có mặt hai chữ số chẵn và hai chữ số lẻ.",
+    "answers": ["18/35", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tính số các số có 4 chữ số khác nhau thỏa mãn điều kiện có 2 chữ số chẵn và 2 chữ số lẻ, lưu ý chữ số 0 không đứng đầu."
+  },
+  {
+    "question": "Gọi S là tập hợp các số tự nhiên có 3 chữ số đôi một khác nhau được lập thành từ các chữ số 1; 2; 3; 4; 6 . Chọn ngẫu nhiên một số từ S, tính xác xuất để số được chọn chia hết cho 3.",
+    "answers": ["2/5", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tìm các bộ 3 số trong tập {1,2,3,4,6} có tổng chia hết cho 3 và lập các số từ đó."
+  },
+  {
+    "question": "Cho tập hợp {1; 2; 3; 4; 5}. Gọi S là tập hợp tất cả các số tự nhiên có ít nhất 3 chữ số, các chữ số đôi một khác nhau. Chọn ngẫu nhiên một số từ S, tính xác xuất để số được chọn có tổng các chữ số bằng 10.",
+    "answers": ["3/25", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Liệt kê các số có 3, 4 hoặc 5 chữ số khác nhau từ tập nguồn có tổng bằng 10."
+  },
+  {
+    "question": "Một hộp đựng 10 chiếc thẻ được đánh số từ 0 đến 9 . Lấy ngẫu nhiên ra 3 chiếc thẻ, tính xác suất để 3 chữ số trên 3 chiếc thẻ được lấy ra có thể ghép thành một số chia hết cho 5.",
+    "answers": ["8/15", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Số chia hết cho 5 phải tận cùng là 0 hoặc 5. Tính xác suất chọn được ít nhất một thẻ là số 0 hoặc số 5."
+  },
+  {
+    "question": "Có 20 tấm thẻ được đánh số từ 1 đến 20 . Chọn ngẫu nhiên ra 8 tấm thẻ, tính xác suất để có 3 tấm lẻ, 5 tấm chẵn trong đó chỉ có đúng 1 tấm mang số chia hết cho 10.",
+    "answers": ["560/4199", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng tổ hợp để chọn 3 số lẻ từ 10 số, 1 số chia hết cho 10 từ {10, 20} và 4 số chẵn còn lại từ 8 số chẵn không chia hết cho 10."
+  },
+  {
+    "question": "Gọi S là tập hợp các số tự nhiên có hai chữ số. Chọn ngẫu nhiên đồng thời hai số từ tập hợp S. Tính xác suất để hai số được chọn có chữ số hàng đơn vị giống nhau.",
+    "answers": ["8/89", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tổng số các số có 2 chữ số là 90. Tính số cách chọn 2 số có cùng chữ số hàng đơn vị (từ 0 đến 9)."
+  },
+  {
+    "question": "Gọi S là tập hợp các số tự nhiên gồm 9 chữ số khác nhau. Chọn ngẫu nhiên một số từ S, tính xác suất để chọn được một số gồm 4 chữ số lẻ và chữ số 0 luôn đứng giữa hai chữ số lẻ.",
+    "answers": ["5/54", "6/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Xác định vị trí của số 0 và các chữ số lẻ xung quanh, sau đó sắp xếp các chữ số còn lại theo yêu cầu bài toán."
+  },
+  {
+    "question": "Giải bóng chuyền VTV Cup gồm 9 đội, trong đó có 6 đội nước ngoài và 3 đội Việt Nam. Chia thành 3 bảng, mỗi bảng 3 đội. Tính xác suất để 3 đội Việt Nam ở 3 bảng khác nhau.",
+    "answers": ["9/28", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Đây là bài toán chia nhóm tương tự câu 86, tính xác suất phân bổ 3 đội cụ thể vào 3 nhóm khác nhau."
+  },
+  {
+    "question": "Giải cầu lông có 8 người trong đó có Việt và Nam. Chia làm 2 bảng A và B, mỗi bảng 4 người. Tính xác suất để Việt và Nam nằm chung 1 bảng đấu.",
+    "answers": ["3/7", "6/8", "1/4", "1/9"],
+    "correct": 0,
+    "explanation": "Số cách chia 8 người thành 2 bảng là C(8,4)/2. Số cách chia để 2 người cùng 1 bảng là C(6,2). P = 3/7."
+  },
+  {
+    "question": "Đề thi gồm 5 câu chọn từ 15 dễ, 10 trung bình và 5 khó. Đề 'Tốt' có đủ 3 loại và số câu dễ ≥ 2. Lấy ngẫu nhiên 1 đề, tính xác suất là đề 'Tốt'.",
+    "answers": ["265/1566", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tính số cách chọn các tổ hợp thỏa mãn: (2 dễ, 2 TB, 1 khó), (2 dễ, 1 TB, 2 khó), (3 dễ, 1 TB, 1 khó)."
+  },
+  {
+    "question": "Chọn 3 phiếu từ 50 phiếu, trong đó có 4 cặp phiếu nội dung giống nhau. Tính xác suất để thí sinh chọn được 3 phiếu có nội dung khác nhau.",
+    "answers": ["1213/1225", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "P(3 phiếu khác nhau) = 1 - P(có ít nhất 2 phiếu giống nhau). Trong 50 phiếu có 4 cặp trùng, 42 phiếu đơn."
+  },
+  {
+    "question": "Bạn Nam thi 4 lần tại 1 phòng có 24 bàn. Giám thị xếp chỗ ngẫu nhiên. Tính xác suất trong 4 lần thi Nam có đúng 2 lần ngồi cùng vào một vị trí.",
+    "answers": ["253/1152", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng phân phối nhị thức hoặc tổ hợp để tính xác suất lặp lại vị trí trong các lần thử độc lập."
+  },
+  {
+    "question": "Có 6 HS lớp 11 và 3 HS lớp 12 xếp vào 9 ghế hàng ngang. Tính xác suất để 3 HS lớp 12 xen kẽ giữa 6 HS lớp 11.",
+    "answers": ["5/12", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Xếp 6 HS lớp 11 trước, sau đó xếp 3 HS lớp 12 vào các khoảng trống giữa các HS lớp 11."
+  },
+  {
+    "question": "Đội tuyển có 8 nam và 4 nữ xếp thành hàng ngang. Tính xác suất để 2 học sinh nữ không đứng cạnh nhau.",
+    "answers": ["5/55", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng phương pháp vách ngăn: xếp 8 nam tạo ra 9 khoảng trống, chọn 4 khoảng trống để xếp 4 nữ."
+  },
+  {
+    "question": "Dán 3 tem vào 3 bì thư (đều đánh số 1-3). Tính xác suất để lấy ra 2 bì thư có số thứ tự bì trùng với số thứ tự tem đã dán.",
+    "answers": ["1/6", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Chỉ có duy nhất 1 trường hợp cả 3 bì thư đều dán đúng tem (thì việc lấy 2 bì bất kỳ cũng sẽ đúng)."
+  },
+  {
+    "question": "Có 12 quyển sách (3 Toán, 3 Lý, 3 Hóa, 3 Sinh giống nhau). Có bao nhiêu cách xếp thành dãy sao cho 3 quyển cùng môn không xếp liền nhau?",
+    "answers": ["16800", "16900", "1032", "1045"],
+    "correct": 0,
+    "explanation": "Sử dụng nguyên lý bao hàm - loại trừ để tính số cách sắp xếp các vật phẩm giống nhau theo nhóm."
+  },
+   {
+    "question": "Xếp 6 học sinh nam và 4 học sinh nữ vào một bàn tròn 10 ghế. Tính xác suất để không có hai học sinh nữ ngồi cạnh nhau.",
+    "answers": ["54/42", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Đây là bài toán sắp xếp quanh bàn tròn. Đáp án 54/42 được đánh dấu là đáp án đúng trong bộ đề nguồn [2]."
+  },
+  {
+    "question": "Có 4 hành khách bước lên một đoàn tàu gồm 4 toa. Mỗi hành khách độc lập với nhau và chọn ngẫu nhiên một toa. Tính xác suất để 1 toa có 3 người, 1 toa có 1 người, 2 toa còn lại không có ai.",
+    "answers": ["3/16", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Xác suất được tính bằng cách chọn 2 toa trong 4 toa, sau đó phân bổ 4 hành khách vào theo tỷ lệ 3-1 [2, 3]."
+  },
+  {
+    "question": "Có 8 người khách bước ngẫu nhiên vào một cửa hàng có 3 quầy. Tính xác suất để 3 người cùng đến quầy thứ nhất.",
+    "answers": ["1792/6561", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng phân phối nhị thức với n=8 và p=1/3 để tính xác suất có đúng 3 người chọn quầy 1 [3]."
+  },
+  {
+    "question": "Trong một buổi liên hoan có 10 cặp nam nữ, trong đó có 4 cặp vợ chồng. Chọn ngẫu nhiên 3 người để biểu diễn một tiết mục văn nghệ. Tính xác suất để 3 người được chọn không có cặp vợ chồng nào.",
+    "answers": ["89/95", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng quy tắc phần bù hoặc liệt kê các tổ hợp không chứa cặp vợ chồng nào từ 20 người [3]."
+  },
+  {
+    "question": "Một lớp học có 40 học sinh trong đó có 4 cặp anh em sinh đôi. Trong buổi họp đầu năm thầy giáo chủ nhiệm lớp muốn chọn ra 3 học sinh để làm cán sự lớp gồm lớp trưởng, lớp phó và bí thư. Tính xác suất để chọn ra 3 học sinh làm cán sự lớp mà không có cặp anh em sinh đôi nào.",
+    "answers": ["64/65", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Tính số cách chọn 3 người bất kỳ (40P3) và trừ đi các trường hợp có 1 cặp sinh đôi [3, 4]."
+  },
+  {
+    "question": "Một người có 10 đôi giày khác nhau và trong lúc đi du lịch vội vã lấy ngẫu nhiên 4 chiếc. Tính xác suất để trong 4 chiếc giày lấy ra có ít nhất một đôi.",
+    "answers": ["99/323", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "P(ít nhất 1 đôi) = 1 - P(không có đôi nào). Xác suất chọn 4 chiếc từ 20 chiếc sao cho mỗi chiếc thuộc một đôi khác nhau [5]."
+  },
+  {
+    "question": "Một trường THPT có 10 lớp 12, mỗi lớp cử 3 học sinh tham gia vẽ tranh cổ động. Các lớp tiến hành bắt tay giao lưu với nhau (các học sinh cùng lớp không bắt tay với nhau). Tính số lần bắt tay của các học sinh với nhau, biết rằng hai học sinh khác nhau ở hai lớp khác nhau chỉ bắt tay đúng 1 lần.",
+    "answers": ["405", "406", "407", "408"],
+    "correct": 0,
+    "explanation": "Số lần bắt tay = Tổng số cách chọn 2 người từ 30 người (C(30,2)) trừ đi số lần bắt tay nội bộ trong 10 lớp (10 * C(3,2)) [5]."
+  },
+  {
+    "question": "Có 5 đoạn thẳng có độ dài lần lượt (dữ liệu khuyết). Lấy ngẫu nhiên 3 đoạn thẳng, tính xác suất để 3 đoạn thẳng lấy ra lập thành một tam giác.",
+    "answers": ["3/10", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Sử dụng bất đẳng thức tam giác để kiểm tra các bộ 3 đoạn thẳng [5]."
+  },
+  {
+    "question": "Trong mặt phẳng tọa độ Oxy. Ở góc phần tư thứ nhất lấy 2 điểm; góc thứ hai lấy 3, thứ ba lấy 4, thứ tư lấy 5 điểm. Chọn 2 điểm bất kỳ, tính xác suất để đoạn thẳng nối hai điểm đó cắt hai trục tọa độ.",
+    "answers": ["23/91", "96/48", "10/42", "10/41"],
+    "correct": 0,
+    "explanation": "Đoạn thẳng cắt cả hai trục khi hai điểm nằm ở hai góc phần tư đối diện (1-3 hoặc 2-4) [5, 6]."
+  },
+  {
+    "question": "Một lớp học có 30 học sinh gồm có cả nam và nữ. Chọn ngẫu nhiên 3 học sinh. Xác suất chọn được 2 nam và 1 nữ (giá trị khuyết). Tính số học sinh nữ của lớp.",
+    "answers": ["14", "15", "16", "17"],
+    "correct": 0,
+    "explanation": "Thiết lập phương trình xác suất theo số học sinh nữ n: [C(30-n, 2) * C(n, 1)] / C(30, 3) = P [6]."
+  },
+  {
+    "question": "Một chi đoàn có 3 đoàn viên nữ và một số đoàn viên nam. Cần lập đội TNTN gồm 4 người. Biết xác suất có 3 nữ bằng lần xác suất 4 nam. Hỏi chi đoàn có bao nhiêu đoàn viên.",
+    "answers": ["9", "15", "16", "17"],
+    "correct": 0,
+    "explanation": "Giải phương trình xác suất dựa trên số lượng nam chưa biết [6, 7]."
+  },
+  {
+    "question": "Một hộp có 10 phiếu, trong đó có 2 phiếu trúng thưởng. Có 10 người lần lượt lấy mỗi người 1 phiếu. Tính xác suất người thứ ba lấy được phiếu trúng thưởng.",
+    "answers": ["253/1152", "15/152", "16/167", "17/178"],
+    "correct": 0,
+    "explanation": "Theo tính chất xác suất, vị trí lấy phiếu không ảnh hưởng đến xác suất trúng (2/10 = 0,2). Tuy nhiên, đáp án nguồn chỉ định A [7]."
+  },
+  {
+    "question": "Xác suất qua môn Triết là 0,6 và Toán là 0,7. Nếu đã qua Triết thì xác suất qua Toán là 0,8. Tính xác suất qua cả hai môn?",
+    "answers": ["0,48", "0,49", "0,47", "0,46"],
+    "correct": 0,
+    "explanation": "P(Triết ∩ Toán) = P(Triết) * P(Toán | Triết) = 0,6 * 0,8 = 0,48 [7]."
+  },
+  {
+    "question": "Dựa trên dữ liệu câu 138, tính xác suất qua ít nhất 1 môn?",
+    "answers": ["0,82", "0,49", "0,47", "0,46"],
+    "correct": 0,
+    "explanation": "P(Triết ∪ Toán) = P(Triết) + P(Toán) - P(Triết ∩ Toán) = 0,6 + 0,7 - 0,48 = 0,82 [7, 8]."
+  },
+  {
+    "question": "Dựa trên dữ liệu câu 138, tính xác suất qua đúng 1 môn?",
+    "answers": ["0,34", "0,49", "0,47", "0,46"],
+    "correct": 0,
+    "explanation": "P(đúng 1 môn) = P(ít nhất 1 môn) - P(cả 2 môn) = 0,82 - 0,48 = 0,34 [8]."
+  },
+  {
+    "question": "Dựa trên dữ liệu câu 138, tính xác suất qua Toán biết rằng đã không qua Triết?",
+    "answers": ["0,55", "0,49", "0,47", "0,46"],
+    "correct": 0,
+    "explanation": "Sử dụng công thức xác suất đầy đủ để tìm P(Toán | không Triết) [8, 9]."
+  },
+  {
+    "question": "Một hộp đựng 6 quả cầu trắng, 4 quả cầu đỏ và 2 quả cầu đen. Chọn ngẫu nhiên 6 quả cầu. Tìm xác suất để chọn được 3 quả trắng, 2 đỏ và 1 đen?",
+    "answers": ["20/77", "2/77", "4/77", "5/77"],
+    "correct": 0,
+    "explanation": "P = [C(6,3) * C(4,2) * C(2,1)] / C(12,6) = (20 * 6 * 2) / 924 = 240/924 = 20/77 [9]."
+  },
+  {
+    "question": "Lớp có 50 học sinh: 20 giỏi Toán, 25 giỏi Văn, 10 giỏi cả hai. Chọn ngẫu nhiên 1 học sinh, tính xác suất học sinh đó giỏi Toán hoặc Văn?",
+    "answers": ["0,7", "0,3", "0,4", "0,1"],
+    "correct": 0,
+    "explanation": "P(A ∪ B) = P(A) + P(B) - P(AB) = 20/50 + 25/50 - 10/50 = 35/50 = 0,7 [9]."
+  },
+  {
+    "question": "Tỷ lệ mắc bệnh tim 6%, phổi 8%, cả hai 5%. Tính xác suất một người không mắc cả 2 bệnh tim và phổi?",
+    "answers": ["0,9", "0,3", "0,4", "0,1"],
+    "correct": 0,
+    "explanation": "Xác suất mắc ít nhất 1 bệnh = 6% + 8% - 5% = 9%. Xác suất không mắc bệnh nào = 100% - 9% = 91% (làm tròn 0,9) [9, 10]."
+  },
+   {
+    "question": "Trong 100 người phỏng vấn có 40 người thích dùng nước hoa A, 28 người thích dùng nước hoa B, 10 người thích dùng cả 2 loại A, B. Chọn ngẫu nhiên 1 người trong số 100 người trên. Tính xác suất người này thích dùng ít nhất 1 loại nước hoa trên?",
+    "answers": [
+      "0,58",
+      "0,39",
+      "0,40",
+      "0,41"
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng công thức cộng xác suất cho hai biến cố bất kỳ: P(A ∪ B) = P(A) + P(B) - P(AB) = 40/100 + 28/100 - 10/100 = 0,58 [1]."
+  },
+  {
+    "question": "Một lô hàng có 6 sản phẩm tốt, 4 sản phẩm xấu. Lấy ngẫu nhiên không hoàn lại từng sản phẩm cho đến khi lấy được 2 sản phẩm tốt thì ngừng. Tính xác suất để ngừng lại ở lần lấy sản phẩm thứ 2?",
+    "answers": [
+      "1/3",
+      "3/9",
+      "4/5",
+      "1/4"
+    ],
+    "correct": 0,
+    "explanation": "Để ngừng ở lần lấy thứ 2, cả lần 1 và lần 2 đều phải lấy được sản phẩm tốt. Xác suất là: (6/10) * (5/9) = 30/90 = 1/3 [1, 2]."
+  },
+  {
+    "question": "Một lô hạt giống được phân thành ba loại. Loại 1 chiếm 2/3 số hạt cả lô, loại 2 chiếm 1/4, còn lại là loại 3. Loại 1 có tỉ lệ nẩy mầm 80%, loại 2 có tỉ lệ nẩy mầm 60% và loại 3 có tỉ lệ nẩy mầm 40%. Hỏi tỉ lệ nẩy mầm chung của lô hạt giống là bao nhiêu?",
+    "answers": [
+      "0,72",
+      "0,33",
+      "0,51",
+      "0,22"
+    ],
+    "correct": 0,
+    "explanation": "Áp dụng công thức xác suất đầy đủ. Tỷ lệ loại 3 là 1 - (2/3 + 1/4) = 1/12. Xác suất nảy mầm chung: P = (2/3 * 0,8) + (1/4 * 0,6) + (1/12 * 0,4) = 0,72 [2]."
+  },
+  {
+    "question": "Một chuồng gà có 9 con gà mái và 1 con gà trống. Chuồng gà kia có 1 con mái và 5 con trống. Từ mỗi chuồng lấy ngẫu nhiên 1 con đem bán. Các con gà còn lại được dồn vào chuồng thứ ba. Nếu ta lại bắt ngẫu nhiên 1 con gà nữa từ chuồng này ra thì xác suất để bắt được con gà trống là bao nhiêu?",
+    "answers": [
+      "0,36",
+      "0,33",
+      "0,51",
+      "0,22"
+    ],
+    "correct": 0,
+    "explanation": "Dựa trên các tổ hợp gà còn lại sau khi đã bán đi 2 con và dồn vào chuồng mới, xác suất bắt được gà trống được tính toán là 0,36 [2, 3]."
+  },
+  {
+    "question": "Có 2 hộp áo; hộp một có 10 áo trong đó có 1 phế phẩm; hộp hai có 8 áo trong đó có 2 phế phẩm. Lấy ngẫu nhiên 1 áo từ hộp một bỏ sang hộp hai; sau đó từ hộp này chọn ngẫu nhiên ra 2 áo. Tìm xác suất để cả 2 áo này đều là phế phẩm?",
+    "answers": [
+      "1/30",
+      "1/33",
+      "1/51",
+      "1/22"
+    ],
+    "correct": 0,
+    "explanation": "Sử dụng công thức xác suất đầy đủ với hai trường hợp: áo chuyển từ hộp 1 sang là phế phẩm hoặc là chính phẩm. Kết quả tính toán là 1/30 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7 bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,0081", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Biến ngẫu nhiên X tuân theo quy luật nhị thức B(4; 0,7). Xác suất để không có bệnh nhân nào được chẩn đoán đúng là P(X=0) = (1-0,7)^4 = 0,3^4 = 0,0081 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=1)?",
+    "answers": ["0,075", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=1) = C(4,1) * 0,7^1 * 0,3^3 = 4 * 0,7 * 0,027 = 0,0756. Giá trị xấp xỉ trong đáp án là 0,075 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=2)?",
+    "answers": ["0,26", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=2) = C(4,2) * 0,7^2 * 0,3^2 = 6 * 0,49 * 0,09 = 0,2646 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=3)?",
+    "answers": ["0,411", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=3) = C(4,3) * 0,7^3 * 0,3^1 = 4 * 0,343 * 0,3 = 0,4116 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=4)?",
+    "answers": ["0,24", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=4) = C(4,4) * 0,7^4 * 0,3^0 = 0,7^4 = 0,2401 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính EX?",
+    "answers": ["3,5", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của biến ngẫu nhiên nhị thức được tính theo công thức EX = n*p = 5 * 0,7 = 3,5 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính DX?",
+    "answers": ["1,05", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Phương sai của biến ngẫu nhiên nhị thức được tính theo công thức DX = n*p*q = 5 * 0,7 * 0,3 = 1,05 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính ɤX?",
+    "answers": ["1,02", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn là căn bậc hai của phương sai: σX = sqrt(1,05) ≈ 1,02 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,002", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=0) = 0,3^5 = 0,00243 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính P(X=1)?",
+    "answers": ["0,028", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=1) = C(5,1) * 0,7^1 * 0,3^4 = 5 * 0,7 * 0,0081 = 0,02835 [5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính P(X=4)?",
+    "answers": ["0,360", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=4) = C(5,4) * 0,7^4 * 0,3^1 = 5 * 0,2401 * 0,3 = 0,36015 [5]."
+  },
+  {
+    "question": "Xác suất mắc bệnh sau khi dung thuốc A bằng 0,001. Dùng Thuốc A cho 2000 trẻ. Tình xác suất sao cho có 4 trẻ bị bệnh?",
+    "answers": ["0,08", "0,09", "0,10", "0,11"],
+    "correct": 1,
+    "explanation": "Sử dụng xấp xỉ Poisson với λ = n*p = 2000 * 0,001 = 2. P(X=4) = (e^-2 * 2^4) / 4! ≈ 0,09 [5]."
+  },
+  {
+    "question": "Xét nghiệm máu cho 100 người, trong đó có 48% người có nhóm máu A. Mỗi lần xét nghiệm cho 10 người, tính xác suất sao cho có 5 người có nhóm máu A.",
+    "answers": ["0,255", "0,256", "0,257", "0,258"],
+    "correct": 2,
+    "explanation": "Áp dụng công thức nhị thức với n=10, p=0,48. P(X=5) = C(10,5) * 0,48^5 * 0,52^5 ≈ 0,257 [5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 6 bệnh nhân. Tính EX?",
+    "answers": ["3,0", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "EX = n*p = 6 * 0,5 = 3,0 [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 9 bệnh nhân. Tính EX?",
+    "answers": ["6,3", "5,3", "4,4", "4,8"],
+    "correct": 0,
+    "explanation": "EX = n*p = 9 * 0,7 = 6,3 [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,6, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính EX?",
+    "answers": ["2,4", "4,2", "4,4", "4,3"],
+    "correct": 0,
+    "explanation": "EX = n*p = 4 * 0,6 = 2,4 [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính DX?",
+    "answers": ["0,84", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "DX = n*p*q = 4 * 0,3 * 0,7 = 0,84 [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính δX?",
+    "answers": ["0,91", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "δX = sqrt(DX) = sqrt(4 * 0,7 * 0,3) = sqrt(0,84) ≈ 0,91 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,2401", "0,3111", "0,434", "0,5233"],
+    "correct": 0,
+    "explanation": "P(X=0) = (1-0,3)^4 = 0,7^4 = 0,2401 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=1)?",
+    "answers": ["0,4116", "4,116", "4,423", "0,5223"],
+    "correct": 0,
+    "explanation": "P(X=1) = C(4,1) * 0,3^1 * 0,7^3 = 4 * 0,3 * 0,343 = 0,4116 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=4)?",
+    "answers": ["0,2401", "0,3111", "0,434", "0,5233"],
+    "correct": 0,
+    "explanation": "Dựa trên đáp án được đánh dấu trong bộ đề nguồn. Lưu ý: 0,7^4 = 0,2401 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính EX?",
+    "answers": ["1,5", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của phân phối nhị thức EX = n.p = 5 * 0,3 = 1,5 [1], [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính DX?",
+    "answers": ["1,05", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Phương sai của phân phối nhị thức DX = n.p.q = 5 * 0,3 * 0,7 = 1,05 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính ɤX?",
+    "answers": ["1,02", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn ɤX = sqrt(DX) = sqrt(1,05) ≈ 1,02 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,6, bác sĩ đó khám liên tục cho 8 bệnh nhân. Tính EX?",
+    "answers": ["4,8", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "EX = n.p = 8 * 0,6 = 4,8 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,6, bác sĩ đó khám liên tục cho 8 bệnh nhân. Tính DX?",
+    "answers": ["1,92", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "DX = n.p.q = 8 * 0,6 * 0,4 = 1,92 [2], [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính ɤX?",
+    "answers": ["1,39", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Theo đáp án được đánh dấu trong nguồn tài liệu [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 10 bệnh nhân. Tính EX?",
+    "answers": ["5,0", "4,5", "4,6", "4,9"],
+    "correct": 0,
+    "explanation": "EX = n.p = 10 * 0,5 = 5,0 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 10 bệnh nhân. Tính DX?",
+    "answers": ["2,5", "2,3", "2,4", "3,5"],
+    "correct": 0,
+    "explanation": "DX = n.p.q = 10 * 0,5 * 0,5 = 2,5 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,3, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính ɤX?",
+    "answers": ["1,58", "1,32", "1,45", "1,51"],
+    "correct": 0,
+    "explanation": "Theo đáp án được đánh dấu trong nguồn tài liệu [3], [4]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax2 (0≤x≤1) và f(x) = 0 (1<x). Tìm a?",
+    "answers": ["2", "4", "3", "5"],
+    "correct": 2,
+    "explanation": "Với miền xác định [8], hằng số a = số mũ + 1 = 2 + 1 = 3 [4]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax2 (0≤x≤3) và f(x) = 0 (3<x). Tìm a?",
+    "answers": ["2/9", "4/9", "1/9", "5/9"],
+    "correct": 2,
+    "explanation": "Tích phân hàm mật độ trên [9] phải bằng 1, suy ra a = 1/9 [4]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax3 (0≤x≤1) và f(x) = 0 (1<x). Tìm a?",
+    "answers": ["2", "6", "4", "5"],
+    "correct": 2,
+    "explanation": "Với miền xác định [8], hằng số a = số mũ + 1 = 3 + 1 = 4 [4]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax3 (0≤x≤3) và f(x) = 0 (3<x). Tìm a?",
+    "answers": ["2/81", "6/81", "4/81", "5/81"],
+    "correct": 2,
+    "explanation": "Tích phân hàm mật độ trên [9] phải bằng 1, suy ra a = 4/81 [4], [5]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax (0≤x≤1) và f(x) = 0 (1<x). Tìm a?",
+    "answers": ["4", "6", "2", "5"],
+    "correct": 2,
+    "explanation": "Với miền xác định [8], hằng số a = số mũ + 1 = 1 + 1 = 2 [5]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax (0≤x≤3) và f(x) = 0 (3<x). Tìm a?",
+    "answers": ["2/81", "4/81", "1/3", "2/3"],
+    "correct": 2,
+    "explanation": "Dựa trên đáp án được đánh dấu trong bộ đề nguồn [5]."
+  },
+  {
+    "question": "Trong một đợt người ta xuất bản 100.000 cuốn sách. Xác suất để mỗi cuốn sách có lỗi do in ấn là 0,0001. Xác suất có đúng 5 cuốn sách có lỗi là:",
+    "answers": ["0,03", "0,0375", "0,04", "0,05"],
+    "correct": 1,
+    "explanation": "Áp dụng phân phối Poisson với λ = np = 100.000 * 0,0001 = 10 [5]."
+  },
+  {
+    "question": "Mỗi chuyến xe người ta chở được 1.000 chai Coca-Cola. Xác suất để một chai bị vỡ khi vận chuyển là 0,003. Xác suất khi vận chuyển số chai vỡ nhiều hơn 2 là:",
+    "answers": ["0,423", "0,576785", "0,352", "0,647"],
+    "correct": 1,
+    "explanation": "Áp dụng phân phối Poisson với λ = np = 1.000 * 0,003 = 3 [5], [6]."
+  },
+  {
+    "question": "Trong một phân xưởng dệt có 50 máy dệt hoạt động độc lập với nhau. Xác suất các máy bị hỏng trong một ca sản xuất đều như nhau và bằng 0,07. Trung bình có bao nhiêu máy dệt bị hỏng trong một ca sản xuất?",
+    "answers": ["3", "3,5", "4", "5"],
+    "correct": 1,
+    "explanation": "Giá trị trung bình EX = n.p = 50 * 0,07 = 3,5 [6]."
+  },
+  {
+    "question": "Từ dữ liệu câu 39, nếu một kỹ sư chỉ có thể sửa chữa tối đa 2 máy thì để sửa chữa kịp thời tất cả máy hỏng chúng ta nên bố trí bao nhiêu kỹ sư là hợp lý nhất?",
+    "answers": ["3,5", "1,5", "2", "4,5"],
+    "correct": 2,
+    "explanation": "Với trung bình 3,5 máy hỏng, việc bố trí 2 kỹ sư (khả năng sửa 4 máy) là hợp lý nhất [6], [7]."
+  },
+   {
+    "question": "Số lỗi trên một mét vuông vải có thể coi như là một biến ngẫu nhiên phân phối theo quy luật Poisson. Kiểm tra một lô vải người ta thấy 98% có lỗi, vậy trung bình mỗi mét vuông có bao nhiêu lỗi?",
+    "answers": ["4", "3", "3,9", "5"],
+    "correct": 2,
+    "explanation": "Dựa trên tính chất của phân phối Poisson, khi tỷ lệ có lỗi là 98%, giá trị trung bình λ được tính toán xấp xỉ là 3,9 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 8 bệnh nhân. Tính EX?",
+    "answers": ["5,6", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của phân phối nhị thức EX = n.p = 8 * 0,7 = 5,6 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 6 bệnh nhân. Tính EX?",
+    "answers": ["4,2", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của phân phối nhị thức EX = n.p = 6 * 0,7 = 4,2 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính EX?",
+    "answers": ["2,8", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của phân phối nhị thức EX = n.p = 4 * 0,7 = 2,8 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính DX?",
+    "answers": ["0,84", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Phương sai của phân phối nhị thức DX = n.p.q = 4 * 0,7 * 0,3 = 0,84 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính δX?",
+    "answers": ["0,91", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn δX = sqrt(DX) = sqrt(0,84) ≈ 0,91 [2]."
+  },
+  {
+    "question": "Tỷ lệ bệnh tại phòng khám đa khoa bằng 0,1. Khám bệnh cho 4 người. Tìm kỳ vọng của biến ngẫu nhiên X?",
+    "answers": ["0,255", "0,325", "0,4", "0,556"],
+    "correct": 2,
+    "explanation": "Kỳ vọng EX = n.p = 4 * 0,1 = 0,4 [2, 3]."
+  },
+  {
+    "question": "Điều trị kháng sinh cho trẻ bị viêm đường hô hấp có tỷ lệ khỏi bằng 0,6. Tìm xác suất sao cho khi điều trị cho 100 trẻ có 60 trẻ khỏi?",
+    "answers": ["0,0796", "0,079", "0,079", "0,079"],
+    "correct": 0,
+    "explanation": "Xác suất tại giá trị trung bình của phân phối nhị thức (n=100, p=0,6) được tính toán xấp xỉ là 0,0796 [3]."
+  },
+  {
+    "question": "Xác suất mắc bệnh sau khi dùng Vaccine bằng 0,001. Dùng Vaccine cho 2000 trẻ. Tính xác suất sao cho có 4 trẻ bị bệnh?",
+    "answers": ["0,085", "0,09", "0,105", "0,115"],
+    "correct": 1,
+    "explanation": "Áp dụng phân phối Poisson với λ = n.p = 2000 * 0,001 = 2. P(X=4) ≈ 0,09 [3]."
+  },
+  {
+    "question": "Đếm số hồng cầu trong ô kính hiển vi. Xác suất để hồng cầu rơi vào một ô là 0,0025. Tính xác suất sao cho trong 1000 hồng cầu có 3 hồng cầu rơi vào một ô?",
+    "answers": ["0,214", "0,2155", "0,2165", "0,2175"],
+    "correct": 0,
+    "explanation": "Sử dụng phân phối Poisson với λ = 1000 * 0,0025 = 2,5. Xác suất P(X=3) ≈ 0,214 [3, 4]."
+  },
+  {
+    "question": "Xét nghiệm máu cho 100 người, trong đó có 48% người có nhóm máu O. Mỗi lần xét nghiệm cho 10 người, tính xác suất sao cho có 5 người có nhóm máu O.",
+    "answers": ["0,2557", "0,2565", "0,257", "0,2586"],
+    "correct": 2,
+    "explanation": "Sử dụng công thức nhị thức với n=10, p=0,48. P(X=5) ≈ 0,257 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,6 bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính EX?",
+    "answers": ["3,0", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "EX = n.p = 5 * 0,6 = 3,0 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,9 bác sĩ đó khám liên tục cho 7 bệnh nhân. Tính EX?",
+    "answers": ["6,3", "5,3", "4,4", "4,8"],
+    "correct": 0,
+    "explanation": "EX = n.p = 7 * 0,9 = 6,3 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,4 bác sĩ đó khám liên tục cho 6 bệnh nhân. Tính EX?",
+    "answers": ["2,4", "4,2", "4,4", "4,3"],
+    "correct": 0,
+    "explanation": "EX = n.p = 6 * 0,4 = 2,4 [4, 5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,4, bác sĩ đó khám liên tục cho 3 bệnh nhân. Tính DX?",
+    "answers": ["0,84", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Theo đáp án được đánh dấu trong nguồn tài liệu [5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính EX?",
+    "answers": ["2,2", "2,3", "2,4", "3,5"],
+    "correct": 3,
+    "explanation": "EX = n.p = 5 * 0,7 = 3,5 [5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính DX?",
+    "answers": ["2,03", "2,04", "1,05", "2,06"],
+    "correct": 2,
+    "explanation": "DX = n.p.q = 5 * 0,7 * 0,3 = 1,05 [5]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 11 bệnh nhân. Tính EX?",
+    "answers": ["5,5", "4,5", "4,6", "4,9"],
+    "correct": 0,
+    "explanation": "EX = n.p = 11 * 0,5 = 5,5 [5, 6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 11 bệnh nhân. Tính DX?",
+    "answers": ["2,75", "2,3", "2,4", "3,5"],
+    "correct": 0,
+    "explanation": "DX = n.p.q = 11 * 0,5 * 0,5 = 2,75 [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 11 bệnh nhân. Tính ɤX?",
+    "answers": ["1,7", "1,32", "1,45", "1,51"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn ɤX = sqrt(2,75) ≈ 1,66 (làm tròn thành 1,7 trong đáp án nguồn) [6]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính EX?",
+    "answers": ["2,0", "4,5", "4,6", "4,9"],
+    "correct": 0,
+    "explanation": "Kỳ vọng của phân phối nhị thức được tính bằng công thức EX = n * p. Với n = 4 và p = 0,5, ta có EX = 4 * 0,5 = 2,0 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,4, bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính EX?",
+    "answers": ["2,0", "4,5", "4,6", "4,9"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức EX = n * p với n = 5 và p = 0,4, ta có EX = 5 * 0,4 = 2,0 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 10 bệnh nhân. Tính EX?",
+    "answers": ["5,0", "4,5", "4,6", "4,9"],
+    "correct": 0,
+    "explanation": "Với n = 10 và p = 0,5, kỳ vọng EX = 10 * 0,5 = 5,0 [4]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,5, bác sĩ đó khám liên tục cho 10 bệnh nhân. Tính DX?",
+    "answers": ["2,5", "3,3", "3,4", "3,5"],
+    "correct": 0,
+    "explanation": "Phương sai của phân phối nhị thức được tính bằng DX = n * p * q. Với n = 10, p = 0,5 và q = 0,5, ta có DX = 10 * 0,5 * 0,5 = 2,5 [4]."
+  },
+  {
+    "question": "Xác suất mắc bệnh sau khi dung thuốc A bằng 0,1. Dùng Thuốc A cho 100 trẻ. Tính xác suất sao cho có 5 trẻ bị bệnh?",
+    "answers": ["0,08", "0,034", "0,10", "0,11"],
+    "correct": 1,
+    "explanation": "Đây là bài toán phân phối nhị thức B(100; 0,1). Xác suất P(X=5) được tính theo công thức Bernoulli và cho kết quả xấp xỉ 0,034 [4]."
+  },
+  {
+    "question": "Xác suất mắc bệnh sau khi dung thuốc A bằng 0,1. Dùng Thuốc A cho 100 trẻ. Tính xác suất sao cho có 4 trẻ bị bệnh?",
+    "answers": ["0,08", "0,016", "0,10", "0,11"],
+    "correct": 1,
+    "explanation": "Tương tự câu trên, với n = 100 và p = 0,1, xác suất có đúng 4 trẻ bị bệnh P(X=4) xấp xỉ 0,016 [5]."
+  },
+  {
+    "question": "Xác suất khỏi bệnh sau khi dung thuốc A bằng 0,9. Dùng Thuốc A cho 100 trẻ. Tính xác suất sao cho có 5 trẻ bị bệnh?",
+    "answers": ["0,08", "0,034", "0,10", "0,11"],
+    "correct": 1,
+    "explanation": "Xác suất khỏi bệnh là 0,9 đồng nghĩa xác suất mắc bệnh là 0,1. Do đó, bài toán này tương đương với câu 65 và kết quả là 0,034 [5]."
+  },
+  {
+    "question": "Xác suất khỏi bệnh sau khi dung thuốc A bằng 0,9. Dùng Thuốc A cho 100 trẻ. Tính xác suất sao cho có 4 trẻ bị bệnh?",
+    "answers": ["0,08", "0,016", "0,10", "0,11"],
+    "correct": 1,
+    "explanation": "Với xác suất mắc bệnh là 0,1, xác suất để có 4 trẻ mắc bệnh trong 100 trẻ là 0,016, tương tự như câu 66 [5]."
+  },
+  {
+    "question": "Xét nghiệm máu cho 100 người, trong đó có 0,48 người có nhóm máu A. Mỗi lần xét nghiệm cho 10 người, tính xác suất sao cho có 5 người có nhóm máu A.",
+    "answers": ["0,255", "0,256", "0,26", "0,258"],
+    "correct": 2,
+    "explanation": "Dựa trên dữ liệu nguồn, với xác suất nhóm máu A (p) là 0,48 và mẫu xét nghiệm n = 10, xác suất P(X=5) được làm tròn thành 0,26 [5]."
+  },
+  {
+    "question": "Số lỗi trên một mét vuông vải có thể coi như là một biến ngẫu nhiên phân phối theo quy luật Poisson. Kiểm tra một lô vải người ta thấy 0,98 có lỗi, vậy trung bình mỗi mét vuông có bao nhiêu lỗi?",
+    "answers": ["4", "3", "3,9", "5"],
+    "correct": 2,
+    "explanation": "Theo quy luật Poisson, nếu tỷ lệ có lỗi là 0,98 (tương ứng 98%), giá trị trung bình λ được tính toán dựa trên xác suất biến cố đối lập và cho kết quả xấp xỉ 3,9 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,8 bác sĩ đó khám liên tục cho 3 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,008", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Biến ngẫu nhiên X tuân theo quy luật nhị thức B(3; 0,8). Xác suất để không có bệnh nhân nào được chẩn đoán đúng là P(X=0) = (1-0,8)^3 = 0,2^3 = 0,008 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,8 bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,0016", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Xác suất để không có bệnh nhân nào được chẩn đoán đúng trong 4 người là P(X=0) = 0,2^4 = 0,0016 [3]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,8 bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,00032", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Xác suất để không có bệnh nhân nào được chẩn đoán đúng trong 5 người là P(X=0) = 0,2^5 = 0,00032 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7 bác sĩ đó khám liên tục cho 2 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,09", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Với xác suất chẩn đoán đúng p=0,7, xác suất chẩn đoán sai q=0,3. P(X=0) = 0,3^2 = 0,09 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7 bác sĩ đó khám liên tục cho 3 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,027", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=0) = 0,3^3 = 0,027 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7 bác sĩ đó khám liên tục cho 4 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,0081", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=0) = 0,3^4 = 0,0081 [2]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,7 bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính P(X=0)?",
+    "answers": ["0,00243", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "P(X=0) = 0,3^5 = 0,00243 [1]."
+  },
+  {
+    "question": "Biến ngẫu nhiên X có hàm mật độ xác suất là: f(x) = 0 (x<0); f(x) = ax^3 (0≤x≤1) và f(x) = 0 (1<x). Tìm a?",
+    "answers": ["2", "3", "4", "1"],
+    "correct": 2,
+    "explanation": "Dựa trên quy tắc hàm mật độ trên khoảng [4], hằng số a bằng số mũ cộng 1 (3+1=4) để tích phân bằng 1 [1]."
+  },
+  {
+    "question": "Một bác sĩ có khả năng chẩn đoán đúng bệnh là 0,9 bác sĩ đó khám liên tục cho 5 bệnh nhân. Tính DX?",
+    "answers": ["0,42", "4,3", "4,4", "4,5"],
+    "correct": 0,
+    "explanation": "Phương sai của phân phối nhị thức DX = n.p.q = 5 * 0,9 * 0,1 = 0,45. Tuy nhiên, theo đáp án được đánh dấu trong nguồn tài liệu là 0,42 [1]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:",
+    "answers": ["45", "46", "47", "48"],
+    "correct": 0,
+    "explanation": "Trong thống kê mô tả, giá trị trung bình mẫu (x̄) được tính bằng tổng các giá trị nhân với tần số tương ứng rồi chia cho tổng kích thước mẫu [1]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) huyết áp của nhóm bệnh nhân từ bảng số liệu đã cho:",
+    "answers": ["119", "120", "121", "122"],
+    "correct": 0,
+    "explanation": "Giá trị trung bình được xác định dựa trên các thông số huyết áp và tần suất xuất hiện của chúng trong mẫu nghiên cứu [1]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) của Glucoza trong máu của nhóm bệnh nhân từ bảng số liệu đã cho:",
+    "answers": ["90,6", "90,7", "90,8", "90,9"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức tính trung bình cộng có trọng số cho nồng độ Glucoza [1], [2]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) nhịp mạch của một nhóm bệnh nhân làm nghề A:",
+    "answers": ["74,3", "74,4", "74,5", "74,6"],
+    "correct": 0,
+    "explanation": "Trung bình nhịp mạch được tính từ dữ liệu thực nghiệm thu được trên nhóm đối tượng làm nghề A [2]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) Cholestrol trong máu trên 25 bệnh nhân:",
+    "answers": ["160,2", "160,3", "160,4", "160,5"],
+    "correct": 0,
+    "explanation": "Sử dụng dữ liệu từ 25 bệnh nhân để tính toán giá trị trung bình đại diện cho mẫu [2]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) điều tra về Urê máu (centigram/lít) gồm 40 người:",
+    "answers": ["27,2", "27,3", "27,4", "27,5"],
+    "correct": 0,
+    "explanation": "Giá trị trung bình Urê máu được tổng hợp từ kết quả của 40 người trong bảng tần số [2]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-34, m: 10-5):",
+    "answers": ["26", "27", "28", "29"],
+    "correct": 0,
+    "explanation": "Tính toán dựa trên các giá trị X và tần số m tương ứng được cung cấp trong bảng [2]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian và số người hoàn thành một sản phẩm (X: 42-64 phút, M: 4-3 người):",
+    "answers": ["51,08", "52,11", "53,21", "54,22"],
+    "correct": 0,
+    "explanation": "Giá trị trung bình thời gian hoàn thành sản phẩm dựa trên năng suất của nhóm công nhân [2], [3]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-27, m: 10-5):",
+    "answers": ["23,5", "24,6", "26,5", "27,4"],
+    "correct": 0,
+    "explanation": "Sử dụng công thức tính trung bình mẫu cho dãy biến số rời rạc [3]."
+  },
+  {
+    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian hoàn thành sản phẩm với bảng tần số mới (M: 4-3 người, n=37):",
+    "answers": ["53,03", "52,11", "53,21", "54,22"],
+    "correct": 0,
+    "explanation": "Tính toán lại giá trị trung bình khi tần số của các nhóm thời gian thay đổi [3]."
+  },
+  {
+    "question": "Tìm Mốt (M0) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:",
+    "answers": ["47", "46", "49", "48"],
+    "correct": 0,
+    "explanation": "Mốt (Mode) là giá trị có tần số xuất hiện lớn nhất trong bảng dữ liệu [3]."
+  },
+  {
+    "question": "Tìm Mốt (M0) huyết áp của nhóm bệnh nhân:",
+    "answers": ["119", "120", "121", "122"],
+    "correct": 1,
+    "explanation": "Giá trị huyết áp xuất hiện với tần suất cao nhất trong nhóm bệnh nhân được chọn làm Mốt [3], [4]."
+  },
+  {
+    "question": "Tìm Mốt (M0) của Glucoza trong máu của nhóm bệnh nhân:",
+    "answers": ["80", "85", "90", "95"],
+    "correct": 3,
+    "explanation": "Xác định nồng độ Glucoza có số lượng bệnh nhân mắc phải nhiều nhất [4]."
+  },
+  {
+    "question": "Tìm Mốt (M0) nhịp mạch của một nhóm bệnh nhân làm nghề A:",
+    "answers": ["76", "75", "78", "80"],
+    "correct": 0,
+    "explanation": "Giá trị nhịp mạch phổ biến nhất trong kết quả điều tra [4]."
+  },
+  {
+    "question": "Tìm Mốt (M0) Cholestrol trong máu trên 25 bệnh nhân:",
+    "answers": ["161", "162", "164", "160"],
+    "correct": 0,
+    "explanation": "Giá trị Cholestrol có tần số thực nghiệm cao nhất trong mẫu 25 người [4]."
+  },
+  {
+    "question": "Tìm Mốt (M0) mẫu điều tra về Urê máu (40 người):",
+    "answers": ["30", "24", "32", "35"],
+    "correct": 0,
+    "explanation": "Giá trị Urê máu xuất hiện nhiều nhất trong bảng phân phối tần số [4]."
+  },
+  {
+    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-34):",
+    "answers": ["25", "27", "28", "29"],
+    "correct": 0,
+    "explanation": "Dóng hàng từ tần số lớn nhất (m=30) lên giá trị X tương ứng là 25 [4], [5]."
+  },
+  {
+    "question": "Tìm Mốt (M0) theo dõi thời gian hoàn thành sản phẩm (X: 42-64 phút):",
+    "answers": ["50", "58", "60", "64"],
+    "correct": 0,
+    "explanation": "Thời gian 50 phút có số người hoàn thành đông nhất (M=20) nên là Mốt của mẫu [5]."
+  },
+  {
+    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-27, m: 10-5):",
+    "answers": ["23", "24", "26", "27"],
+    "correct": 0,
+    "explanation": "Giá trị X=23 có tần số m=30 (lớn nhất) nên là Mốt [5]."
+  },
+  {
+    "question": "Tìm Mốt (M0) theo dõi thời gian hoàn thành sản phẩm từ bảng tần số ở câu 10:",
+    "answers": ["50", "58", "60", "64"],
+    "correct": 0,
+    "explanation": "Xác định giá trị thời gian có tần số xuất hiện cao nhất trong bảng số liệu công nhân [5]."
+  },
+  {
+    "question": "Tìm Me của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "answers": ["45", "46", "47", "48"],
+    "correct": 0,
+    "explanation": "Trung vị (Me) là giá trị nằm ở vị trí chính giữa của dãy số sau khi đã được sắp xếp [1]."
+  },
+  {
+    "question": "Tìm Me huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["119", "120", "121", "122"],
+    "correct": 1,
+    "explanation": "Trong bảng số liệu này, giá trị huyết áp chia đôi tập dữ liệu mẫu là 120 [2]."
+  },
+  {
+    "question": "Tìm Me của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["80", "85", "90", "95"],
+    "correct": 2,
+    "explanation": "Trung vị nồng độ Glucoza trong máu của mẫu bệnh nhân này là 90 [2]."
+  },
+  {
+    "question": "Tìm Me nhịp mạch của một nhóm bệnh nhân làm nghề A ta có kết quả sau:",
+    "answers": ["75", "76", "78", "80"],
+    "correct": 0,
+    "explanation": "Dựa trên dãy số liệu về nhịp mạch, giá trị trung vị được xác định là 75 [2]."
+  },
+  {
+    "question": "Tìm Me Cholestrol trong máu trên 25 bệnh nhân có kết quả sau:",
+    "answers": ["160", "162", "164", "161"],
+    "correct": 0,
+    "explanation": "Với mẫu 25 bệnh nhân, giá trị Cholestrol ở vị trí thứ 13 sau khi sắp xếp là 160 [2]."
+  },
+  {
+    "question": "Tìm Me mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:",
+    "answers": ["32", "30", "35", "21"],
+    "correct": 1,
+    "explanation": "Trong mẫu 40 người, trung vị của nồng độ Urê máu nằm ở giá trị 30 [3]."
+  },
+  {
+    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "answers": ["25", "27", "28", "29"],
+    "correct": 0,
+    "explanation": "Dựa trên tần số tích lũy, trung vị của mẫu thực nghiệm này rơi vào giá trị 25 [3]."
+  },
+  {
+    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân (X: 42 | 44 | 50 | 58 | 60 | 64):",
+    "answers": ["58", "50", "60", "64"],
+    "correct": 0,
+    "explanation": "Thời gian trung vị để hoàn thành sản phẩm trong nhóm công nhân này là 58 phút [3]."
+  },
+  {
+    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 22 | 23 | 24 | 25 | 26 | 27):",
+    "answers": ["23", "24", "26", "27"],
+    "correct": 0,
+    "explanation": "Giá trị trung vị tương ứng với phân bố tần số này là 23 [3]."
+  },
+  {
+    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân từ bảng tần số ở câu 10:",
+    "answers": ["50", "58", "60", "64"],
+    "correct": 0,
+    "explanation": "Sau khi tính toán tần số tích lũy trên mẫu 37 người, trung vị là 50 [3]."
+  },
+  {
+    "question": "Tính s_n của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "answers": ["2,5", "2,6", "2,7", "2,8"],
+    "correct": 1,
+    "explanation": "Độ lệch chuẩn (s) của cân nặng nhóm học sinh này được tính toán là 2,6 [4]."
+  },
+  {
+    "question": "Tính s của huyết áp nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["12,7", "12,8", "12,9", "13,0"],
+    "correct": 2,
+    "explanation": "Độ lệch chuẩn về huyết áp của mẫu bệnh nhân là 12,9 [4]."
+  },
+  {
+    "question": "Tính s của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["11,0", "11,1", "11,2", "11,3"],
+    "correct": 1,
+    "explanation": "Mức độ phân tán (độ lệch chuẩn) nồng độ Glucoza là 11,1 [4]."
+  },
+  {
+    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:",
+    "answers": ["16,9", "14,9", "14,5", "14,6"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn thời gian hoàn thành sản phẩm của nhóm công nhân là 16,9 [4]."
+  },
+  {
+    "question": "Tính s của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:",
+    "answers": ["5,6", "5,5", "5,7", "5,8"],
+    "correct": 1,
+    "explanation": "Độ lệch chuẩn nồng độ Urê máu của mẫu 40 người là 5,5 [4]."
+  },
+  {
+    "question": "Tính s của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "answers": ["10,9", "11,2", "12,3", "13,4"],
+    "correct": 0,
+    "explanation": "Kết quả tính toán độ lệch chuẩn của mẫu thực nghiệm này là 10,9 [5]."
+  },
+  {
+    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm từ bảng tần số ở câu 10:",
+    "answers": ["14,8", "14,9", "14,5", "14,6"],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn thời gian sản xuất dựa trên bảng tần số mới là 14,8 [5]."
+  },
+  {
+    "question": "Tính s2 của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "answers": ["7,8", "6,8", "8,8", "9,8"],
+    "correct": 1,
+    "explanation": "Phương sai (s2) bằng bình phương của độ lệch chuẩn: 2,6² ≈ 6,8 [5, 6]."
+  },
+  {
+    "question": "Tính s2 huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["12,7", "12,8", "166,41", "13,0"],
+    "correct": 2,
+    "explanation": "Phương sai huyết áp là 12,9² = 166,41 [5]."
+  },
+  {
+    "question": "Tính s2 của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "answers": ["11,0", "123,21", "11,2", "11,3"],
+    "correct": 1,
+    "explanation": "Phương sai nồng độ Glucoza là 11,1² = 123,21 [5]."
+  },
+  {
+    "question": "Tính Cv của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng ở các câu trước:",
+    "answers": ["0,05", "0,06", "0,07", "0,08"],
+    "correct": 1,
+    "explanation": "Hệ số biến thiên (Cv) được tính bằng tỷ số giữa độ lệch chuẩn (s) và trung bình mẫu (x̄). Với s ≈ 2,6 và x̄ = 45, Cv ≈ 0,06 [5], [1]."
+  },
+  {
+    "question": "Tính Cv huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:",
+    "answers": ["0,14", "0,13", "0,11", "0,12"],
+    "correct": 2,
+    "explanation": "Cv = s / x̄. Với s = 12,9 và x̄ = 119, kết quả tính toán xấp xỉ 0,11 [1]."
+  },
+  {
+    "question": "Tính Cv của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:",
+    "answers": ["0,11", "0,12", "0,13", "0,14"],
+    "correct": 1,
+    "explanation": "Sử dụng độ lệch chuẩn s = 11,1 và trung bình x̄ = 90,6 để tính hệ số biến thiên, kết quả là 0,12 [1]."
+  },
+  {
+    "question": "Tính Cv của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng ở các câu trước:",
+    "answers": ["0,19", "0,20", "0,21", "0,22"],
+    "correct": 1,
+    "explanation": "Dựa trên các chỉ số mô tả đã tính (s=5,5; x̄=27,2), hệ số biến thiên của mẫu là 0,20 [1]."
+  },
+  {
+    "question": "Tính Cv của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "answers": ["0,42", "0,43", "0,44", "0,45"],
+    "correct": 0,
+    "explanation": "Kết quả tính toán hệ số biến thiên cho mẫu thực nghiệm này là 0,42 [1]."
+  },
+   {
+    "question": "Điều tra Cholestrol trong máu trên 25 bệnh nhân, biết Cholestrol có phân phối chuẩn; hãy ước lượng Cholestrol của nhóm bệnh nhân trên với độ tin cậy 99%?",
+    "answers": ["(158,8; 161,2)", "(158,7; 161,3)", "(158,6; 161,4)", "(158,5; 161,5)"],
+    "correct": 0,
+    "explanation": "Dựa trên dữ liệu mẫu n=25 và độ tin cậy 99%, khoảng tin cậy được xác định là (158,8; 161,2) [1]."
+  },
+  {
+    "question": "Đo chiều cao của 1000 thanh niên Việt Nam (20 tuổi) có trung bình là 160,7cm, độ lệch chuẩn 10,8. Ước lượng chiều cao trung bình với độ tin cậy 95% (chiều cao phân phối chuẩn)?",
+    "answers": ["(160,02; 161,2)", "(160,03; 161,3)", "(160,04; 161,4)", "(160,05; 161,5)"],
+    "correct": 2,
+    "explanation": "Với n=1000, x̄=160,7 và s=10,8, khoảng tin cậy 95% cho trung bình là (160,04; 161,4) [1]."
+  },
+  {
+    "question": "Điều tra nhịp mạch nhóm bệnh nhân nghề A, hãy ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?",
+    "answers": ["(72,6; 75,4)", "(72,5; 75,3)", "(72,4; 75,2)", "(72,9; 75,1)"],
+    "correct": 3,
+    "explanation": "Khoảng tin cậy 95% cho nhịp mạch trung bình của nhóm đối tượng này là (72,9; 75,1) [2]."
+  },
+  {
+    "question": "Kiểm tra ngẫu nhiên 300 người thấy 6 người mắc bệnh A. Tính khoảng tin cậy 95% tỷ lệ p những người mắc bệnh A trong dân số?",
+    "answers": ["(0,001; 0,02)", "(0,001; 0,03)", "(0,002; 0,04)", "(0,002; 0,05)"],
+    "correct": 2,
+    "explanation": "Tỷ lệ mẫu f = 6/300 = 0,02. Khoảng tin cậy 95% cho tỷ lệ p là (0,002; 0,04) [2]."
+  },
+  {
+    "question": "Thăm dò 100 cửa hàng, 60 cửa hàng thích kháng sinh A hơn B. Tính khoảng tin cậy 90% cho tỷ lệ cửa hàng ưa thích kháng sinh A?",
+    "answers": ["(0,52; 0,65)", "(0,52; 0,66)", "(0,52; 0,67)", "(0,52; 0,68)"],
+    "correct": 3,
+    "explanation": "Với n=100, f=0,6 và độ tin cậy 90%, khoảng tin cậy cho tỷ lệ là (0,52; 0,68) [3]."
+  },
+  {
+    "question": "Trong 2074 gia đình tri thức có 373 gia đình có máy vi tính. Tính khoảng tin cậy 95% cho tỷ lệ gia đình tri thức có máy vi tính?",
+    "answers": ["(0,16; 0,2)", "(0,15; 0,2)", "(0,14; 0,2)", "(0,13; 0,2)"],
+    "correct": 0,
+    "explanation": "Tỷ lệ mẫu f = 373/2074 ≈ 0,18. Khoảng tin cậy 95% là (0,16; 0,2) [3]."
+  },
+  {
+    "question": "Tìm khoảng tin cậy 95% cho tỷ lệ gia đình có tủ thuốc với độ chính xác 0,04, biết mẫu điều tra có 72% gia đình có tủ thuốc. Tính kích thước mẫu?",
+    "answers": ["n = 482", "n = 483", "n = 484", "n = 485"],
+    "correct": 3,
+    "explanation": "Dựa trên công thức tính n khi biết p=0,72, độ chính xác d=0,04 và độ tin cậy 95%, n = 485 [4]."
+  },
+  {
+    "question": "Phải hỏi bao nhiêu người thì ra lệnh cấm thuốc? Biết P(C)=0,5; α=0,05 sao cho β(0,6)≤0,2 (C là ký hiệu cấm dùng).",
+    "answers": ["n=153", "n=154", "n=155", "n=157"],
+    "correct": 0,
+    "explanation": "Kích thước mẫu n cần thiết để đảm bảo các sai lầm loại I và loại II trong lệnh cấm là 153 [4]."
+  },
+  {
+    "question": "Tỷ lệ hiện tượng A là 76%. Với độ tin cậy 95% và sai số 2%, hãy ước lượng kích thước mẫu tối thiểu cần điều tra?",
+    "answers": ["1752", "1753", "1754", "1755"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức tính cỡ mẫu cho tỷ lệ với p=0,76 và sai số d=0,02, kết quả là 1752 [4]."
+  },
+  {
+    "question": "Nghiên cứu cho rằng 12% dân cư mắc bệnh mắt hột. Cần điều tra bao nhiêu người để với độ tin cậy 95%, tỷ lệ bệnh nằm trong khoảng 10,8% đến 12,2%?",
+    "answers": ["195638", "195639", "195640", "195641"],
+    "correct": 0,
+    "explanation": "Để đạt được độ chính xác rất cao cho tỷ lệ dân cư mắc bệnh, kích thước mẫu cần lên tới 195638 [5]."
+  },
+  {
+    "question": "Ước lượng nhu cầu thuốc A của 4000 bệnh nhân. Để độ chính xác đạt 100 hộp với độ tin cậy 99% thì cần khảo sát bao nhiêu bệnh nhân?",
+    "answers": ["22393", "22394", "22395", "22396"],
+    "correct": 0,
+    "explanation": "Kích thước mẫu cần khảo sát để đạt độ chính xác d=100 và độ tin cậy 99% là 22393 [6]."
+  },
+  {
+    "question": "Điều tra Cholestrol trong máu trên 25 sinh viên, biết Cholestrol phân phối chuẩn; ước lượng Cholestrol của nhóm sinh viên với độ tin cậy 99%?",
+    "answers": ["(158,8; 161,2)", "(158,7; 161,3)", "(158,6; 161,4)", "(158,5; 161,5)"],
+    "correct": 0,
+    "explanation": "Khoảng ước lượng tương tự câu 1 nhưng áp dụng cho đối tượng sinh viên là (158,8; 161,2) [6]."
+  },
+  {
+    "question": "Đo chiều cao 1000 sinh viên Việt Nam có trung bình 160,7cm, độ lệch chuẩn 10,8. Ước lượng chiều cao trung bình sinh viên với độ tin cậy 95%?",
+    "answers": ["(160,02; 161,2)", "(160,03; 161,3)", "(160,04; 161,4)", "(160,05; 161,5)"],
+    "correct": 2,
+    "explanation": "Khoảng tin cậy 95% cho chiều cao trung bình của sinh viên là (160,04; 161,4) [7]."
+  },
+  {
+    "question": "Điều tra nhịp mạch một nhóm sinh viên, ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?",
+    "answers": ["(72,6; 75,4)", "(72,5; 75,3)", "(72,4; 75,2)", "(72,9; 75,1)"],
+    "correct": 3,
+    "explanation": "Khoảng tin cậy 95% được xác định là (72,9; 75,1) [7]."
+  },
+  {
+    "question": "Kiểm tra ngẫu nhiên 300 sinh viên thấy 6 sinh viên bệnh A. Tính khoảng tin cậy 95% tỷ lệ p sinh viên mắc bệnh A?",
+    "answers": ["(0,001; 0,02)", "(0,001; 0,03)", "(0,002; 0,04)", "(0,002; 0,05)"],
+    "correct": 2,
+    "explanation": "Tỷ lệ mắc bệnh trong mẫu sinh viên dẫn đến khoảng tin cậy (0,002; 0,04) [8]."
+  },
+  {
+    "question": "Trong 100 cửa hàng bán thuốc tây, 60 cửa hàng thích kháng sinh A hơn B. Tính khoảng tin cậy 90% cho tỷ lệ cửa hàng ưa thích kháng sinh A?",
+    "answers": ["(0,52; 0,65)", "(0,52; 0,66)", "(0,52; 0,67)", "(0,52; 0,68)"],
+    "correct": 3,
+    "explanation": "Khoảng tin cậy 90% cho tỷ lệ này là (0,52; 0,68) [8]."
+  },
+  {
+    "question": "Điều tra 2074 sinh viên có 373 sinh viên có máy vi tính. Tính khoảng tin cậy 95% cho tỷ lệ những sinh viên có máy vi tính?",
+    "answers": ["(0,16; 0,2)", "(0,15; 0,2)", "(0,14; 0,2)", "(0,13; 0,2)"],
+    "correct": 0,
+    "explanation": "Dựa trên tỷ lệ mẫu sinh viên, khoảng tin cậy 95% là (0,16; 0,2) [8]."
+  },
+  {
+    "question": "Tập mẫu n=100, x̄=0,1; SX=0,014. Hãy ước lượng giá trị trung bình tổng thể với độ tin cậy 95%?",
+    "answers": ["(0,97; 0,10)", "(0,15; 0,2)", "(0,14; 0,2)", "(0,13; 0,2)"],
+    "correct": 0,
+    "explanation": "Dựa trên trung bình mẫu và độ lệch chuẩn mẫu, khoảng tin cậy 95% là (0,97; 0,10) [9]."
+  },
+  {
+    "question": "36 công nhân có lương trung bình 380 ngàn. Lương tuân theo luật chuẩn với σ=14 ngàn. Với độ tin cậy 95%, ước lượng mức lương trung bình toàn xí nghiệp?",
+    "answers": ["(375,4; 4267,4)", "(145,15; 245,2)", "(345,14; 366,2)", "(125,13; 678,2)"],
+    "correct": 0,
+    "explanation": "Khoảng tin cậy 95% cho mức lương trung bình là (375,4; 4267,4) (Lưu ý: Dữ liệu nguồn có số liệu gây tranh cãi ở cận trên nhưng đây là đáp án được chọn) [9]."
+  },
+  {
+    "question": "Điểm trung bình toán của 100 thí sinh là 5, độ lệch chuẩn mẫu hiệu chỉnh là 2,5. Ước lượng điểm trung bình toàn thể thí sinh với độ tin cậy 95%?",
+    "answers": ["(4,5; 5,5)", "(0,15; 0,2)", "(0,14; 0,2)", "(0,13; 0,2)"],
+    "correct": 0,
+    "explanation": "Với n=100, x̄=5 và s=2,5, khoảng tin cậy 95% cho điểm trung bình là (4,5; 5,5) [10]."
+  },
+   {
+    "question": "Điểm trung bình môn toán của 100 thí sinh dự thi vào ĐHKT là 5 với độ lệch chuẩn mẫu đã điều chỉnh S = 2,5. Với sai số 0,25 điểm. Hãy xác định độ tin cậy?",
+    "answers": ["0,68", "0,78", "0,79", "0,80"],
+    "correct": 0,
+    "explanation": "Từ sai số ε = 0,25 và s = 2,5, n = 100, ta tính được giá trị z tương ứng với độ tin cậy là 0,68 [1]."
+  },
+  {
+    "question": "Tuổi thọ của một loại bóng đèn được biết theo quy luật chuẩn với độ lệch chuẩn 100 giờ. Chọn ngẫu nhiên 100 bóng đèn để thử nghiệm, thấy mỗi bóng tuổi thọ trung bình là 1000 giờ. Hãy ước lượng tuổi thọ trung bình của bóng đèn xí nghiệp A sản xuất với độ tin cậy là 95%.",
+    "answers": ["(980,4; 1019,6)", "(145,15; 245,2)", "(345,14; 366,2)", "(125,13; 678,2)"],
+    "correct": 0,
+    "explanation": "Với n=100, x̄=1000, σ=100 và độ tin cậy 95%, khoảng tin cậy là 1000 ± 1,96*(100/√100) = (980,4; 1019,6) [1, 2]."
+  },
+  {
+    "question": "Tuổi thọ của một loại bóng đèn được biết theo quy luật chuẩn với độ lệch chuẩn 100 giờ. Với độ chính xác là 15 giờ. Hãy xác định độ tin cậy.",
+    "answers": ["0,87", "0,78", "0,79", "0,80"],
+    "correct": 0,
+    "explanation": "Dựa trên sai số ε = 15 và các thông số mẫu, giá trị tới hạn z được xác định tương ứng với độ tin cậy 0,87 [2]."
+  },
+  {
+    "question": "Tuổi thọ của một loại bóng đèn được biết theo quy luật chuẩn với độ lệch chuẩn 100 giờ. Với độ chính xác là 25 giờ và độ tin cậy là 95% thì cần thử nghiệm bao nhiêu bóng.",
+    "answers": ["62", "63", "64", "65"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức tính cỡ mẫu n = (z*σ/ε)^2 = (1,96*100/25)^2 ≈ 62 [2]."
+  },
+  {
+    "question": "Khối lượng các bao bột mì tại một cửa hàng lương thực theo quy luật chuẩn. Kiểm tra 20 bao, thấy khối lượng trung bình của mỗi bao bột mì là 48kg, và phương sai mẫu có điều chỉnh là S2=0,5kg2. Với độ tin cậy 95%, hãy ước lượng khối lượng trung bình của một bao bột mì thuộc cửa hàng?",
+    "answers": ["(47,8; 48,2)", "(46,15; 47,2)", "(49,14; 50,2)", "(45,13; 47,2)"],
+    "correct": 0,
+    "explanation": "Vì mẫu nhỏ (n=20) và chưa biết σ, ta sử dụng phân phối Student để tìm khoảng tin cậy (47,8; 48,2) [2, 3]."
+  },
+  {
+    "question": "Khối lượng các bao bột mì tại một cửa hàng lương thực theo quy luật chuẩn. Kiểm tra 20 bao, thấy khối lượng trung bình của mỗi bao bột mì là 48kg, và phương sai mẫu có điều chỉnh là S2=0,5kg2. Với độ chính xác là 0,26kg. Hãy xác định độ tin cậy?",
+    "answers": ["0,97", "0,78", "0,79", "0,80"],
+    "correct": 0,
+    "explanation": "Dựa trên sai số ε = 0,26 và các thông số mẫu nhỏ, giá trị tới hạn t tương ứng với độ tin cậy 0,97 [3]."
+  },
+  {
+    "question": "Khối lượng các bao bột mì tại một cửa hàng lương thực theo quy luật chuẩn. Kiểm tra 20 bao, thấy khối lượng trung bình của mỗi bao bột mì là 48kg, và phương sai mẫu có điều chỉnh là S2=0,5kg2. Với độ chính xác là 160g và độ tin cậy là 95%, tính cỡ mẫu.",
+    "answers": ["43", "63", "64", "65"],
+    "correct": 0,
+    "explanation": "Chuyển đổi 160g = 0,16kg, áp dụng công thức tính cỡ mẫu cho phân phối chuẩn thu được n=43 [3, 4]."
+  },
+  {
+    "question": "Người ta muốn tìm khoảng tin cậy 95% cho tỷ lệ những SV có máy vi tính với độ chính xác 0,04. Một mẫu điều tra cho thấy có 72% SV có máy vi tính. Tính kích thước mẫu?",
+    "answers": ["n = 482", "n = 483", "n = 484", "n = 485"],
+    "correct": 3,
+    "explanation": "Sử dụng công thức n = z^2 * f * (1-f) / ε^2 với f=0,72 và ε=0,04, kết quả là 485 [4]."
+  },
+  {
+    "question": "Khi sử dụng một loại thuốc A, do tai biến, có ý kiến cho nên cấm. Phải hỏi bao nhiêu người thì ra lệnh cấm? Biết P(C) = 0,5; α = 0,05 sao cho β(0,6) ≤ 0,2.",
+    "answers": ["n=153", "n=154", "n=155", "n=157"],
+    "correct": 0,
+    "explanation": "Kích thước mẫu cần thiết để khống chế sai lầm loại I và loại II theo các thông số đã cho là 153 [4]."
+  },
+  {
+    "question": "Một điều tra hiện tượng B cho thấy tỷ lệ xảy ra hiện tượng B là 76%. Với độ tin cậy 95% và sai số 2% hãy ước lượng kích thước mẫu tối thiểu cần điều tra.",
+    "answers": ["1752", "1753", "1754", "1755"],
+    "correct": 0,
+    "explanation": "Áp dụng công thức n = z^2 * p * (1-p) / ε^2 = 1,96^2 * 0,76 * 0,24 / 0,02^2 ≈ 1752 [5]."
+  },
+  {
+    "question": "Để ước lượng tỷ lệ sản phẩm xấu của một kho đồ hộp, người ta kiểm tra ngẫu nhiên 100 hộp thấy có 11 hộp xấu. Ước lượng tỷ lệ sản phẩm xấu với độ tin cậy 94%.",
+    "answers": ["(0,05; 0,17)", "(46,15; 47,2)", "(49,14; 50,2)", "(45,13; 47,2)"],
+    "correct": 0,
+    "explanation": "Với n=100, f=0,11 và độ tin cậy 94%, khoảng tin cậy cho tỷ lệ p là (0,05; 0,17) [5]."
+  },
+  {
+    "question": "Để ước lượng tỷ lệ sản phẩm xấu của một kho đồ hộp, người ta kiểm tra ngẫu nhiên 100 hộp thấy có 11 hộp xấu. Với sai số cho phép 3%, hãy xác định độ tin cậy?",
+    "answers": ["0,66", "0,78", "0,79", "0,80"],
+    "correct": 0,
+    "explanation": "Từ ε = 0,03 và f = 0,11, ta tìm được giá trị z tương ứng với độ tin cậy 0,66 [5, 6]."
+  },
+  {
+    "question": "Muốn ước lượng tỷ lệ bệnh sốt xuất huyết ở Tp. Hà Tĩnh với sai số không quá 3% ở độ tin cậy 95% thì phải quan sát ít nhất bao nhiêu người?",
+    "answers": ["1068", "1753", "1754", "1755"],
+    "correct": 0,
+    "explanation": "Trong trường hợp chưa biết tỷ lệ f, ta lấy f=0,5 để có cỡ mẫu tối đa n = 1,96^2 * 0,25 / 0,03^2 ≈ 1068 [6]."
+  },
+  {
+    "question": "Giả sử quan sát 100 người thấy có 20 người bị bệnh sốt xuất huyết. Hãy ước lượng tỷ lệ bệnh sốt xuất huyết ở Tp. Hà Tĩnh ở độ tin cậy 97%.?",
+    "answers": ["(0,11; 0,29)", "(0,12; 0,29)", "(0,13; 0,39)", "(0,14; 0,49)"],
+    "correct": 0,
+    "explanation": "Với n=100, f=0,2 và độ tin cậy 97%, khoảng ước lượng cho tỷ lệ là (0,11; 0,29) [6]."
+  },
+  {
+    "question": "Giả sử quan sát 100 người thấy có 20 người bị bệnh sốt xuất huyết. Nếu muốn sai số không quá 3% ở độ tin cậy 95% thì phải quan sát ít nhất bao nhiêu người?",
+    "answers": ["683", "753", "754", "655"],
+    "correct": 0,
+    "explanation": "Sử dụng f=0,2 từ mẫu trước, n = 1,96^2 * 0,2 * 0,8 / 0,03^2 ≈ 683 [6, 7]."
+  },
+  {
+    "question": "Để ước lượng xác suất mắc bệnh gan với độ tin cậy 90% và sai số không vượt quá 2% thì cần phải khám ít nhất bao nhiêu người, biết tỷ lệ thực nghiệm là 0,9?",
+    "answers": ["606", "703", "750", "605"],
+    "correct": 0,
+    "explanation": "Với f=0,9, độ tin cậy 90% (z=1,645) và ε=0,02, cỡ mẫu n = 1,645^2 * 0,9 * 0,1 / 0,02^2 ≈ 606 [7]."
+  },
+  {
+    "question": "Phỏng vấn 2000 cử tri thấy 1380 người ủng hộ ứng cử viên K. Với độ tin cậy 95%, ứng cử viên đó thu được tối thiểu bao nhiêu phần trăm phiếu bầu?",
+    "answers": ["0,67", "0,78", "0,79", "0,80"],
+    "correct": 0,
+    "explanation": "Sử dụng ước lượng khoảng một phía dưới cho tỷ lệ: p > f - z*sqrt(f(1-f)/n) ≈ 0,67 [7]."
+  },
+  {
+    "question": "Gieo thử 400 hạt giống thấy có 20 hạt không nảy mầm. Tỷ lệ hạt giống không nảy mầm tối đa là bao nhiêu, với độ tin cậy 95%?",
+    "answers": ["0,07", "0,08", "0,09", "0,10"],
+    "correct": 0,
+    "explanation": "Sử dụng ước lượng khoảng một phía trên cho tỷ lệ: p < f + z*sqrt(f(1-f)/n) ≈ 0,07 [7, 8]."
+  },
+  {
+    "question": "Bắt 2000 con cá đánh dấu rồi thả lại hồ. Sau đó bắt 500 con thấy 20 con có dấu. Ước lượng số cá trong hồ với độ tin cậy 95%?",
+    "answers": ["(34978; 87642)", "(3578; 6457)", "(4413; 5439)", "(3714; 6549)"],
+    "correct": 0,
+    "explanation": "Ước lượng tổng thể N dựa trên tỷ lệ mẫu f=20/500, khoảng tin cậy cho N là (34978; 87642) [8]."
+  },
+  {
+    "question": "Chủ vườn bắt 89 con chim đeo khoen rồi thả. Sau đó bắt 120 con thấy 7 con có khoen. Dự đoán số chim với độ tin cậy 99%?",
+    "answers": ["(785; 28525)", "(3578; 6457)", "(4413; 5439)", "(3714; 6549)"],
+    "correct": 0,
+    "explanation": "Áp dụng phương pháp ước lượng tổng thể vật nuôi, khoảng tin cậy 99% cho số chim là (785; 28525) [8, 9]."
+  },
+  {
+    "question": "Kiểm tra 50 sọt (100 trái/sọt) thấy 450 trái không đạt. Ước lượng tỷ lệ trái không đạt của lô hàng với độ tin cậy 95%?",
+    "answers": ["(0,082; 0,098)", "(0,12; 0,29)", "(0,13; 0,39)", "(0,14; 0,49)"],
+    "correct": 0,
+    "explanation": "Tổng số trái n=5000, số trái hỏng là 450, f=0,09. Khoảng tin cậy 95% là (0,082; 0,098) [9]."
+  },
+  {
+    "question": "Từ dữ liệu câu 41, muốn ước lượng tỷ lệ với độ chính xác 0,5%, độ tin cậy đạt được là bao nhiêu?",
+    "answers": ["0,79", "0,78", "0,77", "0,80"],
+    "correct": 0,
+    "explanation": "Dựa trên ε=0,005 và f=0,09, giá trị z tính được tương ứng với độ tin cậy 0,79 [9, 10]."
+  },
+  {
+    "question": "Từ dữ liệu câu 41, muốn độ tin cậy 99% và độ chính xác 1% thì cần kiểm tra bao nhiêu sọt?",
+    "answers": ["55", "56", "57", "58"],
+    "correct": 0,
+    "explanation": "Tính cỡ mẫu n cho tỷ lệ với ε=0,01 và độ tin cậy 99%, sau đó chia cho 100 trái/sọt thu được kết quả 55 sọt [10]."
+  },
+  {
+    "question": "Từ dữ liệu câu 41, muốn độ tin cậy 99% thì độ chính xác đạt được là bao nhiêu?",
+    "answers": ["0,012", "0,018", "0,017", "0,019"],
+    "correct": 0,
+    "explanation": "Với n=5000, f=0,09 và z=2,575, sai số ε = z*sqrt(f(1-f)/n) ≈ 0,012 [10]."
+  },
+  {
+    "question": "Kiểm tra 300 gói hàng thấy trọng lượng trung bình 1404g, độ lệch tiêu chuẩn 83,4g. Tính độ tin cậy với sai số cho phép 5g?",
+    "answers": ["0,70", "0,78", "0,77", "0,80"],
+    "correct": 0,
+    "explanation": "Từ ε=5, s=83,4 và n=300, ta tính được z ≈ 1,04, tương ứng với độ tin cậy 0,70 [10]."
+  },
+  {
+    "question": "Thống kê y học là?",
+    "answers": [
+      "Môn học nghiên cứu bệnh học",
+      "Phân tích, xử lý số liệu y học",
+      "Toán học thuần túy",
+      "Môn giải phẫu"
+    ],
+    "correct": 1,
+    "explanation": "Theo định nghĩa trong nguồn tài liệu, thống kê y học tập trung vào việc phân tích và xử lý các số liệu trong lĩnh vực y học [1]."
+  },
+  {
+    "question": "Đơn vị quan sát trong nghiên cứu y học thường là?",
+    "answers": [
+      "Một bệnh nhân",
+      "Một phòng khám",
+      "Một bác sĩ",
+      "Một bệnh viện"
+    ],
+    "correct": 0,
+    "explanation": "Trong nghiên cứu y học, đối tượng hay đơn vị quan sát phổ biến nhất là từng bệnh nhân cụ thể [1]."
+  },
+  {
+    "question": "Dữ liệu định tính (qualitative data) là?",
+    "answers": [
+      "Cân nặng, chiều cao",
+      "Giới tính, nhóm máu",
+      "Huyết áp tâm thu",
+      "Nồng độ glucose"
+    ],
+    "correct": 1,
+    "explanation": "Dữ liệu định tính phản ánh các thuộc tính, tính chất như giới tính hoặc các nhóm máu, không phải là các con số đo lường trực tiếp [1]."
+  },
+  {
+    "question": "Dữ liệu định lượng (quantitative data) là:",
+    "answers": [
+      "Tuổi",
+      "Giới tính",
+      "Tình trạng hôn nhân",
+      "Nhóm máu"
+    ],
+    "correct": 0,
+    "explanation": "Tuổi là dữ liệu định lượng vì nó được biểu diễn bằng các con số có thể đo lường và tính toán được [2]."
+  },
+  {
+    "question": "Mục đích của thống kê y học KHÔNG phải là:",
+    "answers": [
+      "Mô tả tình hình sức khỏe",
+      "Phân tích mối liên quan giữa yếu tố và bệnh",
+      "Dự đoán xu hướng sức khỏe cộng đồng",
+      "Khẳng định chắc chắn nguyên nhân bệnh"
+    ],
+    "correct": 3,
+    "explanation": "Thống kê y học cung cấp bằng chứng xác suất chứ không khẳng định chắc chắn 100% nguyên nhân bệnh [2]."
+  },
+  {
+    "question": "Số trung tâm thường dùng nhất là:",
+    "answers": [
+      "Trung bình cộng",
+      "Trung vị",
+      "Mốt",
+      "Hệ số biến thiên"
+    ],
+    "correct": 0,
+    "explanation": "Trung bình cộng là chỉ số đo lường xu hướng trung tâm phổ biến nhất trong thống kê [2]."
+  },
+  {
+    "question": "Trung vị (Median) là:",
+    "answers": [
+      "Giá trị xuất hiện nhiều nhất",
+      "Giá trị nằm giữa dãy số đã sắp xếp",
+      "Giá trị trung bình",
+      "Độ lệch chuẩn"
+    ],
+    "correct": 1,
+    "explanation": "Trung vị là giá trị chia đôi dãy số liệu sau khi đã được sắp xếp theo thứ tự [2]."
+  },
+  {
+    "question": "Mốt (Mode) là:",
+    "answers": [
+      "Số trung bình",
+      "Số xuất hiện nhiều nhất",
+      "Số lớn nhất",
+      "Số nhỏ nhất"
+    ],
+    "correct": 1,
+    "explanation": "Mốt được định nghĩa là giá trị có tần số xuất hiện cao nhất trong tập dữ liệu [3]."
+  },
+  {
+    "question": "Độ lệch chuẩn (Standard Deviation – SD) đo:",
+    "answers": [
+      "Mức độ phân tán quanh giá trị trung bình",
+      "Xu hướng tập trung",
+      "Tỉ lệ mắc bệnh",
+      "Tần số"
+    ],
+    "correct": 0,
+    "explanation": "Độ lệch chuẩn là đại lượng dùng để đo lường mức độ biến thiên hoặc phân tán của dữ liệu so với số trung bình [3]."
+  },
+  {
+    "question": "Phương sai (Variance) là:",
+    "answers": [
+      "Căn bậc hai của độ lệch chuẩn",
+      "Bình phương của độ lệch chuẩn",
+      "Hiệu số giữa giá trị lớn nhất và nhỏ nhất",
+      "Trung bình cộng"
+    ],
+    "correct": 1,
+    "explanation": "Trong toán thống kê, phương sai chính là giá trị bình phương của độ lệch chuẩn [3]."
+  },
+  {
+    "question": "Tỉ lệ hiện mắc (Prevalence) là:",
+    "answers": [
+      "Số ca bệnh mới trong thời gian nhất định",
+      "Tỉ lệ bệnh nhân tử vong",
+      "Số ca bệnh đang tồn tại tại một thời điểm / tổng dân số",
+      "Số ca bệnh khỏi"
+    ],
+    "correct": 2,
+    "explanation": "Tỉ lệ hiện mắc phản ánh tổng số ca bệnh đang có tại một thời điểm xác định trên quy mô dân số [3]."
+  },
+  {
+    "question": "Tỉ lệ mới mắc (Incidence) là:",
+    "answers": [
+      "Tỉ lệ bệnh nhân chết",
+      "Số ca mới xuất hiện trong thời gian nhất định",
+      "Số ca bệnh tồn tại",
+      "Tỉ lệ khỏi bệnh"
+    ],
+    "correct": 1,
+    "explanation": "Tỉ lệ mới mắc đo lường số lượng các trường hợp mắc bệnh mới phát sinh trong một khoảng thời gian cụ thể [4]."
+  },
+  {
+    "question": "Tỉ lệ tử vong (Mortality rate) là:",
+    "answers": [
+      "Số người tử vong / tổng dân số",
+      "Số ca mới mắc",
+      "Số ca hiện mắc",
+      "Số ca hồi phục"
+    ],
+    "correct": 0,
+    "explanation": "Tỉ lệ tử vong được tính bằng cách lấy số người chết chia cho tổng quy mô dân số trong cùng kỳ [4]."
+  },
+  {
+    "question": "Tỉ lệ chết do bệnh (Case Fatality Rate – CFR) là:",
+    "answers": [
+      "Số tử vong / tổng dân số",
+      "Số tử vong do bệnh / tổng số mắc bệnh",
+      "Số ca mới mắc / tổng dân số",
+      "Số ca hồi phục / tổng số ca mắc"
+    ],
+    "correct": 1,
+    "explanation": "CFR đo lường mức độ nghiêm trọng của bệnh bằng cách tính tỷ lệ tử vong trong số những người đã mắc bệnh đó [4]."
+  },
+  {
+    "question": "Tỉ suất sinh (Birth rate) được tính bằng:",
+    "answers": [
+      "Số trẻ sinh sống / 1000 dân số",
+      "Số ca bệnh mới / 1000 dân",
+      "Số tử vong / 1000 dân",
+      "Số ca khỏi bệnh / 1000 dân"
+    ],
+    "correct": 0,
+    "explanation": "Tỉ suất sinh thường được biểu diễn bằng số trẻ em sinh ra còn sống tính trên mỗi 1000 dân [4]."
+  },
+  {
+    "question": "Trục hoành (x) trong biểu đồ tần số thể hiện:",
+    "answers": [
+      "Biến số nghiên cứu",
+      "Tần số",
+      "Độ lệch chuẩn",
+      "Trung vị"
+    ],
+    "correct": 0,
+    "explanation": "Theo quy tắc vẽ biểu đồ, trục hoành dùng để biểu diễn các giá trị của biến số đang được nghiên cứu [5]."
+  },
+  {
+    "question": "Biểu đồ cột thường dùng cho:",
+    "answers": [
+      "Dữ liệu định tính",
+      "Dữ liệu định lượng",
+      "Dữ liệu liên tục",
+      "Dữ liệu phân phối chuẩn"
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ cột là công cụ trực quan hóa phù hợp nhất cho các loại dữ liệu định tính hoặc dữ liệu rời rạc [5]."
+  },
+  {
+    "question": "Biểu đồ hình quạt (Pie chart) dùng để:",
+    "answers": [
+      "Thể hiện cơ cấu thành phần",
+      "Biểu diễn xu hướng theo thời gian",
+      "Phân bố tần số",
+      "Kiểm định giả thuyết"
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ hình quạt giúp so sánh tỷ trọng hoặc cơ cấu của các thành phần trong một tổng thể [5]."
+  },
+  {
+    "question": "Biểu đồ đường (Line chart) thường dùng để:",
+    "answers": [
+      "Thể hiện xu hướng biến đổi theo thời gian",
+      "So sánh các nhóm",
+      "Thể hiện phân bố tần số",
+      "Thể hiện tỷ lệ phần trăm"
+    ],
+    "correct": 0,
+    "explanation": "Biểu đồ đường là lựa chọn ưu tiên khi cần theo dõi sự thay đổi hoặc xu hướng của biến số qua các mốc thời gian [5]."
+  },
+  {
+    "question": "Biểu đồ histogram (cột dính nhau) biểu diễn:",
+    "answers": [
+      "Dữ liệu rời rạc",
+      "Dữ liệu định tính",
+      "Dữ liệu liên tục",
+      "Dữ liệu danh mục"
+    ],
+    "correct": 2,
+    "explanation": "Histogram được sử dụng đặc biệt để biểu diễn sự phân bố tần số của dữ liệu biến số liên tục [6]."
+  },
+  {
+    "question": "Xác suất là:",
+    "answers": [
+      "Sự chắc chắn của một hiện tượng",
+      "Khả năng xảy ra của một hiện tượng",
+      "Trung bình cộng của biến số",
+      "Số ca hiện mắc"
+    ],
+    "correct": 1,
+    "explanation": "Xác suất phản ánh mức độ hay khả năng xảy ra của một hiện tượng ngẫu nhiên [1].",
+    "source_index": 123
+  },
+  {
+    "question": "Trong kiểm định giả thuyết, giả thuyết gốc (H0) là:",
+    "answers": [
+      "Có sự khác biệt",
+      "Không có sự khác biệt",
+      "Có mối liên quan",
+      "Có tác động"
+    ],
+    "correct": 1,
+    "explanation": "Giả thuyết gốc H0 thường được thiết lập với nội dung cho rằng không có sự khác biệt giữa các tham số cần so sánh [1].",
+    "source_index": 123
+  },
+  {
+    "question": "Giá trị p-value < 0.05 nghĩa là:",
+    "answers": [
+      "Kết quả không có ý nghĩa",
+      "Có ý nghĩa thống kê",
+      "Phải bỏ nghiên cứu",
+      "Mẫu quá nhỏ"
+    ],
+    "correct": 1,
+    "explanation": "Khi p-value nhỏ hơn mức ý nghĩa (thường là 0,05), ta bác bỏ H0 và kết luận sự khác biệt có ý nghĩa thống kê [1].",
+    "source_index": 123
+  },
+  {
+    "question": "Sai lầm loại I (α) là:",
+    "answers": [
+      "Bác bỏ H0 khi H0 đúng",
+      "Chấp nhận H0 khi H0 sai",
+      "Kết luận sai do số liệu ít",
+      "Không thu thập đủ dữ liệu"
+    ],
+    "correct": 0,
+    "explanation": "Sai lầm loại I xảy ra khi ta bác bỏ một giả thuyết gốc đang thực sự đúng [2].",
+    "source_index": 124
+  },
+  {
+    "question": "Sai lầm loại II (β) là:",
+    "answers": [
+      "Bác bỏ H0 khi H0 đúng",
+      "Chấp nhận H0 khi H0 sai",
+      "Sai số do chọn mẫu",
+      "Sai số hệ thống"
+    ],
+    "correct": 1,
+    "explanation": "Sai lầm loại II xảy ra khi ta chấp nhận (không bác bỏ) một giả thuyết gốc đang thực sự sai [2].",
+    "source_index": 124
+  },
+  {
+    "question": "Khi nghiên cứu hiệu quả thuốc, nhóm đối chứng dùng:",
+    "answers": [
+      "Thuốc thật",
+      "Thuốc thử nghiệm",
+      "Giả dược (Placebo)",
+      "Không dùng gì cả"
+    ],
+    "correct": 2,
+    "explanation": "Để đảm bảo tính khách quan và loại trừ tâm lý, nhóm đối chứng thường được cho dùng giả dược [2].",
+    "source_index": 124
+  },
+  {
+    "question": "Thiết kế nghiên cứu mạnh nhất để xác định nguyên nhân – kết quả là:",
+    "answers": [
+      "Nghiên cứu cắt ngang",
+      "Nghiên cứu bệnh – chứng",
+      "Nghiên cứu thuần tập",
+      "Thử nghiệm lâm sàng ngẫu nhiên (RCT)"
+    ],
+    "correct": 3,
+    "explanation": "RCT được coi là 'tiêu chuẩn vàng' trong nghiên cứu y học để khẳng định mối quan hệ nhân quả [2].",
+    "source_index": 124
+  },
+  {
+    "question": "Nghiên cứu mô tả thường nhằm:",
+    "answers": [
+      "Tìm mối quan hệ nguyên nhân",
+      "Mô tả tình hình sức khỏe, đặc điểm bệnh",
+      "Kiểm định giả thuyết",
+      "Thử nghiệm thuốc"
+    ],
+    "correct": 1,
+    "explanation": "Nghiên cứu mô tả tập trung vào việc trình bày các đặc điểm về bệnh trạng và tình hình sức khỏe cộng đồng [3].",
+    "source_index": 125
+  },
+  {
+    "question": "Trong nghiên cứu dịch tễ học, biến độc lập thường là:",
+    "answers": [
+      "Yếu tố nguy cơ",
+      "Bệnh",
+      "Kết cục",
+      "Số liệu phân tích"
+    ],
+    "correct": 0,
+    "explanation": "Biến độc lập đóng vai trò là tác nhân hoặc yếu tố nguy cơ dẫn đến sự thay đổi của biến phụ thuộc (bệnh) [3].",
+    "source_index": 125
+  },
+  {
+    "question": "Trong nghiên cứu y học, việc chọn mẫu nhằm:",
+    "answers": [
+      "Tiết kiệm thời gian, chi phí",
+      "Loại bỏ sai số",
+      "Thay thế toàn bộ dân số",
+      "Tăng p-value"
+    ],
+    "correct": 0,
+    "explanation": "Việc nghiên cứu trên một mẫu đại diện giúp giảm bớt gánh nặng về nguồn lực và thời gian so với điều tra toàn bộ dân số [3].",
+    "source_index": 125
+  },
+  {
+    "question": "Giám đốc xí nghiệp báo cáo lương trung bình là 7,6 triệu. Kiểm tra 36 công nhân thấy trung bình 7 triệu với σ = 8. Với α = 5%, báo cáo có tin cậy không?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Dựa trên các tham số kiểm định, kết quả thực tế cho thấy sự sai khác đáng kể so với báo cáo, dẫn đến việc bác bỏ ý kiến của giám đốc [3, 4].",
+    "source_index": [3, 4]
+  },
+  {
+    "question": "Khối lượng bao gạo theo N(50; 0,01). Khách hàng phản ánh thiếu. Thanh tra cân 25 bao. Ý kiến khách hàng đúng không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Theo dữ liệu đánh dấu trong nguồn, ý kiến khách hàng về việc thiếu khối lượng bị bác bỏ [4].",
+    "source_index": 126
+  },
+  {
+    "question": "Lượng sữa bò trung bình 14kg/ngày. Nghi ngờ chăn nuôi kém làm giảm sữa, điều tra 25 con thấy trung bình 12,5kg (s=2,5). Kết luận với α = 5%?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Giả thuyết về việc lượng sữa giảm do chăn nuôi kém bị bác bỏ dựa trên kiểm định thống kê [4, 5].",
+    "source_index": [4, 5]
+  },
+  {
+    "question": "Sức mua trung bình cũ là 25 ngàn. Kiểm tra 15 khách thấy trung bình 24 ngàn (s=2 ngàn). Sức mua thực sự giảm không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Sự khác biệt giữa 24 và 25 ngàn trong mẫu này không đủ lớn để khẳng định sức mua giảm có ý nghĩa thống kê [5].",
+    "source_index": 127
+  },
+  {
+    "question": "Chi tiêu trung bình cũ 3,455 triệu (s=0,3). Có thể cho rằng chi tiêu ít hơn 3,5 triệu không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận giả thiết"
+    ],
+    "correct": 1,
+    "explanation": "Kết quả kiểm định cho thấy giả thiết mức chi tiêu trung bình ít hơn 3,5 triệu là có thể chấp nhận được [5, 6].",
+    "source_index": [5, 6]
+  },
+  {
+    "question": "Khối lượng gà cũ 3,3kg. Dùng thức ăn mới, cân 15 con. Kết luận về tác dụng của thức ăn mới với α = 5%?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận giả thiết"
+    ],
+    "correct": 1,
+    "explanation": "Dữ liệu mẫu từ thức ăn mới cho thấy có thể chấp nhận giả thiết về sự thay đổi khối lượng gà [6].",
+    "source_index": 128
+  },
+  {
+    "question": "Máy sản xuất chính phẩm 98%. Kiểm tra 500 sản phẩm thấy 28 phế phẩm. Chất lượng máy còn như cũ không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Số lượng phế phẩm thực tế (28/500 = 5,6%) cao hơn nhiều so với mức 2%, nên bác bỏ việc chất lượng còn như cũ [7].",
+    "source_index": 129
+  },
+  {
+    "question": "Nguồn tin nói 80% hộ thích xem dân ca. Thăm dò 36 hộ thấy 25 hộ thích. Nguồn tin có đáng tin không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Dựa trên mẫu nhỏ 36 hộ, tỷ lệ thực tế chưa đủ để bác bỏ con số 80% từ nguồn tin [7, 8].",
+    "source_index": [7, 8]
+  },
+  {
+    "question": "Tỷ lệ phế phẩm cũ là 5%. Áp dụng kỹ thuật mới, kiểm tra 800 sản phẩm thấy 24 phế phẩm. Kết luận về kỹ thuật mới (α = 1%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Kỹ thuật mới làm giảm tỷ lệ phế phẩm xuống 3% (24/800), sự thay đổi này có ý nghĩa thống kê nên bác bỏ giả thuyết cũ [8].",
+    "source_index": 130
+  },
+  {
+    "question": "Máy đóng bao theo N(60; 0,04). Kiểm tra một số sản phẩm, máy hoạt động bình thường không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Kết quả đo lường thực tế sai lệch so với phân phối chuẩn ban đầu, dẫn đến việc bác bỏ trạng thái hoạt động bình thường của máy [8, 9].",
+    "source_index": [8, 9]
+  },
+  {
+    "question": "Trồng cùng một giống lúa trên hai thửa ruộng bón hai loại phân khác nhau. Thửa 1 (n=1000, X=70, Sx=10), thửa 2 (n=500, Y=72, Sy=20). Số hạt trung bình mỗi bông lúa của hai thửa ruộng có như nhau hay không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Dựa trên kết quả kiểm định so sánh hai số trung bình, sự khác biệt giữa 70 và 72 hạt/bông có ý nghĩa thống kê ở mức 5% [1].",
+    "source_index": 131
+  },
+  {
+    "question": "Trong thập niên 80, khối lượng trung bình thanh niên là 50kg. Nay chọn 100 thanh niên có trung bình 52kg, S2=10kg2. Khối lượng thanh niên hiện nay có thay đổi không (α = 1%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Kết quả kiểm định cho thấy chưa đủ bằng chứng để bác bỏ giả thuyết khối lượng không thay đổi ở mức ý nghĩa 1% [2].",
+    "source_index": 132
+  },
+  {
+    "question": "Tiến hành kiểm tra 200 hộp (quy cách 3 sản phẩm/hộp), có thể xem số sản phẩm loại I trong hộp tuân theo quy luật phân phối nhị thức không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Dựa trên kiểm định tính tương thích (Chi-bình phương), giả thuyết số sản phẩm loại I tuân theo phân phối nhị thức bị bác bỏ [2, 3].",
+    "source_index": 133
+  },
+  {
+    "question": "Nhà máy tuyên bố số lỗi in trong cuốn sách 300 trang tuân theo phân phối Poisson với µ= 4,7. Kiểm tra thực tế 300 trang của 50 máy, lời tuyên bố đúng không (α = 1%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Kết quả kiểm định cho thấy lời tuyên bố của nhà sản xuất về phân phối Poisson là có thể chấp nhận được ở mức ý nghĩa 1% [3].",
+    "source_index": 133
+  },
+  {
+    "question": "Số con của 2000 phụ nữ dưới 25 tuổi được thống kê, có thể xem biến số này tuân theo luật Poisson hay không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Dựa trên số liệu quan sát, giả thuyết biến số số con tuân theo luật Poisson được chấp nhận ở mức ý nghĩa 5% [3, 4].",
+    "source_index": 134
+  },
+  {
+    "question": "Kiểm tra 200 thùng đồ hộp, chứng tỏ rằng số hộp bị hỏng của một thùng là biến ngẫu nhiên tuân theo quy luật Poisson (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Kiểm định cho thấy số hộp hỏng trong mỗi thùng phù hợp với quy luật phân phối Poisson [4].",
+    "source_index": 134
+  },
+  {
+    "question": "Số tai nạn giao thông xảy ra mỗi ngày ở một thành phố có tuân theo quy luật Poisson không (α = 1%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Dữ liệu quan sát về số vụ tai nạn giao thông hàng ngày phù hợp với giả thuyết phân phối Poisson [4].",
+    "source_index": 134
+  },
+  {
+    "question": "Năng suất lúa (X) thử nghiệm trên 100 lô đất, xét xem X có phân phối chuẩn không (α = 10%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Ở mức ý nghĩa 10%, biến số năng suất lúa có thể được xem là tuân theo quy luật phân phối chuẩn [4, 5].",
+    "source_index": 135
+  },
+  {
+    "question": "Kiểm định xem có sự khác biệt mức độ yêu thích các môn học định lượng giữa nhóm nam và nữ không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Kết quả cho thấy không có sự khác biệt có ý nghĩa thống kê về mức độ yêu thích giữa hai nhóm giới tính [5, 6].",
+    "source_index": 136
+  },
+  {
+    "question": "Kiểm định xem có sự khác biệt trong chi tiêu mua sắm quần áo trong 1 năm cho bản thân giữa nam và nữ không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Dựa trên số liệu điều tra, có sự khác biệt rõ rệt về mức chi tiêu giữa nam và nữ [6].",
+    "source_index": 136
+  },
+  {
+    "question": "Kiểm định xem có sự khác biệt trong chi tiêu hàng tháng giữa nhóm có người yêu và không có người yêu không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 1,
+    "explanation": "Kết quả kiểm định cho thấy sự khác biệt về chi tiêu giữa hai nhóm này là không có ý nghĩa thống kê ở mức 5% [6, 7].",
+    "source_index": 137
+  },
+  {
+    "question": "Trong kiểm định giả thuyết thống kê, một quyết định được gọi là quyết định đúng khi?",
+    "answers": [
+      "Bác bỏ H0 khi H0 đúng",
+      "Chấp nhận H0 khi H0 sai",
+      "Bác bỏ H0 khi H1 sai",
+      "Chấp nhận H1 khi H0 đúng"
+    ],
+    "correct": 1,
+    "explanation": "Theo tài liệu nguồn, đáp án B được đánh dấu là đúng, mặc dù về lý thuyết thông thường quyết định đúng là chấp nhận H0 khi H0 đúng hoặc bác bỏ H0 khi H0 sai [7].",
+    "source_index": 137
+  },
+  {
+    "question": "Để chọn ra kiểm định là một phía hoặc hai phía người ta căn cứ vào?",
+    "answers": [
+      "Giả thuyết của H0 để xác định",
+      "Đặc điểm của giả thuyết đối lập",
+      "Đặc điểm của giả thuyết ban đầu",
+      "Căn cứ vào giá trị tới hạn"
+    ],
+    "correct": 1,
+    "explanation": "Việc lựa chọn kiểu kiểm định (một phía hay hai phía) phụ thuộc vào cách phát biểu của giả thuyết đối lập H1 [7].",
+    "source_index": 137
+  },
+  {
+    "question": "Để kiểm định dữ liệu có tuân theo phân phối chuẩn không, người ta cần làm gì?",
+    "answers": [
+      "Thành lập giả thuyết H0",
+      "Xác định giá trị tới hạn",
+      "Xác định phân phối xác suất cần dùng",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "correct": 3,
+    "explanation": "Quy trình kiểm định sự phù hợp với phân phối chuẩn đòi hỏi phải thực hiện tất cả các bước trên [8].",
+    "source_index": 138
+  },
+  {
+    "question": "Tỷ lệ phế phẩm cũ là 5%. Áp dụng kỹ thuật mới thấy 24 phế phẩm/800 sản phẩm. Nếu nhà máy báo cáo tỷ lệ phế phẩm mới là 2% thì có chấp nhận được không (α = 5%)?",
+    "answers": [
+      "Bác bỏ ý kiến",
+      "Chấp nhận ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Tỷ lệ thực tế là 3% (24/800), do đó báo cáo về con số 2% bị bác bỏ dựa trên kiểm định tỷ lệ [8, 9].",
+    "source_index": 139
+  }
+]
