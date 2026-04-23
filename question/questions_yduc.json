@@ -1,0 +1,2719 @@
+[
+  {
+    "question": "Tâm lý là sự phản ánh hiện thực chủ quan vào não người thông qua lăng kính khách quan.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo định nghĩa khoa học, tâm lý là sự phản ánh hiện thực khách quan vào não người thông qua lăng kính chủ quan của mỗi cá nhân."
+  },
+  {
+    "question": "Hình ảnh của một cuốn sách trong gương và hình ảnh của cuốn sách đó trong não người là hoàn toàn giống nhau vì cả hai hình ảnh này đều là kết quả của quá trình phản ánh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dù bản chất phản ánh khác nhau (vật lý và tâm lý), nhưng cả hai đều là kết quả của quá trình phản ánh từ hiện thực khách quan."
+  },
+  {
+    "question": "Tâm lý người là sự phản ánh các mối quan hệ xã hội nên chịu sự qui định của các mối quan hệ xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý con người có bản chất xã hội - lịch sử, được hình thành và chi phối bởi các quan hệ xã hội mà cá nhân đó tham gia,."
+  },
+  {
+    "question": "Tâm lý người là sự phản ánh hiện thực khách quan nên hình ảnh tâm lý ở mọi người giống nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tâm lý mang tính chủ thể; cùng một hiện thực khách quan nhưng mỗi người sẽ có hình ảnh tâm lý khác nhau tùy thuộc vào kinh nghiệm, lăng kính riêng,."
+  },
+  {
+    "question": "Phản ánh tâm lý là hình thức phản ánh độc đáo và chỉ có ở con người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phản ánh tâm lý là cấp độ phản ánh cao nhất, gắn liền với sự xuất hiện của hệ thần kinh và đặc biệt phát triển ở con người,."
+  },
+  {
+    "question": "Tâm lý người không mang tính chủ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, tính chủ thể là đặc điểm cơ bản của tâm lý người, thể hiện qua việc mỗi cá nhân phản ánh thế giới theo cách riêng của mình,."
+  },
+  {
+    "question": "Cơ sở vật chất của hiện tượng tâm lý là tim.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Não bộ và hệ thần kinh mới là cơ sở vật chất, là cơ quan thực hiện các chức năng tâm lý, không phải tim,."
+  },
+  {
+    "question": "Tâm lý người là sản phẩm của quá trình hoạt động của não, không có não hoặc có não nhưng não không hoạt động thì cũng không có tâm lý người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hoạt động tâm lý là chức năng của não bộ; sự tồn tại của tâm lý gắn liền với trạng thái hoạt động bình thường của hệ thần kinh trung ương."
+  },
+  {
+    "question": "Tâm lý học y học là một ngành của y học chỉ nghiên cứu trạng thái tâm lý bệnh nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tâm lý học y học nghiên cứu cả tâm lý người bệnh, nhân viên y tế và mối quan hệ giữa họ trong quá trình điều trị,."
+  },
+  {
+    "question": "Giao tiếp được chia thành 2 hình thức là giao tiếp phi ngôn ngữ và giao tiếp ngôn ngữ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là hai phương thức giao tiếp cơ bản nhất để con người trao đổi thông tin và cảm xúc,."
+  },
+  {
+    "question": "Trong năm bậc thang nhu cầu theo Maslow, nhu cầu cao nhất của con người là:",
+    "answers": [
+      "Nhu cầu sinh lý",
+      "Nhu cầu tự khẳng định mình",
+      "Nhu cầu được yêu mến và phụ thuộc",
+      "Nhu cầu được tôn trọng"
+    ],
+    "correct": 1,
+    "explanation": "Nhu cầu tự khẳng định mình (Self-actualization) nằm ở đỉnh cao nhất của tháp nhu cầu Maslow."
+  },
+  {
+    "question": "Trong năm bậc thang nhu cầu theo Maslow, nhu cầu thấp nhất của con người là:",
+    "answers": [
+      "Nhu cầu sinh lý",
+      "Nhu cầu tự khẳng định mình",
+      "Nhu cầu được yêu mến và phụ thuộc",
+      "Nhu cầu được tôn trọng"
+    ],
+    "correct": 0,
+    "explanation": "Nhu cầu sinh lý (ăn, mặc, ở...) là nhu cầu cơ bản nhất, đảm bảo sự tồn tại của con người."
+  },
+  {
+    "question": "Stress bệnh lý kéo dài thường được hình thành từ các tình huống:",
+    "answers": [
+      "Quen thuộc, lặp đi lặp lại",
+      "Quen thuộc, bất ngờ",
+      "Tình huống dữ dội",
+      "Tình huống không lường trước được",
+      "Bất ngờ"
+    ],
+    "correct": 0,
+    "explanation": "Khác với stress cấp tính, stress kéo dài thường do các mâu thuẫn âm ỉ, lặp lại hàng ngày trong cuộc sống hoặc công việc."
+  },
+  {
+    "question": "Hội nghị quốc tế về CSSKBĐ tại Alma-Ata diễn ra vào năm nào?",
+    "answers": ["1970", "1975", "1978", "1980"],
+    "correct": 2,
+    "explanation": "Tuyên ngôn Alma-Ata về Chăm sóc sức khỏe ban đầu được thông qua vào năm 1978."
+  },
+  {
+    "question": "Y tế cơ sở xã phường là:",
+    "answers": [
+      "Tế bào cơ bản của hệ thống y tế quốc gia.",
+      "Tuyến đầu tiên tiếp xúc giữa cộng đồng với hệ thống y tế.",
+      "Nơi thực hiện các chủ trương đường lối y tế của Đảng và nhà nước.",
+      "Tất cả các phương án trên."
+    ],
+    "correct": 3,
+    "explanation": "Y tế cơ sở đóng vai trò là mạng lưới y tế gần dân nhất, thực hiện các nội dung chăm sóc sức khỏe ban đầu thiết yếu."
+  },
+  {
+    "question": "Giáo dục và rèn luyện nhân cách cho người bệnh kết hợp với thái độ đúng mực của cán bộ y tế sẽ giúp cho việc phòng bệnh tâm thần cho bệnh nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự kết hợp giữa tác động giáo dục nhân cách và môi trường tâm lý lành mạnh từ nhân viên y tế là biện pháp quan trọng để ổn định tinh thần và phòng ngừa các rối loạn tâm thần cho người bệnh [1]."
+  },
+  {
+    "question": "Thuộc tính tâm lý là hiện tượng tâm lý hình thành lâu dài và kéo dài rất lâu, có khi suốt đời và tạo thành nét riêng của nhân cách, chi phối quá trình và trạng thái tâm lý của người ấy.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khác với quá trình hay trạng thái, thuộc tính tâm lý mang tính ổn định cao, bền vững và là thành phần cấu tạo nên nhân cách cá nhân [1]."
+  },
+  {
+    "question": "Tâm lý mỗi người khác nhau vì: cá nhân vừa là thực thể tự nhiên vừa là thực thể xã hội.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự khác biệt về tâm lý do sự kết hợp độc đáo giữa đặc điểm sinh học tự nhiên và các điều kiện sống, giáo dục, quan hệ xã hội của mỗi cá nhân [2]."
+  },
+  {
+    "question": "Phẩm chất tâm lý của một người không liên quan đến vấn đề tổ chức môi trường sống.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Môi trường sống và hoạt động là yếu tố quyết định sự hình thành và phát triển các phẩm chất tâm lý của con người [2]."
+  },
+  {
+    "question": "Cơ sở vật chất của hiện tượng tâm lý là tim.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Khoa học chứng minh não bộ và hệ thần kinh trung ương mới là cơ quan vật chất thực hiện chức năng phản ánh tâm lý [2]."
+  },
+  {
+    "question": "Muốn điều trị và chăm sóc tốt người bệnh, người cán bộ y tế chỉ cần có trình độ chuyên môn giỏi là được.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Bên cạnh chuyên môn, người thầy thuốc cần có phẩm chất đạo đức và kỹ năng giao tiếp tâm lý tốt để đạt hiệu quả điều trị tối ưu [2]."
+  },
+  {
+    "question": "Tri giác có những đặc điểm giống như cảm giác, song khác với cảm giác là: tự giác phản ánh sự vật hiện tượng một cách trọn vẹn, tri giác đem lại cho ta một hình ảnh hoàn chỉnh về sự vật hiện tượng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tri giác là mức độ cao hơn cảm giác, phản ánh các thuộc tính của sự vật hiện tượng trong một cấu trúc trọn vẹn, hoàn chỉnh [2]."
+  },
+  {
+    "question": "Tâm lý là sự phản ánh thế giới khách quan một cách chủ quan giữa các hiện tượng tâm lý với nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bản chất của tâm lý là hình ảnh chủ quan về thế giới khách quan, được hình thành thông qua quá trình phản xạ và tương tác [3]."
+  },
+  {
+    "question": "Tâm lý là hiện tượng tinh thần bên trong của người và thông qua hiện tượng vật chất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý tuy là thế giới nội tâm nhưng luôn biểu hiện ra ngoài thông qua hành vi, cử chỉ, lời nói và các hoạt động vật chất của con người [3]."
+  },
+  {
+    "question": "Tâm lý con người có bản chất xã hội, lịch sử.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý người chịu sự quy định của các mối quan hệ xã hội và sự biến đổi của các giai đoạn lịch sử khác nhau [3]."
+  },
+  {
+    "question": "Các hiện tượng tâm lý tạo thành hoạt động tâm lý, là hình ảnh thực tại bên ngoài nhưng chỉ diễn ra ở thế giới bên trong con người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hoạt động tâm lý phản ánh thực tại khách quan nhưng mang tính chất nội tâm (thế giới bên trong) của mỗi cá nhân [3]."
+  },
+  {
+    "question": "Phản ánh thế giới thông qua các cơ quan cảm giác (giác quan) chính là cảm giác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cảm giác là hình thức nhận thức cảm tính đơn giản nhất khi các thuộc tính riêng lẻ của sự vật tác động trực tiếp vào giác quan [3]."
+  },
+  {
+    "question": "Biểu tượng là quá trình tâm lý trung gian giữa nhận thức cảm tính và nhận thức lý tính.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Biểu tượng giúp lưu giữ hình ảnh sự vật khi không còn tác động trực tiếp, tạo tiền đề để chuyển sang quá trình tư duy, lý luận [4]."
+  },
+  {
+    "question": "Cảm giác không đúng, người bệnh có những cảm xúc không bình thường, kỳ lạ hoặc có sự lẫn lộn về cảm giác đó là mất cảm giác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Những biểu hiện cảm giác sai lệch, kỳ lạ được gọi là loạn cảm giác, không phải mất cảm giác (mất khả năng thu nhận kích thích) [4]."
+  },
+  {
+    "question": "Cảm giác không đúng, người bệnh có những cảm xúc không bình thường, kỳ lạ hoặc có sự lẫn lộn về cảm giác đó là loạn cảm giác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Loạn cảm giác là tình trạng người bệnh cảm thấy những kích thích không có thực hoặc sai lệch so với bản chất kích thích khách quan [4]."
+  },
+  {
+    "question": "Tâm lý đại cương nghiên cứu quy luật chung nhất của tâm lý còn tâm lý y học nghiên cứu đặc trưng tâm lý của người bệnh và nhân viên y tế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là sự phân biệt rõ ràng giữa quy luật phổ quát của tâm lý học nói chung và ứng dụng cụ thể trong ngành y [4]."
+  },
+  {
+    "question": "Học thuyết về tác động tương hỗ giữa tâm lý và thực thể là nội dung nghiên cứu của tâm lý y học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý y học chú trọng nghiên cứu mối quan hệ hai chiều giữa sức khỏe tinh thần và các biến đổi thực thể của cơ thể [5]."
+  },
+  {
+    "question": "Tâm lý đại cương nghiên cứu quy luật chung nhất và nghiên cứu đặc trưng tâm lý của người bệnh và nhân viên y tế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nghiên cứu đặc trưng tâm lý người bệnh và nhân viên y tế là nhiệm vụ riêng của tâm lý y học, không phải tâm lý đại cương [5]."
+  },
+  {
+    "question": "Y đức học và phẩm chất đạo đức thầy thuốc và nhân viên y tế là nhiệm vụ nghiên cứu của tâm lý y học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Việc nghiên cứu và rèn luyện đạo đức nghề y là một trong những nhiệm vụ cốt lõi của tâm lý học y học [5]."
+  },
+  {
+    "question": "Những tác động của yếu tố tự nhiên, xã hội lên tâm lý người bệnh là một trong nhiệm vụ nghiên cứu tâm lý người bệnh của tâm lý y học.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý y học cần đánh giá các tác động từ môi trường xung quanh để hiểu rõ hơn về diễn biến bệnh lý và tâm lý người bệnh [5]."
+  },
+  {
+    "question": "Nghiên cứu những phẩm chất, nhân cách của thầy thuốc và nhân viên y tế là nhiệm vụ của tâm lý học đại cương.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nghiên cứu nhân cách đặc thù trong ngành y thuộc phạm vi của tâm lý học chuyên ngành (tâm lý y học) [6]."
+  },
+  {
+    "question": "Trong cuộc sống hằng ngày, chúng ta thường gặp những hiện tượng xấu được gọi dưới cái tên chung là stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Stress không hoàn toàn là xấu; có những loại stress tích cực (eustress) thúc đẩy cá nhân nỗ lực và thích nghi [6]."
+  },
+  {
+    "question": "Trong cuộc sống hằng ngày, chúng ta thường gặp những hiện tượng được gọi dưới cái tên chung là stress. Chúng ta quan niệm mọi Stress đều xấu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Stress là phản ứng thích nghi của cơ thể, chỉ khi stress vượt quá khả năng đương đầu hoặc kéo dài mới trở thành stress bệnh lý gây hại [6]."
+  },
+  {
+    "question": "Stress là thuật ngữ dùng để chỉ một nguyên nhân, một tác nhân gây Stress hoặc chỉ hậu quả của những tác nhân gây kích thích mạnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuật ngữ stress được sử dụng linh hoạt để chỉ cả tác nhân kích thích và cả phản ứng/hậu quả của quá trình đó đối với cơ thể [6]."
+  },
+  {
+    "question": "Hans Selye gọi stress là mối tương quan giữa tác nhân kích thích và phản ứng của cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hans Selye là người tiên phong đưa ra khái niệm stress như một hội chứng thích nghi chung của cơ thể trước các yêu cầu từ môi trường [7]."
+  },
+  {
+    "question": "Đáp ứng của cá nhân với các yếu tố stress không đầy đủ, không thích hợp và cơ thể tạo ra một cân bằng mới, những dấu hiệu bệnh lý cơ thể, tâm lý, tập tính sẽ xuất hiện và tạo ra những stress bệnh lý cấp tính hoặc kéo dài.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khi quá trình thích nghi thất bại, stress sẽ chuyển sang trạng thái bệnh lý với các biểu hiện rối loạn đa dạng [7]."
+  },
+  {
+    "question": "Những nhu cầu thiết yếu của trẻ cần cố gắng đáp ứng đầy đủ, kịp thời, còn những nhu cầu khác, cần đáp ứng có chọn lọc và không nên gây cho trẻ đòi gì được nấy.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là nguyên tắc vệ sinh tâm lý trẻ em nhằm hình thành nhân cách lành mạnh, tránh sự ỷ lại hoặc đòi hỏi thái quá [7]."
+  },
+  {
+    "question": "Giao tiếp phi ngôn ngữ được chia làm 2 hình thức là giao tiếp bên ngoài và giao tiếp bên trong.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sự phân chia 'bên trong' và 'bên ngoài' thường áp dụng cho ngôn ngữ (ngôn ngữ nói/viết và ngôn ngữ thầm); giao tiếp phi ngôn ngữ bao gồm cử chỉ, ánh mắt, điệu bộ [8]."
+  },
+  {
+    "question": "Giao tiếp được chia thành 2 hình thức là giao tiếp phi ngôn ngữ và giao tiếp ngôn ngữ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là hai kênh giao tiếp cơ bản giúp con người truyền đạt thông tin và cảm xúc cho nhau [8]."
+  },
+  {
+    "question": "Giao tiếp là một trong 3 yếu tố làm tăng hiệu lực của điều trị.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giao tiếp tốt giữa thầy thuốc và người bệnh giúp tăng niềm tin, sự tuân thủ và hỗ trợ tâm lý tích cực cho quá trình hồi phục [8]."
+  },
+  {
+    "question": "Ngôn ngữ bên trong là ngôn ngữ cho mình hướng mình vào và nhờ đó ta mới có thể tư duy được.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ngôn ngữ bên trong (ngôn ngữ thầm) là công cụ quan trọng của hoạt động tư duy và tự điều chỉnh hành vi của cá nhân [8]."
+  },
+  {
+    "question": "Ngôn ngữ bên ngoài là ngôn ngữ hướng vào người khác nhằm phát đi hay nhận thông tin. Chỉ có ngôn ngữ nói mới thuộc ngôn ngữ bên ngoài.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngôn ngữ bên ngoài bao gồm cả ngôn ngữ nói và ngôn ngữ viết nhằm mục đích trao đổi thông tin xã hội [8]."
+  },
+  {
+    "question": "Thời gian và địa điểm không ảnh hưởng đến giao tiếp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Bối cảnh (thời gian, không gian) là yếu tố quan trọng ảnh hưởng trực tiếp đến hiệu quả và tính chất của cuộc giao tiếp [9]."
+  },
+  {
+    "question": "Ngôn ngữ mang đặc tính cá nhân phụ thuộc vào tuổi giới tính, trình độ văn hóa, giáo dục, nghề nghiệp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cách sử dụng ngôn ngữ phản ánh rõ nét đặc điểm nhân cách, nền tảng giáo dục và trải nghiệm cá nhân của mỗi người [9]."
+  },
+  {
+    "question": "Giao tiếp qua nét mặt là giao tiếp ngôn ngữ bên trong.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nét mặt là một phương thức giao tiếp phi ngôn ngữ (không lời), không phải ngôn ngữ bên trong [9]."
+  },
+  {
+    "question": "Khi giao tiếp với người bệnh không nên nhún nhường người bệnh. Vì nếu nhún người bệnh sẽ được đà lấn tới.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Người thầy thuốc cần có thái độ mềm mỏng, nhún nhường đúng mức để xoa dịu sự căng thẳng của người bệnh, không nên cứng nhắc [9]."
+  },
+  {
+    "question": "Mục đích của giao tiếp với người bệnh là tìm hiểu bệnh sử, đặc điểm nhân cách, hoàn cảnh kinh tế khi tiến hành thủ thuật, chuyển viện hoặc cho bệnh nhân ra viện.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giao tiếp y tế đa mục tiêu, từ thu thập thông tin chuyên môn đến thấu hiểu hoàn cảnh bệnh nhân để hỗ trợ toàn diện [9]."
+  },
+  {
+    "question": "Lắng nghe không có vai trò trong giao tiếp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Lắng nghe là kỹ năng quan trọng nhất trong giao tiếp, đặc biệt trong y khoa giúp thấu hiểu bệnh nhân và xây dựng niềm tin [10]."
+  },
+  {
+    "question": "Đối với bệnh nhân đều có cách giao tiếp giống nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mỗi bệnh nhân có đặc điểm tâm lý, văn hóa và bệnh lý khác nhau nên cần có phương thức giao tiếp cá thể hóa phù hợp [10]."
+  },
+  {
+    "question": "Giao tiếp bằng hành động như gật đầu, vẫy tay là giao tiếp phi ngôn ngữ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các cử chỉ cơ thể thay thế lời nói được xếp vào nhóm giao tiếp không bằng lời (phi ngôn ngữ) [10]."
+  },
+  {
+    "question": "Uy tín, lời nói, tác phong cử chỉ của thầy thuốc không ảnh hưởng đến kết quả giao tiếp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Uy tín và tác phong của thầy thuốc là yếu tố tiên quyết tạo ra sức nặng cho lời nói và hiệu quả của cuộc tiếp xúc y tế [10]."
+  },
+  {
+    "question": "Khi giao tiếp với người bệnh là người dân tộc thiểu số thì phải tôn trọng phong tục tập quán của mỗi dân tộc khác nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự tôn trọng đa dạng văn hóa giúp xóa bỏ rào cản tâm lý và tăng cường sự hợp tác giữa bệnh nhân và nhân viên y tế [10]."
+  },
+  {
+    "question": "Giao tiếp là sự tiếp xúc tâm lý giữa người với người thông qua đó con người trao đổi với nhau về thông tin, về cảm xúc, tri giác, tác động qua lại với nhau. Hiện thực hóa các quan hệ xã hội giữa chủ thể này với chủ thể khác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa đầy đủ về bản chất đa diện của giao tiếp trong đời sống xã hội [10]."
+  },
+  {
+    "question": "Giao tiếp và hoạt động là hai mặt không thể thiếu được của lối sống của hoạt động sống của con người trong thực tiễn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hoạt động giúp con người cải tạo thế giới, còn giao tiếp giúp con người kết nối và phát triển tâm lý cá nhân [11]."
+  },
+  {
+    "question": "Giao tiếp là quá trình và điều kiện tất yếu để hình thành và phát triển tâm lý.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nếu không có giao tiếp, con người không thể học hỏi và phát triển các thuộc tính tâm lý người đặc thù [11]."
+  },
+  {
+    "question": "Lời nói biểu lộ nội tâm bên trong của con người, vì vậy thầy thuốc cần phải có lời nói đúng đắn tế nhị, diễn đạt đầy đủ sự quan tâm của mình trước bệnh nhân gây cho họ một niềm tin lạc quan.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Lời nói là công cụ tâm lý mạnh mẽ giúp thầy thuốc xoa dịu nỗi đau và củng cố tinh thần cho người bệnh [11]."
+  },
+  {
+    "question": "Thái độ và lời nói của thầy thuốc có ý nghĩa rất quan trọng vì tác động sâu sắc vào tâm lý bệnh nhân và quá trình chữa bệnh của họ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tâm lý bệnh nhân có ảnh hưởng trực tiếp đến hệ miễn dịch và khả năng hồi phục, do đó thái độ thầy thuốc là một phần của điều trị [11]."
+  },
+  {
+    "question": "Tác động có mục đích vào tâm lý bệnh nhân tạo những điều kiện thuận lợi cho quá trình chữa bệnh là việc rất quan trọng cho mọi thầy thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là khái niệm về liệu pháp tâm lý trong y khoa, hỗ trợ các phương pháp điều trị thực thể [12]."
+  },
+  {
+    "question": "Phần cơ bản nhất trong cấu trúc căn nguyên tâm lý của người bệnh đó là nhân cách của người bệnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhân cách là nền tảng chi phối cách thức một người phản ứng với bệnh tật và các yếu tố gây stress tâm lý [12]."
+  },
+  {
+    "question": "Yếu tố trung tâm trong cấu trúc căn nguyên tâm lý của bệnh là nhân cách của người bệnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo tài liệu nguồn, nhân cách là phần 'cơ bản nhất', nhưng yếu tố 'trung tâm' trong căn nguyên có thể được định nghĩa khác tùy theo bối cảnh bệnh lý cụ thể [12]."
+  },
+   {
+    "question": "Bệnh tật tác động đến tâm lý và ngược lại bệnh tật chịu sự ảnh hưởng nhất định của tâm lý người bệnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Có mối quan hệ tác động hai chiều chặt chẽ giữa trạng thái thực thể (bệnh tật) và trạng thái tinh thần (tâm lý) của con người [1]."
+  },
+  {
+    "question": "Trạng thái biến đổi tâm lý: đây là trạng thái nặng nhất và có thể gặp ở bất kỳ người bệnh nào.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trạng thái biến đổi tâm lý không phải lúc nào cũng là nặng nhất; mức độ phản ứng tùy thuộc vào loại hình thần kinh và tính chất bệnh lý của từng cá nhân [2]."
+  },
+  {
+    "question": "Nhận thức đúng đắn và bình thường có quá trình hưng phấn cân bằng với ức chế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự cân bằng giữa hai quá trình thần kinh cơ bản (hưng phấn và ức chế) là cơ sở cho các hoạt động nhận thức khách quan và ổn định [2]."
+  },
+  {
+    "question": "Nhận thức đúng đắn và bình thường hay gặp ở người già.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nhận thức không phụ thuộc tuyệt đối vào tuổi tác; thực tế người già thường có những biến đổi tâm sinh lý làm thay đổi khả năng nhận thức về bệnh [2]."
+  },
+  {
+    "question": "Nhận thức cường điệu quá mức người bệnh thường có biểu hiện thần kinh hưng phấn mạnh hơn ức chế, dễ bị kích thích, quan trọng hoá tình trạng sức khoẻ và bệnh tật của mình.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Người có nhận thức cường điệu thường nhạy cảm quá mức với các triệu chứng nhẹ và luôn lo lắng bệnh mình rất trầm trọng [2]."
+  },
+  {
+    "question": "Nhận thức yếu thường bệnh tật, đánh giá thấp tính nguy kịch trầm trọng bệnh lý, xem nhẹ các triệu chứng, tính tích cực giảm, ít quan tâm đến các khám nghiệm điều trị.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhận thức yếu khiến người bệnh chủ quan, thờ ơ với các dấu hiệu nguy hiểm, gây khó khăn cho việc can thiệp kịp thời [2]."
+  },
+  {
+    "question": "Nhận thức yếu thường chú ý đến lời dặn của thầy thuốc, chú ý tới sức khoẻ của chính mình.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, người có nhận thức yếu thường lơ là, thiếu tự giác và ít tuân thủ các chỉ định y khoa [3]."
+  },
+  {
+    "question": "Nhận thức không ổn định, loạn nhận thức là ý thức thay đổi, có thể do coi thường xem nhẹ bệnh nhưng có lúc lại bi quan lo lắng sợ chết, sợ biến chứng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là trạng thái tâm lý bấp bênh, người bệnh thay đổi thái độ liên tục đối với tình trạng sức khỏe của bản thân [3]."
+  },
+  {
+    "question": "Nhận thức về bệnh không phụ thuộc nhiều về tuổi tác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tuổi tác ảnh hưởng lớn đến kinh nghiệm sống, khả năng chịu đựng và cách thức cá nhân tiếp nhận thông tin về bệnh tật [3]."
+  },
+  {
+    "question": "Khi người bệnh bực tức người nhân viên y tế cần hiểu và chấp nhận như một hiện tượng hợp quy luật tâm sinh lý và đáp ứng bằng sự bình tĩnh hoà nhã tế nhị, kiên trì giải thích cho bệnh nhân một cách ôn tồn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự chuyên nghiệp của nhân viên y tế thể hiện qua việc làm chủ cảm xúc và xoa dịu sự căng thẳng của người bệnh bằng thái độ ôn hòa [3]."
+  },
+  {
+    "question": "Khi người bệnh có biểu hiện tâm lý sợ hãi, cần phải răn đe người bệnh để người bệnh thay đổi.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sự răn đe chỉ làm trầm trọng thêm nỗi sợ hãi; bệnh nhân cần sự trấn an, thấu hiểu và giải thích khoa học từ thầy thuốc [4]."
+  },
+  {
+    "question": "Đối với người bệnh nhận thức đúng đắn thầy thuốc không nên hứa suông mà phải kiên trì, thận trọng, nói sao làm vậy; phải chứng minh bằng thực tế, tinh thần thái độ, phong cách, tài năng của mình, nói ít làm nhiều.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự chính trực và năng lực thực tế của thầy thuốc là nền tảng để xây dựng niềm tin vững chắc ở những bệnh nhân có nhận thức tốt [4]."
+  },
+  {
+    "question": "Khi người bệnh có phản ứng phá hoại người nhân viên y tế cần nhẹ nhàng, thương yêu, phân tích, giúp đỡ động viên bệnh nhân, tuy nhiên cũng cần có hành động kiên quyết với các biểu hiện sai.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cần kết hợp giữa liệu pháp tâm lý mềm mỏng và sự cứng rắn cần thiết để đảm bảo trật tự và an toàn trong điều trị [4]."
+  },
+  {
+    "question": "Khi người bệnh có phản ứng nghi ngờ người nhân viên y tế không cần quan tâm, chỉ cần tập trung vào chuyên môn của mình là được.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sự nghi ngờ của bệnh nhân có thể làm giảm hiệu quả điều trị; thầy thuốc cần chủ động xây dựng lòng tin qua giao tiếp và hành động minh bạch [5]."
+  },
+  {
+    "question": "Mọi hành vi, cử chỉ, lời nói của thầy thuốc đều tác động mạnh mẽ đến người bệnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhân viên y tế được coi là biểu tượng của sự cứu giúp, nên mỗi cử động của họ đều trở thành kích thích tâm lý đối với bệnh nhân [5]."
+  },
+  {
+    "question": "Người thầy thuốc có thể cho phép mình từ chối lời đề nghị giúp đỡ của người bệnh nếu như mình không muốn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trách nhiệm nghề nghiệp và đạo đức y đức không cho phép thầy thuốc hành động dựa trên sở thích cá nhân khi bệnh nhân cần trợ giúp [5]."
+  },
+  {
+    "question": "Hoạt động nghề y chỉ nhằm thỏa mãn nhu cầu ngày càng tăng về vật chất của người thầy thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nghề y mang tính nhân đạo cao cả, mục tiêu chính là cứu người và phục vụ xã hội, không phải là công cụ đơn thuần để trục lợi [5]."
+  },
+  {
+    "question": "Người thầy thuốc phải có trách nhiệm đối với nghề nghiệp của mình, biết giữ gìn truyền thống và tính chất nhân đạo của nghề y.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giữ gìn phẩm giá và truyền thống nhân đạo là cốt lõi của đạo lý người thầy thuốc qua mọi thời đại [6]."
+  },
+  {
+    "question": "Đối với người thầy thuốc cái quan trọng nhất là năng lực chuyên môn, còn năng lượng giao tiếp không quan trọng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chuyên môn và kỹ năng giao tiếp là hai yếu tố không thể tách rời để tạo nên một thầy thuốc giỏi và được lòng tin của bệnh nhân [6]."
+  },
+  {
+    "question": "Phẩm chất nhân cách người thầy thuốc là sự kết hợp hài hòa các phẩm chất đạo đức, phẩm chất nghề nghiệp, phẩm chất tâm lý cá nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhân cách thầy thuốc được cấu thành từ năng lực làm việc, đạo đức công vụ và các đặc điểm tâm lý tích cực [6]."
+  },
+  {
+    "question": "Sự tiếp xúc thường xuyên với bệnh tật chỉ đe dọa tới sức khỏe thể chất của người nhân viên y tế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nhân viên y tế còn đối mặt với áp lực tâm lý cực lớn, nguy cơ bị stress, sang chấn tinh thần và kiệt sức nghề nghiệp [6]."
+  },
+  {
+    "question": "Những sai lầm của thầy thuốc sẽ gây tác hại trực tiếp đến tính mạng của người bệnh thầy thuốc sẽ có rất ít cơ may để chuộc lại lỗi lầm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Trong y khoa, sai lầm thường dẫn đến hậu quả không thể đảo ngược, do đó đòi hỏi sự cẩn trọng và trách nhiệm tối cao [7]."
+  },
+  {
+    "question": "Tính trung thực là một trong những phẩm chất nhân cách cơ bản của người thầy thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự trung thực đảm bảo an toàn cho bệnh nhân và giữ vững uy tín của ngành y tế [7]."
+  },
+  {
+    "question": "Bảy đức tính cơ bản của người thầy thuốc chân chính mà Hải Thượng Lãn Ông đã tổng kết: Nhân, minh, trí, thành, lượng, khiêm, cần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo nguồn tài liệu, danh sách các đức tính do Hải Thượng Lãn Ông đưa ra có sự khác biệt về số lượng hoặc thành phần (thường là 8 đức tính) [7]."
+  },
+  {
+    "question": "Để phát triển và hoàn thiện nhân cách các phẩm chất tâm lý, nhân cách người thầy thuốc, trước hết cần phải xác định mức độ phù hợp của nghề nghiệp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự phù hợp giữa đặc điểm cá nhân và yêu cầu nghề nghiệp là bước đầu tiên để phát triển một sự nghiệp y khoa bền vững [7]."
+  },
+  {
+    "question": "Người nhân viên y tế thiếu cân nhắc, thiếu thận trọng trong lời nói, hành vi có thể gây nên những phản ứng tâm lý trái ngược với kết quả điều trị, gây hại cho người bệnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bất cẩn trong giao tiếp có thể gây ra 'bệnh y sinh', làm bệnh nhân lo lắng hoặc mất niềm tin vào quá trình chữa trị [8]."
+  },
+  {
+    "question": "Người nhân viên y tế được phép từ chối lời đề nghị giúp đỡ của người bệnh khi không muốn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Hỗ trợ người bệnh là nghĩa vụ thường trực; việc từ chối dựa trên ý muốn cá nhân là vi phạm y đức [8]."
+  },
+  {
+    "question": "Phẩm chất nhân cách người thầy thuốc là sự kết hợp hài hòa các phẩm chất đạo đức, phẩm chất nghề nghiệp, phẩm chất tâm lý cá nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa chuẩn về cấu trúc nhân cách của người làm công tác y tế [8]."
+  },
+  {
+    "question": "Con người khi thay đổi điều kiện sống và nơi cư trú chắc chắn sẽ bị sang chấn tinh thần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sự thay đổi môi trường là một tác nhân gây stress, nhưng không phải ai cũng dẫn đến sang chấn (trauma) tùy thuộc vào khả năng thích nghi của mỗi người [8]."
+  },
+  {
+    "question": "Mâu thuẫn trong đời sống cá nhân, gia đình là yếu tố thuận lợi gây sang chấn tinh thần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Những bất ổn trong các mối quan hệ thân thiết là nguồn cơn phổ biến tạo ra các cú sốc tâm lý mạnh [9]."
+  },
+  {
+    "question": "Thiếu dinh dưỡng lâu ngày là yếu tố chính gây sang chấn tinh thần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thiếu dinh dưỡng là stress thực thể, nó làm cơ thể yếu đi nhưng yếu tố chính gây sang chấn tinh thần thường là các biến cố tâm lý-xã hội [9]."
+  },
+  {
+    "question": "Những bệnh nhiễm khuẩn mạn tính là yếu tố thuận lợi gây sang chấn tinh thần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bệnh mạn tính bào mòn sức chịu đựng của hệ thần kinh, khiến cá nhân dễ gục ngã trước các áp lực tâm lý [9]."
+  },
+  {
+    "question": "Nhân cách yếu là yếu tố chính gây sang chấn tinh thần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nhân cách yếu chỉ là điều kiện thuận lợi (nội lực kém), còn sang chấn thường được kích phát bởi các sự kiện khách quan bên ngoài [9]."
+  },
+  {
+    "question": "Mâu thuẫn kéo dài trong cơ quan công tác là yếu tố chính gây sang chấn tinh thần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Áp lực và mâu thuẫn tại nơi làm việc kéo dài là một trong những nguyên nhân hàng đầu dẫn đến các rối loạn tâm lý nặng nề [9]."
+  },
+  {
+    "question": "Mâu thuẫn trong đời sống cá nhân gia đình là yếu tố chính gây sang chấn tinh thần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Gia đình là điểm tựa tinh thần; khi mâu thuẫn xảy ra tại đây, nó tác động trực tiếp và dữ dội nhất đến tâm lý con người [9]."
+  },
+  {
+    "question": "Giai đoạn báo động là giai đoạn được biểu hiện bằng những biến đổi đặc trưng của chủ thể khi tiếp xúc với các yếu tố gây stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là phản ứng tức thời của cơ thể nhằm huy động mọi nguồn lực để đối phó với tác nhân đe dọa [10]."
+  },
+  {
+    "question": "Trong một tình huống stress bình thường, chủ thể đáp ứng lại bằng ba giai đoạn báo động, chống đỡ và kiệt quệ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong stress bình thường, sau giai đoạn chống đỡ, cơ thể sẽ hồi phục nếu thích nghi thành công; giai đoạn kiệt quệ chỉ xuất hiện trong stress bệnh lý [10]."
+  },
+  {
+    "question": "Những tình huống gây ra stress bệnh lý cấp tính thường là không lường trước, mang tính chất dữ dội như: khi bị tấn công bất ngờ, khi gặp thảm hoạ...",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự bất ngờ và cường độ cực mạnh của kích thích khiến hệ thống thích nghi của cơ thể bị quá tải ngay lập tức [10]."
+  },
+  {
+    "question": "Tác động của tình huống stress không phụ thuộc vào nhiều yếu tố như thời điểm gây ra stress; cường độ, thời gian tác động lâu hay mau của stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, mức độ ảnh hưởng của stress phụ thuộc hoàn toàn vào cường độ, thời gian kéo dài và thời điểm xảy ra đối với cá nhân [10]."
+  },
+  {
+    "question": "Khả năng đương đầu với stress tuỳ theo từng người kinh nghiệm, vốn sống của cá nhân, những người đã trải qua một hoàn cảnh tương tự thường chịu đựng với stress tốt hơn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kinh nghiệm và kỹ năng ứng phó tích lũy được giúp cá nhân tăng cường bản lĩnh và sự linh hoạt khi đối mặt với áp lực [11]."
+  },
+  {
+    "question": "Lứa tuổi, cá tính, nghị lực của mỗi người không ảnh hưởng đến khả năng đương đầu với stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đây là những yếu tố nội tại quan trọng quyết định một người sẽ vượt qua stress hay bị nó đánh bại [11]."
+  },
+  {
+    "question": "Lo lắng về chi phí nằm viện có thể là yếu tố gây stress khi người bệnh nằm viện.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Áp lực kinh tế là một tác nhân stress ngoại lai phổ biến ảnh hưởng xấu đến tâm lý và quá trình hồi phục của bệnh nhân [11]."
+  },
+  {
+    "question": "Thái độ chăm sóc của nhân viên y tế không phải là yếu tố gây stress khi người bệnh nằm viện.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thái độ thờ ơ hoặc gắt gỏng của nhân viên y tế là một trong những nguồn gây stress mạnh nhất cho bệnh nhân trong môi trường bệnh viện [11]."
+  },
+  {
+    "question": "Chăm sóc người bệnh là công việc nặng nề, bận rộn, khối lượng công việc lớn, trang thiết bị còn thiếu thốn hoặc xuống cấp là yếu tố có thể gây stress ở người nhân viên y tế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Điều kiện làm việc khắc nghiệt và quá tải là những nguyên nhân khách quan gây stress nghề nghiệp cho cán bộ y tế [12]."
+  },
+  {
+    "question": "Không ngừng nâng cao chuyên môn để phục vụ tốt người bệnh là một trong những yếu tố giúp phòng ngừa stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kiến thức chuyên môn vững vàng giúp nhân viên y tế tự tin, giảm bớt lo âu và sai sót khi thực hiện nhiệm vụ [12]."
+  },
+  {
+    "question": "Stress có ảnh hưởng xấu tới tất cả mọi người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Một lượng stress vừa phải (stress tích cực) có thể kích thích sự phát triển và khả năng sáng tạo của con người [12]."
+  },
+  {
+    "question": "Tâm chấn càng bất ngờ càng dễ gây stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự thiếu chuẩn bị về tâm lý khiến con người dễ bị tổn thương hơn trước các biến cố đột ngột [12]."
+  },
+  {
+    "question": "Mọi người đều có cách thức vượt quá stress giống nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Cách ứng phó với stress mang tính cá nhân hóa sâu sắc, dựa trên nền tảng nhân cách và trải nghiệm riêng của mỗi người [12]."
+  },
+  {
+    "question": "Mọi người gặp stress đều dẫn đến rối loạn tâm thần.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Stress chỉ dẫn đến rối loạn tâm thần khi các cơ chế thích nghi bị thất bại hoàn toàn và kéo dài [13]."
+  },
+  {
+    "question": "Giải tỏa tâm lý giúp con người vượt qua được stress.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Việc bộc lộ cảm xúc và nhận được sự hỗ trợ tâm lý là phương pháp hữu hiệu để cân bằng lại trạng thái tinh thần [13]."
+  },
+  {
+    "question": "Xây dựng mạng lưới tiếp cận dân, theo tuyến, theo điểm dân cư, Thực hiện tốt các chương trình y tế quốc gia và các nội dung CSSKBĐ thực hiện có hiệu quả các chính sách y tế gọi là nguyên tắc Phục vụ nhân dân kịp thời hiệu quả",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là nội dung cốt lõi của nguyên tắc phục vụ nhân dân kịp thời và hiệu quả trong tổ chức ngành y tế Việt Nam [1]."
+  },
+  {
+    "question": "Xây dựng mạng lưới tiếp cận dân, theo tuyến, theo điểm dân cư, Thực hiện tốt các chương trình y tế quốc gia và các nội dung CSSKBĐ thực hiện có hiệu quả các chính sách y tế gọi là nguyên tắc Phù hợp:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nội dung này thuộc về nguyên tắc phục vụ nhân dân, không phải nguyên tắc phù hợp [1]."
+  },
+  {
+    "question": "Theo nguyên tắc cơ bản về hệ thống tổ chức Ngành Y tế Việt Nam, phát triển theo hướng dự phòng đó là ngoài hệ thống khám chữa bệnh còn cần phải phát triển các cơ sở phòng chống dịch, phòng chống các bệnh xã hội, công tác truyền thông giáo dục sức khỏe.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Xây dựng theo hướng dự phòng là một trong những nguyên tắc cơ bản của tổ chức y tế Việt Nam [2]."
+  },
+  {
+    "question": "Đặc điểm nhiệm vụ của khu vực y tế phổ cập là thực hiện nội dung chăm sóc sức khỏe ban đầu, sử dụng các kỹ thuật thông thường phổ biến.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế phổ cập tập trung vào việc đưa các dịch vụ chăm sóc sức khỏe ban đầu đến tận người dân bằng các kỹ thuật thích hợp [2]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế phổ cập là đảm bảo mọi nhu cầu cho nhân dân hàng ngày",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khu vực y tế phổ cập có nhiệm vụ đáp ứng các nhu cầu chăm sóc sức khỏe thiết yếu hàng ngày của cộng đồng [2]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế phổ cập là sử dụng các kĩ thuật thông thường",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế phổ cập chủ yếu sử dụng các kỹ thuật y tế thông thường và phổ biến để phục vụ đại đa số nhân dân [3]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế phổ cập là sử dụng các trang thiết bị hiện đại",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trang thiết bị hiện đại thường tập trung ở khu vực y tế chuyên sâu, còn y tế phổ cập ưu tiên kỹ thuật thông thường [3]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế phổ cập là sử dụng các kĩ thuật phổ biến",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sử dụng kỹ thuật phổ biến giúp đảm bảo tính tiếp cận và phù hợp với điều kiện kinh tế - xã hội tại địa phương [3]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế phổ cập là sử dụng các kĩ thuật cao",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Kỹ thuật cao là đặc điểm và nhiệm vụ của khu vực y tế chuyên sâu [3]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế chuyên sâu là đảm bảo mọi nhu cầu cho nhân dân hàng ngày",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Việc đảm bảo nhu cầu hàng ngày thuộc về y tế phổ cập; y tế chuyên sâu tập trung vào các trường hợp khó và nghiên cứu kỹ thuật cao [3]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế chuyên sâu là sử dụng các kĩ thuật thông thường phổ biến",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Y tế chuyên sâu không tập trung vào kỹ thuật thông thường mà hướng tới ứng dụng khoa học kỹ thuật tiên tiến [4]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế chuyên sâu là từng bước áp dụng KHKT cao",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khu vực này có vai trò đi đầu trong việc áp dụng và phát triển các kỹ thuật y học hiện đại [4]."
+  },
+  {
+    "question": "Nhiệm vụ cơ bản của khu vực y tế chuyên sâu là nghiên cứu khoa học",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bên cạnh điều trị, nghiên cứu khoa học là một nhiệm vụ trọng tâm của các đơn vị y tế chuyên sâu [4]."
+  },
+  {
+    "question": "Theo nguyên tắc cơ bản về hệ thống tổ chức Ngành Y tế Việt Nam, để phục vụ nhân dân tốt, có hiệu quả cao, màng lưới y tế Việt Nam không nên rộng khắp từ thành thị đến nông thôn mà chỉ nên tập trung phát triển ở các thành phố lớn với trang thiết bị hiện đại, chuyên khoa hoá sâu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nguyên tắc tổ chức của y tế Việt Nam là phải rộng khắp để phục vụ nhân dân tốt nhất, không chỉ tập trung ở thành phố [4]."
+  },
+  {
+    "question": "Các tuyến y tế từ trung ương đến địa phương trong hệ thống ngành y tế đều hoạt động độc lập không có sự hỗ trợ lẫn nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Các tuyến y tế luôn có sự phối hợp và hỗ trợ lẫn nhau về chuyên môn và kỹ thuật để nâng cao chất lượng chăm sóc [5]."
+  },
+  {
+    "question": "Tổ chức màng lưới y tế cần phải phù hợp với trình độ quản lý và trình độ khoa học kỹ thuật của ngành y tế.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự phù hợp giữa tổ chức và năng lực quản lý, kỹ thuật đảm bảo hệ thống vận hành hiệu quả và bền vững [5]."
+  },
+  {
+    "question": "Phòng Y tế là cơ quan chuyên môn thuộc Ủy ban nhân dân quận, huyện thị xã.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phòng Y tế thực hiện chức năng quản lý nhà nước về y tế trên địa bàn cấp huyện [5]."
+  },
+  {
+    "question": "Trung tâm y tế dự phòng huyện là đơn vị sự nghiệp có tư cách pháp nhân, có con dấu riêng và được mở tài khoản tại Kho bạc nhà nước.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là đơn vị có tính độc lập về pháp lý để thực hiện các nhiệm vụ y tế dự phòng tại địa phương [5]."
+  },
+  {
+    "question": "Y tế cơ sở còn gọi là y tế cộng đồng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tài liệu nguồn phân biệt y tế cơ sở và y tế cộng đồng; y tế cơ sở bao gồm cả mạng lưới xã phường và các đơn vị tại cơ quan, xí nghiệp [6]."
+  },
+  {
+    "question": "Y tế cơ sở còn gọi là y tế thực hiện CSSKBĐ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế cơ sở là nơi trực tiếp triển khai các nội dung của chăm sóc sức khỏe ban đầu đến người dân [6]."
+  },
+  {
+    "question": "Y tế tuyến tỉnh là y tế chuyên sâu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Y tế tuyến tỉnh thường thuộc khu vực y tế phổ cập, ngoại trừ các tỉnh trọng điểm được quy hoạch có các đơn vị chuyên sâu [6]."
+  },
+  {
+    "question": "Y tế quân đội nhân dân và công an nhân dân là một bộ phận của hệ thống tổ chức y tế quốc gia Việt Nam",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo tài liệu nguồn câu hỏi này được đánh dấu là Sai, có thể do cách phân định hệ thống y tế dân y và lực lượng vũ trang trong ngữ cảnh tổ chức cụ thể [6]."
+  },
+  {
+    "question": "Y tế đường sắt, y tế giao thông vận tải, y tế tổng cục cao su... là y tế ngành",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế ngành là các tổ chức y tế phục vụ riêng cho cán bộ, công nhân viên trong các ngành kinh tế cụ thể [6]."
+  },
+  {
+    "question": "Y tế xã phường thị trấn là y tế cơ sở trong hệ thống y tế quốc gia Việt Nam",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là cấp y tế thấp nhất nhưng quan trọng nhất trong hệ thống quản lý nhà nước về y tế [6]."
+  },
+  {
+    "question": "Y tế cơ sở công nông lâm trường xí nghiệp trạm trại là y tế cơ sở trong hệ thống y tế quốc gia Việt Nam",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Các đơn vị này thuộc y tế ngành hoặc cơ sở, không nằm trực tiếp trong hệ thống quản lý theo đơn vị hành chính y tế quốc gia [7]."
+  },
+  {
+    "question": "Đào tạo đội ngũ cán bộ y tế đã đáp ứng cơ bản về số lượng và chất lượng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Công tác đào tạo nhân lực y tế luôn cần được cải thiện vì thực tế vẫn còn thiếu hụt về số lượng và sự phân bổ không đều [7]."
+  },
+  {
+    "question": "Trạm y tế cơ sở xây dựng và thực hiện theo kế hoạch hoạt động 6 tháng, một năm được UBND xã và TTYT huyện phê duyệt",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hoạt động của trạm y tế phải có kế hoạch rõ ràng và được các cấp có thẩm quyền phê duyệt để đảm bảo sự thống nhất [7]."
+  },
+  {
+    "question": "Khu vực đồng bằng, trung du Những xã từ 8000 dân trở xuống được bố trí từ 6 đến 7 cán bộ y tế",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Định mức cán bộ y tế xã được quy định cụ thể dựa trên quy mô dân số và đặc điểm địa lý khác nhau [7]."
+  },
+  {
+    "question": "Khu vực miền núi, Tây Nguyên, biên giới hải đảo Xã có 3000 dân trở lên được bố trí 05-06 cán bộ y tế",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các khu vực khó khăn được ưu tiên định mức cán bộ cao hơn so với tỷ lệ dân số để đảm bảo công tác CSSK [7]."
+  },
+  {
+    "question": "Những xã, phường, thị trấn có phòng khám khu vực và trung tâm y tế huyện đóng thì không cần thành lập trạm y tế",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Để tránh lãng phí nguồn lực, khi có các đơn vị y tế tuyến trên đóng tại địa bàn, có thể lồng ghép nhiệm vụ của trạm y tế vào các đơn vị đó [8]."
+  },
+  {
+    "question": "Trung tâm y tế dự phòng huyện là một đơn vị sự nghiệp có tư cách pháp nhân, có trụ sở, có con dấu riêng và được mở tài khoản tại kho bạc Nhà nước",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là quy định về địa vị pháp lý của trung tâm y tế dự phòng cấp huyện [8]."
+  },
+  {
+    "question": "Phòng y tế huyện là một đơn vị sự nghiệp có tư cách pháp nhân, có trụ sở, có con dấu riêng và được mở tài khoản tại kho bạc Nhà nước",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Phòng y tế là cơ quan quản lý nhà nước (hành chính), không phải là đơn vị sự nghiệp [8]."
+  },
+  {
+    "question": "Phòng y tế là cơ quan chuyên môn trực thuộc Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh thực hiện chức năng quản lý nhà nước về bảo vệ, chăm sóc và nâng cao sức khoẻ cho nhân dân trên địa bàn huyện gồm: y tế dự phòng,",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phòng y tế đóng vai trò tham mưu và quản lý nhà nước về mọi hoạt động y tế trên địa bàn quận/huyện [8]."
+  },
+  {
+    "question": "Y tế cơ sở (Xã phường thị trấn ) là y tế cộng đồng :",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế xã phường chính là hạt nhân của y tế cộng đồng, phục vụ trực tiếp dân cư tại địa bàn [9]."
+  },
+  {
+    "question": "Y tế cơ sở ( Xã phường thị trấn ) là y tế CSSKBĐ :",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hầu hết các hoạt động CSSKBĐ được thực hiện chủ yếu tại mạng lưới y tế cơ sở [9]."
+  },
+  {
+    "question": "Đối tượng của CSSKBĐ là cá nhân người bệnh:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đối tượng của CSSKBĐ là toàn thể cộng đồng và những người khỏe mạnh, không chỉ riêng cá nhân người bệnh [9]."
+  },
+  {
+    "question": "Đối tượng của chăm sóc y tế là cộng đồng :",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chăm sóc y tế hiện đại hướng tới cộng đồng để phòng bệnh và nâng cao sức khỏe toàn dân [9]."
+  },
+  {
+    "question": "CSSKBĐ nặng về chữa bệnh làm cho vai trò người dân trở nên chủ động và tự giác",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "CSSKBĐ tập trung vào dự phòng; nếu nặng về chữa bệnh sẽ khiến người dân rơi vào thế bị động [9]."
+  },
+  {
+    "question": "CSSKBĐ phải là nội dung quan trọng của y tế cơ sở :",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế cơ sở mà không thực hiện CSSKBĐ thì không hoàn thành nhiệm vụ cốt lõi của mình [9]."
+  },
+  {
+    "question": "CSSKBĐ là chăm sóc thiết yếu của cộng đồng với phương pháp thực hành dễ thực hiện dễ chấp nhận đối với cộng đồng :",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự chấp nhận của cộng đồng và tính thực tiễn là những tiêu chuẩn quan trọng của các kỹ thuật trong CSSKBĐ [9]."
+  },
+  {
+    "question": "Tuyên ngôn Alma-Ata ra đời vào năm 1978",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Năm 1978 đánh dấu sự ra đời của tuyên ngôn lịch sử về Chăm sóc sức khỏe ban đầu [10]."
+  },
+  {
+    "question": "Hội nghị quốc tế về CSSKBĐ tại Allma – Ata năm 1978 đánh dấu một bước ngoặt lịch sử trong việc thống nhất các quan niệm và định hướng cho công tác chăm sóc sức khỏe trên phạm vi toàn thế giới",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hội nghị đã tạo ra sự đồng thuận toàn cầu về chiến lược Sức khỏe cho mọi người [10]."
+  },
+  {
+    "question": "Hội nghị Alma – At đưa ra 6 mục tiêu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tài liệu ghi nhận hội nghị đã thiết lập các mục tiêu cụ thể để phát triển y tế thế giới [10]."
+  },
+  {
+    "question": "Hội nghị Alma –Ata là hội nghị nhằm mục tiêu Trao đổi kinh nghiệm và thông tin về phát triển chăm sóc sức khỏe ban đầu trong phạm vi hệ thống y tế quốc gia và các dịch vụ chăm sóc sức khỏe.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự trao đổi thông tin giúp các quốc gia học hỏi lẫn nhau để hoàn thiện hệ thống y tế của mình [10]."
+  },
+  {
+    "question": "Hội nghị Alma –Ata là hội nghị nhằm mục tiêu: Đẩy mạnh thực hiện CSSKBĐ ở tất cả các nước trên thế giới.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mục tiêu tối thượng là mọi người dân trên thế giới đều được hưởng các dịch vụ y tế cơ bản [11]."
+  },
+  {
+    "question": "Khuyến cáo của Hội nghị Alma – Ata là phải đề cao sự tham gia của cộng đồng trong chăm sóc sức khỏe ban đầu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "CSSKBĐ chỉ thành công khi có sự tham gia chủ động và đầy đủ của cộng đồng [11]."
+  },
+  {
+    "question": "Khuyến cáo của Hội nghị Alma – Ata là chính quyền không giữ vai trò quan trọng trong chăm sóc sức khỏe ban đầu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chính quyền đóng vai trò quyết định trong việc cam kết nguồn lực và chính sách cho CSSKBĐ [11]."
+  },
+  {
+    "question": "Khuyến cáo của Hội nghị Alma – Ata là cần Đào tạo nhân lực y tế và nhân lực liên quan đến y tế cho CSSKBĐ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhân lực là yếu tố then chốt để thực thi các chương trình y tế tại cộng đồng [11]."
+  },
+  {
+    "question": "Khuyến cáo của Hội nghị Alma – Ata trong chăm sóc sức khỏe ban đầu cần đưa các kỹ thuật thích hợp cho sức khỏe",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kỹ thuật thích hợp đảm bảo hiệu quả điều trị và tính khả thi về mặt kinh tế [12]."
+  },
+  {
+    "question": "Sức khỏe là trạng thái thoải mái về thể chất, tâm thần và xã hội",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mặc dù đây là định nghĩa của WHO, nhưng trong tài liệu nguồn này câu hỏi được đánh dấu là Sai, có thể do thiếu phần 'không bệnh tật hay thương tật' để trở thành định nghĩa đầy đủ [12]."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu là những chăm sóc sức khỏe thông thường không thiết yếu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo định nghĩa, CSSKBĐ phải là những chăm sóc sức khỏe thiết yếu, dựa trên các phương pháp và kỹ thuật thực hành khoa học."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu là những chăm sóc dựa trên những phương pháp và kỹ thuật thực hành đưa đến tận cá nhân và từng gia đình, được mọi người chấp nhận thông qua sự tham gia đầy đủ của họ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là nguyên tắc cốt lõi của CSSKBĐ nhằm đảm bảo tính tiếp cận và sự tham gia chủ động của cộng đồng."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu là những chăm sóc với dịch vụ tốt nhất và giá thành cao nhất",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "CSSKBĐ ưu tiên các kỹ thuật thích hợp với giá thành mà quốc gia và cộng đồng có thể chi trả được ở mỗi giai đoạn phát triển."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu nhấn mạnh đến những vấn đề sức khỏe chủ yếu của cộng đồng, đến tăng cường sức khỏe, phòng bệnh, chữa bệnh và phục hồi sức khỏe",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "CSSKBĐ bao quát toàn diện các mặt từ dự phòng, điều trị đến phục hồi chức năng tại tuyến cơ sở."
+  },
+  {
+    "question": "CSSKBĐ được coi là một bộ phận trong toàn bộ hệ thống y tế quốc gia, liên quan đến quá trình phát triển kinh tế, xã hội của cộng đồng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sức khỏe cộng đồng gắn liền với trình độ phát triển kinh tế và các chính sách xã hội của một quốc gia."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu tại Việt Nam có 8 nội dung",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Việt Nam áp dụng 10 nội dung CSSKBĐ (thêm 2 nội dung so với 8 nội dung tối thiểu của Hội nghị Alma-Ata)."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu tại Hội nghị Alma – Ata đưa ra có 10 nội dung",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Hội nghị Alma-Ata chỉ đưa ra 8 nội dung tối thiểu cho các quốc gia trên thế giới."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu phải dựa trên nguyên tắc tính công bằng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Công bằng là nguyên tắc hàng đầu, đảm bảo mọi người dân đều được tiếp cận dịch vụ y tế không phân biệt giàu nghèo."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu không chỉ là chữa bệnh mà còn phải tăng cường hiểu biết của người dân về sức khỏe và lối sống khỏe mạnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nâng cao nhận thức và thay đổi lối sống là biện pháp dự phòng tích cực nhất trong CSSKBĐ."
+  },
+  {
+    "question": "Giải quyết các vấn đề sức khỏe của cộng đồng không thể chỉ do ngành y tế mà cần thiết phải có sự tham gia của nhiều ngành khác là nguyên tắc phối hợp liên ngành trong CSSKBĐ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sức khỏe chịu tác động bởi môi trường, giáo dục, nông nghiệp... nên cần sự chung tay của toàn xã hội."
+  },
+  {
+    "question": "Giáo dục sức khỏe là nội dung quan trọng liên quan đến các nội dung khác trong CSSKBĐ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giáo dục sức khỏe giúp người dân có kiến thức để thực hiện tốt các nội dung khác như tiêm chủng, dinh dưỡng, vệ sinh môi trường."
+  },
+  {
+    "question": "Củng cố mạng lưới y tế cơ sở là 1 trong những nội dung mới của CSSKBĐ ở nước ta so với các nước trên thế giới",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Việt Nam xác định củng cố mạng lưới y tế xã phường là một nội dung đặc thù để triển khai CSSKBĐ hiệu quả."
+  },
+  {
+    "question": "Củng cố mạng lưới y tế cơ sở vừa là nội dung vừa là biện pháp để thực hiện chăm sóc sức khỏe ban đầu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Y tế cơ sở là nơi trực tiếp thực thi các chương trình y tế và cũng là đối tượng cần được đầu tư nâng cao năng lực."
+  },
+  {
+    "question": "Quản lý sức khỏe toàn dân là mục tiêu ngắn hạn của ngành y tế, là biện pháp chăm sóc sức khỏe tiên tiến theo quan điểm y học dự phòng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Quản lý sức khỏe toàn dân là mục tiêu dài hạn và mang tính chiến lược của hệ thống y tế."
+  },
+  {
+    "question": "Lập kế hoạch y tế thường phân làm 4 bước",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong quản lý y tế, quy trình lập kế hoạch chương trình thường được chia thành 5 bước cơ bản."
+  },
+  {
+    "question": "Trong quản lý các chương trình y tế, nội dung phần kết quả dự kiến được xây dựng trong nội dung đánh giá cuối năm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Kết quả dự kiến phải được xác định ngay từ khi lập kế hoạch để làm căn cứ thực hiện và theo dõi."
+  },
+  {
+    "question": "Mục tiêu là kết quả mong đợi đạt được của một chương trình hay một hoạt động",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mục tiêu đóng vai trò là cái đích cụ thể mà chương trình hướng tới để giải quyết vấn đề sức khỏe."
+  },
+  {
+    "question": "Mục tiêu ngắn hạn cần đạt được trong một thời gian cụ thể",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tính thời hạn là một đặc tính bắt buộc của mục tiêu y tế để đánh giá tính khả thi."
+  },
+  {
+    "question": "Mục tiêu có thể quan sát được khi ta có thể nhìn thấy hay biết rõ ràng kết quả của nó",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mục tiêu cần cụ thể (Specific) để người thực hiện biết chính xác mình cần đạt được điều gì."
+  },
+  {
+    "question": "Mục tiêu có thể đo lường được khi kết quả có thể số liệu hoá",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đo lường được (Measurable) thông qua các con số giúp đánh giá mức độ hoàn thành kế hoạch một cách khách quan."
+  },
+  {
+    "question": "Mục tiêu y tế cần cho lập kế hoạch và đánh giá kết quả",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Không có mục tiêu rõ ràng thì không thể xây dựng kế hoạch hành động và không có cơ sở để so sánh sau can thiệp."
+  },
+  {
+    "question": "Những khó khăn và trở ngại có thể giải quyết được có nghĩa là có giải pháp khả thi",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tính khả thi (Achievable) đảm bảo rằng nguồn lực và điều kiện hiện tại cho phép hoàn thành mục tiêu."
+  },
+  {
+    "question": "Nội dung “dự kiến kết quả thực hiện” chỉ dùng cho các hoạt động chuyên môn và không có trong kế hoạch theo dõi, giám sát",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mọi kế hoạch bao gồm cả giám sát đều cần có kết quả dự kiến để biết chất lượng công việc đạt được đến đâu."
+  },
+  {
+    "question": "Nội dung “dự kiến kết quả thực hiện” chỉ có khi đánh giá kết quả chương trình y tế và không cần có trong bản lập kế hoạch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Kết quả dự kiến là một thành phần bắt buộc trong bản kế hoạch năm hoặc kế hoạch hoạt động."
+  },
+  {
+    "question": "Các hoạt động theo dõi các chỉ số y tế dùng để biết chất lượng hiệu quả cộng việc đã thực hiện",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Theo dõi là quá trình thu thập thông tin thường xuyên để nhận diện những sai sót và điều chỉnh kịp thời."
+  },
+  {
+    "question": "Không cần phải xác định vấn đề khi lập kế hoạch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Xác định vấn đề sức khỏe là bước đầu tiên và quan trọng nhất để định hướng cho toàn bộ kế hoạch."
+  },
+  {
+    "question": "Xác định vấn đề là việc làm sau khi lập kế hoạch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Xác định vấn đề phải được thực hiện trước khi đề ra mục tiêu và các giải pháp can thiệp."
+  },
+  {
+    "question": "Đánh giá ban đầu rất quan trọng trong lập kế hoạch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đánh giá ban đầu giúp xác định thực trạng và nhu cầu ưu tiên của cộng đồng để lập kế hoạch sát thực tế."
+  },
+  {
+    "question": "Kết quả đánh giá ban đầu sẽ cho ta biết những gì làm được và không làm được, rút kinh nghiệm để lần sau làm tốt hơn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Số liệu nền từ đánh giá ban đầu là cơ sở để so sánh với kết quả đạt được sau này."
+  },
+  {
+    "question": "Việc nêu mục đích, mục tiêu chỉ cần sơ qua không cần thiết",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mục tiêu là thành phần cốt lõi, cần được mô tả chi tiết, rõ ràng và đảm bảo đầy đủ các đặc tính khoa học."
+  },
+  {
+    "question": "Để thực hiện công việc đạt kết quả tốt thì kế hoạch phải tốt",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kế hoạch khoa học và hợp lý là tiền đề cho sự thành công của các hoạt động thực tế."
+  },
+  {
+    "question": "Kế hoạch từ trên xuống không nên áp dụng cho thời kỳ hiện nay",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hiện nay ưu tiên lập kế hoạch từ dưới lên để đảm bảo tính dân chủ và đáp ứng đúng nhu cầu thực tế của địa phương."
+  },
+  {
+    "question": "Kế hoạch từ dưới lên do những người ngồi tại bộ phận làm kế hoạch soạn thảo ra",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Kế hoạch từ dưới lên phải có sự tham gia của những người trực tiếp thực hiện và đại diện cộng đồng."
+  },
+  {
+    "question": "Lập kế hoạch từ dưới lên thường mang tính chủ quan",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Lập kế hoạch từ trên xuống mới thường mang tính chủ quan; kế hoạch từ dưới lên mang tính khách quan và sát thực tế hơn."
+  },
+  {
+    "question": "Để xác định tình hình hiện tại của cộng đồng cần những thông tin về cộng đồng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các chỉ số về dân số, kinh tế, mô hình bệnh tật... là dữ liệu đầu vào không thể thiếu để lập kế hoạch y tế."
+  },
+  {
+    "question": "Một trong những phương pháp thu thập thông tin là nghiên cứu tài liệu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tận dụng các báo cáo, sổ sách có sẵn là cách nhanh nhất để thu thập các số liệu thứ cấp ban đầu."
+  },
+  {
+    "question": "Phương pháp cho điểm để xác định vấn đề sức khỏe còn có hạn chế vì khó nhận biết và đánh giá 4 tiêu chuẩn trong phương pháp cho điểm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hạn chế của phương pháp này là tính định tính cao, cần có sự thống nhất và kinh nghiệm của nhóm đánh giá."
+  },
+  {
+    "question": "Sau khi thu thập các thông tin cần thiết, thì không cần phải phân tích thông tin.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Phân tích thông tin là bước then chốt để chuyển dữ liệu thô thành kiến thức phục vụ việc ra quyết định."
+  },
+  {
+    "question": "Có 5 tiêu chuẩn để xác định vấn đề sức khỏe bằng phương pháp cho điểm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thường áp dụng 4 tiêu chuẩn cơ bản: quy mô, mức độ trầm trọng, sự quan tâm của cộng đồng và tính khả thi."
+  },
+  {
+    "question": "Có 6 tiêu chuẩn để lựa chọn vấn đề sức khỏe ưu tiên bằng phương pháp cho điểm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Để chọn ưu tiên, cần xem xét thêm các tiêu chuẩn về tính thực thi và hiệu quả kinh tế - xã hội."
+  },
+  {
+    "question": "Nên xác định nguyên nhân vấn đề sức khỏe bằng kỹ thuật nhưng tại sao",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kỹ thuật 'Tại sao' (Why-Why) giúp truy tìm đến tận cùng nguyên nhân gốc rễ của một vấn đề."
+  },
+  {
+    "question": "Muốn vẽ lên được “cây vấn đề” người ta thường dùng kỹ thuật “nhưng tại sao”",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cây vấn đề giúp trực quan hóa mối quan hệ nhân quả, từ đó xây dựng các giải pháp can thiệp đúng hướng."
+  },
+  {
+    "question": "Mục tiêu phải ngắn gọn rõ ràng và phải đảm bảo được 5 đặc tính cơ bản",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đó là các tiêu chuẩn SMART: Cụ thể, Đo lường được, Khả thi, Phù hợp và Có thời hạn."
+  },
+  {
+    "question": "Có 5 tiêu chuẩn để lựa chọn giải pháp tối ưu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Lựa chọn giải pháp cần cân nhắc tính hiệu quả, chi phí, sự chấp nhận và năng lực kỹ thuật của đơn vị."
+  },
+  {
+    "question": "Hoạt động là những việc sẽ làm, mô tả chi tiết hơn các giải pháp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hoạt động là bước cụ thể hóa các giải pháp thành các đầu việc có thể thực hiện được trong thực tế."
+  },
+  {
+    "question": "Kế hoạch hành động cần tụ, trả lời được các câu hỏi: Ai, cái gì, khi nào, ở đâu, như thế nào",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bản kế hoạch hành động hoàn chỉnh phải làm rõ trách nhiệm, thời gian và cách thức thực hiện công việc."
+  },
+  {
+    "question": "Các hoạt động theo dõi các chỉ số y tế dùng để biết chất lượng hiệu quả cộng việc đã thực hiện",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Theo dõi cung cấp dữ liệu liên tục để quản lý giám sát tiến độ và đánh giá kết quả thực hiện."
+  },
+  {
+    "question": "Đánh giá, theo dõi là các chức năng của quản lý y tế",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là mắt xích cuối cùng trong chu trình quản lý để rút kinh nghiệm cho chu kỳ kế tiếp."
+  },
+  {
+    "question": "Đơn vị thuộc y tế chuyên sâu là:",
+    "answers": [
+      "Bệnh viện đa khoa tỉnh",
+      "Trường đại học y dược",
+      "Trường trung học y tế tỉnh",
+      "Trung tâm y tế dự phòng tỉnh"
+    ],
+    "correct": 1,
+    "explanation": "Các trường đại học y dược có vai trò đào tạo nhân lực trình độ cao và thực hiện các nghiên cứu y học chuyên sâu."
+  },
+  {
+    "question": "Nhiệm vụ của y tế chuyên sâu là",
+    "answers": [
+      "Từng bước áp dụng KHKT cao",
+      "Sử dụng kĩ thuật cao",
+      "Nghiên cứu khoa học",
+      "Tất cả các ý kiến trên"
+    ],
+    "correct": 3,
+    "explanation": "Y tế chuyên sâu tập trung vào mũi nhọn khoa học kỹ thuật để giải quyết các ca bệnh khó và phát triển ngành y."
+  },
+   {
+    "question": "Đơn vị không thuộc y tế tỉnh, thành phố là:",
+    "answers": [
+      "Hệ dự phòng",
+      "Hệ khám chữa bệnh",
+      "Các viện nghiên cứu có giường bệnh",
+      "Hệ đào tạo"
+    ],
+    "correct": 2,
+    "explanation": "Các viện nghiên cứu có giường bệnh thường thuộc tuyến Trung ương, trong khi y tế tỉnh bao gồm các hệ dự phòng, khám chữa bệnh và đào tạo địa phương [1]."
+  },
+  {
+    "question": "Một trong những nhiệm vụ của Sở y tế là tổ chức thanh tra, kiểm tra:",
+    "answers": [
+      "Thực hiện pháp luật",
+      "Chuyên ngành y tế",
+      "Kinh tế, tài chính",
+      "Tài sản vật tư"
+    ],
+    "correct": 1,
+    "explanation": "Sở Y tế có chức năng quản lý nhà nước và thực hiện thanh tra, kiểm tra chuyên ngành y tế trên địa bàn tỉnh [2]."
+  },
+  {
+    "question": "Phòng Y tế là một đơn vị tổ chức quản lý nhà nước trực thuộc:",
+    "answers": [
+      "UBND huyện",
+      "UBND tỉnh",
+      "Ban tổ chức tỉnh ủy",
+      "Sở Y tế"
+    ],
+    "correct": 0,
+    "explanation": "Phòng Y tế là cơ quan chuyên môn trực thuộc Ủy ban nhân dân cấp huyện, thực hiện quản lý nhà nước về y tế tại địa phương [2]."
+  },
+  {
+    "question": "Xã đồng bằng có dưới 8000 dân được biên chế số cán bộ y tế (CBYT) tại trạm là:",
+    "answers": [
+      "2-3 CBYT",
+      "3-4 CBYT",
+      "5-6 CBYT",
+      "7-8 CBYT"
+    ],
+    "correct": 1,
+    "explanation": "Theo quy định về định mức nhân lực, xã đồng bằng có quy mô dân số nhỏ dưới 8000 dân được bố trí từ 3 đến 4 cán bộ [2]."
+  },
+  {
+    "question": "Xã đồng bằng từ 8000 - 12000 dân được biên chế số CBYT tại trạm là:",
+    "answers": [
+      "2-3 CBYT",
+      "3-4 CBYT",
+      "4-5 CBYT",
+      "7-8 CBYT"
+    ],
+    "correct": 2,
+    "explanation": "Dân số tăng lên mức trung bình ở đồng bằng đòi hỏi số lượng cán bộ y tế tương ứng là 4-5 người để đáp ứng nhu cầu chăm sóc [2]."
+  },
+  {
+    "question": "Xã đồng bằng trên 12000 dân được biên chế số CBYT tại trạm là:",
+    "answers": [
+      "2-3 CBYT",
+      "3-4 CBYT",
+      "4-5 CBYT",
+      "6-7 CBYT"
+    ],
+    "correct": 3,
+    "explanation": "Với quy mô dân số lớn trên 12000 dân, trạm y tế xã đồng bằng cần biên chế từ 6 đến 7 cán bộ để phục vụ kịp thời [3]."
+  },
+  {
+    "question": "Xã miền núi dưới 3000 dân được biên chế số CBYT tại trạm là:",
+    "answers": [
+      "2-3 CBYT",
+      "3-4 CBYT",
+      "4-5 CBYT",
+      "7-8 CBYT"
+    ],
+    "correct": 2,
+    "explanation": "Dù dân số ít, nhưng do địa hình miền núi khó khăn và phân tán, định mức cán bộ được ưu tiên cao hơn (4-5 CBYT) [3]."
+  },
+  {
+    "question": "Cán bộ y tế làm trạm trưởng trạm y tế xã theo đúng quy định hiện nay tốt nhất là:",
+    "answers": [
+      "Bác sĩ đa khoa",
+      "Y sĩ đa khoa chuyên môn về y tế công cộng",
+      "Y sĩ đa khoa biết sản nhi",
+      "Y sĩ y học dân tộc"
+    ],
+    "correct": 0,
+    "explanation": "Bác sĩ đa khoa được coi là chức danh tốt nhất cho vị trí trưởng trạm để đảm bảo chất lượng chuyên môn toàn diện tại cơ sở [3]."
+  },
+  {
+    "question": "Tổ chức y tế tuyến cơ sở hiện nay có bao nhiêu nhiệm vụ?",
+    "answers": [
+      "3 nhiệm vụ",
+      "5 nhiệm vụ",
+      "8 nhiệm vụ",
+      "11 nhiệm vụ"
+    ],
+    "correct": 3,
+    "explanation": "Trạm y tế xã hiện nay được giao thực hiện 11 nhiệm vụ cụ thể bao gồm cả dự phòng, khám chữa bệnh và quản lý y tế [4]."
+  },
+  {
+    "question": "Trạm y tế vùng cao, vùng sâu muốn hoàn thành nhiệm vụ chăm sóc sức khỏe nhân dân thì:",
+    "answers": [
+      "Mọi cán bộ y tế cần thường xuyên có mặt tại trạm",
+      "Mọi cán bộ y tế cần phân tán về các thôn bản",
+      "Một đến hai cán bộ y tế thường xuyên ở trạm, còn lại ở các thôn",
+      "Mọi cán bộ về thôn bản, tập trung tại trạm theo các ngày quy định"
+    ],
+    "correct": 2,
+    "explanation": "Để phù hợp với đặc thù vùng sâu vùng xa, cần chia nhân lực để vừa duy trì trực tại trạm vừa bám sát địa bàn thôn bản [4]."
+  },
+  {
+    "question": "Tuyên ngôn Alma-Ata khẳng định nội dung quan trọng nhất là:",
+    "answers": [
+      "Sức khỏe là quan trọng",
+      "Sức khỏe có thể đạt được cho mọi người",
+      "Sức khỏe là quyền cơ bản của công dân",
+      "Sức khỏe là tình trạng thoải mái hoàn toàn",
+      "Sức khỏe là rất quan trọng"
+    ],
+    "correct": 1,
+    "explanation": "Mục tiêu cốt lõi của Alma-Ata là chiến lược 'Sức khỏe cho mọi người' thông qua chăm sóc sức khỏe ban đầu [5]."
+  },
+  {
+    "question": "Nguyên tắc bao phủ tiếp cận trong chăm sóc sức khỏe ban đầu (CSSKBĐ) bao gồm:",
+    "answers": [
+      "Gần dân về cự ly, sát dân, thầy tại chỗ, thuốc tại chỗ",
+      "Gần dân về cự ly",
+      "Sát dân (tới cá nhân và hộ gia đình)",
+      "Thầy tại chỗ",
+      "Thuốc tại chỗ"
+    ],
+    "correct": 0,
+    "explanation": "Nguyên tắc này đảm bảo dịch vụ y tế đến tận tay người dân một cách thuận tiện và kịp thời nhất [5]."
+  },
+  {
+    "question": "Định nghĩa sức khỏe đầy đủ nhất theo tinh thần nguồn tài liệu là:",
+    "answers": [
+      "Tình trạng không bệnh tật, khuyết tật + thoải mái về thể chất, tâm thần, xã hội",
+      "Tình trạng không có khuyết tật",
+      "Tình trạng không bệnh tật",
+      "Tình trạng thoải mái về thể chất, tâm thần và xã hội",
+      "Khả năng thích nghi của cơ thể với môi trường"
+    ],
+    "correct": 0,
+    "explanation": "Sức khỏe không chỉ là không bệnh mà còn là trạng thái hưng thịnh toàn diện của con người [5]."
+  },
+  {
+    "question": "Theo định nghĩa bổ sung, sức khỏe là:",
+    "answers": [
+      "Trạng thái không bệnh tật",
+      "Trạng thái thoải mái về thể chất, tâm thần và xã hội",
+      "Khả năng thích nghi của cơ thể với môi trường sống",
+      "Trạng thái thoải mái hoàn toàn về thể chất, tâm thần, xã hội + không bệnh tật",
+      "Tình trạng không có khuyết tật"
+    ],
+    "correct": 3,
+    "explanation": "Nguồn tài liệu nhấn mạnh sự kết hợp giữa cảm giác thoải mái và sự vắng bóng của các tổn thương bệnh lý [6]."
+  },
+  {
+    "question": "Sức khỏe là quyền cơ bản, nghĩa là:",
+    "answers": [
+      "Quyền được đảm bảo CSSK, nghĩa vụ bảo vệ SK mình và cộng đồng",
+      "Có quyền chọn sức khỏe cho mình, không cần đối với người khác",
+      "Có quyền hủy hoại SK mình nếu thấy cần",
+      "Có quyền đòi hỏi có SK không cần nghĩa vụ",
+      "Quyền được phân phối sản phẩm về sức khoẻ"
+    ],
+    "correct": 0,
+    "explanation": "Quyền lợi luôn đi đôi với trách nhiệm cá nhân và nghĩa vụ đối với cộng đồng trong việc bảo vệ môi trường và sức khỏe chung [7]."
+  },
+  {
+    "question": "Việc vươn tới tình trạng sức khỏe ngày càng tốt hơn là trách nhiệm của:",
+    "answers": [
+      "Nhà nước, công dân, xã hội",
+      "Quyền tự do không được xâm phạm",
+      "Trách nhiệm của nhà nước XHCN",
+      "Trách nhiệm của công dân",
+      "Trách nhiệm của xã hội"
+    ],
+    "correct": 4,
+    "explanation": "Trong bối cảnh CSSKBĐ, xã hội đóng vai trò nòng cốt trong việc tạo điều kiện và thúc đẩy phong trào bảo vệ sức khỏe [8]."
+  },
+  {
+    "question": "Khả năng vươn tới sức khỏe (không bệnh tật) ở chế độ XHCN đạt được cho:",
+    "answers": [
+      "Tất cả mọi người",
+      "Người giàu",
+      "Người nghèo",
+      "Người thành thị",
+      "Người nông thôn"
+    ],
+    "correct": 0,
+    "explanation": "Tính ưu việt của chế độ xã hội chủ nghĩa là hướng tới công bằng, đảm bảo mọi tầng lớp nhân dân đều được chăm sóc y tế [8]."
+  },
+  {
+    "question": "Khả năng vươn tới sức khỏe ở chế độ Tư bản chủ nghĩa (TBCN) thường ưu tiên cho:",
+    "answers": [
+      "Người giàu",
+      "Người nghèo",
+      "Người thành thị",
+      "Người nông thôn",
+      "Tất cả mọi người"
+    ],
+    "correct": 0,
+    "explanation": "Ở các nước tư bản, khả năng tiếp cận dịch vụ y tế cao cấp thường phụ thuộc vào điều kiện kinh tế cá nhân [8]."
+  },
+  {
+    "question": "Mục tiêu chính của công tác CSSKBĐ là:",
+    "answers": [
+      "Mọi người không có bệnh",
+      "Chữa bệnh",
+      "Phòng bệnh",
+      "Vệ sinh phòng chống dịch",
+      "Giáo dục sức khỏe"
+    ],
+    "correct": 2,
+    "explanation": "CSSKBĐ lấy dự phòng và phòng bệnh làm trọng tâm để giảm thiểu tỷ lệ mắc bệnh trong cộng đồng [9]."
+  },
+  {
+    "question": "Mục tiêu của các bệnh viện lớn hiện nay là:",
+    "answers": [
+      "Cứu chữa bệnh nhân bằng mọi cách",
+      "Có nhiều người bệnh để chữa",
+      "Phát triển KHKT",
+      "Thực hiện chuyên môn sâu",
+      "Dự phòng"
+    ],
+    "correct": 3,
+    "explanation": "Trái với y tế cơ sở, tuyến bệnh viện tập trung vào việc phát triển các kỹ thuật chuyên sâu để điều trị các ca bệnh phức tạp [9]."
+  },
+  {
+    "question": "Mô hình tổ chức CSSKBĐ ở Việt Nam được xếp vào khu vực:",
+    "answers": [
+      "Y tế phổ cập",
+      "Y tế chuyên sâu",
+      "Y tế địa phương",
+      "Y tế địa bàn",
+      "Y tế ngành"
+    ],
+    "correct": 0,
+    "explanation": "CSSKBĐ là nền tảng của y tế phổ cập, đảm bảo mọi nhu cầu cơ bản của người dân được đáp ứng rộng khắp [9]."
+  },
+  {
+    "question": "Quan điểm cơ bản của CSSKBĐ thuộc quan điểm nào sau đây?",
+    "answers": [
+      "Quan điểm dự phòng",
+      "Quan điểm chính trị",
+      "Quan điểm đông tây y kết hợp",
+      "Quan điểm quần chúng",
+      "Quan điểm xây dựng nguồn nhân lực"
+    ],
+    "correct": 0,
+    "explanation": "Dự phòng tích cực là kim chỉ nam xuyên suốt các hoạt động chăm sóc sức khỏe tại tuyến cơ sở [10]."
+  },
+  {
+    "question": "Y tế cộng đồng thực chất là mạng lưới:",
+    "answers": [
+      "Y tế cơ sở xã phường, thị trấn",
+      "Y tế cơ sở trạm trại, xí nghiệp",
+      "Y tế cơ quan",
+      "Y tế thôn bản, cụm dân cư",
+      "Y tế quận huyện"
+    ],
+    "correct": 0,
+    "explanation": "Mạng lưới xã phường là cấp gần dân nhất, trực tiếp thực hiện các hoạt động cộng đồng [10]."
+  },
+  {
+    "question": "Đơn vị nhỏ nhất trong hệ thống y tế quốc gia Việt Nam là:",
+    "answers": [
+      "Y tế xã phường thị trấn",
+      "Y tế gia đình",
+      "Y tế cụm dân cư",
+      "Y tế thôn bản",
+      "Y tế khu vực"
+    ],
+    "correct": 3,
+    "explanation": "Y tế thôn bản đóng vai trò là 'cánh tay nối dài' của trạm y tế xã tới từng cụm dân cư [10]."
+  },
+  {
+    "question": "Cơ chế điều hành CSSKBĐ ở cơ sở hiệu quả nhất là:",
+    "answers": [
+      "Cấp ủy lãnh đạo",
+      "Huy động các ngành dưới sự điều hành nhà nước",
+      "Huy động các ngành dưới sự điều hành cấp ủy",
+      "Huy động các ngành do y tế làm nòng cốt dưới sự điều hành của cấp ủy",
+      "Huy động các ngành dưới sự điều hành của y tế"
+    ],
+    "correct": 3,
+    "explanation": "Sự lãnh đạo của Đảng kết hợp với chuyên môn y tế làm nòng cốt đảm bảo tính liên ngành và hiệu lực [11]."
+  },
+  {
+    "question": "Nguyên tắc cơ bản trong lồng ghép các chương trình y tế là:",
+    "answers": [
+      "Vận động dân tham gia",
+      "Tác động vào cộng đồng",
+      "Phối hợp phương pháp phù hợp",
+      "Tất cả các ý trên",
+      "Xác định vai trò nòng cốt"
+    ],
+    "correct": 4,
+    "explanation": "Dù có nhiều hoạt động, việc xác định rõ đơn vị và vai trò nòng cốt là yếu tố then chốt để lồng ghép thành công [12]."
+  },
+  {
+    "question": "Y tế cơ sở của Việt Nam đồng nghĩa với:",
+    "answers": [
+      "Y tế cộng đồng và thực hiện CSSKBĐ",
+      "Thực hiện đường lối của Đảng",
+      "Y tế thôn bản",
+      "Y tế cộng đồng",
+      "Y tế thực hiện CSSKBĐ"
+    ],
+    "correct": 0,
+    "explanation": "Khái niệm y tế cơ sở tại Việt Nam bao hàm cả chức năng phục vụ cộng đồng và thực thi các nội dung CSSKBĐ [12]."
+  },
+  {
+    "question": "Tuyến y tế trực tiếp thực hiện chăm sóc sức khỏe ban đầu là:",
+    "answers": [
+      "Y tế gia đình",
+      "Y tế cụm dân cư",
+      "Y tế thôn bản",
+      "Y tế xã phường thị trấn",
+      "Y tế huyện quận"
+    ],
+    "correct": 3,
+    "explanation": "Tuyến xã phường là đơn vị hành chính y tế cơ bản nhất chịu trách nhiệm triển khai CSSKBĐ [13]."
+  },
+  {
+    "question": "Tuyến y tế 'tiền ban đầu' được định nghĩa là:",
+    "answers": [
+      "Y tế gia đình, cụm dân cư, thôn bản",
+      "Y tế xã phường thị trấn",
+      "Y tế cụm dân cư",
+      "Y tế thôn bản",
+      "Y tế gia đình"
+    ],
+    "correct": 3,
+    "explanation": "Y tế thôn bản là cấp độ sơ khởi nhất, tiếp cận dân trước cả khi họ đến trạm y tế xã [13]."
+  },
+  {
+    "question": "Tuyến y tế hỗ trợ trực tiếp cho chăm sóc sức khỏe ban đầu là:",
+    "answers": [
+      "Y tế huyện quận, thị xã",
+      "Y tế gia đình",
+      "Y tế cụm dân cư",
+      "Y tế thôn bản",
+      "Y tế xã phường thị trấn"
+    ],
+    "correct": 0,
+    "explanation": "Tuyến huyện đóng vai trò hỗ trợ chuyên môn và kỹ thuật trực tiếp cho các trạm y tế xã [13]."
+  },
+  {
+    "question": "Kỹ thuật thực hiện trong CSSKBĐ phải đảm bảo tính chất:",
+    "answers": [
+      "Đơn giản, dễ thực hiện, khoa học, thực hành",
+      "Dễ thực hiện",
+      "Khoa học",
+      "Thực hành",
+      "Khoa học và thực hành"
+    ],
+    "correct": 0,
+    "explanation": "Kỹ thuật thích hợp phải vừa đảm bảo tính khoa học vừa phải đủ đơn giản để cộng đồng có thể chấp nhận và tham gia [14]."
+  },
+  {
+    "question": "Nguyên tắc bao phủ tiếp cận trong CSSKBĐ nhấn mạnh yếu tố:",
+    "answers": [
+      "Gần dân, sát dân, thầy tại chỗ, thuốc tại chỗ",
+      "Gần dân về cự ly",
+      "Sát dân",
+      "Thầy tại chỗ",
+      "Thuốc tại chỗ"
+    ],
+    "correct": 0,
+    "explanation": "Sự sẵn có của nhân lực và thuốc men ngay tại địa phương là yếu tố quyết định sự thành công của CSSKBĐ [14]."
+  },
+  {
+    "question": "Tuyên ngôn Alma-Ata chú trọng vào biện pháp nào để duy trì y tế bền vững?",
+    "answers": [
+      "Y tế tiếp cận cộng đồng",
+      "Công bằng xã hội",
+      "Phát triển Y tế gắn với tăng trưởng kinh tế",
+      "Dự phòng là cơ bản"
+    ],
+    "correct": 2,
+    "explanation": "Sức khỏe không thể tách rời điều kiện kinh tế; tăng trưởng kinh tế là nguồn lực để đầu tư lại cho y tế [14]."
+  },
+  {
+    "question": "Chăm sóc sức khỏe ban đầu (theo Alma-Ata) là:",
+    "answers": [
+      "Chăm sóc thiết yếu dựa trên khoa học, kỹ thuật đơn giản, dễ tiếp cận",
+      "Chức năng quan trọng của y tế quốc gia",
+      "Bộ phận chính để đạt mục tiêu Sức khỏe cho mọi người",
+      "Chính là y tế cơ sở tại Việt Nam",
+      "Chìa khóa mở cánh cửa sức khỏe"
+    ],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa chuẩn mực về bản chất và phương pháp của CSSKBĐ trên toàn thế giới [15]."
+  },
+  {
+    "question": "Các nguyên tắc tính của CSSKBĐ bao gồm:",
+    "answers": [
+      "Công bằng, dự phòng tích cực, cộng đồng tham gia, kỹ thuật thích hợp, liên ngành",
+      "Dự phòng tích cực, liên ngành",
+      "Tham gia của cộng đồng, kỹ thuật thích hợp",
+      "Kỹ thuật thích hợp",
+      "Phối hợp liên ngành"
+    ],
+    "correct": 0,
+    "explanation": "Năm nguyên tắc này tạo thành một chỉnh thể thống nhất để vận hành hệ thống CSSKBĐ hiệu quả [16]."
+  },
+  {
+    "question": "Nội dung CSSKBĐ của Việt Nam có điểm gì khác biệt?",
+    "answers": [
+      "8 nội dung tối thiểu của WHO + 2 nội dung thêm của Việt Nam",
+      "Gồm 10 nội dung phối hợp",
+      "8 nội dung tối thiểu của WHO",
+      "10 nội dung cơ bản về y tế cơ sở",
+      "8 nội dung WHO và 10 nội dung cơ sở"
+    ],
+    "correct": 0,
+    "explanation": "Việt Nam đã bổ sung thêm các nội dung như quản lý sức khỏe và củng cố mạng lưới y tế cơ sở để phù hợp tình hình trong nước [16]."
+  },
+  {
+    "question": "Phương thức hoạt động chủ yếu của CSSKBĐ là:",
+    "answers": [
+      "Lồng ghép, phối hợp liên ngành và xã hội hóa y tế",
+      "Phối hợp",
+      "Hoạt động liên ngành",
+      "Lồng ghép và xã hội hóa",
+      "Phối hợp và xã hội hóa"
+    ],
+    "correct": 0,
+    "explanation": "Sự kết hợp giữa nhiều ngành và sự tham gia của người dân (xã hội hóa) giúp tối ưu hóa nguồn lực y tế [17]."
+  },
+  {
+    "question": "Lồng ghép trong chăm sóc sức khỏe ban đầu được hiểu là:",
+    "answers": [
+      "Phối hợp nội dung CSSK với các chương trình quốc gia và quản lý xã hội",
+      "Phối hợp các hoạt động nội bộ ngành y tế",
+      "Phối hợp với các tổ chức xã hội nhằm thực hiện mục tiêu y tế",
+      "Phối hợp hoạt động ngành dọc với cơ sở",
+      "Phối hợp y tế với hoạt động xã hội"
+    ],
+    "correct": 2,
+    "explanation": "Lồng ghép giúp tận dụng bộ máy tổ chức xã hội sẵn có để truyền tải các thông điệp và dịch vụ y tế [18]."
+  },
+  {
+    "question": "Trong hoạt động liên ngành, ngành y tế đóng vai trò:",
+    "answers": [
+      "Huy động các ngành dưới sự điều hành nhà nước",
+      "Chính quyền quản lý",
+      "Mặt trận thực hiện",
+      "Đoàn thể thi hành",
+      "Nòng cốt, tham mưu cho chính quyền và cấp ủy thực hiện mục tiêu"
+    ],
+    "correct": 4,
+    "explanation": "Y tế không làm thay các ngành khác mà đóng vai trò dẫn dắt và tư vấn chuyên môn cho các cấp lãnh đạo [18]."
+  },
+  {
+    "question": "Đặc điểm của hệ thống chăm sóc y tế (theo kiểu cũ) là:",
+    "answers": [
+      "Hệ thống dọc, coi trọng bệnh viện và nhân viên y tế",
+      "Hệ thống tổng hợp liên ngành",
+      "Hệ thống chữa bệnh chủ yếu",
+      "Hệ thống chú ý điều trị cá nhân",
+      "Hệ thống dọc coi trọng thầy thuốc"
+    ],
+    "correct": 0,
+    "explanation": "Hệ thống truyền thống thường nặng về điều trị tại bệnh viện và ít chú ý đến các yếu tố xã hội, dự phòng [19]."
+  },
+  {
+    "question": "Hệ thống chăm sóc sức khỏe ban đầu có đặc điểm là:",
+    "answers": [
+      "Tổng hợp, liên ngành, dự phòng, bảo vệ cộng đồng và chữa bệnh",
+      "Hệ thống tổng hợp",
+      "Coi trọng dự phòng",
+      "Hệ thống dọc của ngành y tế",
+      "Hệ thống kết hợp chú ý vùng khó khăn"
+    ],
+    "correct": 0,
+    "explanation": "Đây là mô hình y tế tiến bộ, cân bằng giữa phòng và trị, lấy cộng đồng làm trung tâm [19]."
+  },
+  {
+    "question": "Để lập kế hoạch y tế hàng năm, trạm y tế cần căn cứ vào:",
+    "answers": [
+      "Nhu cầu địa phương và chỉ tiêu cấp trên giao",
+      "Nhu cầu y tế của địa phương",
+      "Nhu cầu địa phương và kế hoạch năm trước",
+      "Lập kế hoạch như năm trước",
+      "Báo cáo xin chỉ tiêu"
+    ],
+    "correct": 0,
+    "explanation": "Kế hoạch phải vừa bám sát thực tế địa phương vừa đảm bảo hoàn thành các nhiệm vụ pháp định của cấp trên [20]."
+  },
+  {
+    "question": "Bước đầu tiên trong lập kế hoạch chương trình y tế là:",
+    "answers": [
+      "Tổng kết năm trước",
+      "Lựa chọn ưu tiên",
+      "Đánh giá tình hình và lựa chọn vấn đề ưu tiên",
+      "Thu thập thông tin mục tiêu",
+      "Thu thập thông tin và chọn ưu tiên"
+    ],
+    "correct": 2,
+    "explanation": "Không thể lập kế hoạch nếu không hiểu rõ thực trạng và chưa xác định được việc gì cần làm trước [21]."
+  },
+  {
+    "question": "Chu trình lập kế hoạch chương trình y tế gồm bao nhiêu bước cơ bản?",
+    "answers": [
+      "4 bước",
+      "3 bước",
+      "5 bước",
+      "6 bước",
+      "7 bước"
+    ],
+    "correct": 2,
+    "explanation": "Năm bước cơ bản bao gồm: đánh giá thực trạng, lập kế hoạch, tổ chức thực hiện, theo dõi và đánh giá [21]."
+  },
+  {
+    "question": "Xây dựng mục tiêu kế hoạch hiện nay cần dựa trên các yếu tố nào?",
+    "answers": [
+      "Chỉ tiêu cấp trên và mục tiêu năm trước",
+      "Nhu cầu y tế địa phương năm nay",
+      "Nhu cầu địa phương và chỉ tiêu cấp trên",
+      "Nhu cầu địa phương, chỉ tiêu cấp trên và nguồn lực hiện có",
+      "Chỉ tiêu cấp trên và nguồn lực"
+    ],
+    "correct": 3,
+    "explanation": "Nguồn lực hiện có (người, tiền, vật tư) là yếu tố quyết định tính khả thi của mục tiêu đề ra [22]."
+  },
+  {
+    "question": "Kế hoạch chương trình y tế 1 năm phải bao gồm các nội dung quản lý như:",
+    "answers": [
+      "Kế hoạch tài chính",
+      "Kế hoạch đánh giá",
+      "Hoạt động giám sát",
+      "Tài chính và đánh giá",
+      "Tài chính, đánh giá và giám sát"
+    ],
+    "correct": 4,
+    "explanation": "Bản kế hoạch hoàn chỉnh phải dự trù được cả kinh phí thực hiện lẫn cách thức kiểm tra hiệu quả [23]."
+  },
+  {
+    "question": "Nội dung nào sau đây là bắt buộc trong kế hoạch năm?",
+    "answers": [
+      "Hoạt động đánh giá",
+      "Hoạt động theo dõi",
+      "Kết quả dự kiến",
+      "Theo dõi và kết quả dự kiến",
+      "Đánh giá, theo dõi và kết quả dự kiến"
+    ],
+    "correct": 4,
+    "explanation": "Ba yếu tố này giúp nhà quản lý kiểm soát được tiến độ và đo lường được thành công của chương trình [23]."
+  },
+  {
+    "question": "Bước cuối cùng của chu trình quản lý y tế là:",
+    "answers": [
+      "Đánh giá các hoạt động",
+      "Tổng kết các hoạt động",
+      "Viết bản kế hoạch hành động",
+      "Viết báo cáo lập kế hoạch"
+    ],
+    "correct": 0,
+    "explanation": "Đánh giá giúp rút ra bài học kinh nghiệm để bắt đầu một chu trình quản lý mới hoàn thiện hơn [24]."
+  },
+  {
+    "question": "Mục tiêu y tế trong bản kế hoạch đóng vai trò là:",
+    "answers": [
+      "Chỉ số phải đạt được",
+      "Chỉ số theo dõi tiến độ",
+      "Nội dung dùng để đánh giá",
+      "Chỉ số so sánh với kết quả",
+      "Nội dung để đánh giá và so sánh với kết quả đạt được"
+    ],
+    "correct": 4,
+    "explanation": "Mục tiêu chính là thước đo để xem chúng ta đã đi được bao xa và đạt được những gì so với dự kiến [24]."
+  },
+  {
+    "question": "Một mục tiêu y tế hoàn chỉnh cần trả lời được các câu hỏi:",
+    "answers": [
+      "Làm điều gì, bao nhiêu tiền, bao giờ xong?",
+      "Bao giờ xong, kết quả ra sao?",
+      "Kinh phí bao nhiêu, có khả thi không?",
+      "Làm điều gì, làm được bao nhiêu, khi nào xong?",
+      "Làm điều gì, chính quyền có quan tâm không?"
+    ],
+    "correct": 3,
+    "explanation": "Đây là cách phát biểu mục tiêu cụ thể, định lượng và có thời hạn (theo tiêu chuẩn SMART) [25]."
+  },
+  {
+    "question": "Một mục tiêu y tế cần đáp ứng các tiêu chuẩn sau:",
+    "answers": [
+      "Đặc thù, theo dõi được và biết thời gian xong.",
+      "Đặc thù và thực hiện có kết quả.",
+      "Đo lường được, phù hợp và có tính khả thi",
+      "Đặc thù, theo dõi được và biết thời gian xong. Đo lường được, phù hợp và có tính khả thi"
+    ],
+    "correct": 3,
+    "explanation": "Một mục tiêu khoa học phải hội đủ các yếu tố SMART: cụ thể (đặc thù), đo lường được, khả thi, phù hợp và có thời hạn xác định [1], [2]."
+  },
+  {
+    "question": "Một mục tiêu y tế bao gồm:",
+    "answers": [
+      "Làm điều gì và khi nào xong ?",
+      "Khi nào xong và kết quả, lợi ích như thế nào ?",
+      "Cho ai, kinh phí thực hiện được bao nhiêu, khi nào xong ?",
+      "Cho ai, làm được bao nhiêu, có khả thi không ?",
+      "Làm điều gì và khi nào xong ? Cho ai, làm được bao nhiêu, có khả thi không ?"
+    ],
+    "correct": 4,
+    "explanation": "Cách phát biểu mục tiêu đầy đủ phải làm rõ đối tượng, nội dung công việc, định lượng kết quả và thời gian hoàn thành [2]."
+  },
+  {
+    "question": "Ở một cộng đồng có nhiều vấn đề sức khoẻ, xác định vấn đề sức khoẻ ưu tiên là:",
+    "answers": [
+      "Phân chia tất cả vấn đề sức khoẻ đó để giải quyết tuần tự theo từng vấn đề cụ thể.",
+      "Chọn những vấn đề sức khoẻ nào mà cộng đồng muốn thực hiện",
+      "Chọn những vấn đề sức khoẻ nào mà y tế tuyến trên cung cấp ngân sách",
+      "Chọn những vấn đề sức khoẻ nào mà có khả năng nguồn lực và giải quyết có tính khả thi."
+    ],
+    "correct": 3,
+    "explanation": "Lựa chọn ưu tiên dựa trên tính khả thi và nguồn lực sẵn có để đảm bảo chương trình y tế đạt được hiệu quả thực tế [3]."
+  },
+  {
+    "question": "Ở một cộng đồng có nhiều vấn đề sức khoẻ, xác định vấn đề sức khoẻ ưu tiên là:",
+    "answers": [
+      "Chọn những vấn đề có mức độ phổ biến trong cộng đồng",
+      "Chọn những vấn đề sức khoẻ nào mà cộng đồng muốn thực hiện",
+      "Chọn những vấn đề sức khoẻ nào mà y tế tuyến trên cung cấp ngân sách",
+      "Chọn những vấn đề ưu tiên theo bảng phân loại ưu tiên",
+      "Chọn những vấn đề có đầy đủ nguồn lực để thực hiện."
+    ],
+    "correct": 3,
+    "explanation": "Sử dụng bảng phân loại giúp nhà quản lý y tế đánh giá khách quan các tiêu chuẩn như quy mô, mức độ trầm trọng và sự quan tâm của dân cư [3]."
+  },
+  {
+    "question": "Những khó khăn trở ngại do môi trường gặp phải khi lập kế hoạch là:",
+    "answers": [
+      "Những vấn đề về địa lý, khí hậu và xã hội",
+      "Vấn đề kỹ thuật chuyên môn và trang thiết bị",
+      "Vấn đề về năng lực cán bộ y tế và kỹ thuật chuyên môn",
+      "Những vấn đề về địa lý, khí hậu, xã hội và kỹ thuật",
+      "Những vấn đề về địa lý, khí hậu, kinh tế - xã hội và kĩ thuật"
+    ],
+    "correct": 2,
+    "explanation": "Dù môi trường bên ngoài quan trọng, nhưng năng lực cán bộ và trình độ kỹ thuật là những yếu tố nội tại mang tính quyết định đến việc thực thi kế hoạch [4]."
+  },
+  {
+    "question": "Đề ra các hoạt động trong lập kế hoạch quản lý các chương trình y tế là để:",
+    "answers": [
+      "Thực hiện các nhiệm vụ trên giao",
+      "Triển khai các hoạt động còn yếu kém.",
+      "Thực hiện các mục tiêu đề ra",
+      "Xem lại những hoạt động nào còn yếu kém"
+    ],
+    "correct": 2,
+    "explanation": "Hoạt động là các bước cụ thể được thiết kế nhằm đạt được các mục tiêu y tế đã xác định ban đầu [5]."
+  },
+  {
+    "question": "Để theo dõi tiến độ công việc và đánh giá được kết quả thực hiện các mục tiêu cần phải:",
+    "answers": [
+      "Lập kế hoạch hành động có nội dung theo dõi và dự kiến kết quả thực hiện",
+      "Thường xuyên thu thập số liệu",
+      "Tiến hành kiểm tra định kỳ",
+      "Điều tra kết quả thực hiện theo định kỳ",
+      "Lập kế hoạch có hoạt động theo dõi, giám sát."
+    ],
+    "correct": 0,
+    "explanation": "Bản kế hoạch hành động phải xác định rõ các chỉ số theo dõi và kết quả mong đợi để làm thước đo đánh giá sau này [5]."
+  },
+  {
+    "question": "Quá trình sử dụng nhân lực, vật tư, thời gian và kinh phí một cách hữu hiệu nhất để thực hiện mục tiêu đề ra là:",
+    "answers": [
+      "Điều hành quản lý các hoạt động thực hiện theo chương trình",
+      "Công việc phân cấp quản lý",
+      "Quá trình quản lý cán bộ",
+      "Quản lý tốt các nguồn lực sẵn có",
+      "Thực hiện kế hoạch giám sát chặc chẽ"
+    ],
+    "correct": 3,
+    "explanation": "Quản lý nguồn lực (người, tiền, vật lực, thời gian) là cốt lõi của công tác điều hành y tế hiệu quả [6]."
+  },
+  {
+    "question": "Đánh giá kết quả thực hiện chương trình y tế bằng cách đánh giá thông qua:",
+    "answers": [
+      "Kết quả báo cáo của người tổ chức thực hiện",
+      "Các chỉ số y tế",
+      "Báo cáo từ chính quyền địa phương",
+      "Thông tin phản ánh từ đại diện cộng đồng đó",
+      "Tổ chức ban điều tra thu thập số liệu toàn bộ quá trình thực hiện"
+    ],
+    "correct": 1,
+    "explanation": "Các chỉ số y tế cung cấp dữ liệu định lượng và định tính khách quan nhất để đo lường thành công của một can thiệp [7]."
+  },
+  {
+    "question": "Đánh giá chương trình y tế bao gồm các bước:",
+    "answers": [
+      "Thu thập các số liệu, so sánh với mục tiêu đề ra, tìm nguyên nhân thành công và nguyên nhân tồn tại.",
+      "Thu thập các lý do thất bại và bàn biện pháp khắc phục ngay",
+      "Thu thập số liệu, tổng kết số liệu và khen thưởng cơ quan, cán bộ hoàn thành công việc",
+      "Hỏi ý kiến các nhà đại diện cộng đồng, Thu thập số liệu, tổng kết số liệu và khen thưởng cơ quan, cán bộ hoàn thành công việc",
+      "Thu thập các lý do thất bại và bàn biện pháp khắc phục ngay"
+    ],
+    "correct": 0,
+    "explanation": "Quy trình đánh giá khoa học yêu cầu so sánh kết quả thực tế với mục tiêu và phân tích các yếu tố ảnh hưởng [7]."
+  },
+  {
+    "question": "Khi lập kế hoạch quản lý hoạt động chương trình y tế của xã, tốt nhất nên viết dưới dạng:",
+    "answers": [
+      "Bảng phân chia công việc",
+      "Bảng nhiều cột theo mẫu lập kế hoạch",
+      "Báo cáo bằng văn bản",
+      "Bản liệt kê các hoạt động",
+      "Sơ đồ các nhiệm vụ thực hiện"
+    ],
+    "correct": 1,
+    "explanation": "Dạng bảng nhiều cột giúp hiển thị trực quan mối liên hệ giữa mục tiêu, hoạt động, người chịu trách nhiệm và thời gian [8]."
+  },
+  {
+    "question": "Trong bản kế hoạch chương trình CDD (phòng chống tiêu chảy) của xã, mục tiêu thiếu nội dung gì nếu ghi: ”Đến cuối năm 2003, trẻ em của xã X bị bệnh ỉa chảy đến trạm y tế được điều trị bằng ORS”?",
+    "answers": [
+      "“ bao nhiêu” trẻ",
+      "“ khi nào” thực hiện",
+      "“ở đâu” thực hiện",
+      "“ ai “ thực hiện",
+      "“ làm điều gì”"
+    ],
+    "correct": 0,
+    "explanation": "Mục tiêu này thiếu tính định lượng (chỉ số cụ thể về số lượng hoặc tỷ lệ phần trăm trẻ em cần đạt được) [9]."
+  },
+  {
+    "question": "Kế hoạch là:",
+    "answers": [
+      "Sự dàn xếp các sự việc thuận lợi cho hành động của cá nhân",
+      "Sự sắp xếp, làm việc có quy củ",
+      "Sự cân nhắc tính toán khi làm việc gì",
+      "Sự sắp xếp, bố trí các hoạt động nhằm hoàn thành một công việc đã được tính toán cân nhắc trước"
+    ],
+    "correct": 3,
+    "explanation": "Lập kế hoạch là quá trình chuẩn bị có hệ thống để đạt được các mục tiêu trong tương lai bằng các nguồn lực hiện có [9]."
+  },
+  {
+    "question": "Một kế hoạch thường bao gồm:",
+    "answers": [
+      "Một trạng thái tương lai mà người ta mong đạt tới",
+      "Một trạng thái quá khứ để so sánh",
+      "Một sự việc chưa bao giờ làm được cần phải làm",
+      "Một mục tiêu phải đạt được bằng mọi giá"
+    ],
+    "correct": 0,
+    "explanation": "Kế hoạch luôn hướng tới một kết quả cụ thể trong tương lai mà tổ chức mong muốn đạt được [9]."
+  },
+  {
+    "question": "Lập kế hoạch là quá trình, *ngoại trừ* ý nào sau đây:",
+    "answers": [
+      "Quyết định xem phải làm như thế nào để có tương lai tốt đẹp hơn",
+      "Quyết định xem phải có những thay đổi gì cần thiết để tạo ra một sự cải thiện",
+      "Quyết định xem nên thực hiện những thay đổi ấy bằng cách nào",
+      "Quá trình xác định tình hình hiện tại"
+    ],
+    "correct": 3,
+    "explanation": "Xác định tình hình hiện tại là 'đánh giá thực trạng' - một bước chuẩn bị, còn lập kế hoạch tập trung vào các quyết định cho tương lai [10]."
+  },
+  {
+    "question": "Lập kế hoạch có nghĩa là:",
+    "answers": [
+      "Xác định vấn đề một cách có hệ thống",
+      "Đánh giá các vấn đề tồn tại bức thiết ở mức độ nào",
+      "Nêu rõ ràng chính xác mục tiêu",
+      "Tất cả các ý trên"
+    ],
+    "correct": 3,
+    "explanation": "Lập kế hoạch bao quát từ việc xác định vấn đề ưu tiên đến thiết lập các mục tiêu cụ thể [11]."
+  },
+  {
+    "question": "Lập kế hoạch có nghĩa là, *ngoại trừ* ý nào sau đây:",
+    "answers": [
+      "Chọn ra chiến lược tối ưu",
+      "Xây dựng một kế hoạch hành động hợp lí",
+      "Chọn chiến lược tiết kiệm nhất",
+      "Xây dựng một kế hoạch hành động thích hợp",
+      "Tổ chức thực hiện theo dõi các chương trình can thiệp"
+    ],
+    "correct": 4,
+    "explanation": "Tổ chức thực hiện và theo dõi là giai đoạn 'thực thi', không nằm trong giai đoạn 'lập kế hoạch' [11]."
+  },
+  {
+    "question": "Lập kế hoạch từ trên xuống:",
+    "answers": [
+      "Thường được áp dụng hiện nay",
+      "Mang tính chủ quan",
+      "Mang tính khách quan",
+      "Được áp dụng trong thời kì kinh tế thị trường"
+    ],
+    "correct": 1,
+    "explanation": "Kế hoạch từ trên xuống thường dựa trên ý chí của cấp quản lý cao hơn, dễ dẫn đến áp đặt và thiếu sát thực tế địa phương [11]."
+  },
+  {
+    "question": "Lập kế hoạch từ trên xuống, *ngoại trừ* ý nào sau đây:",
+    "answers": [
+      "Do một nhóm người soạn thảo ra",
+      "Là lên kế hoạch theo chỉ tiêu",
+      "Có nhiều nhược điểm",
+      "Đáp ứng nhu cầu của nhân dân"
+    ],
+    "correct": 3,
+    "explanation": "Kế hoạch từ trên xuống thường không phản ánh đầy đủ nhu cầu thực tế của nhân dân so với cách lập kế hoạch từ dưới lên [12]."
+  },
+  {
+    "question": "Phương pháp thu thập nhiều thông tin nhất và chính xác nhất là:",
+    "answers": [
+      "Nghiên cứu tài liệu",
+      "Thảo luận nhóm",
+      "Quan sát",
+      "Điều tra thực địa",
+      "Phỏng vấn"
+    ],
+    "correct": 3,
+    "explanation": "Điều tra thực địa cho phép thu thập số liệu gốc, kiểm chứng thực tế và bao phủ diện rộng thông tin cần thiết [12]."
+  },
+  {
+    "question": "Tiêu chuẩn để xác định vấn đề sức khoẻ bằng cách cho điểm, *ngoại trừ* ý nào:",
+    "answers": [
+      "Các chỉ số đã vượt quá mức bình thường",
+      "Cộng đồng đã biết tên vấn đề và có phản ứng rõ ràng",
+      "Đã có dự kiến hành động của các ban ngành",
+      "Có tính thực thi"
+    ],
+    "correct": 3,
+    "explanation": "Tính thực thi (khả thi) là tiêu chuẩn để chọn 'ưu tiên giải quyết', không phải tiêu chuẩn để 'xác định' sự tồn tại của vấn đề [12]."
+  },
+  {
+    "question": "Có vấn đề sức khỏe trong cộng đồng khi tổng số điểm của các tiêu chuẩn là:",
+    "answers": [
+      "<7 điểm",
+      "7-8 điểm",
+      "9-12 điểm",
+      "13-14 điểm"
+    ],
+    "correct": 2,
+    "explanation": "Mức điểm từ 9-12 cho thấy các tiêu chuẩn về quy mô và mức độ trầm trọng đã đạt ngưỡng cần được công nhận là vấn đề sức khỏe [13]."
+  },
+  {
+    "question": "Vấn đề sức khỏe được coi là chưa rõ ràng khi tổng số điểm đạt được là:",
+    "answers": [
+      "<8 điểm",
+      "> 14 điểm",
+      "9-12 điểm",
+      "13-14 điểm"
+    ],
+    "correct": 0,
+    "explanation": "Nếu tổng điểm thấp dưới 8, vấn đề đó chưa đủ cơ sở để xếp vào nhóm các vấn đề sức khỏe cần can thiệp chính thức [13]."
+  },
+  {
+    "question": "Theo dõi hoạt động y tế là:",
+    "answers": [
+      "Thu thập và phân tích thông tin về tiến độ thực hiện một cách thường xuyên và định kỳ",
+      "Thu thập và phân tích thông tin về kết quả thực hiện hoạt động y tế trong một thời gian nhất định",
+      "Thu thập thông tin số liệu thực hiện một cách định kỳ",
+      "Phân tích thông tin về kết quả thực hiện về số lượng và chất lượng chuyên môn một cách thường xuyên",
+      "Thu thập và phân tích thông tin thực hiện được theo định kỳ"
+    ],
+    "correct": 0,
+    "explanation": "Theo dõi là quá trình liên tục nhằm kiểm soát tiến độ thực hiện kế hoạch để có sự điều chỉnh kịp thời [13]."
+  },
+  {
+    "question": "Giám sát các hoạt động y tế là:",
+    "answers": [
+      "Hình thức quản lý trực tiếp, là quá trình hỗ trợ và đào tạo liên tục tại chỗ và thu thập thông tin về tiến độ và chất lượng hoạt động",
+      "Hình thức quản lý trực tiếp và thu thập thông tin về tiến độ hoạt động",
+      "Hình thức quản lý trực tiếp, là quá trình hỗ trợ và đào tạo liên tục tại chỗ và thu thập thông tin về chất lượng hoạt động",
+      "Là quá trình hỗ trợ và đào tạo liên tục tại chỗ và thu thập thông tin về tiến độ hoạt động",
+      "Hình thức quản lý trực tiếp và thu thập thông tin về tiến độ và chất lượng hoạt động"
+    ],
+    "correct": 0,
+    "explanation": "Giám sát khác theo dõi ở chỗ nó mang tính hỗ trợ, đào tạo tại chỗ để nâng cao năng lực cho tuyến dưới [14]."
+  },
+  {
+    "question": "Kiểm tra công tác y tế là:",
+    "answers": [
+      "Tìm hiểu tiến độ công việc, kết quả và những nguyên nhân thành công và thất bại của hoạt động",
+      "Tìm hiểu tiến độ công việc và những nguyên nhân thất bại của hoạt động",
+      "Tìm hiểu tiến độ công việc, kết quả và những nguyên nhân thành công của hoạt động",
+      "Tìm hiểu những nguyên nhân sai sót và thất bại của hoạt động",
+      "Tìm hiểu, thu thập thông tin về những nguyên nhân thất bại của hoạt động và tìm ra giải pháp khắc phục"
+    ],
+    "correct": 0,
+    "explanation": "Kiểm tra tập trung vào việc đối chiếu thực trạng với kế hoạch để chỉ ra các sai sót và thành tựu [15]."
+  },
+  {
+    "question": "Thanh tra y tế là:",
+    "answers": [
+      "Xác định các vi phạm so với quy định pháp lý",
+      "Tìm hiểu những nguyên nhân thất bại của hoạt động",
+      "Tìm hiểu tiến độ công việc và những nguyên nhân vi phạm điều lệ quy định của cơ quan",
+      "Tìm hiểu kết quả công việc và tìm hiểu nhưng sai phạm của hoạt động",
+      "Tìm hiểu những nguyên nhân sai sót của hoạt động theo kế hoạch đề ra và tìm giải pháp khắc phục"
+    ],
+    "correct": 0,
+    "explanation": "Thanh tra mang tính chất cưỡng chế pháp lý nhằm phát hiện và xử lý các vi phạm quy định của nhà nước [16]."
+  },
+  {
+    "question": "Hoạt động quan trọng nhất trong quá trình tổ chức thực hiện kế hoạch là:",
+    "answers": [
+      "Điều chỉnh",
+      "Giám sát",
+      "Hỗ trợ",
+      "Kiểm tra"
+    ],
+    "correct": 1,
+    "explanation": "Giám sát giúp đảm bảo công việc diễn ra đúng hướng và hỗ trợ kỹ thuật kịp thời cho nhân viên [17]."
+  },
+  {
+    "question": "Giám sát việc thực hiện kế hoạch là, *ngoại trừ* ý nào:",
+    "answers": [
+      "Quá trình thu thập thông tin",
+      "Phân tích thông tin đưa ra quyết định",
+      "Quá trình hỗ trợ, đào tạo tại chỗ",
+      "Kiểm tra tiến độ công việc"
+    ],
+    "correct": 3,
+    "explanation": "Kiểm tra tiến độ thường là nhiệm vụ của 'theo dõi' hoặc 'kiểm tra'; giám sát tập trung vào chất lượng và đào tạo hỗ trợ [17]."
+  },
+  {
+    "question": "Giám sát là:",
+    "answers": [
+      "Xem xét công việc rồi so sánh với mục tiêu và đưa ra các quyết định",
+      "Tìm ra những thiếu sót trong quá trình thực hiện để phê bình, rút kinh nghiệm",
+      "Quá trình hỗ trợ và đào tạo tại chỗ cho những người thực hiện công việc",
+      "Theo dõi hoạt động"
+    ],
+    "correct": 2,
+    "explanation": "Mục tiêu tối thượng của giám sát trong y tế là giúp người được giám sát làm việc tốt hơn thông qua hướng dẫn trực tiếp [18]."
+  },
+  {
+    "question": "Sự giống nhau giữa đánh giá và giám sát ở việc:",
+    "answers": [
+      "Thu thập thông tin",
+      "Lượng gia đầu ra, đầu vào",
+      "So sánh đầu vào, đầu ra",
+      "Xác định nguyên nhân thành công, thất bại"
+    ],
+    "correct": 0,
+    "explanation": "Cả hai hoạt động đều đòi hỏi quá trình thu thập thông tin dữ liệu một cách khoa học để phục vụ việc phân tích [18]."
+  },
+  {
+    "question": "Quá trình thực hiện kế hoạch bao gồm các hoạt động sau, *ngoại trừ*:",
+    "answers": [
+      "Giám sát",
+      "Kiểm tra",
+      "Thanh tra",
+      "Lập kế hoạch"
+    ],
+    "correct": 3,
+    "explanation": "Lập kế hoạch là giai đoạn chuẩn bị trước khi 'thực hiện' [19]."
+  },
+  {
+    "question": "Trong quá trình giám sát không có hoạt động nào sau đây:",
+    "answers": [
+      "Thu thập thông tin",
+      "Phát hiện vấn đề",
+      "Uốn nắn đào tạo",
+      "Khen thưởng, kỉ luật"
+    ],
+    "correct": 3,
+    "explanation": "Giám sát là để hỗ trợ kỹ thuật, việc khen thưởng kỷ luật thuộc về chức năng hành chính/quản trị nhân sự [19]."
+  },
+  {
+    "question": "Nhiệm vụ quan trọng nhất của giám sát viên là:",
+    "answers": [
+      "Xác định vấn đề giám sát",
+      "Đưa ra lời khuyên",
+      "Đưa ra kiến nghị",
+      "Xác định điểm thuận lợi điểm mạnh"
+    ],
+    "correct": 0,
+    "explanation": "Phải xác định đúng vấn đề cần giám sát mới có thể tập trung nguồn lực và đưa ra các giải pháp hỗ trợ chính xác [19]."
+  },
+  {
+    "question": "Phương pháp giám sát được áp dụng phổ biến hiện nay là:",
+    "answers": [
+      "Giám sát trực tiếp",
+      "Giám sát gián tiếp",
+      "Giám sát và tự giám sát",
+      "Giám sát đột xuất"
+    ],
+    "correct": 0,
+    "explanation": "Giám sát trực tiếp tại cơ sở giúp quan sát thực tế và hỗ trợ kỹ thuật hiệu quả nhất [19]."
+  },
+  {
+    "question": "Các phương thức giám sát y tế bao gồm:",
+    "answers": [
+      "Giám sát trực tiếp và gián tiếp",
+      "Giám sát trực tiếp, gián tiếp, giám sát hỗ trợ",
+      "Giám sát trực tiếp, gián tiếp và giám sát thường xuyên",
+      "Giám sát trực tiếp, gián tiếp và giám sát đột xuất",
+      "Giám sát trực tiếp, gián tiếp và giám sát định kỳ"
+    ],
+    "correct": 0,
+    "explanation": "Hai phương thức cơ bản nhất là trực tiếp (tại chỗ) và gián tiếp (qua báo cáo, sổ sách) [20]."
+  },
+  {
+    "question": "Giám sát y tế là chức năng của:",
+    "answers": [
+      "Của người quản lý, của giám sát viên y tế ở tuyến trên, của cán bộ y tế trong cơ sở y tế",
+      "Của giám sát viên y tế ở tuyến trên, của nhân viên y tế trong cơ sở y tế",
+      "Của người quản lý, của giám sát viên y tế ở tuyến trên",
+      "Của nhân viên y tế trong cơ sở y tế, của một số nhân viên y tế do tuyên trên chỉ định",
+      "Của người quản lý, của một số nhân viên y tế do tuyên trên chỉ định"
+    ],
+    "correct": 0,
+    "explanation": "Giám sát là trách nhiệm đa tầng từ nhà quản lý cấp cao đến sự tự giám sát của nhân viên tại cơ sở [20]."
+  },
+  {
+    "question": "Những yêu cầu và tiêu chuẩn cần có của người giám sát viên là:",
+    "answers": [
+      "Có kỹ năng giao tiếp, nắm vững kỹ thuật chuyên môn và có khả năng quản lý lãnh đạo",
+      "Có kỹ năng giao tiếp, biết lắng nghe và nắm vững kỹ thuật chuyên môn",
+      "Có kỹ năng giao tiếp, và có khả năng điều hành",
+      "Nắm vững kỹ thuật chuyên môn về lĩnh vực giám sát và có khả năng quản lý lãnh đạo",
+      "Có kỹ năng giao tiếp, nắm vững kỹ thuật chuyên môn chuyên ngành"
+    ],
+    "correct": 0,
+    "explanation": "Giám sát viên cần sự tổng hòa giữa trình độ chuyên môn để hỗ trợ và kỹ năng mềm để thiết lập mối quan hệ hợp tác [21]."
+  },
+  {
+    "question": "Quy trình điều hành giám sát y tế gồm các bước:",
+    "answers": [
+      "Chọn hoạt động giám sát ưu tiên, xây dựng bảng danh mục giám sát và tổ chức nhóm giám sát.",
+      "Xây dựng bảng danh mục giám sát và tổ chức nhóm giám sát.",
+      "Chọn hoạt động giám sát ưu tiên và tổ chức nhóm giám sát.",
+      "Chọn hoạt động giám sát ưu tiên, lập bảng nội dung công việc giám sát và tổ chức nhóm giám sát.",
+      "Có sự chỉ đạo về hoạt động giám sát ưu tiên, và tổ chức nhóm giám sát."
+    ],
+    "correct": 0,
+    "explanation": "Quy trình này đảm bảo tính tập trung vào các vấn đề nóng và sử dụng công cụ giám sát chuẩn hóa [22]."
+  },
+  {
+    "question": "Bảng chọn ưu tiên của hoạt động giám sát gồm các cột sau:",
+    "answers": [
+      "Vấn đề tồn tại, nguyên nhân có thể và những ưu tiên của hoạt động giám sát",
+      "Vấn đề tồn tại, các giải pháp can thiệp và những ưu tiên của hoạt động giám sát",
+      "Danh mục các nội dung hoạt động, những kết quả đạt được và những ưu tiên của hoạt động giám sát",
+      "Vấn đề tồn tại, những kết quả đạt được và những ưu tiên của hoạt động giám sát",
+      "Vấn đề tồn tại, những ưu tiên của hoạt động giám sát và những biện pháp kiến nghị"
+    ],
+    "correct": 0,
+    "explanation": "Phân tích nguyên nhân giúp xác định xem giám sát có phải là giải pháp phù hợp để giải quyết vấn đề đó không [23]."
+  },
+  {
+    "question": "Bảng danh mục giám sát (Checklist) là:",
+    "answers": [
+      "Bảng có các phần mục được soạn thảo đầy đủ, hợp lý; Được dùng để rà soát lại kết quả công việc, kỹ thuật đã thực hiện.",
+      "Bảng có các phần mục được soạn thảo đầy đủ theo đúng các hoạt động; Được dùng để rà soát lại những sai sót",
+      "Bảng có các phần mục được soạn thảo đầy đủ, toàn bộ tất cả những hoạt động; Được dùng để đánh giá hiệu quả công việc.",
+      "Bảng có các phần mục được soạn thảo theo các mục ưu tiên giám sát, dùng để kiểm tra tiến độ công việc",
+      "Bảng có các phần mục được nêu đầy đủ, chi tiết; Được dùng để đối chiếu với mục tiêu kế hoạch đề ra"
+    ],
+    "correct": 0,
+    "explanation": "Checklist là công cụ giúp giám sát viên không bỏ sót các tiêu chuẩn kỹ thuật và đảm bảo tính khách quan [24]."
+  },
+  {
+    "question": "Về nội dung, mức độ, tính chất của bảng danh mục giám sát tại các địa phương trong tỉnh:",
+    "answers": [
+      "Được xây dựng thường rất khác nhau, tuỳ theo vấn đề ưu tiên giám sát",
+      "Được xây dựng giống nhau để dễ so sánh kết quả giữa các đơn vị",
+      "Được xây dựng giống nhau để dễ tính điểm về kết quả đạt được của các đơn vị",
+      "Được xây dựng giống nhau để dễ đánh giá kết quả thực hiện của các đơn vị",
+      "Được xây khác nhau để nhằm giải quyết hỗ trợ nâng cao chất lượng kết quả hoạt động thực hiện"
+    ],
+    "correct": 0,
+    "explanation": "Mỗi địa phương có vấn đề tồn tại khác nhau nên bảng giám sát cần được cá biệt hóa để giải quyết đúng nút thắt [25]."
+  },
+  {
+    "question": "Nhóm giám sát viên y tế cần được:",
+    "answers": [
+      "Đào tạo, huấn luyện chuyên môn kỹ thuật. Một người biết thạo nhiều việc và có khả năng làm việc độc lập",
+      "Đào tạo, một người biết thạo nhiều việc và có khả năng làm việc độc lập",
+      "Đào tạo, huấn luyện chuyên môn kỹ thuật. Một người biết thạo nhiều việc",
+      "Huấn luyện chuyên môn kỹ thuật và có khả năng làm việc độc lập",
+      "Đào tạo, huấn luyện chuyên môn kỹ thuật và có khả năng quản lý"
+    ],
+    "correct": 3,
+    "explanation": "Năng lực chuyên môn giỏi và tính độc lập giúp giám sát viên tự tin đưa ra các hướng dẫn tại chỗ chính xác [26]."
+  },
+  {
+    "question": "Kế hoạch giám sát cần được lập khi nào?",
+    "answers": [
+      "Lập kế hoạch khi xây dựng kế hoạch y tế",
+      "Dự kiến kế hoạch khi thực thi hoạt động,",
+      "Thông qua khi đánh giá kết quả các hoạt động y tế",
+      "Dự kiến kế hoạch khi thực thi hoạt động, Thông qua khi đánh giá kết quả các hoạt động y tế",
+      "Xây dựng và phê duyệt thực hiện"
+    ],
+    "correct": 0,
+    "explanation": "Giám sát là một phần của chu trình quản lý nên cần được dự trù ngay từ khi lập kế hoạch tổng thể [26]."
+  },
+  {
+    "question": "Tiến hành giám sát tại cơ sở cần có các hoạt động sau:",
+    "answers": [
+      "Gặp gỡ, quan sát, thảo luận",
+      "Gặp gỡ",
+      "Quan sát",
+      "Thảo luận",
+      "Gặp gỡ, quan sát"
+    ],
+    "correct": 0,
+    "explanation": "Sự kết hợp giữa quan sát thực tế và thảo luận giúp giám sát viên thấu hiểu khó khăn của tuyến dưới [27]."
+  },
+  {
+    "question": "Hoạt động nào sau đây thuộc quy trình giám sát tại cơ sở?",
+    "answers": [
+      "Nghiên cứu sổ sách, sử dụng bảng danh mục giám sát, họp thảo luận với trưởng đơn vị",
+      "Nghiên cứu sổ sách,",
+      "Sử dụng bảng danh mục giám sát, họp thảo luận với trưởng đơn vị",
+      "Nghiên cứu sổ sách, sử dụng bảng danh mục giám sát,",
+      "Sử dụng bảng danh mục giám sát, họp thảo luận với trưởng đơn vị, và các cán bộ chuyên môn liên quan đến nội dung giám sát"
+    ],
+    "correct": 0,
+    "explanation": "Nghiên cứu sổ sách cung cấp số liệu 'gián tiếp' để đối chiếu với những gì quan sát được và thảo luận [27]."
+  },
+  {
+    "question": "Những việc làm sau khi kết thúc buổi giám sát là:",
+    "answers": [
+      "Viết báo cáo, họp thảo luận với đơn vị, ghi chép hồ sơ, đưa ra kiến nghị",
+      "Viết báo cáo, họp thảo luận với đơn vị,",
+      "Họp thảo luận với đơn vị, ghi chép hồ sơ,",
+      "Ghi chép hồ sơ, đưa ra kiến nghị",
+      "Viết báo cáo, ghi chép hồ sơ, đưa ra kiến nghị"
+    ],
+    "correct": 0,
+    "explanation": "Việc họp phản hồi và đưa ra kiến nghị giúp cơ sở biết cách khắc phục ngay các tồn tại [28]."
+  },
+  {
+    "question": "Những thái độ đúng khi tiến hành giám sát là:",
+    "answers": [
+      "Gặp gỡ thân mật, thái độ cởi mở, chân thành và cần khích lệ và tạo niềm tin",
+      "Gặp gỡ thân mật, thái độ cởi mở,",
+      "Gặp gỡ thân mật và tạo niềm tin, tránh phê bình sai sót",
+      "Chân thành và cần khích lệ và tạo niềm tin và phê bình những sai sót",
+      "Gặp gỡ thân mật, thái độ cởi mở và tạo niềm tin"
+    ],
+    "correct": 0,
+    "explanation": "Thái độ tích cực giúp xóa bỏ rào cản 'bị kiểm tra', tạo môi trường học hỏi thoải mái cho nhân viên [29]."
+  },
+  {
+    "question": "Những thái độ cần tránh khi đi giám sát y tế là:",
+    "answers": [
+      "Thái độ hách dịch, bắt bẻ những sai sót, chê trách, coi thường",
+      "Phê bình, bắt bẻ những sai sót, chê trách, coi thường",
+      "Tiếp xúc riêng tư, bắt bẻ những sai sót,",
+      "Tránh phê bình những sai sót, chê trách, coi thường",
+      "Tránh chê trách, coi thường, nên khen động viên"
+    ],
+    "correct": 2,
+    "explanation": "Theo nguồn tài liệu, việc 'tiếp xúc riêng tư' trong bối cảnh giám sát công việc có thể gây hiểu lầm hoặc thiếu khách quan [29]."
+  },
+  {
+    "question": "Đánh giá các hoạt động y tế là:",
+    "answers": [
+      "Một trong 3 chức năng chính của quản lý y tế",
+      "Một trong 2 chức năng chính của quản lý y tế",
+      "Một trong 4 chức năng chính của quản lý y tế",
+      "Một trong 5 chức năng chính của quản lý y tế",
+      "Một trong 6 chức năng chính của quản lý y tế"
+    ],
+    "correct": 0,
+    "explanation": "Ba chức năng cốt lõi thường được nhắc đến là Lập kế hoạch, Tổ chức thực hiện và Đánh giá [30]."
+  },
+  {
+    "question": "Đánh giá là chức năng của quản lý bao gồm:",
+    "answers": [
+      "Quá trình theo dõi, giám sát",
+      "Xây dựng mục tiêu",
+      "Động viên, đào tạo và bồi dưỡng cán bộ",
+      "Tổ chức thực hiện",
+      "Xây dựng mục tiêu và tổ chức thực hiện"
+    ],
+    "correct": 0,
+    "explanation": "Trong quản lý y tế, đánh giá không phải là một hoạt động tách rời mà bao gồm cả quá trình theo dõi và giám sát liên tục để đảm bảo các hoạt động đi đúng hướng [1]."
+  },
+  {
+    "question": "Đánh giá là chức năng của quản lý bao gồm hoạt động sau:",
+    "answers": [
+      "Kiểm tra, Theo dõi và giám sát",
+      "Dự báo",
+      "Kế hoạch hoá",
+      "Xây dựng mục tiêu",
+      "Lập kế hoạch và xây dựng mục tiêu"
+    ],
+    "correct": 0,
+    "explanation": "Chức năng đánh giá tổng hợp các hoạt động kiểm tra thực tế, theo dõi tiến độ và giám sát hỗ trợ để đưa ra cái nhìn toàn diện về hiệu quả quản lý [1]."
+  },
+  {
+    "question": "Đánh giá các hoạt động y tế là:",
+    "answers": [
+      "Một quá trình đo lường và xem xét giá trị các kết quả đạt được so với mục tiêu đề ra",
+      "Một quá trình tính toán và phân tích các chỉ số thực hiện so với mục tiêu đề ra",
+      "Một hoạt động định kỳ xem xét và đo lường các kết quả đạt được",
+      "Một quá trình xem xét kết quả đạt được so với kế hoạch đề ra",
+      "Một quá trình phân tích giá trị các kết quả đạt được so với kết quả dự kiến"
+    ],
+    "correct": 0,
+    "explanation": "Bản chất của đánh giá y tế là đo lường định lượng và định tính các thành quả thực tế so với cái đích (mục tiêu) đã xác định từ đầu [1]."
+  },
+  {
+    "question": "Ý nghĩa của đánh giá các hoạt động y tế là:",
+    "answers": [
+      "Xác định được mức độ đạt được so mục tiêu, rút ra những nguyên nhân thành công và sai sót làm cơ sở lập kế hoạch cho giai đoạn tiếp theo",
+      "Xác định được các chỉ số thực hiện theo mục tiêu, rút ra những nguyên nhân sai sót",
+      "Xác định được kết quả đạt được theo kế hoạch, tìm sai sót",
+      "Xác định được các chỉ số thực hiện so mục tiêu, tìm sai sót và điều chỉnh mục tiêu",
+      "Xác định được mức độ đạt được so mục tiêu, tìm sai sót để tăng cường nguồn lực"
+    ],
+    "correct": 0,
+    "explanation": "Đánh giá cung cấp bài học kinh nghiệm về sự thành công hay thất bại, từ đó giúp nhà quản lý điều chỉnh kế hoạch cho chu kỳ tiếp theo một cách khoa học hơn [2]."
+  },
+  {
+    "question": "Phân loại đánh giá các hoạt động y tế gồm:",
+    "answers": [
+      "Đánh giá tiến độ, đánh giá kết thúc và đánh giá dài hạn",
+      "Đánh giá tiến độ, đánh giá giữa kỳ và đánh giá dài hạn",
+      "Đánh giá tiến độ, đánh giá giữa kỳ và đánh giá cuối kỳ",
+      "Đánh giá theo số lượng, theo chất lượng và tiến độ",
+      "Đánh giá tiến độ, đánh giá tổng kết"
+    ],
+    "correct": 0,
+    "explanation": "Y tế phân loại đánh giá theo thời điểm và mục đích: đánh giá trong quá trình (tiến độ), ngay sau can thiệp (kết thúc) và hiệu quả lâu dài (dài hạn) [3]."
+  },
+  {
+    "question": "Các Phương pháp đánh giá gồm:",
+    "answers": [
+      "Đánh giá theo mục tiêu, đánh giá trước sau trên một đơn vị hoặc trên nhiều đơn vị",
+      "Đánh giá theo mục tiêu, đánh giá trước sau so sánh các chỉ tiêu hoạt động",
+      "Đánh giá trước sau trên một đơn vị hoặc trên nhiều đơn vị so sánh hiệu quả thực hiện một dịch vụ y tế",
+      "Đánh giá tác động trên một đơn vị hoặc trên nhiều đơn vị sau một thời gian can thiệp",
+      "Đánh giá theo mục tiêu, đánh giá so sánh ngang và so sánh dọc trên nhiều đơn vị"
+    ],
+    "correct": 0,
+    "explanation": "Có nhiều cách tiếp cận như so sánh kết quả đạt được với mục tiêu, hoặc so sánh thực trạng trước và sau khi có can thiệp y tế [4]."
+  },
+  {
+    "question": "Các loại chỉ số đánh giá thường được sử dụng bao gồm:",
+    "answers": [
+      "Chỉ số đầu vào, đầu ra, chỉ số hoạt động và chỉ số tác động",
+      "Chỉ số nguồn lực, chỉ số hoạt động và chỉ số tác động",
+      "Chỉ số kết quả, chỉ số chuyên môn và chỉ số hiệu quả",
+      "Chỉ số đầu vào, chỉ số kết quả",
+      "Chỉ số hoạt động, chỉ số nguồn lực và chỉ số tác động"
+    ],
+    "correct": 0,
+    "explanation": "Hệ thống chỉ số bao phủ toàn bộ chu trình: từ nguồn lực bỏ vào (đầu vào), quá trình thực hiện (hoạt động), kết quả trực tiếp (đầu ra) đến thay đổi về sức khỏe (tác động) [5]."
+  },
+  {
+    "question": "Chỉ số đầu vào về nguồn lực y tế bao gồm:",
+    "answers": [
+      "Nhân lực, trang thiết bị y tế, thuốc, cơ sở vật chất, tài chính, hệ thống quản lý và thời gian",
+      "Nhân lực, tài chính và thời gian",
+      "Nhân lực, trang thiết bị y tế, cơ sở vật chất, tài chính, thuốc",
+      "Nhân lực, trang thiết bị y tế, cơ sở vật chất, tài chính và thời gian",
+      "Nhân lực, trang thiết bị y tế, cơ sở vật chất, tài chính, thuốc và thời gian"
+    ],
+    "correct": 0,
+    "explanation": "Nguồn lực đầu vào trong y tế rất đa dạng, bao gồm cả con người, tiền bạc, thuốc men và đặc biệt là hệ thống quản lý cũng như quỹ thời gian thực hiện [5]."
+  },
+  {
+    "question": "Các bước cơ bản của đánh giá gồm:",
+    "answers": [
+      "Lập kế hoạch đánh giá, chuẩn bị nguồn lực, tiến hành đánh giá và báo cáo kết quả đánh giá",
+      "Lập kế hoạch đánh giá, xác định phạm vi, chỉ số và nguồn lực, tiến hành đánh giá và báo cáo",
+      "Chuẩn bị chuẩn bị nguồn lực, tiến hành đánh giá và báo cáo",
+      "Lập kế hoạch đánh giá, tiến hành đánh giá và báo cáo kết quả",
+      "Xây dựng kế hoạch, xác định đối tượng và phạm vi, tiến hành đánh giá và báo cáo kết quả đánh giá"
+    ],
+    "correct": 0,
+    "explanation": "Quy trình đánh giá chuẩn phải bắt đầu từ khâu lập kế hoạch đến khâu chuẩn bị nguồn lực trước khi triển khai thực địa và báo cáo [6]."
+  },
+  {
+    "question": "Chuẩn bị phương tiện đánh giá gồm:",
+    "answers": [
+      "Các dụng cụ đo lường, các bảng biểu, phiếu hỏi, các tài liệu liên quan",
+      "Các dụng cụ đo lường và các tài liệu liên quan",
+      "Các bảng biểu, phiếu hỏi, các tài liệu liên quan",
+      "Các phương tiện kỹ thuật chuyên môn, phiếu hỏi, các tài liệu liên quan",
+      "Các biểu mẫu và các công cụ giám định kỹ thuật"
+    ],
+    "correct": 0,
+    "explanation": "Phương tiện đánh giá bao gồm cả công cụ kỹ thuật để đo lường và các biểu mẫu hành chính, phiếu khảo sát để thu thập dữ liệu [7]."
+  },
+  {
+    "question": "Các chỉ số đánh giá là:",
+    "answers": [
+      "Số đo dùng đo lường và so sánh những thay đổi, mức độ hay xu hướng của vấn đề đánh giá",
+      "Số đo dùng so sánh những kết quả thực hiện được",
+      "Số đo dùng lượng giá hiệu quả các hoạt động thực hiện",
+      "Số đo dùng phân tích và so sánh những thay đổi, mức độ hay xu hướng của vấn đề đánh giá",
+      "Số đo dùng so sánh những thay đổi, mức độ hay xu hướng của vấn đề đánh giá"
+    ],
+    "correct": 0,
+    "explanation": "Chỉ số đánh giá là một công cụ so sánh giúp xác định xu hướng biến đổi của tình trạng sức khỏe hoặc hiệu quả dịch vụ y tế qua thời gian [8]."
+  },
+  {
+    "question": "Thu thập nguồn thông tin của cộng đồng cho đánh giá bằng các phương pháp:",
+    "answers": [
+      "Quan sát, bảng kiểm, phỏng vấn, thảo luận...",
+      "Quan sát trực tiếp và gián tiếp và phỏng vấn...",
+      "Bảng kiểm, phỏng vấn, thảo luận...",
+      "Bảng kiểm, phỏng vấn, thảo luận, điều tra gián tiếp...",
+      "Quan sát, thảo luận nhóm trọng tâm"
+    ],
+    "correct": 0,
+    "explanation": "Để có cái nhìn khách quan từ cộng đồng, cần kết hợp nhiều phương pháp từ quan sát thực tế đến phỏng vấn và thảo luận nhóm [8]."
+  },
+  {
+    "question": "Thu thập thông tin định tính cần:",
+    "answers": [
+      "Người nghiên cứu có kỹ năng nhất định để khai thác thông tin và khuyến khích đối tượng cung cấp và chia sẻ thông tin và kết hợp với kiểm tra gián tiếp về giá trị thông tin",
+      "Người nghiên cứu có kỹ năng và kinh nghiệm nhất định để khai thác thông tin",
+      "Người nghiên cứu có kinh nghiệm nhất định để khuyến khích đối tượng cung cấp và chia sẻ thông tin",
+      "Người nghiên cứu cần làm thử trước để điều chỉnh kỹ thuật thu thập phù hợp với đối tượng cung cấp và chia sẻ thông tin",
+      "Người nghiên cứu có hiểu biết nhất định về lĩnh vực thông tin cần thu thập và khuyến khích đối tượng thảo luận và trao đổi ý kiến"
+    ],
+    "correct": 0,
+    "explanation": "Thông tin định tính phụ thuộc nhiều vào khả năng giao tiếp và khơi gợi của người đánh giá để bệnh nhân hoặc cộng đồng sẵn lòng chia sẻ sâu sắc [9]."
+  },
+  {
+    "question": "Thu thập số liệu đánh giá cần:",
+    "answers": [
+      "Thử nghiệm trên mẫu nhỏ trước, chọn giám sát viên và điều tra viên có khả năng, kỹ năng, kỹ thuật điều tra và kiểm tra độ chênh lệch của các công cụ và phương tiện đo lường.",
+      "Thử nghiệm trên mẫu nhỏ trước để rút kinh nghiệm, chọn giám sát và điều tra viên.",
+      "Chọn giám sát viên và điều tra viên có khả năng, kỹ năng, kỹ thuật điều tra",
+      "Thử nghiệm trên mẫu nhỏ trước, chọn điều tra viên có kỹ năng, kỹ thuật điều tra",
+      "Chọn điều tra viên và kiểm tra độ chênh lệch của các phương tiện đo lường"
+    ],
+    "correct": 0,
+    "explanation": "Việc thử nghiệm mẫu nhỏ giúp phát hiện lỗi công cụ thu thập, đảm bảo số liệu thu được sau này có độ tin cậy và chính xác cao [10]."
+  },
+  {
+    "question": "Các kỹ thuật phỏng vấn trực tiếp đối tượng cần:",
+    "answers": [
+      "Hỏi lần lượt theo trình tự của phiếu hỏi, kiểm tra các câu trả lời không nhất quán, chú ý lắng nghe đối tượng trả lời",
+      "Hỏi lần lượt theo trình tự của phiếu hỏi, chú ý lắng nghe đối tượng trả lời và giải thích đầy đủ mục đích của câu hỏi",
+      "Hỏi lần lượt theo của phiếu hỏi, có thể điều chỉnh trình tự câu hỏi phù hợp tính huống trả lời của đối tượng, kiểm tra các câu trả lời không nhất quán,",
+      "Kiểm tra các câu trả lời không nhất quán và dành thời gian cho đối tượng suy nghĩ để trả lời chính xác",
+      "Hỏi lần lượt theo trình tự của phiếu hỏi, dành thời gian cho đối tượng suy nghĩ để trả lời chính xác"
+    ],
+    "correct": 0,
+    "explanation": "Phỏng vấn y tế yêu cầu sự chặt chẽ về logic của phiếu hỏi nhưng cũng cần sự lắng nghe để phát hiện những thông tin mâu thuẫn cần làm rõ [11]."
+  },
+  {
+    "question": "Các điều cần tránh khi phỏng vấn trực tiếp đối tượng:",
+    "answers": [
+      "Không tự ý sửa câu hỏi, không ngắt lời và không chỉ trích khi họ trả lời không rõ ràng",
+      "Không nên hỏi lần lượt theo trình tự của phiếu hỏi, và nên ngắt lời khi họ trả lời không rõ ràng và quá dài",
+      "Không ngắt lời và nên nhắc nhở khi họ trả lời không rõ ràng",
+      "Không tự ý sửa câu hỏi, không ngắt lời và không chỉ trích khi họ trả lời không rõ ràng",
+      "Không nên dành thời gian lâu cho đối tượng suy nghĩ để trả lời câu hỏi đóng"
+    ],
+    "correct": 0,
+    "explanation": "Tôn trọng đối tượng và giữ nguyên cấu trúc câu hỏi chuẩn hóa là yếu tố quan trọng để đảm bảo tính khách quan của dữ liệu [12]."
+  },
+  {
+    "question": "Khi thiết kế đề cương đánh giá nên:",
+    "answers": [
+      "Lập các bảng trống để chọn lựa các thông tin cần thiết",
+      "Nên thu thập nhiều thông tin để tránh bỏ sót và thiếu dữ liệu khi viết báo cáo",
+      "Không nên lập bảng trống trước vì thực tế khi phân tích thường thiếu thông tin bàn luận",
+      "Hạn chế các câu hỏi mở để giới hạn phạm vi trả lời của đối tượng",
+      "Không nên lập bảng trống trước và hạn chế các câu hỏi mở"
+    ],
+    "correct": 0,
+    "explanation": "Lập bảng trống trước giúp người đánh giá hình dung rõ những loại dữ liệu nào là bắt buộc phải có, tránh việc thu thập thừa nhưng thiếu thông tin quan trọng [13]."
+  },
+  {
+    "question": "Trình bày bảng số liệu nên:",
+    "answers": [
+      "Có nhận xét phía dưới mỗi bảng, giải thích kết quả và nguyên nhân của các thông tin mới phát hiện, nêu độ tin cậy của số liệu",
+      "Có nhận xét phí dưới mỗi bảng, giải thích kết quả và nguyên nhân của các thông tin mới phát hiện",
+      "Có nhận xét phí dưới mỗi bảng, nêu các số liệu thông tin quan trọng",
+      "Dưới mỗi bảng, nêu các số liệu chính, giải thích kết quả và xu hướng của các thông tin mới phát hiện",
+      "Có nhận xét phí dưới mỗi bảng, nêu đầy đủ các số liệu chung và giải thích nguyên nhân của các thông tin mới phát hiện và nêu độ tin cậy"
+    ],
+    "correct": 0,
+    "explanation": "Số liệu chỉ có giá trị khi đi kèm với nhận xét, phân tích nguyên nhân và khẳng định được mức độ tin cậy của dữ liệu đó [14]."
+  },
+  {
+    "question": "Trình bày bảng số liệu nên tránh:",
+    "answers": [
+      "Có nhận xét nhắc lại nhiều số liệu phía dưới mỗi bảng, và giải thích kết quả và nguyên nhân của các thông tin mới phát hiện khi chưa có căn cứ khoa học.",
+      "Giải thích kết quả và nguyên nhân của các thông tin mới phát hiện",
+      "Nhận xét theo chủ quan về nguyên nhân không có số liệu trong bảng",
+      "Dưới mỗi bảng, nêu các số liệu chính, giải thích kết quả và xu hướng của các thông tin mới phát hiện",
+      "Có nhận xét phí dưới mỗi bảng, nêu đầy đủ các số liệu chung"
+    ],
+    "correct": 0,
+    "explanation": "Cần tránh việc nhận xét rập khuôn, lặp lại con số một cách vô nghĩa hoặc đưa ra các kết luận vội vàng khi chưa đủ bằng chứng khoa học [15]."
+  }
+]
