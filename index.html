@@ -49,13 +49,6 @@
       
     </div>
 
-    <script>
-    function goTo(url, subjectKey) {
-      try { localStorage.setItem('quiz_subject', subjectKey); } catch(e) {}
-      location.href = url + '?subject=' + encodeURIComponent(subjectKey);
-    }
-    function selectReview(sub) { goTo('review.html', sub); }
-    function selectMock(sub)   { goTo('mock_test.html', sub); }
-  </script>
+    <script src="script-index.js"></script>
 </body>
 </html>
