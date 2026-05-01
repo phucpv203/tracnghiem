@@ -1,0 +1,2672 @@
+[
+  {
+    "question": "Dược lý học là môn học nghiên cứu sự tác động qua lại giữa thuốc và cơ thể?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dược lý học nghiên cứu cả tác động của thuốc lên cơ thể (dược lực học) và sự tác động của cơ thể đối với thuốc (dược động học)"
+  },
+  {
+    "question": "Khi tiêm vào tĩnh mạch cần phải thận trọng vì có khả năng gây sốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tiêm tĩnh mạch đưa thuốc trực tiếp vào hệ tuần hoàn với tốc độ nhanh, dễ gây ra các phản ứng quá mẫn hoặc sốc phản vệ nguy hiểm."
+  },
+  {
+    "question": "Tiêm dưới da đau hơn tiêm bắp?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mô dưới da chứa nhiều đầu dây thần kinh cảm giác hơn so với mô cơ, do đó việc tiêm dưới da thường gây cảm giác đau hơn."
+  },
+  {
+    "question": "Tiêm bắp thì thuốc hấp thụ vào máu nhanh hơn tiêm dưới da?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hệ thống mạch máu ở cơ phong phú hơn ở mô dưới da, giúp thuốc được hấp thu vào vòng tuần hoàn nhanh hơn."
+  },
+  {
+    "question": "Tiêm tĩnh mạch là đường hấp thụ thuốc nhanh nhất?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tiêm tĩnh mạch đưa thuốc trực tiếp vào máu, bỏ qua giai đoạn hấp thu qua màng tế bào, nên thuốc có tác dụng gần như tức thì"
+  },
+  {
+    "question": "Nhiệt độ cơ thể ở trạng thái bình thường là 36,5 - 37,5 độ C?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là khoảng nhiệt độ sinh lý bình thường của cơ thể người khỏe mạnh."
+  },
+  {
+    "question": "Sau khi uống thuốc, thuốc được hòa tan ở thực quản rồi chuyển xuống dạ dày?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thực quản chỉ là đường dẫn, thuốc chủ yếu được hòa tan và bắt đầu phân rã tại dạ dày hoặc ruột non"
+  },
+  {
+    "question": "Thuốc có nguồn gốc thực vật, động vật hoặc từ các chất bán tổng hợp?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nguồn gốc của thuốc rất đa dạng, bao gồm tự nhiên (vô cơ, thực vật, động vật), tổng hợp và bán tổng hợp."
+  },
+  {
+    "question": "Dược lực học nghiên cứu về tác dụng của thuốc đối với cơ thể?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dược lực học là phân ngành nghiên cứu cơ chế tác dụng, tác dụng dược lý và độc tính của thuốc lên các cơ quan."
+  },
+  {
+    "question": "Phần lớn các thuốc được hấp thụ tốt ở niêm mạc dạ dày?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Dạ dày có diện tích hấp thu nhỏ và không có nhung mao; phần lớn thuốc được hấp thu tốt nhất tại niêm mạc ruột non"
+  },
+  {
+    "question": "Dược động học nghiên cứu về sự tiếp nhận của cơ thể đối với thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dược động học nghiên cứu quá trình cơ thể tác động lên thuốc thông qua: hấp thu, phân bố, chuyển hóa và thải trừ"
+  },
+  {
+    "question": "Mức độ hấp thụ của thuốc không ảnh hưởng đến tác dụng của thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mức độ hấp thu quyết định nồng độ thuốc trong máu, từ đó ảnh hưởng trực tiếp đến cường độ và hiệu quả điều trị."
+  },
+  {
+    "question": "Mức độ và tốc độ hấp thụ của thuốc không ảnh hưởng đến tác dụng của thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Cả tốc độ và mức độ hấp thu (sinh khả dụng) đều là những yếu tố then chốt quyết định thời gian khởi phát và hiệu quả của thuốc"
+  },
+  {
+    "question": "Dược động học bao gồm các quá trình: hấp thụ, phân phối, chuyển hóa và thải trừ của thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là 4 giai đoạn kinh điển mô tả số phận của thuốc sau khi đi vào cơ thể"
+  },
+  {
+    "question": "Tốc độ hấp thụ của thuốc không ảnh hưởng đến tác dụng của thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tốc độ hấp thu ảnh hưởng đến thời gian thuốc đạt nồng độ điều trị tối thiểu trong máu."
+  },
+  {
+    "question": "Hấp thụ thuốc là sự xâm nhập của thuốc vào vòng tuần hoàn chung của cơ thể?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hấp thu là quá trình vận chuyển thuốc từ nơi dùng vào máu để đi khắp cơ thể."
+  },
+  {
+    "question": "Phần lớn các thuốc được hấp thụ tốt qua da?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Da lành có lớp sừng dày đóng vai trò là hàng rào bảo vệ, nên phần lớn thuốc rất khó hấp thu qua da trừ các thuốc tan mạnh trong lipid"
+  },
+  {
+    "question": "Đường tiêu hóa được tính từ khoang miệng đến trực tràng?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hệ tiêu hóa bắt đầu từ miệng và kết thúc tại hậu môn/trực tràng."
+  },
+  {
+    "question": "Niêm mạc miệng đặc biệt là vùng dưới lưỡi là nơi có khả năng hấp thụ thuốc tốt vào máu mà không qua gan?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mạch máu dưới lưỡi đổ thẳng vào tĩnh mạch chủ trên, giúp thuốc đi thẳng vào hệ tuần hoàn mà không bị chuyển hóa lần đầu ở gan."
+  },
+  {
+    "question": "Niêm mạc ruột non là nơi hấp thu thuốc hạn chế vì ở đó có pH acid?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, ruột non là nơi hấp thu thuốc tốt nhất nhờ diện tích bề mặt cực lớn và hệ thống mao mạch phong phú"
+  },
+  {
+    "question": "Ở ruột non hệ thống mao mạch phong phú tạo điều kiện tốt cho việc hấp thu thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mạng lưới mao mạch dày đặc tại các nhung mao giúp duy trì sự chênh lệch nồng độ, thúc đẩy thuốc khuếch tán vào máu nhanh chóng."
+  },
+  {
+    "question": "Phần lớn thuốc ít được hấp thu ở dạ dày vì niêm mạc dạ dày chủ yếu là niêm mạc tiết, không có nhung mao, khe hở giữa các tế bào biểu mô rất hẹp?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đặc điểm cấu tạo của dạ dày không ưu tiên cho việc hấp thu mà tập trung vào chức năng chứa đựng và nhào trộn thức ăn."
+  },
+  {
+    "question": "Những thuốc có bản chất acid thì mới được hấp thu qua niêm mạc dạ dày?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Không chỉ acid, các chất tan mạnh trong lipid cũng có thể hấp thu qua dạ dày; tuy nhiên, acid yếu dễ hấp thu hơn do ít bị ion hóa trong môi trường acid của dịch vị"
+  },
+  {
+    "question": "Những thuốc có pH từ 1-2 thì mới hấp thu được qua niêm mạc dạ dày?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Khả năng hấp thu phụ thuộc vào bản chất hóa học (độ tan, độ ion hóa) của thuốc chứ không chỉ đơn thuần là chỉ số pH của bản thân thuốc đó."
+  },
+  {
+    "question": "Những thuốc có bản chất acid yếu thì mới hấp thu được qua niêm mạc dạ dày?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ở môi trường acid của dạ dày, các thuốc acid yếu tồn tại chủ yếu ở dạng không ion hóa, giúp chúng dễ dàng khuếch tán qua màng lipid."
+  },
+  {
+    "question": "Niêm mạc ruột non là nơi hấp thu thuốc tốt nhất?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ruột non có các nhung mao và vi nhung mao làm tăng diện tích tiếp xúc lên hàng trăm lần, là vị trí hấp thu lý tưởng cho hầu hết các loại thuốc"
+  },
+  {
+    "question": "Ở niêm mạc dạ dày có pH từ 1-3?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dịch vị dạ dày chứa acid HCl nên có tính acid rất mạnh, thường nằm trong khoảng pH từ 1 đến 3."
+  },
+  {
+    "question": "Ở niêm mạc dạ dày có pH từ 5-8?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "pH từ 5-8 là môi trường kiềm nhẹ, thường thấy ở ruột non thay vì dạ dày."
+  },
+  {
+    "question": "Khi dùng thuốc qua đường trực tràng ngoài tác dụng tại chỗ còn có tác dụng toàn thân như thuốc hạ sốt, giảm đau?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc đặt trực tràng được hấp thu qua tĩnh mạch trực tràng vào hệ tuần hoàn, có thể gây tác dụng toàn thân và tránh được một phần sự chuyển hóa qua gan."
+  },
+  {
+    "question": "Ở niêm mạc ruột non có pH từ 1-2?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Môi trường ở ruột non thường có tính kiềm nhẹ (pH khoảng 5-8) để trung hòa acid từ dạ dày xuống."
+  },
+  {
+    "question": "Tiêm bắp thịt là đưa thuốc thẳng vào cơ?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tiêm bắp là kỹ thuật đưa thuốc vào sâu trong khối cơ (thường là cơ mông, cơ đùi hoặc cơ delta) để thuốc hấp thu vào máu ."
+  },
+  {
+    "question": "Thuốc nào có tỷ lệ liên kết với protein huyết tương thấp thì thuốc đó có tác dụng kéo dài?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, thuốc có tỷ lệ liên kết với protein huyết tương cao mới có tác dụng kéo dài vì dạng liên kết đóng vai trò như một kho dự trữ, giải phóng thuốc từ từ vào dạng tự do "
+  },
+  {
+    "question": "Thuốc nào có tỷ lệ liên kết với protein huyết tương cao thì thuốc đó có tác dụng ngắn?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thuốc liên kết cao với protein huyết tương thường có thời gian bán thải dài hơn, do đó tác dụng thường kéo dài hơn chứ không ngắn đi "
+  },
+  {
+    "question": "Một số dạng thuốc tuyệt đối không được tiêm tĩnh mạch như hỗn dịch, dầu thuốc vì gây nguy hiểm đến tính mạng?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hỗn dịch và dầu thuốc có thể gây tắc mạch phổi hoặc các biến chứng nghiêm trọng khác nếu đưa trực tiếp vào dòng máu tĩnh mạch ."
+  },
+  {
+    "question": "Những thuốc hấp thu được qua đường hô hấp phải ở dạng bột hoặc thể khí hay dạng khí dung?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Theo nguồn tài liệu, các thuốc hấp thu qua đường hô hấp phải ở thể lỏng dễ bay hơi, thể khí hoặc dạng khí dung mới có thể đi sâu vào phế nang "
+  },
+  {
+    "question": "Những thuốc hấp thu được qua đường hô hấp phải ở thể lỏng dễ bay hơi hoặc thể khí hay dạng khí dung?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là các dạng vật lý phù hợp để thuốc có thể khuếch tán nhanh qua màng phế nang vào máu qua đường hít ."
+  },
+  {
+    "question": "Khi hít thuốc, thuốc sẽ qua mũi, vào phổi rồi chuyển qua mao mạch phế nang vào máu?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Diện tích bề mặt phế nang rất lớn và hệ thống mao mạch phong phú giúp thuốc hấp thu cực nhanh sau khi hít ."
+  },
+  {
+    "question": "Thuốc nào có tỷ lệ liên kết với protein huyết tương cao thì thuốc đó có tác dụng kéo dài?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dạng liên kết không có tác dụng dược lý và không bị chuyển hóa/thải trừ ngay, nó sẽ giải phóng dần dần thành dạng tự do để duy trì tác dụng "
+  },
+  {
+    "question": "Thuốc ở dạng tự do chưa có tác dụng?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chỉ có thuốc ở dạng tự do mới có thể khuếch tán qua màng tế bào để gắn vào receptor và gây ra tác dụng dược lý "
+  },
+  {
+    "question": "Thuốc ở dạng liên kết với protein huyết tương có tác dụng ngay?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Dạng liên kết protein có kích thước phân tử lớn, không thể đi qua màng tế bào nên không có tác dụng ngay lập tức ."
+  },
+  {
+    "question": "Sau khi được hấp thu vào máu thuốc tồn tại dưới 2 dạng: dạng tự do và dạng liên kết?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là trạng thái cân bằng động trong máu: Dạng tự do gây tác dụng và dạng liên kết đóng vai trò dự trữ ."
+  },
+  {
+    "question": "Phụ nữ trong thời kỳ mang thai cần tích cực dùng thuốc để hỗ trợ chức năng?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Việc dùng thuốc cho phụ nữ có thai phải cực kỳ thận trọng và hạn chế vì nhiều loại thuốc có thể đi qua rau thai gây hại cho thai nhi "
+  },
+  {
+    "question": "Thuốc có tỷ lệ gắn với protein huyết tương cao như: Rifampicin?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Rifampicin là một ví dụ điển hình về thuốc có khả năng liên kết mạnh với protein huyết tương (khoảng 80-90%) ."
+  },
+  {
+    "question": "Màng rau thai có cấu trúc dày, diện tích trao đổi rộng, lưu lượng máu qua rau thai rất cao?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Màng rau thai thực tế rất mỏng, giúp trao đổi chất giữa mẹ và con dễ dàng, nhưng cũng khiến thuốc dễ dàng xâm nhập vào thai nhi ."
+  },
+  {
+    "question": "Tỷ lệ thuốc ở dạng tự do càng nhiều thì thuốc có tác dụng càng mạnh?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Vì chỉ có dạng tự do mới gắn được vào các receptor để tạo ra phản ứng sinh học ."
+  },
+  {
+    "question": "Phần lớn các thuốc sau khi gây tác dụng sẽ chuyển hóa trước khi được thải trừ ra khỏi cơ thể?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Quá trình chuyển hóa (thường tại gan) biến đổi thuốc thành các chất phân cực hơn để dễ dàng thải trừ qua thận ."
+  },
+  {
+    "question": "Trong cơ thể lách có vai trò quan trọng nhất trong quá trình chuyển hóa thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Gan mới là cơ quan giữ vai trò quan trọng nhất trong quá trình chuyển hóa thuốc nhờ hệ thống enzyme phong phú "
+  },
+  {
+    "question": "Có khoảng 90% thuốc thải trừ qua mồ hôi?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thải trừ qua mồ hôi chỉ là đường phụ và chiếm tỷ lệ rất nhỏ; đường thải trừ chính là qua thận , [8]."
+  },
+  {
+    "question": "Trong cơ thể gan giữ vai trò quan trọng nhất trong quá trình chuyển hóa thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Gan thực hiện các phản ứng oxy hóa, khử, thủy phân và liên hợp để làm mất độc tính hoặc tăng độ tan của thuốc "
+  },
+  {
+    "question": "Có khoảng 25% thuốc thải trừ qua thận?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thận là đường thải trừ chính, chiếm tỷ lệ lớn (khoảng 90% với các thuốc tan trong nước) [8]"
+  },
+  {
+    "question": "Những người có bệnh lý về gan cần thận trọng khi dùng thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khi suy giảm chức năng gan, khả năng chuyển hóa thuốc giảm dẫn đến nguy cơ tích lũy thuốc và gây độc cho cơ thể ."
+  },
+  {
+    "question": "Thuốc sau khi được hấp thu, phân bố, chuyển hóa thuốc sẽ được đào thải ra ngoài?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là trình tự chuẩn của quá trình dược động học nhằm loại bỏ thuốc ra khỏi cơ thể [8]."
+  },
+  {
+    "question": "Thải trừ thuốc qua thận là đường thải trừ quan trọng nhất?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phần lớn các thuốc tan trong nước hoặc đã được chuyển hóa thành dạng tan trong nước đều đào thải qua nước tiểu [8]"
+  },
+  {
+    "question": "Phần lớn các thuốc khó tan trong nước sẽ thải trừ chủ yếu qua thận?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Các thuốc khó tan trong nước thường phải qua gan chuyển hóa thành dạng tan trong nước mới thải trừ được qua thận, hoặc thải qua mật và phân [8]."
+  },
+  {
+    "question": "Có khoảng 90% thuốc thải trừ qua thận?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Số liệu này áp dụng cho phần lớn các loại thuốc tan được trong nước sau khi đi vào vòng tuần hoàn [8]"
+  },
+  {
+    "question": "Phần lớn các thuốc dễ tan trong nước sẽ thải trừ chủ yếu qua thận?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thận lọc các chất tan trong huyết tương để đào thải ra ngoài qua hệ tiết niệu [8]"
+  },
+  {
+    "question": "PH nước tiểu có vai trò rất quan trọng trong thải trừ thuốc?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự thay đổi pH nước tiểu sẽ ảnh hưởng đến độ ion hóa của thuốc, từ đó quyết định thuốc bị tái hấp thu hay bị thải trừ [8]"
+  },
+  {
+    "question": "Khi pH nước tiểu thấp các thuốc có tính kiềm khó thải trừ?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong môi trường pH thấp (acid), thuốc tính kiềm sẽ bị ion hóa nhiều hơn, trở nên khó tái hấp thu qua ống thận và do đó dễ thải trừ hơn ."
+  },
+  {
+    "question": "Khi pH nước tiểu thấp các thuốc có tính kiềm dễ thải trừ?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nguyên tắc là thuốc mang tính base gặp môi trường acid sẽ bị ion hóa, không tan trong lipid nên bị đào thải ra ngoài ."
+  },
+  {
+    "question": "Khi pH nước tiểu cao các thuốc có tính acid nhẹ dễ thải trừ?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khi kiềm hóa nước tiểu (pH cao), các thuốc acid yếu bị ion hóa mạnh, không thể thấm ngược lại vào máu nên bị đào thải nhanh hơn ."
+  },
+  {
+    "question": "Khi pH nước tiểu cao các thuốc có tính acid nhẹ khó thải trừ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Khi pH nước tiểu cao (kiềm), các thuốc acid yếu bị ion hóa nhiều hơn, không bị tái hấp thu vào máu và do đó sẽ dễ thải trừ hơn chứ không phải khó thải trừ"
+  },
+  {
+    "question": "Giải ngộ độc chất có tính base yếu bằng cách toan hóa nước tiểu bằng CaCl₂.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mặc dù toan hóa nước tiểu giúp thải trừ base yếu, nhưng CaCl₂ không phải là chất thông dụng nhất cho mục đích này; thông thường người ta dùng Amoni clorid (NH₄Cl)"
+  },
+  {
+    "question": "Đường thải trừ chính của thuốc là qua mật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đường thải trừ quan trọng và chính yếu nhất của phần lớn các loại thuốc là qua thận (nước tiểu)"
+  },
+  {
+    "question": "Kiềm hóa nước tiểu bằng NaHCO₃ để giải độc các chất có tính acid yếu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "NaHCO₃ làm tăng pH nước tiểu, giúp các thuốc acid yếu (như Phenobarbital, Aspirin) bị ion hóa và đào thải nhanh hơn"
+  },
+  {
+    "question": "Ngoài đường thải trừ qua thận, thuốc còn được thải trừ qua đường mật, phân, sữa, hô hấp, mồ hôi. . .",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là các đường thải trừ phụ giúp cơ thể loại bỏ thuốc và các chất chuyển hóa ra ngoài môi trường"
+  },
+  {
+    "question": "Nên phối hợp 2 thuốc giảm đau – hạ sốt- chống viêm với nhau để làm tăng tác dụng của nhau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Không nên phối hợp 2 thuốc cùng nhóm NSAIDs vì không làm tăng hiệu quả điều trị đáng kể nhưng lại làm tăng gấp đôi tác dụng phụ, đặc biệt là loét dạ dày"
+  },
+  {
+    "question": "Tác dụng chính là tác dụng mong muốn đạt được trong điều trị.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tác dụng chính là mục đích cốt lõi mà bác sĩ hướng tới khi chỉ định thuốc cho bệnh nhân."
+  },
+  {
+    "question": "Tác dụng chọn lọc là tác dụng của thuốc ở liều nhỏ nhất biểu hiện rõ rệt nhất trên một cơ quan nào đó của cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tác dụng chọn lọc giúp thuốc tập trung hiệu quả vào cơ quan bị bệnh, giảm thiểu ảnh hưởng đến các cơ quan lành khác"
+  },
+  {
+    "question": "Morphin có tác dụng chọn lọc trên trung tâm đau.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Morphin tác động trực tiếp và mạnh mẽ lên các thụ thể opioid ở hệ thần kinh trung ương để ức chế cảm giác đau"
+  },
+  {
+    "question": "Khi phối hợp 2 thuốc giảm đau – hạ sốt- chống viêm với nhau sẽ làm tăng nguy cơ gây loét dạ dày tá tràng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự hiệp đồng về tác dụng phụ giữa các thuốc chống viêm không steroid (NSAIDs) gây tổn thương nghiêm trọng niêm mạc tiêu hóa"
+  },
+  {
+    "question": "Khi cho người già uống thuốc không nên uống nhiều nước.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, người già nên uống đủ nước khi dùng thuốc để giúp thuốc dễ trôi, tăng độ tan và hỗ trợ thận đào thải thuốc tốt hơn"
+  },
+  {
+    "question": "Khi cho người già uống thuốc viên nang không cần phải uống nhiều nước vì người già sợ đi tiểu nhiều.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Viên nang cần nước để rã và giải phóng dược chất; việc hạn chế nước vì sợ đi tiểu sẽ làm giảm hiệu quả thuốc và có hại cho thận"
+  },
+  {
+    "question": "Viên nén Voltaren nên uống lúc đói để nhanh hấp thu vào máu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Voltaren (Diclofenac) gây kích ứng dạ dày mạnh, nên uống vào lúc no để bảo vệ niêm mạc dạ dày"
+  },
+  {
+    "question": "Viên nén vitamin C không có tác dụng cầm máu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Vitamin C có vai trò làm bền thành mạch, hỗ trợ trong các trường hợp xuất huyết do thiếu vitamin C, do đó nói nó không có tác dụng cầm máu là sai"
+  },
+  {
+    "question": "Tetracyclin gây xốp và đen răng ở trẻ em.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tetracyclin liên kết với calci trong men răng đang phát triển, tạo thành phức hợp màu vàng nâu và làm hỏng cấu trúc răng"
+  },
+  {
+    "question": "Tác dụng không hồi phục là tác dụng sau khi thuốc hấp thu vào máu để lại di chứng trên cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là những thay đổi hoặc tổn thương vĩnh viễn trên tế bào/cơ quan ngay cả khi thuốc đã được đào thải hết."
+  },
+  {
+    "question": "Tác dụng hồi phục là tác dụng sau khi thuốc hấp thu vào máu và trả trở lại trạng thái ban đầu cho cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sau khi thuốc hết tác dụng hoặc bị thải trừ, các chức năng sinh lý của cơ thể sẽ quay về trạng thái bình thường ban đầu"
+  },
+  {
+    "question": "Tác dụng hồi phục là tác dụng sau khi thuốc hết tác dụng thì cơ thể trở lại trạng thái ban đầu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phần lớn các tác dụng dược lý là hồi phục để đảm bảo an toàn cho cơ thể người dùng."
+  },
+  {
+    "question": "Ở trẻ sơ sinh hệ thống thần kinh, gan, thận phát triển hoàn chỉnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ở trẻ sơ sinh, các hệ cơ quan này vẫn đang trong quá trình phát triển, chưa hoàn thiện về cấu trúc và chức năng"
+  },
+  {
+    "question": "Tác dụng không hồi phục là tác dụng sau khi hết tác dụng của thuốc vẫn để lại di chứng trên cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ví dụ điển hình là tình trạng điếc không hồi phục do dùng kháng sinh nhóm aminosid"
+  },
+  {
+    "question": "Ở người cao tuổi chức năng sinh lý của các cơ quan đều hoạt động bình thường.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ở người già, các chức năng sinh lý như lọc ở thận, chuyển hóa ở gan và hấp thu đều bị suy giảm theo lão hóa"
+  },
+  {
+    "question": "Tetracyclin gây hỏng men răng ở trẻ em.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Do đó, Tetracyclin bị chống chỉ định cho trẻ em dưới 8 tuổi để tránh làm hỏng răng vĩnh viễn"
+  },
+  {
+    "question": "Ở trẻ sơ sinh hệ thống thần kinh, gan, thận phát triển chưa hoàn chỉnh.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chính vì chưa hoàn chỉnh nên trẻ sơ sinh rất dễ bị ngộ độc vì không chuyển hóa và thải trừ thuốc kịp thời"
+  },
+  {
+    "question": "Trẻ em đặc biệt là trẻ sơ sinh rất nhạy cảm với độc tính của thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hàng rào máu não chưa hoàn thiện và enzyme gan còn thiếu hụt khiến thuốc dễ gây độc cho trẻ."
+  },
+  {
+    "question": "Khi suy hô hấp, hen phế quản nên dùng Morphin vì Morphin có nhiều tác dụng đặc hiệu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Morphin ức chế trung tâm hô hấp, nên tuyệt đối không dùng cho bệnh nhân đang bị suy hô hấp hoặc hen phế quản"
+  },
+  {
+    "question": "Nên uống Aspirin trước bữa ăn để thuốc nhanh có tác dụng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Aspirin là một acid, gây kích ứng mạnh nên phải uống vào lúc no để giảm tác hại lên dạ dày"
+  },
+  {
+    "question": "Indomethacin không gây kích ứng niêm mạc dạ dày.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, Indomethacin là một trong những thuốc chống viêm gây kích ứng và loét dạ dày mạnh nhất trong nhóm"
+  },
+  {
+    "question": "Nên uống thuốc với nước hoa quả, nước có ga để làm tăng tác dụng của thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nước hoa quả và nước có ga có thể làm thay đổi pH hoặc tương tác hóa học làm phân hủy thuốc"
+  },
+  {
+    "question": "Ở người cao tuổi chức năng sinh lý của các cơ quan đều giảm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sự suy giảm này đòi hỏi phải điều chỉnh liều lượng thuốc (thường là giảm liều) cho người cao tuổi"
+  },
+  {
+    "question": "Nước hoa quả, nước có ga không làm tăng phân hủy của thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nhiều loại thuốc bị phân hủy nhanh chóng trong môi trường acid của nước hoa quả hoặc nước có ga"
+  },
+  {
+    "question": "Nước làm tăng độ tan của thuốc, do đó tạo điều kiện hấp thu tốt hơn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nước là dung môi hòa tan thuốc, uống nhiều nước giúp thuốc rã nhanh và tạo nồng độ thích hợp để hấp thu qua màng ruột"
+  },
+  {
+    "question": "Nước hoa quả, nước có ga làm tăng phân hủy của một số thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Vì vậy, tốt nhất là nên uống thuốc với nước lọc hoặc nước đun sôi để nguội"
+  },
+  {
+    "question": "Khi dùng Morphin tác dụng phụ thường gặp là buồn nôn, nôn, táo bón, ức chế hô hấp, bí tiểu tiện, mày đay ngứa.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là các tác dụng không mong muốn điển hình do sự tác động của Morphin lên các receptor opioid ở các cơ quan khác nhau"
+  },
+  {
+    "question": "Thuốc gây mê đường tĩnh mạch: thiopental, ketamin, halothan, ether. . .",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Halothan và Ether là thuốc gây mê đường hô hấp, không phải đường tĩnh mạch"
+  },
+  {
+    "question": "Thuốc gây mê là những thuốc ở liều điều trị có tác dụng làm mất ý thức, cảm giác (đau, nóng lạnh. . . ), làm mất phản xạ. . .",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc gây mê tác động lên hệ thần kinh trung ương để tạm thời đình chỉ các chức năng này phục vụ phẫu thuật"
+  },
+  {
+    "question": "Thuốc gây tê có tác dụng làm mất ý thức, cảm giác đau, nóng lạnh của cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thuốc gây tê chỉ làm mất cảm giác tại nơi dùng thuốc và KHÔNG làm mất ý thức của bệnh nhân"
+  },
+  {
+    "question": "Thuốc gây tê có tác dụng làm mất cảm giác đau, nóng lạnh của cơ thể nơi dùng thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khác với gây mê, gây tê có tính chất cục bộ, tại chỗ"
+  },
+  {
+    "question": "Ether dùng để gây mê phẫu thuật theo đường hô hấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ether là một chất lỏng dễ bay hơi, là thuốc gây mê kinh điển dùng qua đường hít phế nang"
+  },
+  {
+    "question": "Tác dụng của Halothan: gây mê nhanh, tỉnh nhanh, êm dịu, không gây kích ứng, giảm đau kém, có giãn cơ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Halothan là thuốc gây mê mạnh, ưu điểm là không gây kích ứng đường hô hấp nhưng cần phối hợp thêm thuốc giảm đau"
+  },
+  {
+    "question": "Thuốc gây tê bề mặt dùng để bôi, thấm hoặc phun lên da hoặc niêm mạc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là cách dùng để thuốc thấm qua lớp biểu mô và tác động lên các đầu dây thần kinh cảm giác tại chỗ"
+  },
+  {
+    "question": "Glucocorticoid là thuốc chống viêm không steroid.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Glucocorticoid là thuốc chống viêm nhóm steroid (corticoid), phân biệt với nhóm chống viêm không steroid (NSAIDs) như Aspirin hay Ibuprofen ."
+  },
+  {
+    "question": "Glucocorticoid không có tác dụng điều hòa glucose trong cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, Glucocorticoid có tác dụng rất mạnh lên chuyển hóa glucid, làm tăng tạo glucose ở gan và tăng đường huyết ."
+  },
+  {
+    "question": "Glucagon do tuyến tụy bài tiết ra để làm tăng huyết áp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Glucagon là hormone của tuyến tụy giúp làm tăng nồng độ glucose trong máu (theo nguồn tài liệu đánh dấu Đúng cho nhận định này về vai trò chung của nó) ."
+  },
+  {
+    "question": "Niclosamid là thuốc trị sán ký sinh ở ruột:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Niclosamid là thuốc đặc hiệu dùng để tiêu diệt các loại sán dây ký sinh trong đường tiêu hóa ."
+  },
+  {
+    "question": "Mebendazol là thuốc trị sán ký sinh ở ruột:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mebendazol chủ yếu là thuốc trị các loại giun (đũa, kim, móc, tóc), không phải thuốc hàng đầu để trị sán ."
+  },
+  {
+    "question": "Mebendazol là thuốc trị giun ký sinh ở ruột:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mebendazol là thuốc kháng giun phổ rộng, tác dụng rất tốt trên nhiều loại giun ký sinh tại ruột ."
+  },
+  {
+    "question": "Metronidazol là thuốc trị giun ký sinh ở ruột:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Metronidazol là thuốc kháng khuẩn và kháng động vật nguyên sinh (trị amip, lỵ), không có tác dụng trị giun ."
+  },
+  {
+    "question": "Kiêng uống rượu trong thời gian dùng thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhiều loại thuốc (như Metronidazol) gây tương tác nguy hiểm với rượu, vì vậy cần tuyệt đối kiêng rượu khi điều trị ."
+  },
+  {
+    "question": "Berberin là một loại alcalid lấy từ thân rễ cây Hoàng liên.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Berberin là hoạt chất tự nhiên thuộc nhóm alcalid có nhiều trong cây Hoàng liên, Vàng đắng ."
+  },
+  {
+    "question": "Moriamin có tác dụng bù chất điện giải.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Moriamin cung cấp các acid amin và vitamin thiết yếu cho cơ thể, không phải dung dịch bù điện giải ."
+  },
+  {
+    "question": "Insulin do tuyến giáp bài tiết ra để hạ đường huyết.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Insulin do các tế bào đảo tụy (tuyến tụy) bài tiết, không phải tuyến giáp ."
+  },
+  {
+    "question": "Glucocorticoid do tủy thượng thận bài tiết ra để điều hòa chức năng sinh lý của cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Glucocorticoid do vỏ thượng thận bài tiết; tủy thượng thận bài tiết Adrenalin và Noradrenalin ."
+  },
+  {
+    "question": "Glucocorticoid do vỏ thượng thận bài tiết ra để điều hòa chức năng sinh lý của cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Vỏ thượng thận sản xuất các corticoid tự nhiên giúp điều hòa chuyển hóa và chống lại stress ."
+  },
+  {
+    "question": "Prednisolon là một loại glucocorticoid dạng tổng hợp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Prednisolon là dẫn xuất tổng hợp của cortisol, có tác dụng chống viêm mạnh hơn cortisol tự nhiên ."
+  },
+  {
+    "question": "Dexamethason là một loại glucocorticoid dạng tổng hợp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dexamethason là một corticoid tổng hợp có tác dụng chống viêm cực mạnh và kéo dài ."
+  },
+  {
+    "question": "Dexamethason là một loại glucocorticoid dạng tự nhiên.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Dexamethason hoàn toàn là hoạt chất tổng hợp trong phòng thí nghiệm, không phải hormone tự nhiên của cơ thể ."
+  },
+  {
+    "question": "Bệnh nhân bị loét dạ dày tá tràng không được dùng glucocorticoid.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Glucocorticoid làm tăng tiết acid dạ dày và giảm chất nhầy bảo vệ, dễ gây thủng hoặc chảy máu ổ loét ."
+  },
+  {
+    "question": "Khi dùng glucocorticoid phải kiêng ăn muối natri clorid, ăn nhiều protid.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc gây giữ muối, nước và làm tăng phân hủy protein, nên cần điều chỉnh chế độ ăn để giảm tác dụng phụ ."
+  },
+  {
+    "question": "Kháng sinh là những chất có nguồn gốc từ sinh vật có tác dụng kìm hãm hoặc tiêu diệt các vi sinh vật ở nồng độ thấp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa chuẩn về kháng sinh; chúng tác động đặc hiệu lên vi khuẩn ở nồng độ rất loãng ."
+  },
+  {
+    "question": "Ampicillin là kháng sinh thuộc nhóm nhóm Beta lactam:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ampicillin thuộc phân nhóm Penicillin trong họ kháng sinh Beta-lactam lớn ."
+  },
+  {
+    "question": "Amoxicillin là kháng sinh thuộc nhóm nhóm Beta lactam:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tương tự Ampicillin, Amoxicillin là một Beta-lactam có phổ kháng khuẩn rộng ."
+  },
+  {
+    "question": "Kháng sinh là những chất có nguồn gốc từ sinh vật có tác dụng kìm hãm hoặc tiêu diệt các vi sinh vật ở nồng độ cao.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Kháng sinh có đặc điểm là có tác dụng ở nồng độ thấp; nồng độ cao thường gây độc cho cả cơ thể vật chủ ."
+  },
+  {
+    "question": "Tetracyclin là kháng sinh thuộc nhóm nhóm Beta lactam:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tetracyclin thuộc nhóm Tetracyclin riêng biệt, không liên quan đến cấu trúc vòng beta-lactam ."
+  },
+  {
+    "question": "Cloramphenicol là kháng sinh thuộc nhóm Phenicol.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cloramphenicol là đại diện điển hình nhất của nhóm kháng sinh Phenicol ."
+  },
+  {
+    "question": "Erythromycin là kháng sinh thuộc nhóm Macrolid.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Erythromycin là kháng sinh Macrolid kinh điển, thường dùng thay thế khi bệnh nhân dị ứng Penicillin ."
+  },
+  {
+    "question": "Streptomycin là kháng sinh thuộc nhóm Aminosid.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Streptomycin thuộc nhóm Aminosid (aminoglycosid), chủ yếu dùng để điều trị bệnh lao ."
+  },
+  {
+    "question": "Vitamin C trong thực vật có vị chát và có tác dụng nâng cao sức đề kháng cho cơ thể.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Vitamin C (acid ascorbic) có vị chua đặc trưng, không phải vị chát ."
+  },
+  {
+    "question": "Ciprofloxacin là kháng sinh thuộc nhóm Quinolon.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin thuộc nhóm Fluoroquinolon thế hệ 2, có hoạt tính kháng khuẩn rất mạnh ."
+  },
+  {
+    "question": "Thời gian sử dụng kháng sinh để diệt vi khuẩn phải dùng từ 7-10 ngày.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thời gian dùng kháng sinh phụ thuộc vào loại nhiễm khuẩn; một số bệnh cần dùng lâu hơn hoặc ngắn hơn (nguồn tài liệu đánh dấu Sai cho con số cố định này) ."
+  },
+  {
+    "question": "Chỉ sử dụng kháng sinh khi cơ thể bị nhiễm khuẩn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Kháng sinh không có tác dụng trên virus, việc dùng bừa bãi sẽ gây kháng thuốc ."
+  },
+  {
+    "question": "Rifampicin hấp thu nhanh qua đường tiêu hóa.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Rifampicin là thuốc chống lao uống, được hấp thu tốt tại dạ dày và ruột non ."
+  },
+  {
+    "question": "Rifampicin không được hấp thu qua đường tiêu hóa.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đây là nhận định sai vì đường uống là đường dùng phổ biến nhất của Rifampicin ."
+  },
+  {
+    "question": "Khi uống Rifampicin thức ăn sẽ làm chậm và giảm hấp thu của thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thức ăn làm cản trở quá trình hấp thu Rifampicin, nên thuốc được khuyến cáo uống lúc đói ."
+  },
+  {
+    "question": "Khi uống Rifampicin thức ăn sẽ làm tăng hấp thu của thuốc vào máu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại với thực tế, thức ăn luôn làm giảm sinh khả dụng của Rifampicin đường uống ."
+  },
+  {
+    "question": "Rifampicin chuyển hóa chủ yếu ở gan.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Gan là cơ quan chính thực hiện khử acetyl hóa Rifampicin trước khi thải trừ ."
+  },
+  {
+    "question": "Cơ chế tác dụng của streptomycin là kích thích tổng hợp protein của tế bào vi khuẩn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Streptomycin ức chế (không phải kích thích) quá trình tổng hợp protein bằng cách gắn vào tiểu phần 30S của ribosome vi khuẩn ."
+  },
+  {
+    "question": "Streptomycin ít hấp thu qua đường tiêu hóa.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Do tính phân cực mạnh, Streptomycin hầu như không qua được màng ruột nên phải dùng đường tiêm ."
+  },
+  {
+    "question": "Artemisinin là thuốc có tác dụng giảm co thắt trong cơn sốt rét.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Artemisinin diệt ký sinh trùng sốt rét, không phải là thuốc chống co thắt cơ học ."
+  },
+  {
+    "question": "Artemisinin là thuốc có tác dụng cắt cơn sốt rét.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Artemisinin có khả năng diệt thể phân liệt trong máu rất nhanh, giúp cắt cơn sốt hiệu quả ."
+  },
+  {
+    "question": "Khi sử dụng thuốc chống giun, liều dùng cho người lớn và trẻ em là như nhau:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Với một số thuốc như Mebendazol 500mg, liều duy nhất thường áp dụng chung cho cả người lớn và trẻ trên 2 tuổi ."
+  },
+  {
+    "question": "Khi sử dụng thuốc chống giun, liều dùng cho người lớn và trẻ em là khác nhau:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đối với các loại giun đường ruột thông thường, nhiều thuốc dùng cùng một mức liều cho cả hai đối tượng [8]."
+  },
+  {
+    "question": "Muốn chọn đúng thuốc chống giun, sán phải căn cứ vào kết quả xét nghiệm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Xét nghiệm phân/máu giúp định danh chính xác loài ký sinh trùng để dùng thuốc đặc hiệu [8]."
+  },
+  {
+    "question": "Người bị suy gan không được dùng Albendazol.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Albendazol chuyển hóa mạnh tại gan, nên suy gan nặng là chống chỉ định để tránh độc tính tích lũy [8]."
+  },
+  {
+    "question": "Oxy già 3% có tác dụng tẩy uế, sát khuẩn mạnh và cầm máu tại chỗ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khi tiếp xúc mô, Oxy già giải phóng oxy nguyên tử giúp làm sạch vết thương và có khả năng cầm máu nhẹ [8]."
+  },
+  {
+    "question": "Sắt II oxalat chống chỉ định trong các trường hợp sau: Chứng khó tiêu, sốt cao, đau đầu, loét dạ dày.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Các thuốc sắt có thể gây kích ứng đường tiêu hóa, nên cần thận trọng đặc biệt với bệnh nhân loét dạ dày (nguồn tài liệu ghi nhận định này là Sai tổng quát) [8]."
+  },
+  {
+    "question": "Naphazolin có tác dụng chống xung huyết, chống viêm ở niêm mạc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Naphazolin gây co mạch tại chỗ, làm giảm sưng nề và xung huyết niêm mạc mũi, mắt [8]."
+  },
+  {
+    "question": "Thuốc hạ sốt, giảm đau, chống viêm chỉ có tác dụng điều trị triệu chứng, không có tác dụng điều trị nguyên nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các thuốc này chỉ làm mất cảm giác đau hoặc hạ nhiệt độ, không diệt được vi khuẩn/virus gây bệnh ."
+  },
+  {
+    "question": "Nên phối hợp nhiều vitamin với nhau để làm tăng tác dụng điều trị.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phối hợp các vitamin giúp bổ sung toàn diện và hỗ trợ các quá trình chuyển hóa lẫn nhau ."
+  },
+  {
+    "question": "Nên phối hợp nhiều kháng sinh với nhau để làm tăng hấp thu và tác dụng của thuốc.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Phối hợp kháng sinh chỉ dùng trong trường hợp nhiễm khuẩn nặng hoặc đa kháng; phối hợp sai có thể gây đối kháng và tăng độc tính ."
+  },
+  {
+    "question": "Prednisolon có tác dụng chống viêm, chống dị ứng, ức chế miễn dịch.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là 3 tác dụng dược lý cơ bản và quan trọng nhất của các thuốc nhóm Glucocorticoid ."
+  },
+  {
+    "question": "Indomethacin có tác dụng chống viêm trong trường hợp viêm xương khớp, hư khớp, thấp khớp.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Indomethacin là thuốc chống viêm không steroid (NSAID) mạnh, thường được chỉ định cho các bệnh lý viêm khớp mạn tính"
+  },
+  {
+    "question": "Dung dịch Ringer lactat có tác dụng bù nước và chất điện giải.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ringer Lactat là dung dịch đẳng trương chứa các ion tương tự huyết tương, dùng để thay thế dịch và điện giải bị mất"
+  },
+  {
+    "question": "Thuốc có thể gây tác hại đến sức khỏe, tính mạng người dùng nếu không sử dụng đúng thuốc, đúng liều và đúng cách:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sử dụng thuốc sai nguyên tắc có thể dẫn đến ngộ độc, tác dụng phụ nghiêm trọng hoặc sốc phản vệ"
+  },
+  {
+    "question": "Liều dùng thuốc cho trẻ em bằng 1/2 liều người lớn:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Liều cho trẻ em không chỉ đơn giản là chia đôi mà phải được tính toán chính xác dựa trên cân nặng hoặc diện tích bề mặt cơ thể"
+  },
+  {
+    "question": "Thuốc không thể hấp thu qua da lành, mà chỉ hấp thu qua vùng da bị tổn thương:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Một số thuốc tan mạnh trong lipid vẫn có khả năng thấm qua da lành vào hệ tuần hoàn (ví dụ: miếng dán thấm qua da), [2, 3]."
+  },
+  {
+    "question": "Niêm mạc ruột non là nơi hấp thu thuốc tốt vì ở đó có nhiều nhung mao nên có diện tích tiếp xúc với thuốc lớn:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cấu trúc nhung mao và vi nhung mao giúp ruột non có diện tích hấp thu khổng lồ, là nơi hấp thu chính của hầu hết các thuốc"
+  },
+  {
+    "question": "Không có thuốc nào hấp thu được qua đường ruột và trực tràng:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đường trực tràng là đường dùng quan trọng cho các dạng thuốc đạn, thuốc thụt với khả năng hấp thu tốt vào tĩnh mạch trực tràng, [4, 5]."
+  },
+  {
+    "question": "Thuốc có tỷ lệ liên kết với Protein huyết tương cao sẽ tồn tại lâu trong cơ thể và có tác dụng kéo dài:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phần thuốc liên kết với protein đóng vai trò như một kho dự trữ, giải phóng dần dần thành dạng tự do để duy trì tác dụng"
+  },
+  {
+    "question": "Thận là nơi chính thải trừ thuốc, khoảng 90% thuốc tan trong nước được thải trừ qua thận:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các thuốc ở dạng phân cực, tan trong nước sẽ được lọc qua cầu thận hoặc bài tiết qua ống thận để ra ngoài qua nước tiểu"
+  },
+  {
+    "question": "Thuốc sau khi hấp thu vào cơ thể thì phát huy tác dụng và thải trừ ở dạng nguyên vẹn không chuyển hóa:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Phần lớn các thuốc phải trải qua quá trình chuyển hóa tại gan để biến đổi thành chất khác trước khi thải trừ"
+  },
+  {
+    "question": "Một số thuốc có thể bị thải trừ qua da, lông, tóc. . vv:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ngoài các đường chính, thuốc và các kim loại nặng có thể tích lũy và thải trừ qua các bộ phận phụ của da"
+  },
+  {
+    "question": "Dạng dùng của thuốc cũng ảnh hưởng đến cường độ tác dụng và thời gian tác dụng của thuốc:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dạng thuốc (lỏng, viên nén, tiêm...) quyết định tốc độ giải phóng dược chất và mức độ hấp thu vào máu"
+  },
+  {
+    "question": "Trước khi tiêm kháng sinh penicilin nên thử phản ứng dị ứng:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thử phản ứng (test) là bắt buộc để ngăn ngừa tai biến sốc phản vệ cực kỳ nguy hiểm do Penicillin gây ra"
+  },
+  {
+    "question": "Đối với phụ nữ, không được dùng thuốc trong thời gian có thai và nuôi con bú:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Vẫn có thể sử dụng thuốc nếu thật sự cần thiết và thuốc đó được chứng minh là an toàn dưới sự chỉ định của bác sĩ"
+  },
+  {
+    "question": "Thuốc nào có tỷ lệ liên kết cao với protein huyết tương thì thuốc đó có tác dụng nhanh, mạnh hơn:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thuốc liên kết cao với protein thường có tác dụng chậm và kéo dài hơn vì chỉ dạng tự do mới có hoạt tính dược lý"
+  },
+  {
+    "question": "Các thuốc tiêm dưới da hấp thu nhanh hơn tiêm bắp thịt:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tiêm bắp hấp thu nhanh hơn tiêm dưới da do mô cơ có hệ thống mạch máu phong phú hơn mô dưới da, [6, 7]."
+  },
+  {
+    "question": "Tác dụng hiệp đồng tăng cường là tác dụng thu được bằng tổng của 2 thuốc phối hợp:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Hiệp đồng tăng cường là khi tác dụng chung lớn hơn tổng tác dụng của từng thuốc cộng lại, [8]."
+  },
+  {
+    "question": "Thuốc có tác dụng phòng và chữa bệnh nhưng nếu dùng liều cao quá mức có thể sẽ trở thành chất độc với cơ thể:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mọi loại thuốc đều có giới hạn liều lượng; vượt quá liều tối đa sẽ gây ra ngộ độc, [8]."
+  },
+  {
+    "question": "Thuốc hấp thu qua dạ dày khi no dễ hơn khi đói:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thức ăn thường làm cản trở sự tiếp xúc của thuốc với niêm mạc dạ dày và làm chậm tốc độ hấp thu, [8]."
+  },
+  {
+    "question": "Tiêm bắp là đưa thuốc vào dưới lớp biểu bì, thuốc được hấp thu chậm và đau hơn tiêm dưới da:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Định nghĩa này sai; tiêm bắp đưa thuốc vào sâu trong cơ và thường hấp thu nhanh hơn tiêm dưới da, [8, 9]."
+  },
+  {
+    "question": "Thuốc được sử dụng qua đường tiêu hóa là thuốc ít gây hao hụt nhất:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thuốc uống dễ bị hao hụt nhất do sự phân hủy của dịch tiêu hóa và quá trình chuyển hóa lần đầu tại gan, [8]."
+  },
+  {
+    "question": "Thuốc giảm đau gây ngủ rất dễ gây nghiện:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Các thuốc thuộc nhóm Opioid như Morphin gây lệ thuộc cả về thể chất lẫn tâm thần nếu dùng không đúng quy định"
+  },
+  {
+    "question": "Thuốc Morphin có tác dụng lợi tiểu:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Morphin làm tăng co thắt cơ vòng bàng quang, gây cảm giác khó tiểu hoặc bí tiểu thay vì lợi tiểu, [10, 11]."
+  },
+  {
+    "question": "Pethidin hydroclorid là thuốc giảm đau gây ngủ có nguồn gốc tự nhiên:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Pethidin là một dẫn xuất tổng hợp hoàn toàn, không phải chiết xuất tự nhiên như Morphin"
+  },
+  {
+    "question": "Thuốc Morphin có tác dụng chống viêm, giảm đau:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Morphin chỉ là thuốc giảm đau trung ương mạnh, nó không có hoạt tính chống viêm như nhóm NSAIDs"
+  },
+  {
+    "question": "Aspirin có tác dụng giảm kết dính tiểu cầu:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Aspirin ức chế enzyme COX của tiểu cầu, ngăn chặn tạo Thromboxan A2, từ đó chống kết tập tiểu cầu"
+  },
+  {
+    "question": "Viên Aspirin pH8 khi uống phải bẻ nhỏ để thuốc dễ hấp thu qua đường tiêu hóa:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Viên Aspirin pH8 được thiết kế để chỉ tan trong ruột; nếu bẻ nhỏ sẽ làm mất lớp bảo vệ, thuốc tan ngay tại dạ dày gây loét"
+  },
+  {
+    "question": "Paracetamol không dùng cho người sốt xuất huyết:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngược lại, Paracetamol là thuốc hạ sốt được ưu tiên sử dụng cho bệnh nhân sốt xuất huyết vì không ảnh hưởng đến tiểu cầu"
+  },
+  {
+    "question": "Paracetamol không có chống chỉ định?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Paracetamol chống chỉ định với người suy giảm chức năng gan nặng hoặc mẫn cảm với thuốc"
+  },
+  {
+    "question": "Diclofenac phải uống sau khi ăn để giảm tác hại đến dạ dày:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Uống lúc no giúp thức ăn bảo vệ niêm mạc dạ dày khỏi tác dụng gây kích ứng trực tiếp của thuốc"
+  },
+  {
+    "question": "Ibuprofen dùng giảm đau khi hành kinh?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong thực tế lâm sàng Ibuprofen rất hiệu quả cho đau bụng kinh, nhưng nhận định trong tài liệu nguồn đánh dấu Sai (có thể do sai sót trong đề bài gốc)"
+  },
+  {
+    "question": "Indomethacin không dùng với tác dụng hạ sốt:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mặc dù có tác dụng hạ sốt nhưng do độc tính cao nên Indomethacin không được dùng làm thuốc hạ sốt thông thường"
+  },
+  {
+    "question": "Paracetamol không dùng cho người mắc bệnh loét dạ dày, tá tràng:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Paracetamol không gây kích ứng dạ dày đáng kể nên là thuốc hạ sốt an toàn cho bệnh nhân đau dạ dày"
+  },
+  {
+    "question": "Paracetamol không có tác dụng chống viêm:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Paracetamol chỉ có tác dụng hạ sốt và giảm đau; tác dụng chống viêm của nó hầu như bằng không"
+  },
+  {
+    "question": "Các thuốc hạ nhiệt được dùng để chữa sốt cao cảm cúm, sốt xuất huyết:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong sốt xuất huyết, chỉ được dùng Paracetamol, các thuốc hạ nhiệt khác như Aspirin hay Ibuprofen bị cấm vì gây chảy máu"
+  },
+  {
+    "question": "Thuốc Acetaminophene có tác dụng chống viêm:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Acetaminophen (tên gọi khác của Paracetamol) không có tính kháng viêm trên lâm sàng"
+  },
+  {
+    "question": "Thuốc Acid Acetyl Salicylic chỉ có tác dụng chống viêm:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Aspirin còn có tác dụng hạ sốt, giảm đau và đặc biệt là chống kết tập tiểu cầu"
+  },
+  {
+    "question": "Thuốc Indomethacin có tác dụng chống viêm, giảm đau:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là hai tác dụng dược lý nổi bật của Indomethacin trong điều trị các bệnh xương khớp"
+  },
+  {
+    "question": "Thuốc Aspirin có tác dụng chống viêm, hạ sốt, giảm đau:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là ba tác dụng kinh điển của nhóm thuốc Salicylat"
+  },
+  {
+    "question": "Chống chỉ định của Ibuprofel là tăng huyết áp do thận, xuất huyết não, suy tim, viêm thận:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Mặc dù cần thận trọng, nhưng tài liệu nguồn đánh dấu nhận định này là Sai đối với Ibuprofen"
+  },
+  {
+    "question": "Loratadin không dùng cho người điều khiển máy móc và phương tiện giao thông:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Loratadin là kháng histamin thế hệ 2, không gây buồn ngủ nên dùng được cho người lái xe"
+  },
+  {
+    "question": "Cùng một dị nguyên như nhau, nhưng có người có biểu hiện dị ứng, có người không:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phản ứng dị ứng phụ thuộc vào cơ địa mẫn cảm riêng biệt của từng cá thể, [14]."
+  },
+  {
+    "question": "Dị ứng chỉ biểu hiện bằng nổi mẩn ngứa ngoài da:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Dị ứng có thể biểu hiện ở nhiều mức độ: từ mẩn ngứa đến co thắt phế quản và nặng nhất là sốc phản vệ toàn thân, [14]."
+  },
+  {
+    "question": "Clorpheniramin có tác dụng chống dị ứng mạnh:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chlorpheniramin là một trong những thuốc kháng Histamin H1 thế hệ 1 có hiệu quả chống dị ứng rất tốt, [14]."
+  },
+  {
+    "question": "Khi thủy phân glycosid, người ta thu được 1 phần đường và 1 phần không đường:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cấu trúc hóa học của Glycosid luôn gồm phần đường (glycon) và phần không đường (aglycon), [14]."
+  },
+  {
+    "question": "Phần không đường của glycosid tim có cấu trúc steroid và có tác dụng chọn lọc trên cơ tim?",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phần aglycon quyết định hoạt tính sinh học đặc hiệu giúp tăng sức co bóp cơ tim của thuốc, [14]."
+  },
+  {
+    "question": "Digoxin là thuốc điều trị suy tim có nguồn gốc tự nhiên:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Digoxin được chiết xuất từ lá cây Dương địa hoàng lông (Digitalis lanata), [14]."
+  },
+  {
+    "question": "Hypothiazid là thuốc lợi tiểu có cấu trúc sulfamid:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hypothiazid (Hydrochlorothiazide) thuộc nhóm thiazide có chứa cấu trúc hóa học sulfonamid"
+  },
+  {
+    "question": "Furosemid có tác dụng chữa ho:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Furosemid là thuốc lợi tiểu quai cực mạnh, không có tác dụng điều trị ho"
+  },
+  {
+    "question": "Acetazolamid có tác dụng lợi tiểu phối hợp để điều trị phù phổi cấp:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Furosemid mới là thuốc lợi tiểu được chọn lựa hàng đầu trong cấp cứu phù phổi cấp"
+  },
+   {
+    "question": "Khi dùng thuốc lợi tiểu Hydroclothiazid nên bổ sung thêm K⁺:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hydrochlorothiazide làm tăng bài tiết kali qua nước tiểu, dễ gây hạ kali máu nên cần bổ sung qua thực phẩm hoặc thuốc"
+  },
+  {
+    "question": "Procainamid ngoài tác dụng chống loạn nhịp tim còn có tác dụng gây tê nhẹ:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Procainamid là dẫn chất của procain, ngoài tác dụng ổn định màng cơ tim (nhóm IA) còn giữ đặc tính gây tê tại chỗ"
+  },
+  {
+    "question": "Nitroglycerin là dẫn chất nitrat được dùng chữa đau thắt ngực:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc làm giãn hệ tĩnh mạch và động mạch vành, giúp giảm tiền gánh và hậu gánh, từ đó giảm nhu cầu oxy của cơ tim"
+  },
+  {
+    "question": "Nifedipin viên ngậm dưới lưỡi có tác dụng nhanh điều trị cao huyết áp kịch phát:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ngậm dưới lưỡi giúp thuốc hấp thu trực tiếp qua niêm mạc miệng vào máu, giúp hạ áp nhanh trong các trường hợp cấp cứu"
+  },
+  {
+    "question": "Methyldopa dùng trong cơn cao huyết áp kịch phát:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Methyldopa có khởi phát tác dụng chậm (sau 4-6 giờ) nên chỉ dùng điều trị tăng huyết áp mạn tính, không dùng cho cơn kịch phát"
+  },
+  {
+    "question": "Không được phối hợp thuốc lợi tiểu với thuốc chữa cao huyết áp:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Thực tế, phối hợp thuốc lợi tiểu với các thuốc hạ áp khác (như ức chế men chuyển) là phác đồ rất phổ biến để tăng hiệu quả"
+  },
+  {
+    "question": "Adrenalin là thuốc điều trị Sốc do Penicillin:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Adrenalin là thuốc cấp cứu hàng đầu cho sốc phản vệ nhờ tác dụng co mạch nâng áp và giãn phế quản nhanh chóng"
+  },
+  {
+    "question": "Chỉ định của Nifedipin là tăng huyết áp, dự phòng đau thắt ngực đặc biệt khi có yếu tố co mạch:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nifedipin chẹn kênh calci, làm giãn mạch máu mạnh nên hiệu quả trong tăng huyết áp và đau thắt ngực do co thắt mạch vành"
+  },
+  {
+    "question": "Chỉ định của Methyl dopa là tăng huyết áp thể vừa, thể mạn tính, tăng huyết áp ở người mang thai:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Methyldopa là thuốc hạ áp tác động trung ương được chứng minh là an toàn cho phụ nữ mang thai"
+  },
+  {
+    "question": "Chỉ định của Quinidin là loạn nhịp hoàn toàn do rung tâm nhĩ, nhịp nhanh thất kịch phát, ngoại tâm thu:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Quinidin thuộc nhóm thuốc chống loạn nhịp IA, giúp ổn định nhịp tim trong các trường hợp loạn nhịp nhĩ và thất"
+  },
+  {
+    "question": "Furosemid là thuốc lợi tiểu có tác dụng điều trị cao huyết áp:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Furosemid đào thải muối nước, làm giảm thể tích tuần hoàn dẫn đến giảm huyết áp"
+  },
+  {
+    "question": "Hypothiazit là thuốc lợi tiểu chống chỉ định cho những người hạ Kali huyết:",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc làm mất kali qua nước tiểu, nếu dùng khi đang hạ kali máu sẽ khiến tình trạng trầm trọng hơn, gây nguy hiểm cho tim"
+  },
+  {
+    "question": "Bệnh loét dạ dày – tá tràng chỉ gặp ở người lớn:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Bệnh loét dạ dày có thể gặp ở mọi lứa tuổi, bao gồm cả trẻ em do nhiễm khuẩn H.pylori hoặc chế độ sinh hoạt"
+  },
+  {
+    "question": "Tác dụng của nhôm hydroxyd là cung cấp năng lượng cho cơ thể, tăng khả năng chống độc của gan khi cơ thể bị nhiễm độc nhẹ, lợi tiểu nhẹ:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Nhôm hydroxyd là thuốc kháng acid (antacid), chỉ dùng để trung hòa acid dịch vị, không cung cấp năng lượng hay giải độc gan"
+  },
+  {
+    "question": "Magnesi hydroxyd chữa táo bón:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 1,
+    "explanation": "Magnesi hydroxyd có tác dụng nhuận tràng thẩm thấu, kéo nước vào lòng ruột giúp làm mềm phân"
+  },
+  {
+    "question": "Cimetidin dùng để chữa viêm thực quản:",
+    "answers": ["Sai", "Đúng"],
+    "correct": 1,
+    "explanation": "Cimetidin kháng thụ thể H2, giảm tiết acid dạ dày nên hiệu quả trong điều trị viêm thực quản do trào ngược"
+  },
+  {
+    "question": "Berberin không dùng cho phụ nữ có thai",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Berberin có thể gây kích thích co bóp tử cung, tăng nguy cơ sảy thai hoặc đẻ non nên chống chỉ định cho bà bầu"
+  },
+  {
+    "question": "Oresol không có chống chỉ định",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Oresol chống chỉ định với bệnh nhân suy thận nặng, mất nước kèm sốc, tắc ruột hoặc vô niệu"
+  },
+  {
+    "question": "Khi pha dung dịch oresol phải dùng nước đun sôi để nguội",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Việc pha đúng tỉ lệ với nước lọc hoặc nước đun sôi để nguội đảm bảo áp suất thẩm thấu chuẩn để bù nước hiệu quả"
+  },
+  {
+    "question": "Không được dùng loperamid cho trẻ em dưới 6 tuổi",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Loperamid có thể gây liệt ruột và ức chế thần kinh trung ương nghiêm trọng ở trẻ nhỏ"
+  },
+  {
+    "question": "Metronidazol trị lỵ trực khuẩn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Theo nguồn tài liệu đánh dấu Đúng; tuy nhiên thực tế Metronidazol chuyên trị lỵ Amip, còn lỵ trực khuẩn thường dùng kháng sinh khác"
+  },
+  {
+    "question": "Giun sinh sống và phát triển chỉ ở đường tiêu hoá",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Một số loài giun có chu kỳ di trú qua phổi hoặc ký sinh ở các mô khác, không chỉ ở ruột"
+  },
+  {
+    "question": "Mebendazol có tác dụng trên nhiều loại giun sống ở ruột",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mebendazol là thuốc trị giun phổ rộng, hiệu quả với giun đũa, giun kim, giun móc và giun tóc"
+  },
+  {
+    "question": "Albedazol có tác dụng trên ấu trùng sán",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Albendazol có khả năng tiêu diệt ấu trùng sán lợn và sán chó ký sinh trong mô cơ thể"
+  },
+  {
+    "question": "Ampicilin có thể dùng cho trẻ em dưới 2 tuổi bị nhiễm khuẩn đường hô hấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ampicillin là kháng sinh phổ rộng thuộc nhóm Penicillin, khá an toàn cho trẻ nhỏ khi sử dụng đúng liều"
+  },
+  {
+    "question": "Penicilin G uống trước khi ăn khoảng 30 phút",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Penicillin G dễ bị phá hủy bởi acid dịch vị nên thường dùng đường tiêm để đảm bảo hiệu quả"
+  },
+  {
+    "question": "Chỉ dùng kháng sinh khi đã biết chắc chắn có nhiễm khuẩn hoặc dùng dự phòng trong trường hợp thật cần thiết",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là nguyên tắc quan trọng để tránh kháng thuốc và các phản ứng không mong muốn"
+  },
+  {
+    "question": "Dùng kháng sinh nhất thiết phải dùng đủ liều",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dùng đủ liều giúp tiêu diệt hoàn toàn vi khuẩn, ngăn ngừa sự sống sót và phát triển của các chủng kháng thuốc"
+  },
+  {
+    "question": "Bezathin benzyl penicillin có phổ kháng khuẩn tương tự Penicilin G nhưng tác dụng kéo dài.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là dạng muối ít tan, giải phóng chậm giúp duy trì nồng độ kháng sinh trong máu suốt nhiều tuần"
+  },
+  {
+    "question": "Bezathin benzyl penicilin dùng điều trị dự phòng cơn tái phát thấp khớp cấp, viêm cầu thận cấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhờ tác dụng kéo dài, thuốc giúp ngăn chặn nhiễm liên cầu khuẩn gây thấp tim và viêm cầu thận"
+  },
+  {
+    "question": "Amoxycilin có tác dụng tương tự ampicilin nhưng hấp thụ kém hơn",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Ngược lại, Amoxicillin hấp thu qua đường tiêu hóa tốt và ổn định hơn hẳn Ampicillin"
+  },
+  {
+    "question": "Augmentin có tác dụng cả trên các chủng vi khuẩn sản sinh ra beta – lactamase.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Augmentin chứa Acid clavulanic giúp ức chế enzyme beta-lactamase, bảo vệ Amoxicillin không bị vi khuẩn phá hủy"
+  },
+  {
+    "question": "Cephalexin không được dùng cho phụ nữ có thai và trẻ em dưới 2 tuổi",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Cephalexin là kháng sinh nhóm Cephalosporin thế hệ 1, được coi là an toàn cho thai kỳ và trẻ em"
+  },
+  {
+    "question": "Cefotaxim là kháng sinh thuộc họ cephalosporin thế hệ III",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cefotaxim là kháng sinh thế hệ 3 có phổ rộng trên vi khuẩn Gram âm và qua được hàng rào máu não"
+  },
+  {
+    "question": "Cefepim có tác dụng với cả các chủng vi khuẩn sinh ra beta – lactamase",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cefepim là thế hệ 4, có cấu trúc bền vững trước nhiều loại enzyme phá hủy kháng sinh của vi khuẩn"
+  },
+  {
+    "question": "Tất cả các kháng sinh đều là thuốc bán theo đơn",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Nguồn tài liệu đánh dấu Sai; có lẽ ám chỉ thực tế hoặc một số dạng dùng ngoài, dù theo luật hiện nay kháng sinh phải có đơn"
+  },
+  {
+    "question": "Gentamycin thường dùng ở dạng uống và dạng tiêm",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Gentamycin hầu như không hấp thu qua ruột nên không dùng dạng uống để trị nhiễm khuẩn toàn thân"
+  },
+  {
+    "question": "Ciprofloxacin có tác dụng với lậu cầu và các nhiễm khuẩn nặng khác.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin là kháng sinh Quinolon mạnh, có hiệu quả cao trên vi khuẩn lậu"
+  },
+  {
+    "question": "Các kháng sinh họ aminosid thường có độc tính cao với thính giác, có thể gây điếc không hồi phục.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Độc tính trên tai và thận là tác dụng phụ nghiêm trọng và đặc trưng nhất của nhóm Aminosid"
+  },
+  {
+    "question": "Tobramycin điều trị các bệnh nhiễm khuẩn ở mắt như: viêm mi mắt, viêm kết mạc, viêm giác mạc. . .",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tobramycin thường được dùng dưới dạng thuốc nhỏ mắt để trị các nhiễm khuẩn tại chỗ"
+  },
+  {
+    "question": "Cloramphenicol có thể gây nên hội chứng xám ở trẻ sơ sinh",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Do hệ thống chuyển hóa ở gan của trẻ sơ sinh chưa hoàn thiện dẫn đến tích lũy thuốc gây độc"
+  },
+  {
+    "question": "Cloramphenicol đặc trị bệnh thương hàn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Cloramphenicol từng là thuốc lựa chọn hàng đầu cho bệnh thương hàn do Salmonella gây ra"
+  },
+  {
+    "question": "Tetracyclin có thể gây hoại tử ống thận",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuốc Tetracyclin quá hạn hoặc dùng liều cao có thể gây tổn thương thận nghiêm trọng"
+  },
+  {
+    "question": "Doxycylin có tác dụng tương tự tetracyclin, nhưng liều dùng cao hơn và tác dụng kéo dài hơn.",
+    "answers": ["Sai", "Đúng"],
+    "correct": 0,
+    "explanation": "Doxycyclin có thời gian tác dụng dài hơn nên liều dùng thường thấp hơn so với Tetracyclin"
+  },
+  {
+    "question": "Thuốc nào có tác dụng chữa bệnh thiếu máu:",
+    "answers": ["Sắt II oxalat", "Indomethacin", "Berberin", "Metronidazol"],
+    "correct": 0,
+    "explanation": "Sắt là thành phần cấu tạo nên huyết sắc tố (hemoglobin), dùng để điều trị thiếu máu thiếu sắt"
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị nấm:",
+    "answers": ["Nystatin", "Voltaren", "Ketamin", "Ampicilin"],
+    "correct": 0,
+    "explanation": "Nystatin là thuốc kháng nấm, thường dùng cho các trường hợp nhiễm nấm Candida"
+  },
+  {
+    "question": "Đường hấp thu thuốc tốt nhất:",
+    "answers": ["Tiêm tĩnh mạch", "Tiêm dưới da", "Đặt trực tràng", "Tiêm bắp thịt"],
+    "correct": 0,
+    "explanation": "Tiêm tĩnh mạch đưa thuốc trực tiếp vào máu, đạt sinh khả dụng 100% ngay lập tức"
+  },
+  {
+    "question": "Thuốc có tác dụng chống dị ứng:",
+    "answers": ["Clopheniramin", "Vitamin B12", "Ciprofloxacin", "Loperamid"],
+    "correct": 0,
+    "explanation": "Chlorpheniramin là thuốc kháng histamin H1 giúp giảm các triệu chứng dị ứng, mẩn ngứa"
+  },
+  {
+    "question": "Khi bị táo bón nên dùng thuốc sau:",
+    "answers": ["Sorbitol", "Berberin", "Mộc hoa trắng", "Paracetamol"],
+    "correct": 0,
+    "explanation": "Sorbitol là thuốc nhuận tràng thẩm thấu, giúp tăng cường bài tiết phân qua đường tiêu hóa"
+  },
+  {
+    "question": "Thuốc nào có tác dụng chữa bệnh khô mắt, quáng gà:",
+    "answers": ["Vitamin A", "Vitamin E", "Vitamin B6", "Vitamin D"],
+    "correct": 0,
+    "explanation": "Vitamin A đóng vai trò quan trọng trong việc bảo vệ niêm mạc mắt và duy trì thị lực vào ban đêm"
+  },
+  {
+    "question": "Tác dụng chính của Paracetamol:",
+    "answers": ["Hạ sốt, giảm đau", "Giảm đau, chống viêm", "Chống nôn, đau lưng", "Chữa đau dây thần kinh, mày đay"],
+    "correct": 0,
+    "explanation": "Paracetamol (Acetaminophen) là thuốc giảm đau và hạ sốt hữu hiệu, nhưng không có tác dụng chống viêm đáng kể trên lâm sàng"
+  },
+  {
+    "question": "Thuốc nào có tác dụng trị giun, sán:",
+    "answers": ["Mebendazol", "Metronidazol", "Dimedrol", "Bisacodyl"],
+    "correct": 0,
+    "explanation": "Mebendazol là thuốc kháng giun phổ rộng, làm cản trở quá trình hấp thu glucose của giun, khiến chúng bị cạn kiệt năng lượng và chết"
+  },
+  {
+    "question": "Liều dùng của vitamin B1 dùng cho người lớn để chữa bệnh beri-beri:",
+    "answers": ["40-60mg/ngày", "10-20mg/ngày", "100-200mg/ngày", "500mg/ngày"],
+    "correct": 2,
+    "explanation": "Trong điều trị bệnh Beri-beri (thiếu vitamin B1 nặng), liều khuyến cáo cho người lớn thường dao động từ 100-200mg/ngày theo đường uống hoặc tiêm"
+  },
+  {
+    "question": "Kháng sinh điều trị bệnh lao:",
+    "answers": ["Rifampicin", "Amoxycylin", "Biseptol", "Niclosamin"],
+    "correct": 0,
+    "explanation": "Rifampicin là một trong những kháng sinh hàng đầu (hàng 1) trong phác đồ điều trị lao nhờ khả năng diệt khuẩn mạnh"
+  },
+  {
+    "question": "Công dụng chính của vitamin B12:",
+    "answers": ["Chữa thiếu máu ác tính", "Đau dây thần kinh", "Thiếu máu nhược sắc", "Rối loạn tiền đình"],
+    "correct": 0,
+    "explanation": "Vitamin B12 đóng vai trò quan trọng trong quá trình tạo máu và trưởng thành của hồng cầu; thiếu hụt nó gây ra thiếu máu ác tính (thiếu máu Biermer)"
+  },
+  {
+    "question": "Vitamin C có nhiều trong:",
+    "answers": ["Quả cam", "Quả gấc", "Quả ổi", "Hạt ngô"],
+    "correct": 2,
+    "explanation": "Thực tế, quả ổi chứa hàm lượng vitamin C cao gấp nhiều lần so với các loại quả họ cam quýt"
+  },
+  {
+    "question": "Khi bị táo bón người bệnh không nên:",
+    "answers": ["Ăn ổi, sim", "Vận động", "Uống nước", "Ăn rau"],
+    "correct": 0,
+    "explanation": "Ổi và sim có chứa nhiều tannin, chất này làm se niêm mạc ruột và giảm nhu động ruột, khiến tình trạng táo bón nặng thêm"
+  },
+  {
+    "question": "Thuốc có tác dụng gây tê:",
+    "answers": ["Novocain", "Ketamin", "Ether", "Piroxicam"],
+    "correct": 0,
+    "explanation": "Novocain (Procain) là thuốc gây tê kinh điển, ngăn chặn sự dẫn truyền xung động thần kinh tại chỗ"
+  },
+  {
+    "question": "Thuốc gây mê phải có tác dụng:",
+    "answers": ["Gây ngủ, giãn cơ", "Hạ sốt, giảm đau", "Điều trị nhiễm khuẩn", "Kích thích thần kinh gây co giật"],
+    "correct": 0,
+    "explanation": "Mục tiêu của thuốc gây mê là làm mất ý thức (ngủ sâu), mất cảm giác đau và làm giãn cơ để phục vụ phẫu thuật"
+  },
+  {
+    "question": "Thuốc nào không dùng cho người lái xe:",
+    "answers": ["Promethazin", "Pracetamol", "Prednisolon", "Kali clorid"],
+    "correct": 0,
+    "explanation": "Promethazin là thuốc kháng Histamin thế hệ 1, có tác dụng phụ gây buồn ngủ và giảm sự tập trung"
+  },
+  {
+    "question": "Thuốc có tác dụng giảm đau, chống viêm:",
+    "answers": ["Diclofenac", "Cephalexin", "Terpin codein", "Doxycyclin"],
+    "correct": 0,
+    "explanation": "Diclofenac là thuốc chống viêm không steroid (NSAID) giúp ức chế tổng hợp prostaglandin gây viêm và đau"
+  },
+  {
+    "question": "Thuốc có thể gây điếc cho trẻ em:",
+    "answers": ["Steptomycin", "Rifampicin", "Griseofulvin", "Cimetidin"],
+    "correct": 0,
+    "explanation": "Streptomycin và các thuốc nhóm aminosid có độc tính chọn lọc trên dây thần kinh số VIII, gây điếc không hồi phục"
+  },
+  {
+    "question": "Chọn tên thuốc đúng nhất:",
+    "answers": ["Viên nén Paracetamol 500mg", "Izoniasid", "Oresol", "Acid folic"],
+    "correct": 0,
+    "explanation": "Tên thuốc đầy đủ và chính xác nhất phải bao gồm tên dược chất, hàm lượng và dạng bào chế"
+  },
+  {
+    "question": "Khi bị cơn đau thắt ngực nên dùng:",
+    "answers": ["Nospa", "Cimetidin", "Nhôm hydroxyd", "Ramotidin"],
+    "correct": 0,
+    "explanation": "Trong các phương án, No-spa (Drotaverin) là thuốc chống co thắt cơ trơn có thể hỗ trợ, dù Nitroglycerin mới là thuốc đặc hiệu nhất cho đau thắt ngực"
+  },
+  {
+    "question": "Dùng Atropin sulfat để giải độc:",
+    "answers": ["Digitalin", "Anilin", "Kim loại nặng", "Thuốc trừ sâu"],
+    "correct": 3,
+    "explanation": "Atropin là thuốc giải độc đặc hiệu đối với ngộ độc thuốc trừ sâu nhóm lân hữu cơ nhờ tác dụng kháng hệ Muscarinic"
+  },
+  {
+    "question": "Dùng Metronidazol để chữa:",
+    "answers": ["Lỵ amibe", "Viêm ruột do lỵ", "Viêm âm đạo", "Viêm cổ tử cung"],
+    "correct": 0,
+    "explanation": "Metronidazol là thuốc lựa chọn hàng đầu để tiêu diệt các thể amip gây bệnh lỵ"
+  },
+  {
+    "question": "Thuốc Dehydroemetin không dùng cho:",
+    "answers": ["Tất cả các câu trả lời đều đúng", "Phụ nữ có thai", "Người suy thận", "Người bị bệnh tim nặng"],
+    "correct": 0,
+    "explanation": "Dehydroemetin có độc tính cao trên tim và thận, đồng thời gây hại cho thai nhi nên chống chỉ định cho các đối tượng này"
+  },
+  {
+    "question": "Chỉ định của Mebendazol dùng trong trường hợp:",
+    "answers": ["Tất cả các câu trả lời đều đúng", "Giun đũa", "Giun móc", "Giun kim"],
+    "correct": 0,
+    "explanation": "Mebendazol có phổ tác dụng rộng trên hầu hết các loại giun đường tiêu hóa thông thường"
+  },
+  {
+    "question": "Chỉ định của Niclosamid để tẩy:",
+    "answers": ["Sán dây ở ruột", "Các loại giun", "Sán ở ngoài ruột", "Ấu trùng giun"],
+    "correct": 0,
+    "explanation": "Niclosamid ngăn cản sự hấp thu oxy và làm mất khả năng bám của sán dây vào niêm mạc ruột"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm beta lactam:",
+    "answers": ["Penicilin G", "Gentamycin", "Tetracyclin", "Nystatin"],
+    "correct": 0,
+    "explanation": "Penicillin G là kháng sinh đầu tiên của họ Beta-lactam, hoạt động bằng cách ức chế tổng hợp vách tế bào vi khuẩn"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm beta lactam:",
+    "answers": ["Ampicilin", "Gentamycin", "Tetracyclin", "Lincomycin"],
+    "correct": 0,
+    "explanation": "Ampicillin là một aminopenicillin thuộc nhóm Beta-lactam có phổ kháng khuẩn mở rộng"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm beta lactam:",
+    "answers": ["Amoxycylin", "Gentamycin", "Cloramphenicol", "Ciprofloxacin"],
+    "correct": 0,
+    "explanation": "Amoxicillin tương tự Ampicillin nhưng được hấp thu qua đường tiêu hóa tốt hơn"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm Quinolon:",
+    "answers": ["Ciprofloxacin", "Ampicilin", "Streptomycin", "Gentamycin"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin thuộc phân nhóm Fluoroquinolon, tác động bằng cách ức chế enzyme DNA gyrase của vi khuẩn"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm Quinolon:",
+    "answers": ["Ofloxacin", "Ampicilin", "Griseofulvin", "Tetracyclin"],
+    "correct": 0,
+    "explanation": "Ofloxacin là kháng sinh Quinolon thế hệ 2, thường dùng cho các nhiễm khuẩn đường tiết niệu và hô hấp"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm Phenicol:",
+    "answers": ["Cloramphenicol", "Lincomycin", "Gentamycin", "Tetracyclin"],
+    "correct": 0,
+    "explanation": "Cloramphenicol là kháng sinh kìm khuẩn thuộc nhóm Phenicol, có khả năng xâm nhập tốt vào dịch não tủy"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm Macrolid:",
+    "answers": ["Erythromycin", "Ampicilin", "Doxycyclin", "Cephalexin"],
+    "correct": 0,
+    "explanation": "Erythromycin là thuốc tiêu biểu của nhóm Macrolid, ức chế tổng hợp protein bằng cách gắn vào tiểu phần 50S của ribosome"
+  },
+  {
+    "question": "Kháng sinh thuộc nhóm Macrolid:",
+    "answers": ["Clarythromycin", "Ampicilin", "Doxycyclin", "Streptomycin"],
+    "correct": 0,
+    "explanation": "Clarithromycin là kháng sinh Macrolid bán tổng hợp, bền vững hơn trong môi trường acid dạ dày so với Erythromycin"
+  },
+  {
+    "question": "Thuốc điều trị bệnh Lao:",
+    "answers": ["Ethambutol", "Adrenalin", "Ketamin", "Voltaren"],
+    "correct": 0,
+    "explanation": "Ethambutol là thuốc chống lao đặc hiệu, giúp ngăn chặn sự tổng hợp acid mycolic ở vách tế bào vi khuẩn lao"
+  },
+  {
+    "question": "Thuốc điều trị bệnh Lao:",
+    "answers": ["Rifampicin", "Reserpin", "Prednisolon", "Lincomycin"],
+    "correct": 0,
+    "explanation": "Rifampicin phối hợp cùng các thuốc khác như Isoniazid là nền tảng của phác đồ điều trị lao tiêu chuẩn hiện nay"
+  },
+  {
+    "question": "Thuốc có tác dụng cắt cơn sốt rét:",
+    "answers": ["Artemisinin", "Aminophylin", "Salbutamon", "Metronidaszol"],
+    "correct": 0,
+    "explanation": "Artemisinin chiết xuất từ cây Thanh hao hoa vàng, có tác dụng diệt thể phân liệt của ký sinh trùng sốt rét trong máu rất mạnh"
+  },
+  {
+    "question": "Thuốc có tác dụng cắt cơn sốt rét:",
+    "answers": ["Quinin", "Mebendazol", "Terpin hydrat", "Isoniazid"],
+    "correct": 0,
+    "explanation": "Quinin là alcaloid của vỏ cây Cinchona, thuốc kinh điển dùng để cắt cơn và điều trị sốt rét nặng"
+  },
+  {
+    "question": "Chống chỉ định của Albendazol:",
+    "answers": ["Người mang thai 3 tháng đầu, trẻ em dưới 24 tháng tuổi", "Sốt cao, đau răng", "Loét dạ dày tá tràng", "Hen suyễn nặng"],
+    "correct": 0,
+    "explanation": "Thuốc có khả năng gây dị tật thai nhi và độc tính tích lũy nên không dùng cho phụ nữ mang thai sớm và trẻ nhỏ dưới 2 tuổi"
+  },
+  {
+    "question": "Chỉ định của Mebendazol là trị:",
+    "answers": ["Tất cả các phương án đều đúng", "Giun đũa", "Giun tóc", "Giun móc, giun kim"],
+    "correct": 0,
+    "explanation": "Mebendazol là thuốc trị giun phổ rộng hiệu quả nhất cho các trường hợp nhiễm nhiều loại giun cùng lúc"
+  },
+  {
+    "question": "Thuốc có tác dụng với sán ký sinh ở ruột:",
+    "answers": ["Niclosamid", "Cloroquin", "Piperazin", "Albendazol"],
+    "correct": 0,
+    "explanation": "Niclosamid là thuốc chuyên biệt được dùng để tẩy các loại sán dây ký sinh tại đường ruột"
+  },
+  {
+    "question": "Mebendazol có tác dụng với:",
+    "answers": ["Giun ký sinh ở ruột", "Sán ký sinh ở ruột", "Giun ký sinh ngoài ruột", "Sán ký sinh ngoài ruột"],
+    "correct": 0,
+    "explanation": "Mebendazol chủ yếu tác động lên các loại giun tròn cư trú trong lòng ruột bằng cách ức chế vi ống"
+  },
+  {
+    "question": "Để chọn thuốc chống giun đũa cần căn cứ vào kết quả xét nghiệm:",
+    "answers": ["Phân", "Máu", "Dịch nước bọt", "Các phương án trên"],
+    "correct": 0,
+    "explanation": "Xét nghiệm phân tìm trứng giun là phương pháp chẩn đoán xác định nhanh và chính xác nhất tình trạng nhiễm giun đũa"
+  },
+  {
+    "question": "Thuốc có tác dụng gây tê:",
+    "answers": ["Procain hydroclorid", "Halothan", "Niclosamid", "Cefuroxim"],
+    "correct": 0,
+    "explanation": "Procain (Novocain) là thuốc gây tê nhóm ester, thường dùng để gây tê xuyên thấm hoặc gây tê dẫn truyền"
+  },
+  {
+    "question": "Thuốc có tác dụng giảm ho:",
+    "answers": ["Terpin codein", "Tetracyclin", "Prednisolon", "Vitamin B2"],
+    "correct": 0,
+    "explanation": "Sự kết hợp giữa Terpin (long đờm) và Codein (ức chế trung tâm ho) giúp giảm các cơn ho khan hiệu quả"
+  },
+  {
+    "question": "Thuốc có tác dụng chữa thiếu máu:",
+    "answers": ["Acid folic", "Ethambutol", "Cimetidin", "Vitamin B2"],
+    "correct": 0,
+    "explanation": "Acid folic (Vitamin B9) cần thiết cho việc sản sinh tế bào hồng cầu; thiếu nó gây ra thiếu máu hồng cầu to"
+  },
+  {
+    "question": "Thuốc có tác dụng gây tê bề mặt:",
+    "answers": ["Cocain", "Lincomycin", "Lidocain", "Promethazin"],
+    "correct": 0,
+    "explanation": "Cocain là thuốc gây tê bề mặt tự nhiên đầu tiên được biết đến, tuy nhiên hiện nay ít dùng do độc tính và khả năng gây nghiện"
+  },
+  {
+    "question": "Thuốc có tác dụng hạ sốt, giảm đau:",
+    "answers": ["Panadol", "Voltaren", "Clopheniramin", "Oresol"],
+    "correct": 0,
+    "explanation": "Panadol là tên thương mại phổ biến của Paracetamol, thuốc hạ sốt an toàn cho hầu hết mọi đối tượng"
+  },
+  {
+    "question": "Thuốc có tác dụng chống viêm:",
+    "answers": ["Piroxicam", "Aldalat", "Bisacodyl", "Oxy già"],
+    "correct": 0,
+    "explanation": "Piroxicam là kháng viêm nhóm oxicam có thời gian bán thải dài, cho phép dùng liều duy nhất 1 lần trong ngày"
+  },
+  {
+    "question": "Thuốc có tác dụng trị sán:",
+    "answers": ["Niclosamid", "Mebendazol", "Albendazol", "Dimedrol"],
+    "correct": 0,
+    "explanation": "Niclosamid đặc hiệu trên các loại sán dây như sán lợn, sán bò nhờ cơ chế làm hỏng tế bào đầu sán"
+  },
+  {
+    "question": "Thuốc có tác dụng trị giun:",
+    "answers": ["Albendazol", "Niclosmid", "Biseptol", "Metronidazol"],
+    "correct": 0,
+    "explanation": "Albendazol là thuốc trị giun hiện đại với liều dùng đơn giản (thường chỉ 1 viên duy nhất)"
+  },
+  {
+    "question": "Thuốc có tác dụng trị lỵ:",
+    "answers": ["Berberin", "Microlax", "Natri benzoat", "Seduxen"],
+    "correct": 0,
+    "explanation": "Berberin chiết xuất từ dược liệu có tính kháng khuẩn mạnh đối với các vi khuẩn gây tiêu chảy và lỵ Amip"
+  },
+  {
+    "question": "Thuốc có tác dụng kháng vi khuẩn:",
+    "answers": ["Gentamycin", "Decolgen", "Vitamin C", "Dexamethason"],
+    "correct": 0,
+    "explanation": "Gentamycin là kháng sinh nhóm aminosid có phổ diệt khuẩn mạnh trên vi khuẩn Gram âm hiếu khí"
+  },
+  {
+    "question": "Thuốc có tác dụng an thần, gây ngủ:",
+    "answers": ["Diazepam", "Theophylin", "Atropin sulfat", "Omeprazol"],
+    "correct": 0,
+    "explanation": "Diazepam (Seduxen) thuộc nhóm benzodiazepine, làm tăng hoạt tính của GABA để ức chế hệ thần kinh trung ương"
+  },
+  {
+    "question": "Thuốc dùng để giảm đau trong ung thư:",
+    "answers": ["Morphin", "Paracetamol", "Diclofenac", "Ketamin"],
+    "correct": 0,
+    "explanation": "Morphin là thuốc giảm đau opioid mạnh bậc 3, lựa chọn cuối cùng cho các cơn đau dữ dội ở bệnh nhân ung thư"
+  },
+  {
+    "question": "Thuốc có tác dụng chống nấm:",
+    "answers": ["Nystatin", "Penicilin V", "Ofloxacin", "Oxytoxin"],
+    "correct": 0,
+    "explanation": "Nystatin làm thay đổi tính thấm màng tế bào nấm, chuyên trị nấm Candida ở miệng, da và âm đạo"
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị Lao:",
+    "answers": ["Isoniazid", "Diethyl carbamazin", "Suramin", "Indomethacin"],
+    "correct": 0,
+    "explanation": "Isoniazid (INH) là thuốc chống lao thiết yếu nhất, tác động chọn lọc và cực mạnh lên trực khuẩn lao"
+  },
+   {
+    "question": "Thuốc có tác dụng gây mê:",
+    "answers": ["Thiopental natri", "Novocain", "Loperamid", "Ringer lactat"],
+    "correct": 0,
+    "explanation": "Thiopental natri là một loại thuốc gây mê đường tĩnh mạch thuộc nhóm barbiturat, có tác dụng làm mất ý thức rất nhanh "
+  },
+  {
+    "question": "Thuốc có tác dụng hạ huyết áp:",
+    "answers": ["Methyl dopa", "Atropin", "Papaverin", "Salbutamol"],
+    "correct": 0,
+    "explanation": "Methyl dopa là thuốc hạ huyết áp tác động lên hệ thần kinh trung ương, thường được chỉ định cho tăng huyết áp mạn tính "
+  },
+  {
+    "question": "Thuốc có tác dụng chống toan huyết:",
+    "answers": ["Dung dịch tiêm truyền NaHCO₃ 1,4%", "Oresol", "Vitamin K", "Sorbitol"],
+    "correct": 0,
+    "explanation": "Dung dịch Natri bicarbonat (NaHCO₃) có tính kiềm, giúp trung hòa lượng acid dư thừa trong máu để điều trị tình trạng toan huyết "
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị táo bón:",
+    "answers": ["Sorbitol", "Berberin", "Mộc hoa trắng", "Nhôm hydroxyd"],
+    "correct": 0,
+    "explanation": "Sorbitol là thuốc nhuận tràng thẩm thấu, giúp kéo nước vào lòng ruột để làm mềm phân và kích thích nhu động ruột "
+  },
+  {
+    "question": "Thuốc có tác dụng chữa tiêu chảy:",
+    "answers": ["Loperamid", "Oresol", "Nospa", "Cephlexin"],
+    "correct": 0,
+    "explanation": "Loperamid làm giảm nhu động ruột và giảm tiết dịch tiêu hóa, giúp cầm tiêu chảy hiệu quả trong các trường hợp cấp tính "
+  },
+  {
+    "question": "Thuốc có tác dụng chống dị ứng:",
+    "answers": ["Promethazin", "Cotrimoxazol", "Terpin codein", "Griseofulvin"],
+    "correct": 0,
+    "explanation": "Promethazin là thuốc kháng Histamin H1 thế hệ 1, có tác dụng chống dị ứng và an thần mạnh [8]"
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị suy tim:",
+    "answers": ["Digoxin", "Aldomet", "Vitamin E", "Cortisol"],
+    "correct": 0,
+    "explanation": "Digoxin là một glycosid tim có nguồn gốc tự nhiên, giúp tăng sức co bóp cơ tim và điều hòa nhịp tim trong điều trị suy tim "
+  },
+  {
+    "question": "Thuốc có tác dụng chữa viêm đa dây thần kinh:",
+    "answers": ["Vitamin B6", "Vitamin PP", "Vitamin C", "Adrenalin"],
+    "correct": 0,
+    "explanation": "Vitamin B6 (Pyridoxin) đóng vai trò quan trọng trong việc duy trì chức năng thần kinh và thường được phối hợp để điều trị viêm đa dây thần kinh ."
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị nhiễm khuẩn tai, mũi, họng:",
+    "answers": ["Ciprofloxacin", "Naphazolin", "Natri clorid 0,9%", "Dextran"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin là kháng sinh phổ rộng thuộc nhóm Quinolon, có hiệu quả cao trong điều trị nhiều loại nhiễm khuẩn đường hô hấp trên và dưới "
+  },
+  {
+    "question": "Thuốc có tác dụng sát trùng vết thương:",
+    "answers": ["Ethanol 70°C", "Nước tinh khiết", "Oresol", "Streptomycin"],
+    "correct": 0,
+    "explanation": "Cồn Ethanol 70 độ có khả năng diệt khuẩn tốt nhất bằng cách làm biến tính protein của vi sinh vật, thường dùng để sát trùng da và vết thương."
+  },
+  {
+    "question": "Thuốc có tác dụng cầm máu:",
+    "answers": ["Vitamin K", "Vitamin B2", "Doxycyclin", "Reserpin"],
+    "correct": 0,
+    "explanation": "Vitamin K cần thiết cho quá trình tổng hợp các yếu tố đông máu tại gan, giúp cầm máu trong các trường hợp thiếu hụt loại vitamin này."
+  },
+  {
+    "question": "Thuốc có tác dụng chữa chảy máu chân răng:",
+    "answers": ["Vitamin C", "Piperazin", "Aci benzoic", "Biseptol"],
+    "correct": 0,
+    "explanation": "Vitamin C làm bền vững thành mạch máu; thiếu hụt vitamin C là nguyên nhân chính gây bệnh Scorbut với triệu chứng điển hình là chảy máu chân răng"
+  },
+  {
+    "question": "Thuốc nào có tác dụng chữa thiếu máu:",
+    "answers": ["Vitamin B12", "Cloroquin", "Hydrocortison", "Progesteron"],
+    "correct": 0,
+    "explanation": "Vitamin B12 tham gia vào quá trình biệt hóa hồng cầu; thiếu hụt nó sẽ gây ra bệnh thiếu máu ác tính (hồng cầu to) "
+  },
+  {
+    "question": "Tác dụng điều trị chính của Metronidazol là:",
+    "answers": ["Lỵ amip", "Tiêu chảy cấp", "Trị giun đũa", "Sán lá gan"],
+    "correct": 0,
+    "explanation": "Metronidazol là thuốc lựa chọn hàng đầu để tiêu diệt các thể amip ký sinh gây bệnh lỵ [14]"
+  },
+  {
+    "question": "Tác dụng điều trị chính của Salbutamol là:",
+    "answers": ["Hen phế quản, viêm phế quản", "Nhiễm khuẩn hô hấp", "Ho tức ngực, ho có đờm", "Nổi ban đỏ ngoài da, mày đay"],
+    "correct": 0,
+    "explanation": "Salbutamol là thuốc kích thích chọn lọc receptor Beta-2, có tác dụng giãn cơ trơn phế quản mạnh để điều trị cơn hen ."
+  },
+  {
+    "question": "Tác dụng điều trị chính của Theophylin là:",
+    "answers": ["Hen phế quản kèm khó thở", "Suy hô hấp", "Mất ngủ, nhức đầu", "Viêm dây thần kinh, tay chân run rẩy"],
+    "correct": 0,
+    "explanation": "Theophylin làm giãn cơ trơn phế quản và kích thích trung tâm hô hấp, giúp giảm khó thở ở bệnh nhân hen ."
+  },
+  {
+    "question": "Trong cơ thể, tỷ lệ nước có trong huyết tương:",
+    "answers": ["5%", "20%", "10%", "70%"],
+    "correct": 0,
+    "explanation": "Theo sinh lý học và tài liệu nguồn, nước trong huyết tương chiếm khoảng 5% trọng lượng cơ thể ."
+  },
+  {
+    "question": "Dung dịch dùng thay thế huyết tương để duy trì huyết áp:",
+    "answers": ["Dextran", "Kali clorid", "Glucose 5%", "Ringer lactat"],
+    "correct": 0,
+    "explanation": "Dextran là dung dịch keo có áp suất thẩm thấu cao, giúp giữ nước trong lòng mạch để duy trì thể tích tuần hoàn và huyết áp ."
+  },
+  {
+    "question": "Chống chỉ định của Sắt II oxalat:",
+    "answers": ["Loét dạ dày tá tràng, loét ruột", "Tiêu chảy", "Nhức đầu, ngứa", "Đau bụng kinh"],
+    "correct": 0,
+    "explanation": "Các chế phẩm sắt đường uống gây kích ứng niêm mạc tiêu hóa mạnh, do đó chống chỉ định với người đang bị loét dạ dày hoặc loét ruột ."
+  },
+  {
+    "question": "Thuốc nào thuộc nhóm thuốc kháng Histamin tự nhiên:",
+    "answers": ["Adrenalin", "Clopheniramin", "Prednisolon", "Promethazin"],
+    "correct": 0,
+    "explanation": "Adrenalin được coi là chất đối kháng sinh lý 'tự nhiên' của Histamin vì nó gây ra các tác dụng ngược lại với Histamin trên mạch máu và phế quản ."
+  },
+  {
+    "question": "Thuốc chống viêm nào thuộc nhóm glucocorticoid tự nhiên:",
+    "answers": ["Hydrocortison", "Dexamethason", "Prednisolon", "Testosterron"],
+    "correct": 0,
+    "explanation": "Hydrocortison chính là tên gọi dược phẩm của cortisol - một hormone glucocorticoid tự nhiên do vỏ thượng thận tiết ra ."
+  },
+  {
+    "question": "Gây rối loạn thị giác, viêm dây thần kinh thị giác là tác dụng phụ của:",
+    "answers": ["Ethambutol", "Viitamin K", "Ampicilin", "Aspirin"],
+    "correct": 0,
+    "explanation": "Ethambutol là thuốc chống lao có độc tính chọn lọc trên dây thần kinh thị giác, có thể gây mù màu hoặc giảm thị lực ."
+  },
+  {
+    "question": "Dược động học của thuốc bao gồm:",
+    "answers": ["Hấp thụ, phân bố, chuyển hoá, thải trừ", "Hấp thụ và thải trừ", "Hấp thu và chuyển hoá", "Hấp thu, phân bố, thải trừ"],
+    "correct": 0,
+    "explanation": "Đây là 4 quá trình kinh điển mô tả sự vận động của thuốc kể từ khi đi vào cho đến khi ra khỏi cơ thể [18]"
+  },
+  {
+    "question": "Thuốc hấp thụ qua đường nào nhanh nhất:",
+    "answers": ["Tiêm bắp thịt", "Đặt trực tràng", "Đường tiêu hoá", "Đặt dưới lưỡi"],
+    "correct": 3,
+    "explanation": "Trong các phương án này, đặt dưới lưỡi giúp thuốc hấp thu trực tiếp vào tĩnh mạch chủ mà không qua gan, nên khởi phát tác dụng rất nhanh "
+  },
+  {
+    "question": "Thuốc nào có tác dụng lợi tiểu:",
+    "answers": ["Furosemid", "Sắt II oxalat", "terpin hydrat", "kali clorid"],
+    "correct": 0,
+    "explanation": "Furosemid là thuốc lợi tiểu quai mạnh, tác động lên nhánh lên của quai Henle để tăng đào thải muối và nước [20]"
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị loét dạ dày tá tràng:",
+    "answers": ["Clarythromycin", "Indomethacin", "Loperamid", "Hypothiazid"],
+    "correct": 0,
+    "explanation": "Clarithromycin là kháng sinh thường được phối hợp trong phác đồ diệt vi khuẩn H.pylori - nguyên nhân chính gây loét dạ dày ."
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị loét dạ dày tá tràng:",
+    "answers": ["Omeprazol", "Diclophenac", "Loperamid", "Prednisolon"],
+    "correct": 0,
+    "explanation": "Omeprazol là thuốc ức chế bơm proton (PPI), giúp giảm tiết acid dạ dày cực mạnh để làm lành ổ loét ."
+  },
+  {
+    "question": "Khi dùng paracetamol liều cao và kéo dài có thể gây:",
+    "answers": ["Tổn thương tế bào gan", "Táo bón", "Buồn nôn, tiêu chảy", "Nổi ban, mẩn ngứa"],
+    "correct": 0,
+    "explanation": "Quá liều Paracetamol tạo ra chất chuyển hóa độc gây hoại tử tế bào gan không hồi phục "
+  },
+  {
+    "question": "Thuốc có tác dụng kháng vi khuẩn:",
+    "answers": ["Lincomycin", "Alvesin", "Halothan", "Suramin"],
+    "correct": 0,
+    "explanation": "Lincomycin là kháng sinh nhóm lincosamid, có tác dụng ức chế tổng hợp protein của vi khuẩn , [23]."
+  },
+  {
+    "question": "Thuốc có tác dụng điều trị lậu:",
+    "answers": ["Ciprofloxacin", "Cloramphenicol", "Dexamethason", "Mộc hoa trắng"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin là kháng sinh Quinolon có hoạt tính rất mạnh đối với lậu cầu khuẩn (Neisseria gonorrhoeae) [24]"
+  },
+  {
+    "question": "Chỉ định tiêm truyền Natri clorid 10% khi bị:",
+    "answers": ["Tắc ruột cấp tính", "Tiêu chảy", "Nhiễm độc", "Nhiễm trùng"],
+    "correct": 0,
+    "explanation": "Dung dịch Natri clorid ưu trương (10%) đôi khi được dùng trong các trường hợp mất muối nặng hoặc hỗ trợ trong tắc ruột cấp tính theo chỉ định chuyên khoa ."
+  },
+  {
+    "question": "Chỉ định tiêm truyền Kali clorid 2% khi:",
+    "answers": ["Giảm Kali huyết", "Đái tháo đường", "Giảm Natri huyết", "Sốc do chấn thương"],
+    "correct": 0,
+    "explanation": "Tiêm truyền KCl được dùng để bổ sung kali cho cơ thể khi nồng độ kali máu hạ thấp gây nguy hiểm cho tim ."
+  },
+  {
+    "question": "Tác dụng phụ của Ephedrin:",
+    "answers": ["Tất cả đều đúng", "Nhức đầu", "Chán ăn", "Run rẩy"],
+    "correct": 0,
+    "explanation": "Ephedrin kích thích hệ thần kinh giao cảm nên có thể gây ra các triệu chứng như nhức đầu, hồi hộp, run rẩy và chán ăn ."
+  },
+  {
+    "question": "Thuốc có tác dụng ức chế trung tâm ho:",
+    "answers": ["Codein", "Terpin hydrat", "Theophylin", "Natri benzoat"],
+    "correct": 0,
+    "explanation": "Codein tác động trực tiếp lên trung tâm ho ở hành não, làm tăng ngưỡng kích thích ho , [26]."
+  },
+  {
+    "question": "Chống chỉ định của Aminophylin:",
+    "answers": ["Nhồi máu cơ tim cấp", "Hen tim", "Cao huyết áp", "Tiêu chảy"],
+    "correct": 0,
+    "explanation": "Do tác dụng kích thích tim, Aminophylin cần tránh dùng trong giai đoạn cấp của nhồi máu cơ tim để giảm tải cho tim ."
+  },
+  {
+    "question": "Chỉ định dùng Niclosamid để tẩy:",
+    "answers": ["Sán lá dây ở ruột", "Các loại sán", "Các loại giun", "Sán ở ngoài ruột"],
+    "correct": 0,
+    "explanation": "Niclosamid là thuốc đặc hiệu để tiêu diệt các loại sán dây ký sinh trong lòng ruột "
+  },
+  {
+    "question": "Chỉ định dùng Acid folic trong trường hợp:",
+    "answers": ["Giảm bạch cầu", "Sau khi sinh đẻ", "Bị chấn thương", "Sau phẫu thuật"],
+    "correct": 0,
+    "explanation": "Acid folic đôi khi được dùng hỗ trợ trong các tình trạng rối loạn tạo máu bao gồm cả giảm bạch cầu ."
+  },
+  {
+    "question": "Khi mắc bệnh chảy máu chân răng nên dùng thuốc:",
+    "answers": ["Vitamin C", "Vitamin B1", "Vitamin B2", "Vitamin D"],
+    "correct": 0,
+    "explanation": "Bổ sung Vitamin C giúp củng cố collagen thành mạch, từ đó ngăn chặn tình trạng xuất huyết chân răng"
+  },
+  {
+    "question": "Chỉ định dùng Vitamin B1 để:",
+    "answers": ["Tất cả đều đúng", "Chống rối loạn tuổi già", "Chống nhiễm độc thai nghén", "Chống viêm đa dây thần kinh"],
+    "correct": 0,
+    "explanation": "Vitamin B1 được dùng rộng rãi để điều trị viêm đa dây thần kinh và hỗ trợ chuyển hóa trong nhiều trạng thái bệnh lý ."
+  },
+  {
+    "question": "Liều dùng của Sorbitol uống để điều trị táo bón là:",
+    "answers": ["5-10g trước bữa ăn", "1-2g trước bữa ăn", "3-6g sau bữa ăn", "4-8g sau bữa ăn"],
+    "correct": 0,
+    "explanation": "Liều thông thường cho người lớn để kích thích tiêu hóa và nhuận tràng là 5-10g uống trước khi ăn."
+  },
+  {
+    "question": "Chỉ định Rifampicin phối hợp chữa các thể lao cần uống:",
+    "answers": ["Trước bữa ăn 60 phút", "Vao lúc đói", "Trong bữa ăn", "Sau bữa ăn 60 phút"],
+    "correct": 0,
+    "explanation": "Thức ăn làm giảm đáng kể sự hấp thu Rifampicin, nên thuốc phải được uống lúc dạ dày trống (60 phút trước khi ăn) ."
+  },
+  {
+    "question": "Chống chỉ định của Streptomycin sulfat đối với:",
+    "answers": ["Tất cả đều đúng", "Suy thận nặng", "Phụ nữ có thai", "Rối loạn thính giác"],
+    "correct": 0,
+    "explanation": "Streptomycin gây độc cho tai, thận và có thể gây điếc cho thai nhi, nên cần tránh cho các đối tượng này."
+  },
+  {
+    "question": "Thông thường liều điều trị của thuốc ở trong khoảng:",
+    "answers": ["Liều tối thiểu và liều tối đa", "Liều tối đa và liều trung bình", "Dưới liều tối thiểu", "Liều tối đa và liều độc"],
+    "correct": 0,
+    "explanation": "Khoảng trị liệu an toàn nằm giữa liều thấp nhất có tác dụng và liều cao nhất cơ thể có thể chịu đựng được mà không bị độc."
+  },
+  {
+    "question": "Quan điểm dùng thuốc nào đáng bị lên án:",
+    "answers": ["Sử dụng thuốc phòng bệnh trong mọi trường hợp", "Kết hợp giữa thuốc với chế độ dinh dưỡng", "Điều trị bệnh một cách toàn diện", "Chỉ dùng thuốc khi cần thiết"],
+    "correct": 0,
+    "explanation": "Lạm dụng thuốc để phòng bệnh không cần thiết dẫn đến nguy cơ kháng thuốc và lãng phí nguồn lực [29]."
+  },
+  {
+    "question": "Trên đường tiêu hóa, thuốc hấp thu nhiều nhất tại:",
+    "answers": ["Ruột non", "Dạ dày", "Niêm mạc miệng", "Ruột già"],
+    "correct": 0,
+    "explanation": "Nhờ diện tích bề mặt cực lớn và hệ thống mạch máu dồi dào, ruột non là cơ quan hấp thu thuốc chính."
+  },
+  {
+    "question": "Thuốc có tỷ lệ liên kết với Protein trong huyết tương cao thì:",
+    "answers": ["Tồn tại lâu trong cơ thể và có tác dụng kéo dài", "Tồn tại ít trong cơ thể và có tác dụng ngắn", "Không ảnh hưởng đến thời gian tác dụng của thuốc", "Tồn tại mãi mãi trong cơ thể"],
+    "correct": 0,
+    "explanation": "Sự liên kết với protein giúp bảo vệ thuốc khỏi bị thải trừ nhanh, tạo ra một kho dự trữ giải phóng dần dần."
+  },
+  {
+    "question": "Cơ quan đóng vai trò quan trọng nhất trong quá trình chuyển hóa thuốc:",
+    "answers": ["Gan", "Ruột", "Dạ dày", "Cơ"],
+    "correct": 0,
+    "explanation": "Gan chứa hệ thống enzyme oxy hóa mạnh mẽ giúp biến đổi hầu hết các loại thuốc thành chất dễ đào thải."
+  },
+  {
+    "question": "Các thuốc tan trong nước thải trừ ra ngoài cơ thể chủ yếu theo đường:",
+    "answers": ["Tiết niệu", "Tiêu hóa", "Hô hấp", "Sữa mẹ"],
+    "correct": 0,
+    "explanation": "Các chất tan trong nước được lọc qua cầu thận và đào thải ra ngoài theo nước tiểu qua hệ tiết niệu"
+  },
+  {
+    "question": "Thuốc hấp thu được qua đường tiêu hóa, khi uống sẽ thải trừ chủ yếu qua:",
+    "answers": ["Tiết niệu", "Tiêu hóa", "Hô hấp", "Sữa mẹ"],
+    "correct": 0,
+    "explanation": "Sau khi vào vòng tuần hoàn, phần lớn thuốc sẽ được thận lọc và thải trừ qua đường tiết niệu ."
+  },
+  {
+    "question": "Sử dụng parafin lỏng để điều trị táo bón theo cơ chế tác dụng:",
+    "answers": ["Vật lý", "Hóa học", "Hóa sinh", "Hóa sinh và hóa học"],
+    "correct": 0,
+    "explanation": "Dầu parafin hoạt động như một chất bôi trơn vật lý, không bị hấp thu, giúp phân di chuyển dễ dàng trong lòng ruột."
+  },
+  {
+    "question": "Khi dùng một thuốc để làm giảm hay mất tác dụng của thuốc kia trong trường giải độc được gọi là tác dụng:",
+    "answers": ["Đối lập", "Chọn lọc", "Đảo ngược", "Hồi phục"],
+    "correct": 0,
+    "explanation": "Tác dụng đối lập (đối kháng) xảy ra khi một chất làm giảm hoặc triệt tiêu hiệu quả của chất kia, thường được ứng dụng trong cấp cứu ngộ độc"
+  },
+  {
+    "question": "Khi dùng một thuốc với liều dùng khác nhau cho kết quả điều trị đối lập nhau được gọi là tác dụng:",
+    "answers": ["Đảo ngược", "Phụ", "Không hồi phục", "Hồi phục"],
+    "correct": 0,
+    "explanation": "Tác dụng đảo ngược là hiện tượng một loại thuốc gây ra các phản ứng trái ngược nhau tùy thuộc vào nồng độ hoặc liều lượng sử dụng"
+  },
+  {
+    "question": "Khi sử dụng thuốc cho người cao tuổi, liều dùng thường là:",
+    "answers": ["Giảm liều bằng 1/2 - 3/4 so với liều người lớn trung bình", "Tính theo kg cân nặng", "Tính theo tuổi", "Bằng liều của trẻ em"],
+    "correct": 0,
+    "explanation": "Do chức năng gan, thận và khả năng hấp thu ở người già suy giảm, việc giảm liều là cần thiết để tránh tích lũy gây độc"
+  },
+  {
+    "question": "Biểu hiệu nào dưới đây không thuộc hiện tượng nghiện thuốc:",
+    "answers": ["Không có khuynh hướng tăng liều", "Thay đổi về mặt thể chất", "Rối loạn tâm thần khi thiếu thuốc", "Rối loạn về sinh lý khi thiếu thuốc"],
+    "correct": 0,
+    "explanation": "Hiện tượng nghiện thuốc điển hình luôn đi kèm với sự dung nạp thuốc, dẫn đến khuynh hướng phải tăng liều để đạt được hiệu quả cũ"
+  },
+  {
+    "question": "Những thuốc có thể gây kích ứng niêm mạc dạ dày nên uống vào thời điểm:",
+    "answers": ["Ngay sau bữa ăn", "Sau bữa ăn 2 giờ", "Trước bữa ăn 30 phút", "Trước khi đi ngủ"],
+    "correct": 0,
+    "explanation": "Uống thuốc lúc no giúp thức ăn bao bọc niêm mạc, giảm sự tiếp xúc trực tiếp của dược chất gây kích ứng với vách dạ dày, [2, 3]."
+  },
+  {
+    "question": "Không được dùng morphin để giảm đau trong trường hợp nào:",
+    "answers": ["Đau do chấn thương ở đầu", "Đau do ung thư ở giai đoạn cuối", "Đau do sỏi thận cần phẫu thuật", "Đau do sỏi mật cần phẫu thuật"],
+    "correct": 0,
+    "explanation": "Morphin chống chỉ định trong chấn thương sọ não vì nó gây ức chế hô hấp và có thể làm tăng áp lực nội sọ, đồng thời làm lu mờ các triệu chứng thần kinh"
+  },
+  {
+    "question": "Thuốc nào sau đây có tác dụng hạ sốt-giảm đau-chống viêm:",
+    "answers": ["Aspirin", "Panadol", "Morphin", "Lidocain"],
+    "correct": 0,
+    "explanation": "Aspirin là thuốc thuộc nhóm NSAIDs có đầy đủ 3 tác dụng đặc trưng: hạ sốt, giảm đau và chống viêm"
+  },
+  {
+    "question": "Thuốc nào sau đây có tác dụng giảm đau mạnh:",
+    "answers": ["Morphin", "Aspirin", "Panadol", "Tylenol"],
+    "correct": 0,
+    "explanation": "Morphin là thuốc giảm đau nhóm Opioid cường độ mạnh, dùng cho các cơn đau dữ dội mà các thuốc khác không đáp ứng"
+  },
+  {
+    "question": "Pethidin có tác dụng:",
+    "answers": ["Giảm đau", "Hạ sốt", "Chữa ho", "Chống viêm"],
+    "correct": 0,
+    "explanation": "Pethidin là một loại thuốc giảm đau trung ương tổng hợp có đặc tính tương tự như morphin"
+  },
+  {
+    "question": "Pethidin giảm đau kém Morphin bao nhiêu lần:",
+    "answers": ["6-10 lần", "6-7 lần", "6-8 lần", "6-9 lần"],
+    "correct": 0,
+    "explanation": "Về cường độ tác dụng, Pethidin được đánh giá là có khả năng giảm đau thấp hơn Morphin từ 6 đến 10 lần tùy theo nghiên cứu"
+  },
+  {
+    "question": "Thuốc nào được chỉ định điều trị chống kết dính tiểu cầu:",
+    "answers": ["Acid acetyl salicylic", "Paracetamol", "Idomethacin", "Piroxicam"],
+    "correct": 0,
+    "explanation": "Aspirin (Acid acetyl salicylic) ở liều thấp có tác dụng ức chế không hồi phục sự tập kết tiểu cầu, giúp phòng ngừa huyết khối"
+  },
+  {
+    "question": "Sử dụng thuốc nào để hạ sốt khi bệnh nhân bị sốt chưa rõ nguyên nhân là an toàn nhất:",
+    "answers": ["Paracetamol", "Acid acetyl salicylic", "Idomethacin", "Piroxicam"],
+    "correct": 0,
+    "explanation": "Paracetamol được ưu tiên vì không gây ảnh hưởng đến đông máu, tránh nguy cơ chảy máu nếu bệnh nhân thực chất bị sốt xuất huyết"
+  },
+  {
+    "question": "Thuốc nào dùng để hạ sốt cho bệnh nhân bị đau dạ dày:",
+    "answers": ["Paracetamol", "Acid acetyl salicylic", "Diclofenac", "Piroxicam"],
+    "correct": 0,
+    "explanation": "Paracetamol ít gây kích ứng niêm mạc dạ dày nhất trong các thuốc hạ sốt phổ biến"
+  },
+  {
+    "question": "Tác dụng phụ của Paracetamol khi dùng liều cao trên 10g/ngày là:",
+    "answers": ["Tổn thương gan không hồi phục", "Loét dạ dày - tá tràng", "Suy tủy", "Tổn thương thận"],
+    "correct": 0,
+    "explanation": "Sử dụng quá liều paracetamol tạo ra chất chuyển hóa trung gian độc hại gây phá hủy tế bào gan cấp tính"
+  },
+  {
+    "question": "Chống chỉ định tuyệt đối của Aspirin là:",
+    "answers": ["Sốt xuất huyết", "Sốt do viêm cơ", "Sốt do cảm cúm", "Sốt do viêm khớp"],
+    "correct": 0,
+    "explanation": "Aspirin làm tăng nguy cơ chảy máu và kéo dài thời gian đông máu, cực kỳ nguy hiểm trong bệnh sốt xuất huyết"
+  },
+  {
+    "question": "Thuốc nào sau đây không có tác dụng chống viêm:",
+    "answers": ["Panadol", "Indomethacin", "Ibuprofen", "Diclofenac"],
+    "correct": 0,
+    "explanation": "Panadol (Paracetamol) chỉ có tác dụng hạ sốt và giảm đau, không có hoạt tính kháng viêm đáng kể, [5, 6]."
+  },
+  {
+    "question": "Bệnh nhân bị viêm khớp nên sử dụng thuốc nào:",
+    "answers": ["Diclofenac", "Terpin hydrat", "Codein", "Alimemazin"],
+    "correct": 0,
+    "explanation": "Diclofenac là thuốc chống viêm không steroid (NSAID) mạnh, rất hiệu quả trong điều trị viêm khớp"
+  },
+  {
+    "question": "Để giảm đau răng nên dùng thuốc nào dưới đây:",
+    "answers": ["Panadol", "Magnesi hydroxyd", "Nhôm hydroxyd", "Bismuth subcitrat"],
+    "correct": 0,
+    "explanation": "Panadol thường là lựa chọn đầu tay để giảm các cơn đau nhẹ đến trung bình như đau răng"
+  },
+  {
+    "question": "Thuốc nào dùng cho bệnh nhân bị dị ứng:",
+    "answers": ["Clopheniramin", "Acid acetyl salicylic", "Idomethacin", "Piroxicam"],
+    "correct": 0,
+    "explanation": "Chlorpheniramin là một chất kháng Histamin H1 giúp làm giảm các triệu chứng dị ứng như mẩn ngứa, sổ mũi"
+  },
+  {
+    "question": "Chống chỉ định của Promethazin là:",
+    "answers": ["Người điều khiển máy móc và phương tiện giao thông", "Suy tim kèm theo nhịp nhanh", "Rung nhĩ", "Suy tim"],
+    "correct": 0,
+    "explanation": "Promethazin gây buồn ngủ mạnh và mất tập trung, rất nguy hiểm cho người lái xe hoặc vận hành máy móc"
+  },
+  {
+    "question": "Thuốc hạ áp dùng an toàn cho phụ nữ có thai là:",
+    "answers": ["Methyldopa", "Adrenalin", "Ouabain", "Procainamid"],
+    "correct": 0,
+    "explanation": "Methyldopa được coi là thuốc hạ huyết áp tiêu chuẩn và an toàn nhất cho phụ nữ mang thai bị tăng huyết áp"
+  },
+  {
+    "question": "Chống chỉ định của digoxin là:",
+    "answers": ["Suy tim kèm nhịp chậm", "Suy tim kèm theo nhịp nhanh", "Rung nhĩ", "Suy tim"],
+    "correct": 0,
+    "explanation": "Digoxin làm chậm nhịp tim, do đó không được dùng khi bệnh nhân đã có nhịp tim chậm để tránh gây ngừng tim"
+  },
+  {
+    "question": "Thuốc nào có tác dụng lợi tiểu mạnh nhất trong các thuốc sau:",
+    "answers": ["Furosemid", "Hypothiazid", "Cafein", "Acetazolamid"],
+    "correct": 0,
+    "explanation": "Furosemid là thuốc lợi tiểu quai, có khả năng đào thải muối nước mạnh mẽ và nhanh chóng nhất, [7, 8]."
+  },
+  {
+    "question": "Chỉ định của Digoxin là:",
+    "answers": ["Suy tim", "Đau đầu", "Chóng mặt", "Tăng huyết áp"],
+    "correct": 0,
+    "explanation": "Digoxin giúp tăng sức co bóp cơ tim, là thuốc quan trọng trong điều trị suy tim và một số loạn nhịp nhĩ, [8]."
+  },
+  {
+    "question": "Tác dụng của Furosemid là:",
+    "answers": ["Lợi tiểu", "Hạ sốt", "Giảm đau", "Bù nước"],
+    "correct": 0,
+    "explanation": "Furosemid được sử dụng để điều trị phù và tăng huyết áp thông qua cơ chế tăng bài tiết nước tiểu, [8]."
+  },
+  {
+    "question": "Procainamid là thuốc có tác dụng:",
+    "answers": ["Chống loạn nhịp", "Chống viêm", "Lợi tiểu", "Hạ sốt"],
+    "correct": 0,
+    "explanation": "Procainamid giúp ổn định màng tế bào cơ tim và được dùng để điều trị các dạng loạn nhịp tim khác nhau, [8]."
+  },
+  {
+    "question": "Quinidin là thuốc có tác dụng:",
+    "answers": ["Chống loạn nhịp", "Chống viêm", "Lợi tiểu", "Hạ sốt"],
+    "correct": 0,
+    "explanation": "Quinidin là thuốc chống loạn nhịp nhóm IA, tác động lên kênh natri của tế bào cơ tim, [8]."
+  },
+  {
+    "question": "Mục đích kết hợp Codein với Paracetamol là để tăng tác dụng:",
+    "answers": ["Giảm đau", "Hạ sốt", "Chữa ho", "Chống viêm"],
+    "correct": 0,
+    "explanation": "Sự phối hợp này tạo ra hiệu ứng hiệp đồng, giúp kiểm soát các cơn đau trung bình hiệu quả hơn dùng đơn lẻ, [8, 9]."
+  },
+  {
+    "question": "Thuốc dùng cho bệnh nhân bị ho khan do dị ứng thời tiết:",
+    "answers": ["Alimemazin", "Terpin hydrat", "Theophylin", "N-Acetylcystein"],
+    "correct": 0,
+    "explanation": "Alimemazin là kháng histamin có tác dụng ức chế trung tâm ho, rất tốt cho ho khan do kích ứng dị ứng"
+  },
+  {
+    "question": "Thuốc cắt cơn hen phế quản hiệu quả nhất là:",
+    "answers": ["Salbutamol", "Terpin hydrat", "Codein", "Alimemazin"],
+    "correct": 0,
+    "explanation": "Salbutamol làm giãn cơ trơn đường hô hấp nhanh chóng, giúp bệnh nhân dễ thở ngay lập tức trong cơn hen cấp"
+  },
+  {
+    "question": "Thuốc vừa có tác dụng sát khuẩn đường hô hấp vừa có tác dụng long đờm:",
+    "answers": ["Natri benzoat", "Terpin hydrat", "Theophylin", "Alimemazin"],
+    "correct": 0,
+    "explanation": "Natri benzoat thường được dùng trong các loại siro ho với vai trò kép là sát khuẩn nhẹ và hỗ trợ tống đờm, [9, 10]."
+  },
+  {
+    "question": "Thuốc chiết xuất tự nhiên từ lá chè hoặc hạt cà phê là:",
+    "answers": ["Theophylin", "Ephedrin", "Terpin hydrat", "Natri benzonat"],
+    "correct": 0,
+    "explanation": "Theophylin là một dẫn xuất xanthine tìm thấy trong tự nhiên, có tác dụng giãn phế quản"
+  },
+  {
+    "question": "Tác dụng phụ thường gặp của thuốc Acetyl cystein là:",
+    "answers": ["Rối loạn tiêu hóa", "Viêm dạ dày", "Nuốt nghẹn", "Loét tá tràng"],
+    "correct": 0,
+    "explanation": "Acetylcystein có thể gây buồn nôn hoặc các khó chịu tại đường tiêu hóa khi sử dụng"
+  },
+  {
+    "question": "Thuốc nào không phải là thuốc chữa ho:",
+    "answers": ["Theophyllin", "Acetyl cystein", "Dextromethorphan", "Terpincodein"],
+    "correct": 0,
+    "explanation": "Theophyllin chủ yếu là thuốc giãn phế quản trị hen/COPD, không phải thuốc giảm ho trực tiếp như các chất khác"
+  },
+  {
+    "question": "Thuốc trị táo bón an toàn nhất cho phụ nữ có thai là:",
+    "answers": ["Sorbitol", "Bisacodyl", "Natri sufat", "Dầu parafin"],
+    "correct": 0,
+    "explanation": "Sorbitol là thuốc nhuận tràng thẩm thấu dịu nhẹ, ít gây tác dụng phụ toàn thân nên khá an toàn cho thai phụ, [10, 11]."
+  },
+  {
+    "question": "Thuốc có tác dụng diệt vi khuẩn H. pylori là:",
+    "answers": ["Bismuth subcitrat", "Drotaverin", "Nhôm hydroxyd", "Cimetidin"],
+    "correct": 0,
+    "explanation": "Bismuth có khả năng diệt khuẩn trực tiếp và ngăn cản vi khuẩn H. pylori bám dính vào niêm mạc dạ dày"
+  },
+  {
+    "question": "Chỉ định của No-spa là:",
+    "answers": ["Giảm đau do co thắt cơ trơn", "Đau đầu", "Chóng mặt", "Tăng huyết áp"],
+    "correct": 0,
+    "explanation": "No-spa (Drotaverin) chuyên dùng để điều trị các cơn đau quặn thận, quặn mật hoặc đau bụng kinh do co thắt cơ"
+  },
+  {
+    "question": "Chỉ định của Omeprazol là:",
+    "answers": ["Loét dạ dày – tá tràng lành tính", "Bệnh trĩ", "Co thắt ruột", "Chống nôn"],
+    "correct": 0,
+    "explanation": "Omeprazol ức chế tiết acid, tạo điều kiện thuận lợi để các vết loét trong dạ dày và tá tràng mau lành"
+  },
+  {
+    "question": "Chỉ định của Sorbitol là:",
+    "answers": ["Điều trị táo bón", "Điều trị loét dạ dày", "Điều trị đau dây thần kinh", "Điều trị dị ứng"],
+    "correct": 0,
+    "explanation": "Sorbitol giúp làm tăng áp suất thẩm thấu ở ruột, kéo nước vào làm mềm phân"
+  },
+  {
+    "question": "Chỉ định của cimetidin là:",
+    "answers": ["Loét dạ dày – tá tràng", "Bệnh trĩ", "Co thắt ruột", "Chống nôn"],
+    "correct": 0,
+    "explanation": "Cimetidin là thuốc kháng thụ thể H2 đời đầu, dùng để giảm tiết acid dịch vị trong điều trị loét"
+  },
+  {
+    "question": "Sử dụng thuốc nào để điều trị loét dạ dày tá tràng:",
+    "answers": ["Omeprazol", "Terpin hydrat", "Theophylin", "N-Acetylcystein"],
+    "correct": 0,
+    "explanation": "Omeprazol là thuốc ức chế bơm proton, lựa chọn hàng đầu cho các bệnh lý liên quan đến thừa acid dạ dày"
+  },
+  {
+    "question": "Thuốc có tác dụng bao che niêm mạc dạ dày là:",
+    "answers": ["Malox, kavet", "Cimetidin, Malox", "Kavet, Salbutamol", "Omeprazol"],
+    "correct": 0,
+    "explanation": "Các thuốc kháng acid dạng gel như Malox tạo lớp màng bao phủ bảo vệ ổ loét khỏi sự tấn công của acid, [12, 13]."
+  },
+  {
+    "question": "Thuốc dùng để chữa trùng roi âm đạo (Trichomonas vaginalis):",
+    "answers": ["Metronidazol 250mg", "Loperamid 2mg", "Oresol", "Dehydroemetin 10mg"],
+    "correct": 0,
+    "explanation": "Metronidazol là thuốc đặc hiệu cực kỳ hiệu quả đối với các nhiễm trùng do đơn bào trùng roi gây ra"
+  },
+  {
+    "question": "Berberin gây ra tác hại gì cho phụ nữ có thai:",
+    "answers": ["Sẩy thai do tăng co bóp tử cung", "Táo bón", "Suy tuỷ ở thai nhi", "Độc trên hệ thần kinh của thai nhi"],
+    "correct": 0,
+    "explanation": "Berberin có thể kích thích tử cung co thắt mạnh, dẫn đến nguy cơ trục xuất thai nhi ngoài ý muốn"
+  },
+  {
+    "question": "Thuốc dùng điều trị bệnh giun chỉ là:",
+    "answers": ["Diethyl carbamazin 50mg", "Mebendazol 500mg", "Niclosamid 500mg", "Pyrantel 125mg"],
+    "correct": 0,
+    "explanation": "Diethylcarbamazine (DEC) là thuốc chuyên biệt để tiêu diệt ấu trùng và giun chỉ trưởng thành, [13, 14]."
+  },
+  {
+    "question": "Thuốc điều trị bệnh thương hàn tốt nhất là:",
+    "answers": ["Cloramphenicol", "Ampicilin", "Tetracyclin", "Erythromycin"],
+    "correct": 0,
+    "explanation": "Trong lịch sử y học, Cloramphenicol từng là thuốc 'vàng' để điều trị thương hàn do Salmonella typhi, [14]."
+  },
+  {
+    "question": "Người bị viêm họng nhưng dị ứng penicilin nên dùng thuốc nào:",
+    "answers": ["Erythromycin", "Ampiciclin", "Cephalexin", "Penicilin V"],
+    "correct": 0,
+    "explanation": "Erythromycin là thuốc thay thế kinh điển cho các trường hợp nhiễm khuẩn hô hấp ở người dị ứng với nhóm beta-lactam, [14]."
+  },
+  {
+    "question": "Thuốc điều trị bệnh trứng cá đỏ đặc hiệu nhất là:",
+    "answers": ["Clindamycin", "Cloramphenicol", "Cephalexin", "Ciprofloxacin"],
+    "correct": 0,
+    "explanation": "Clindamycin thường được dùng bôi tại chỗ để ức chế vi khuẩn gây mụn trứng cá"
+  },
+  {
+    "question": "Thuốc trị bệnh tưa lưỡi cho trẻ em là:",
+    "answers": ["Nystatin", "Doxycyclin", "Cefaclor", "Norfloxacin"],
+    "correct": 0,
+    "explanation": "Tưa lưỡi là do nấm Candida, vì vậy cần dùng thuốc kháng nấm tại chỗ như Nystatin"
+  },
+  {
+    "question": "Thuốc trị viêm đường hô hấp an toàn nhất cho phụ nữ mang thai là:",
+    "answers": ["Penicilin G", "Cefaclor", "Benzathin Benzyl Penicilin", "Lincomycin"],
+    "correct": 0,
+    "explanation": "Nhóm Penicillin được xếp vào phân loại an toàn cao cho thai nhi khi cần điều trị nhiễm khuẩn, [15, 16]."
+  },
+   {
+    "question": "Trong các thuốc sau thuốc nào có tác dụng phụ gây suy tủy xương.",
+    "answers": ["Gentamycin", "Doxycyclin", "Cloramphenicol", "Ciprofloxacin"],
+    "correct": 2,
+    "explanation": "Cloramphenicol có độc tính nghiêm trọng trên hệ tạo máu, có thể gây suy tủy xương không hồi phục dẫn đến thiếu máu bất sản"
+  },
+  {
+    "question": "Trong các kháng sinh dưới đây, kháng sinh nào đặc trị bệnh dịch hạch, tả.",
+    "answers": ["Tetracyclin", "Penicilin G", "Ciprofloxacin", "Cloramphenicol", "Gentamycin"],
+    "correct": 0,
+    "explanation": "Tetracyclin là kháng sinh lựa chọn hàng đầu trong điều trị bệnh dịch hạch và bệnh tả nhờ phổ tác dụng mạnh trên các vi khuẩn gây bệnh này"
+  },
+  {
+    "question": "Anh (chị) hãy hướng dẫn người bệnh bị nấm móng tay sử dụng một trong các thuốc dưới đây:",
+    "answers": ["Griseofulvin", "Nystatin", "Amoxycilin", "Cephalexin"],
+    "correct": 0,
+    "explanation": "Griseofulvin là thuốc kháng nấm dùng đường uống có ái lực cao với chất sừng (keratin), giúp điều trị hiệu quả các bệnh nấm móng và nấm tóc"
+  },
+  {
+    "question": "Trong các kháng sinh dưới đây, kháng sinh chỉ dùng ở dạng tiêm (không dùng dạng uống) là:",
+    "answers": ["Gentamycin", "Erythromycin", "Tetracyclin", "Penicilin V"],
+    "correct": 0,
+    "explanation": "Gentamycin là kháng sinh nhóm aminosid, do tính phân cực mạnh nên hầu như không hấp thu qua đường tiêu hóa và phải dùng đường tiêm để có tác dụng toàn thân"
+  },
+  {
+    "question": "Anh (chị) hãy lựa chọn một kháng sinh có tác dụng trên chủng vi khuẩn sản sinh ra beta-lactamin trong các thuốc dưới đây:",
+    "answers": ["Cefaclor", "Penicilin G", "Ampicilin", "Amoxycilin"],
+    "correct": 0,
+    "explanation": "Cefaclor là Cephalosporin thế hệ 2, bền vững hơn với một số enzyme beta-lactamase của vi khuẩn so với các Penicillin thông thường"
+  },
+  {
+    "question": "Anh (chị), hãy khuyên bệnh nhân mắc bệnh lao đang uống isoniazid sử dụng thêm một trong các vitamin sau đây để hạn chế tác dụng phụ của thuốc chống lao:",
+    "answers": ["Vitamin B6", "Vitamin B1", "Vitamin B12", "Vitamin B2"],
+    "correct": 0,
+    "explanation": "Isoniazid làm tăng đào thải và cạnh tranh với Vitamin B6, gây viêm dây thần kinh ngoại biên; bổ sung B6 giúp ngăn ngừa tác dụng phụ này"
+  },
+  {
+    "question": "Anh (chị) hãy khuyên bệnh nhân mắc bệnh phong đang uống dapson, sử dụng thêm một trong các thuốc sau đây để hạn chế tác dụng phụ của thuốc chữa phong:",
+    "answers": ["Acid Folic", "Vitamin C", "Vitamin B1", "Vitamin B6"],
+    "correct": 0,
+    "explanation": "Dapson có thể gây thiếu máu do thiếu hụt folate; bổ sung Acid Folic giúp hỗ trợ quá trình tạo máu cho bệnh nhân điều trị phong"
+  },
+  {
+    "question": "Thuốc chống lao không dùng cho người mắc bệnh gút nhiễm lao là:",
+    "answers": ["Pyrazinamid", "Ethambutol", "Rifampicin", "Isoniazid"],
+    "correct": 0,
+    "explanation": "Pyrazinamid làm giảm thải trừ acid uric qua thận, có thể gây tăng acid uric máu và khởi phát cơn Gút cấp"
+  },
+  {
+    "question": "Anh (chị), hãy khuyên người nhà bệnh nhân lao (chưa tiêm phòng vacxin BCG) sử dụng một trong các thuốc dưới đây để phòng bệnh:",
+    "answers": ["Isoniazid", "Ethambutol", "Rifampicin", "Pyrazinamid"],
+    "correct": 0,
+    "explanation": "Isoniazid là thuốc thường được sử dụng đơn độc trong phác đồ điều trị dự phòng lao cho những người có nguy cơ cao bị lây nhiễm"
+  },
+  {
+    "question": "Anh (chị), hãy nêu tên một thuốc vừa có tác dụng chống lao, vừa có tác dụng điều trị bệnh phong trong các thuốc dưới đây:",
+    "answers": ["Rifampicin", "Ethambutol", "Isoniazid", "Pyrazinamid"],
+    "correct": 0,
+    "explanation": "Rifampicin là kháng sinh cực mạnh có phổ tác dụng lên cả trực khuẩn lao (M. tuberculosis) và trực khuẩn phong (M. leprae)"
+  },
+  {
+    "question": "Một phụ nữ có thai bị sốt rét cấp tính, anh (chị) hãy lựa chọn một trong các thuốc sau để cho kết quả điều trị tốt nhất:",
+    "answers": ["Artemisinin", "Quinin sulfat", "Primaquin", "Artesunat"],
+    "correct": 0,
+    "explanation": "Artemisinin là thuốc cắt cơn sốt rét nhanh và được xem là an toàn hơn cho phụ nữ mang thai so với một số thuốc khác (trong các phương án được đưa ra)"
+  },
+  {
+    "question": "Anh (Chị) hãy hướng dẫn một người bệnh bị nhiễm ký sinh trùng sốt rét P. vivax sử dụng một trong các thuốc sau để điều trị tiệt căn:",
+    "answers": ["Primaquin", "Quinin sulfat", "Artesunat", "Fansidar"],
+    "correct": 0,
+    "explanation": "Primaquin là thuốc duy nhất có tác dụng tiêu diệt các thể ngủ của P. vivax trong gan, giúp điều trị dứt điểm và ngăn ngừa tái phát"
+  },
+  {
+    "question": "Trong các kháng sinh dưới đây, kháng sinh chỉ dùng ở dạng tiêm (không dùng dạng uống) là:",
+    "answers": ["Gentamycin", "Erythromycin", "Tetracyclin", "Peniciclin V"],
+    "correct": 0,
+    "explanation": "Tương tự câu 404, Gentamycin không hấp thu qua đường uống nên bắt buộc phải dùng đường tiêm để điều trị nhiễm khuẩn toàn thân"
+  },
+  {
+    "question": "Anh (chị) hãy chọn 1 trong 5 thuốc dưới đây để hướng dẫn bệnh nhân chữa trùng roi âm đạo (nhiễm Trichomonas vaginalis):",
+    "answers": ["Metronidazol 250mg", "Loperamid 2mg", "Oresol", "Dehydroemetin 10mg"],
+    "correct": 0,
+    "explanation": "Metronidazol là thuốc tiêu diệt cực kỳ hiệu quả các vi sinh vật đơn bào như trùng roi Trichomonas ở đường sinh dục"
+  },
+  {
+    "question": "Anh (chị), hãy hướng dẫn bệnh nhân 20 tuổi cách sử dụng mebendazol để điều trị nhiễm nhiều loại giun đường tiêu hoá.",
+    "answers": ["Uống 500mg/lần duy nhất", "Uống 100mg/lần, lặp lại sau 2 tuần", "Uống 200mg/lần duy nhất", "Uống 100mg/lần duy nhất"],
+    "correct": 0,
+    "explanation": "Mebendazol liều cao 500mg dùng một lần duy nhất là phác đồ chuẩn để tẩy giun định kỳ và điều trị nhiễm nhiều loại giun cùng lúc"
+  },
+  {
+    "question": "Trong các thuốc sau đây thuốc nào chữa bệnh phong:",
+    "answers": ["dapson", "Acid Folic", "Vitamin B12", "Vitamin B6"],
+    "correct": 0,
+    "explanation": "Dapson (DDS) là thuốc chủ lực trong đa hóa trị liệu điều trị bệnh phong nhờ khả năng ức chế trực khuẩn Hansen"
+  },
+  {
+    "question": "Một em bé 3 tuổi bị mất nước, anh (chị) hãy khuyên mẹ của bé cho bé uống 1 trong các thuốc sau:",
+    "answers": ["Oresol", "Biosubtyl", "Dehydroemetin", "Loperamid"],
+    "correct": 0,
+    "explanation": "Oresol là dung dịch bù nước và điện giải thiết yếu nhất cho trẻ em khi bị tiêu chảy hoặc mất nước do các nguyên nhân khác"
+  },
+  {
+    "question": "Trong các thuốc dưới đây thuốc nào thuộc nhóm Cefalosporin thế hệ 4:",
+    "answers": ["Cefepim", "Cefalexin", "Cefaclor", "Cefuroxim"],
+    "correct": 0,
+    "explanation": "Cefepim là đại diện điển hình của Cephalosporin thế hệ 4, có phổ kháng khuẩn rất rộng trên cả vi khuẩn Gram dương và Gram âm"
+  },
+  {
+    "question": "Trong các thuốc sau, thuốc nào được chiết xuất từ cây vàng đắng và Thổ hoàng liên:",
+    "answers": ["Berberin 100mg", "Metronidazol 250mg", "Dehydroemetin 10mg/ml", "Loperamid 2mg"],
+    "correct": 0,
+    "explanation": "Berberin là một alcaloid thực vật có nhiều trong các cây dược liệu như Vàng đắng, Hoàng liên, dùng để chữa tiêu chảy, lỵ"
+  },
+  {
+    "question": "Không được dùng Tetracyclin trẻ em dưới 8 tuổi vì thuốc gây nên:",
+    "answers": ["Hỏng men răng", "Táo bón", "Suy tuỷ ở thai nhi", "Độc trên hệ thần kinh của thai nhi"],
+    "correct": 0,
+    "explanation": "Tetracyclin gắn mạnh vào calci của răng đang phát triển, gây biến màu răng vĩnh viễn và làm hỏng men răng của trẻ nhỏ"
+  },
+  {
+    "question": "Anh (chị) hãy hướng dẫn bệnh nhân sử dụng 1 trong các thuốc sau để điều trị bệnh viêm kết mạc.",
+    "answers": ["Tobramycin 0,3%", "Naphazolin 0,05%", "Naphazolin 0,1%", "Xylometazolin 0,1%"],
+    "correct": 0,
+    "explanation": "Tobramycin là kháng sinh dùng tại chỗ rất hiệu quả để điều trị các nhiễm khuẩn ở mắt như viêm kết mạc"
+  },
+  {
+    "question": "Chỉ định của Mebendazol là.",
+    "answers": ["Điều trị nhiễm các loại giun", "Tiêu chảy", "Thương hàn", "Đái đường"],
+    "correct": 0,
+    "explanation": "Mebendazol được chỉ định chính để tiêu diệt các loại giun tròn ký sinh trong lòng ruột như giun đũa, giun kim, giun móc"
+  },
+  {
+    "question": "Thuốc nào trong các thuốc dưới đây được dùng để phối hợp điều trị bệnh viêm khớp.",
+    "answers": ["Prednisolon", "Povidon iod", "ASA", "BSI"],
+    "correct": 0,
+    "explanation": "Prednisolon là thuốc glucocorticoid có tác dụng chống viêm mạnh, thường dùng để kiểm soát các đợt viêm khớp nặng hoặc mạn tính"
+  },
+  {
+    "question": "Chỉ định của New choice là.",
+    "answers": ["Tránh thai", "Tiêu chảy", "Thương hàn", "Đái đường"],
+    "correct": 0,
+    "explanation": "New Choice là tên thương mại phổ biến của một loại thuốc tránh thai đường uống kết hợp"
+  },
+  {
+    "question": "Thuốc nào trong các thuốc dưới đây được dùng để phối hợp điều trị bệnh viêm khớp",
+    "answers": ["Hydrocortison", "Naphazolin", "DEP", "Nizoral"],
+    "correct": 0,
+    "explanation": "Hydrocortison là một steroid có tác dụng kháng viêm, được dùng trong điều trị nhiều bệnh lý viêm nhiễm bao gồm cả viêm khớp"
+  },
+  {
+    "question": "Trong các kháng sinh dưới đây, kháng sinh chỉ dùng ở dạng tiêm (không dùng dạng uống) là:",
+    "answers": ["Streptomycin", "Erythromycin", "Tetracyclin", "Peniciclin V"],
+    "correct": 0,
+    "explanation": "Streptomycin là một aminosid khác hầu như không hấp thu qua ruột nên phải tiêm để đạt nồng độ điều trị trong máu, đặc biệt trong trị lao"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc nhóm kháng sinh Cefalosporin",
+    "answers": ["Cefixim", "Biosubtyl", "Dehydroemetin", "Loperamid"],
+    "correct": 0,
+    "explanation": "Cefixim là kháng sinh Cephalosporin thế hệ 3 dùng đường uống, có phổ tác dụng rộng trên vi khuẩn Gram âm"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Cefalosporin",
+    "answers": ["Cefalexin", "Isoniazid", "Ethambutol", "Rifampicin"],
+    "correct": 0,
+    "explanation": "Cefalexin là kháng sinh họ Cephalosporin thế hệ 1, thường dùng trị nhiễm khuẩn hô hấp, da và tiết niệu nhẹ"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Penicilin",
+    "answers": ["Ampicilin", "Ethambutol", "Rifampicin", "Pyrazinamid"],
+    "correct": 0,
+    "explanation": "Ampicilin là kháng sinh nhóm aminopenicillin thuộc họ Beta-lactam lớn (họ Penicillin)"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Penicilin",
+    "answers": ["Amoxycilin", "Penicilin G", "Ciprofloxacin", "Cloramphenicol"],
+    "correct": 0,
+    "explanation": "Amoxycilin và Penicilin G đều thuộc họ Penicillin "
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Tetracyclin",
+    "answers": ["Doxycyclin", "Penicilin G", "Ampicilin", "Amoxycilin"],
+    "correct": 0,
+    "explanation": "Doxycyclin là kháng sinh nhóm Tetracyclin thế hệ 2, có thời gian bán thải dài hơn Tetracyclin cổ điển"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Quinolon",
+    "answers": ["Ciprofloxacin", "Isoniazid", "Ethambutol", "Rifampicin"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin là kháng sinh thuộc nhóm Quinolon (cụ thể là Fluoroquinolon) tác động lên sự sao chép ADN của vi khuẩn"
+  },
+  {
+    "question": "Trong các thuốc sau thuốc nào thuộc kháng sinh họ Quinolon",
+    "answers": ["Ofloxacin", "Amipiciclin", "Cephalexin", "Peniciclin V"],
+    "correct": 0,
+    "explanation": "Ofloxacin là một kháng sinh khác thuộc nhóm Quinolon thế hệ 2 có phổ kháng khuẩn rộng"
+  },
+  {
+    "question": "Trong các thuốc dưới đây thuốc nào thuộc nhóm kháng sinh Lincosamid:",
+    "answers": ["Lincomycin", "Cloramphenicol", "Cephalexin", "Ciprofloxacin"],
+    "correct": 0,
+    "explanation": "Lincomycin là kháng sinh đại diện của nhóm Lincosamid, có cơ chế ức chế tổng hợp protein tương tự Macrolid"
+  },
+  {
+    "question": "Trong các thuốc dưới đây thuốc nào thuộc nhóm Cefalosporin thế hệ 1:",
+    "answers": ["Cefalexin", "Cefepim", "Cefaclor", "Cefuroxim"],
+    "correct": 0,
+    "explanation": "Cefalexin là kháng sinh thế hệ đầu tiên của nhóm Cephalosporin, chủ yếu tác dụng trên vi khuẩn Gram dương"
+  },
+  {
+    "question": "Chỉ định của Co trimoxazol là:",
+    "answers": ["Viêm họng", "Bệnh khô mắt", "Phòng chống lão hóa", "Hội chứng Fanconi"],
+    "correct": 0,
+    "explanation": "Co-trimoxazol (phối hợp Sulfamethoxazol và Trimethoprim) thường được chỉ định cho các nhiễm khuẩn đường hô hấp như viêm họng"
+  },
+  {
+    "question": "Chỉ định của Ciprofloxacin:",
+    "answers": ["Bệnh lậu", "Da tóc móng khô", "Bệnh vảy nến", "Phòng và chống co giật"],
+    "correct": 0,
+    "explanation": "Ciprofloxacin là thuốc rất hiệu quả trong điều trị bệnh lậu cấp tính do lậu cầu khuẩn gây ra"
+  },
+  {
+    "question": "Chỉ định của Cefixim là:",
+    "answers": ["Viêm phế quản", "Vô sinh", "Trẻ chậm lớn", "Chống lão hóa"],
+    "correct": 0,
+    "explanation": "Cefixim có phổ kháng khuẩn tốt trên các tác nhân gây viêm đường hô hấp như viêm phế quản và viêm phổi"
+  },
+  {
+    "question": "Thuốc nào trong các thuốc dưới đây thuộc nhóm corticoid.",
+    "answers": ["Dexamethason", "Cloramphenicol", "Cephalexin", "Ciprofloxacin"],
+    "correct": 0,
+    "explanation": "Dexamethason là thuốc glucocorticoid tổng hợp có tác dụng chống viêm và chống dị ứng cực mạnh"
+  },
+  {
+    "question": "Thuốc dùng qua đường tiêu hóa có rất nhiều ưu điểm vì:",
+    "answers": ["Dễ áp dụng, ít hao hụt", "Thuốc tác dụng nhanh, ít hao hụt", "Dễ điều chỉnh lượng thuốc", "Dễ điều chỉnh lượng thuốc, tác dụng nhanh"],
+    "correct": 2,
+    "explanation": "Đường tiêu hóa (uống) giúp dễ dàng kiểm soát và điều chỉnh liều lượng theo tình trạng bệnh nhân, dù tốc độ hấp thu chậm hơn đường tiêm"
+  },
+  {
+    "question": "Tác dụng phụ của thuốc là:",
+    "answers": ["Tác dụng dùng chữa bệnh", "Tác dụng dùng phòng bệnh", "Tác dụng dùng chữa bệnh - phòng bệnh", "Những tác dụng bất lợi"],
+    "correct": 3,
+    "explanation": "Tác dụng phụ là những hiệu ứng không mong muốn và thường gây khó chịu/bất lợi xảy ra song song với tác dụng điều trị chính."
+  },
+  {
+    "question": "Tai biến của thuốc là khi sử dụng thuốc sẽ:",
+    "answers": ["Không có tác dụng điều trị", "Có tác dụng điều trị", "Không ảnh hưởng sức khỏe", "Gây ra hậu quả xấu cho người sử dụng"],
+    "correct": 3,
+    "explanation": "Tai biến là những phản ứng độc hại, nguy hiểm và đôi khi đe dọa tính mạng xảy ra do thuốc (như sốc phản vệ)"
+  },
+  {
+    "question": "Đường hấp thu thuốc tốt nhất là:",
+    "answers": ["Uống", "Đặt dưới lưỡi", "Tiêm tĩnh mạch", "Tiêm bắp thịt"],
+    "correct": 2,
+    "explanation": "Tiêm tĩnh mạch là đường đưa thuốc trực tiếp và hoàn toàn vào máu, mang lại hiệu quả tức thời và cao nhất"
+  },
+  {
+    "question": "Cơ chế tác dụng của Ciprofloxacin là:",
+    "answers": ["Ức chế tổng hợp vách tế bào", "Ức chế tổng hợp protein", "Ức chế tổng hợp acid nhân", "Tất cả phương án trên"],
+    "correct": 2,
+    "explanation": "Ciprofloxacin ức chế enzyme DNA gyrase của vi khuẩn, từ đó ngăn chặn quá trình sao chép và tổng hợp acid nhân (ADN)"
+  },
+  {
+    "question": "Cơ chế tác dụng của Amoxycylin là:",
+    "answers": ["Ức chế tổng hợp vách tế bào vi khuẩn", "Ức chế tổng hợp protein", "Ức chế tổng hợp acid nhân", "Tất cả phương án trên"],
+    "correct": 0,
+    "explanation": "Amoxycilin ngăn cản quá trình tạo liên kết chéo của các chuỗi peptidoglycan, khiến vách tế bào vi khuẩn không hình thành được và bị tiêu diệt"
+  }
+]

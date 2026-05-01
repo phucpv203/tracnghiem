@@ -36,13 +36,14 @@ window.addEventListener('DOMContentLoaded', () => {
 
   // Get subject name from question files
   const subjectMap = {
-    'tin': 'Tin học',
-    'vatly': 'Vật lý',
-    'hoahoc': 'Chính trị LT',
-    'chinhtri': 'Chính trị',
-    'sinhhoc': 'Chính trị DS',
-    'sinhhoc1': 'Sinh học',
-    'XSTK': 'XSTK'
+   yduc:'Y ĐỨc', 
+   duocly:'Dược lý', 
+   tin:'Tin học', 
+   vatly:'Vật lý', 
+   hoahoc:'Chính trị lý thuyết', 
+   chinhtri:'Chính trị', 
+   sinhhoc:'Chính trị DS',
+   XSTK:'XSTK'
   };
 
   if (subjectNameEl) {
