@@ -1511,277 +1511,277 @@
     "explanation": "Phương sai của phân phối nhị thức DX = n.p.q = 5 * 0,9 * 0,1 = 0,45. Tuy nhiên, theo đáp án được đánh dấu trong nguồn tài liệu là 0,42 [1]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:",
+    "question": "Tính trung bình mẫu (x̄) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><td>40</td><td>41</td><td>42</td><td>43</td><td>45</td><td>46</td><td>47</td><td>48</td><td>49</td></tr><tr><th>Số người</th><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["45", "46", "47", "48"],
     "correct": 0,
     "explanation": "Trong thống kê mô tả, giá trị trung bình mẫu (x̄) được tính bằng tổng các giá trị nhân với tần số tương ứng rồi chia cho tổng kích thước mẫu [1]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) huyết áp của nhóm bệnh nhân từ bảng số liệu đã cho:",
+    "question": "Tính trung bình mẫu (x̄) huyết áp của nhóm bệnh nhân từ bảng số liệu đã cho:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th> </tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["119", "120", "121", "122"],
     "correct": 0,
     "explanation": "Giá trị trung bình được xác định dựa trên các thông số huyết áp và tần suất xuất hiện của chúng trong mẫu nghiên cứu [1]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) của Glucoza trong máu của nhóm bệnh nhân từ bảng số liệu đã cho:",
+    "question": "Tính trung bình mẫu (x̄) của Glucoza trong máu của nhóm bệnh nhân từ bảng số liệu đã cho:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["90,6", "90,7", "90,8", "90,9"],
     "correct": 0,
     "explanation": "Áp dụng công thức tính trung bình cộng có trọng số cho nồng độ Glucoza [1], [2]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) nhịp mạch của một nhóm bệnh nhân làm nghề A:",
+    "question": "Tính trung bình mẫu (x̄) nhịp mạch của một nhóm bệnh nhân làm nghề A:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>68</th><th>69</th><th>70</th><th>72</th><th>74</th><th>75</th><th>76</th><th>78</th><th>79</th><th>80</th></tr><tr><td>Số người</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>7</td><td>4</td><td>6</td><td>5</td></tr></table>",
     "answers": ["74,3", "74,4", "74,5", "74,6"],
     "correct": 0,
     "explanation": "Trung bình nhịp mạch được tính từ dữ liệu thực nghiệm thu được trên nhóm đối tượng làm nghề A [2]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) Cholestrol trong máu trên 25 bệnh nhân:",
+    "question": "Tính trung bình mẫu (x̄) Cholestrol trong máu trên 25 bệnh nhân:<table class=\"table-qt\"><tr><th>X(mg%)</th><th>156</th><th>158</th><th>159</th><th>160</th><th>161</th><th>162</th><th>164</th></tr><tr><td>N</td><td>3</td><td>4</td><td>2</td><td>4</td><td>5</td><td>3</td><td>4</td></tr></table>",
     "answers": ["160,2", "160,3", "160,4", "160,5"],
     "correct": 0,
     "explanation": "Sử dụng dữ liệu từ 25 bệnh nhân để tính toán giá trị trung bình đại diện cho mẫu [2]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) điều tra về Urê máu (centigram/lít) gồm 40 người:",
+    "question": "Tính trung bình mẫu (x̄) điều tra về Urê máu (centigram/lít) gồm 40 người:<table class=\"table-qt\"><tr><th>Chỉ số</th><th>19</th><th>21</th><th>24</th><th>30</th><th>32</th><th>35</th></tr><tr><td>Số người</td><td>4</td><td>8</td><td>6</td><td>10</td><td>7</td><td>5</td></tr></table>",
     "answers": ["27,2", "27,3", "27,4", "27,5"],
     "correct": 0,
     "explanation": "Giá trị trung bình Urê máu được tổng hợp từ kết quả của 40 người trong bảng tần số [2]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-34, m: 10-5):",
+    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["26", "27", "28", "29"],
     "correct": 0,
     "explanation": "Tính toán dựa trên các giá trị X và tần số m tương ứng được cung cấp trong bảng [2]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian và số người hoàn thành một sản phẩm (X: 42-64 phút, M: 4-3 người):",
+    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian và số người hoàn thành một sản phẩm :<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>20</td><td>10</td><td>8</td><td>3</td></tr></table>",
     "answers": ["51,08", "52,11", "53,21", "54,22"],
     "correct": 0,
     "explanation": "Giá trị trung bình thời gian hoàn thành sản phẩm dựa trên năng suất của nhóm công nhân [2], [3]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-27, m: 10-5):",
+    "question": "Tính trung bình mẫu (x̄) của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th><th>26</th><th>27</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["23,5", "24,6", "26,5", "27,4"],
     "correct": 0,
     "explanation": "Sử dụng công thức tính trung bình mẫu cho dãy biến số rời rạc [3]."
   },
   {
-    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian hoàn thành sản phẩm với bảng tần số mới (M: 4-3 người, n=37):",
+    "question": "Tính trung bình mẫu (x̄) theo dõi thời gian hoàn thành sản phẩm với bảng tần số mới :<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>10</td><td>9</td><td>6</td><td>3</td></tr></table>",
     "answers": ["53,03", "52,11", "53,21", "54,22"],
     "correct": 0,
     "explanation": "Tính toán lại giá trị trung bình khi tần số của các nhóm thời gian thay đổi [3]."
   },
   {
-    "question": "Tìm Mốt (M0) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:",
+    "question": "Tìm Mốt (M0) của cân nặng của một nhóm học sinh từ bảng số liệu đã cho:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><th>40</th><th>41</th><th>42</th><th>43</th><th>45</th><th>46</th><th>47</th><th>48</th><th>49</th></tr><tr><td>Số người</td><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["47", "46", "49", "48"],
     "correct": 0,
     "explanation": "Mốt (Mode) là giá trị có tần số xuất hiện lớn nhất trong bảng dữ liệu [3]."
   },
   {
-    "question": "Tìm Mốt (M0) huyết áp của nhóm bệnh nhân:",
+    "question": "Tìm Mốt (M0) huyết áp của nhóm bệnh nhân:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th></tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["119", "120", "121", "122"],
     "correct": 1,
     "explanation": "Giá trị huyết áp xuất hiện với tần suất cao nhất trong nhóm bệnh nhân được chọn làm Mốt [3], [4]."
   },
   {
-    "question": "Tìm Mốt (M0) của Glucoza trong máu của nhóm bệnh nhân:",
+    "question": "Tìm Mốt (M0) của Glucoza trong máu của nhóm bệnh nhân:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["80", "85", "90", "95"],
     "correct": 3,
     "explanation": "Xác định nồng độ Glucoza có số lượng bệnh nhân mắc phải nhiều nhất [4]."
   },
   {
-    "question": "Tìm Mốt (M0) nhịp mạch của một nhóm bệnh nhân làm nghề A:",
+    "question": "Tìm Mốt (M0) nhịp mạch của một nhóm bệnh nhân làm nghề A:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>68</th><th>69</th><th>70</th><th>72</th><th>74</th><th>75</th><th>76</th><th>78</th><th>79</th><th>80</th></tr><tr><td>Số người</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>7</td><td>4</td><td>6</td><td>5</td></tr></table>",
     "answers": ["76", "75", "78", "80"],
     "correct": 0,
     "explanation": "Giá trị nhịp mạch phổ biến nhất trong kết quả điều tra [4]."
   },
   {
-    "question": "Tìm Mốt (M0) Cholestrol trong máu trên 25 bệnh nhân:",
+    "question": "Tìm Mốt (M0) Cholestrol trong máu trên 25 bệnh nhân:<table class=\"table-qt\"><tr><th>X (mg%)</th><th>156</th><th>158</th><th>159</th><th>160</th><th>161</th><th>162</th><th>164</th></tr><tr><td>N</td><td>3</td><td>4</td><td>2</td><td>4</td><td>5</td><td>3</td><td>4</td></tr></table>",
     "answers": ["161", "162", "164", "160"],
     "correct": 0,
     "explanation": "Giá trị Cholestrol có tần số thực nghiệm cao nhất trong mẫu 25 người [4]."
   },
   {
-    "question": "Tìm Mốt (M0) mẫu điều tra về Urê máu (40 người):",
+    "question": "Tìm Mốt (M0) mẫu điều tra về Urê máu (40 người):<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["30", "24", "32", "35"],
     "correct": 0,
     "explanation": "Giá trị Urê máu xuất hiện nhiều nhất trong bảng phân phối tần số [4]."
   },
   {
-    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-34):",
+    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["25", "27", "28", "29"],
     "correct": 0,
     "explanation": "Dóng hàng từ tần số lớn nhất (m=30) lên giá trị X tương ứng là 25 [4], [5]."
   },
   {
-    "question": "Tìm Mốt (M0) theo dõi thời gian hoàn thành sản phẩm (X: 42-64 phút):",
+    "question": "Tìm Mốt (M0) của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>20</td><td>10</td><td>8</td><td>3</td></tr></table>",
     "answers": ["50", "58", "60", "64"],
     "correct": 0,
     "explanation": "Thời gian 50 phút có số người hoàn thành đông nhất (M=20) nên là Mốt của mẫu [5]."
   },
   {
-    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21-27, m: 10-5):",
+    "question": "Tìm Mốt (M0) của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th><th>26</th><th>27</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["23", "24", "26", "27"],
     "correct": 0,
     "explanation": "Giá trị X=23 có tần số m=30 (lớn nhất) nên là Mốt [5]."
   },
   {
-    "question": "Tìm Mốt (M0) theo dõi thời gian hoàn thành sản phẩm từ bảng tần số ở câu 10:",
+    "question": "Tìm Mốt (M0) của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>10</td><td>9</td><td>6</td><td>3</td></tr></table>",
     "answers": ["50", "58", "60", "64"],
     "correct": 0,
     "explanation": "Xác định giá trị thời gian có tần số xuất hiện cao nhất trong bảng số liệu công nhân [5]."
   },
   {
-    "question": "Tìm Me của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "question": "Tìm Me của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><th>40</th><th>41</th><th>42</th><th>43</th><th>45</th><th>46</th><th>47</th><th>48</th><th>49</th></tr><tr><td>Số người</td><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["45", "46", "47", "48"],
     "correct": 0,
     "explanation": "Trung vị (Me) là giá trị nằm ở vị trí chính giữa của dãy số sau khi đã được sắp xếp [1]."
   },
   {
-    "question": "Tìm Me huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tìm Me huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th></tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["119", "120", "121", "122"],
     "correct": 1,
     "explanation": "Trong bảng số liệu này, giá trị huyết áp chia đôi tập dữ liệu mẫu là 120 [2]."
   },
   {
-    "question": "Tìm Me của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tìm Me của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["80", "85", "90", "95"],
     "correct": 2,
     "explanation": "Trung vị nồng độ Glucoza trong máu của mẫu bệnh nhân này là 90 [2]."
   },
   {
-    "question": "Tìm Me nhịp mạch của một nhóm bệnh nhân làm nghề A ta có kết quả sau:",
+    "question": "Tìm Me nhịp mạch của một nhóm bệnh nhân làm nghề A ta có kết quả sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>68</th><th>69</th><th>70</th><th>72</th><th>74</th><th>75</th><th>76</th><th>78</th><th>79</th><th>80</th></tr><tr><td>Số người</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>7</td><td>4</td><td>6</td><td>5</td></tr></table>",
     "answers": ["75", "76", "78", "80"],
     "correct": 0,
     "explanation": "Dựa trên dãy số liệu về nhịp mạch, giá trị trung vị được xác định là 75 [2]."
   },
   {
-    "question": "Tìm Me Cholestrol trong máu trên 25 bệnh nhân có kết quả sau:",
+    "question": "Tìm Me Cholestrol trong máu trên 25 bệnh nhân có kết quả sau:<table class=\"table-qt\"><tr><th>X (mg%)</th><th>156</th><th>158</th><th>159</th><th>160</th><th>161</th><th>162</th><th>164</th></tr><tr><td>N</td><td>3</td><td>4</td><td>2</td><td>4</td><td>5</td><td>3</td><td>4</td></tr></table>",
     "answers": ["160", "162", "164", "161"],
     "correct": 0,
     "explanation": "Với mẫu 25 bệnh nhân, giá trị Cholestrol ở vị trí thứ 13 sau khi sắp xếp là 160 [2]."
   },
   {
-    "question": "Tìm Me mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:",
+    "question": "Tìm Me mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:<table class=\"table-qt\"><tr><th>Chỉ số</th><th>19</th><th>21</th><th>24</th><th>30</th><th>32</th><th>35</th></tr><tr><td>Số người</td><td>4</td><td>8</td><td>6</td><td>10</td><td>7</td><td>5</td></tr></table>",
     "answers": ["32", "30", "35", "21"],
     "correct": 1,
     "explanation": "Trong mẫu 40 người, trung vị của nồng độ Urê máu nằm ở giá trị 30 [3]."
   },
   {
-    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["25", "27", "28", "29"],
     "correct": 0,
     "explanation": "Dựa trên tần số tích lũy, trung vị của mẫu thực nghiệm này rơi vào giá trị 25 [3]."
   },
   {
-    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân (X: 42 | 44 | 50 | 58 | 60 | 64):",
+    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân :<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>20</td><td>10</td><td>8</td><td>3</td></tr></table>",
     "answers": ["58", "50", "60", "64"],
     "correct": 0,
     "explanation": "Thời gian trung vị để hoàn thành sản phẩm trong nhóm công nhân này là 58 phút [3]."
   },
   {
-    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 22 | 23 | 24 | 25 | 26 | 27):",
+    "question": "Tìm Me của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>22</th><th>23</th><th>24</th><th>25</th><th>26</th><th>27</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["23", "24", "26", "27"],
     "correct": 0,
     "explanation": "Giá trị trung vị tương ứng với phân bố tần số này là 23 [3]."
   },
   {
-    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân từ bảng tần số ở câu 10:",
+    "question": "Tìm Me của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>10</td><td>9</td><td>6</td><td>3</td></tr></table>",
     "answers": ["50", "58", "60", "64"],
     "correct": 0,
     "explanation": "Sau khi tính toán tần số tích lũy trên mẫu 37 người, trung vị là 50 [3]."
   },
   {
-    "question": "Tính s_n của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "question": "Tính s_n của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><th>40</th><th>41</th><th>42</th><th>43</th><th>45</th><th>46</th><th>47</th><th>48</th><th>49</th></tr><tr><td>Số người</td><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["2,5", "2,6", "2,7", "2,8"],
     "correct": 1,
     "explanation": "Độ lệch chuẩn (s) của cân nặng nhóm học sinh này được tính toán là 2,6 [4]."
   },
   {
-    "question": "Tính s của huyết áp nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tính s của huyết áp nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th></tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["12,7", "12,8", "12,9", "13,0"],
     "correct": 2,
     "explanation": "Độ lệch chuẩn về huyết áp của mẫu bệnh nhân là 12,9 [4]."
   },
   {
-    "question": "Tính s của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tính s của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["11,0", "11,1", "11,2", "11,3"],
     "correct": 1,
     "explanation": "Mức độ phân tán (độ lệch chuẩn) nồng độ Glucoza là 11,1 [4]."
   },
   {
-    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:",
+    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:<table class=\"table-qt\"><tr><th>X (phút)</th><th>46</th><th>48</th><th>51</th></tr><tr><td>M (số người)</td><td>2</td><td>40</td><td>8</td></tr></table>",
     "answers": ["16,9", "14,9", "14,5", "14,6"],
     "correct": 0,
     "explanation": "Độ lệch chuẩn thời gian hoàn thành sản phẩm của nhóm công nhân là 16,9 [4]."
   },
   {
-    "question": "Tính s của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:",
+    "question": "Tính s của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng sau:<table class=\"table-qt\"><tr><th>Chỉ số</th><th>19</th><th>21</th><th>24</th><th>30</th><th>32</th><th>35</th></tr><tr><td>Số người</td><td>4</td><td>8</td><td>6</td><td>10</td><td>7</td><td>5</td></tr></table>",
     "answers": ["5,6", "5,5", "5,7", "5,8"],
     "correct": 1,
     "explanation": "Độ lệch chuẩn nồng độ Urê máu của mẫu 40 người là 5,5 [4]."
   },
   {
-    "question": "Tính s của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "question": "Tính s của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["10,9", "11,2", "12,3", "13,4"],
     "correct": 0,
     "explanation": "Kết quả tính toán độ lệch chuẩn của mẫu thực nghiệm này là 10,9 [5]."
   },
   {
-    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm từ bảng tần số ở câu 10:",
+    "question": "Tính s của mẫu theo dõi thời gian và số người hoàn thành một sản phẩm ở công nhân ta có bảng sau:<table class=\"table-qt\"><tr><th>X (phút)</th><th>42</th><th>44</th><th>50</th><th>58</th><th>60</th><th>64</th></tr><tr><td>M (số người)</td><td>4</td><td>5</td><td>20</td><td>10</td><td>8</td><td>3</td></tr></table>",
     "answers": ["14,8", "14,9", "14,5", "14,6"],
     "correct": 0,
     "explanation": "Độ lệch chuẩn thời gian sản xuất dựa trên bảng tần số mới là 14,8 [5]."
   },
   {
-    "question": "Tính s2 của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:",
+    "question": "Tính s2 của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng sau:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><th>40</th><th>41</th><th>42</th><th>43</th><th>45</th><th>46</th><th>47</th><th>48</th><th>49</th></tr><tr><td>Số người</td><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["7,8", "6,8", "8,8", "9,8"],
     "correct": 1,
     "explanation": "Phương sai (s2) bằng bình phương của độ lệch chuẩn: 2,6² ≈ 6,8 [5, 6]."
   },
   {
-    "question": "Tính s2 huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tính s2 huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th></tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["12,7", "12,8", "166,41", "13,0"],
     "correct": 2,
     "explanation": "Phương sai huyết áp là 12,9² = 166,41 [5]."
   },
   {
-    "question": "Tính s2 của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:",
+    "question": "Tính s2 của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng sau:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["11,0", "123,21", "11,2", "11,3"],
     "correct": 1,
     "explanation": "Phương sai nồng độ Glucoza là 11,1² = 123,21 [5]."
   },
   {
-    "question": "Tính Cv của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng ở các câu trước:",
+    "question": "Tính Cv của cân nặng của một nhóm học sinh mà số liệu đã được lập thành bảng ở các câu trước:<table class=\"table-qt\"><tr><th>Cân nặng (kg)</th><th>40</th><th>41</th><th>42</th><th>43</th><th>45</th><th>46</th><th>47</th><th>48</th><th>49</th></tr><tr><td>Số người</td><td>4</td><td>7</td><td>6</td><td>4</td><td>10</td><td>11</td><td>12</td><td>5</td><td>2</td></tr></table>",
     "answers": ["0,05", "0,06", "0,07", "0,08"],
     "correct": 1,
     "explanation": "Hệ số biến thiên (Cv) được tính bằng tỷ số giữa độ lệch chuẩn (s) và trung bình mẫu (x̄). Với s ≈ 2,6 và x̄ = 45, Cv ≈ 0,06 [5], [1]."
   },
   {
-    "question": "Tính Cv huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:",
+    "question": "Tính Cv huyết áp của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>90</th><th>100</th><th>110</th><th>120</th><th>130</th><th>140</th><th>150</th><th>160</th><th>170</th></tr><tr><td>Số người</td><td>2</td><td>20</td><td>30</td><td>60</td><td>20</td><td>10</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": ["0,14", "0,13", "0,11", "0,12"],
     "correct": 2,
     "explanation": "Cv = s / x̄. Với s = 12,9 và x̄ = 119, kết quả tính toán xấp xỉ 0,11 [1]."
   },
   {
-    "question": "Tính Cv của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:",
+    "question": "Tính Cv của Glucoza trong máu của nhóm bệnh nhân mà số liệu cho bởi bảng ở các câu trước:<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>65</th><th>70</th><th>75</th><th>80</th><th>85</th><th>90</th><th>95</th><th>100</th><th>110</th></tr><tr><td>Số người</td><td>1</td><td>2</td><td>6</td><td>8</td><td>10</td><td>12</td><td>16</td><td>5</td><td>10</td></tr></table>",
     "answers": ["0,11", "0,12", "0,13", "0,14"],
     "correct": 1,
     "explanation": "Sử dụng độ lệch chuẩn s = 11,1 và trung bình x̄ = 90,6 để tính hệ số biến thiên, kết quả là 0,12 [1]."
   },
   {
-    "question": "Tính Cv của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng ở các câu trước:",
+    "question": "Tính Cv của mẫu điều tra về Urê máu đơn vị centigram/lít gồm 40 người thu được kết quả theo bảng ở các câu trước:<table class=\"table-qt\"><tr><th>Chỉ số</th><th>19</th><th>21</th><th>24</th><th>30</th><th>32</th><th>35</th></tr><tr><td>Số người</td><td>4</td><td>8</td><td>6</td><td>10</td><td>7</td><td>5</td></tr></table>",
     "answers": ["0,19", "0,20", "0,21", "0,22"],
     "correct": 1,
     "explanation": "Dựa trên các chỉ số mô tả đã tính (s=5,5; x̄=27,2), hệ số biến thiên của mẫu là 0,20 [1]."
   },
   {
-    "question": "Tính Cv của mẫu cụ thể có bảng phân bố tần số thực nghiệm (X: 21 | 24 | 25 | 26 | 28 | 32 | 34):",
+    "question": "Tính Cv của mẫu cụ thể có bảng phân bố tần số thực nghiệm :<table class=\"table-qt\"><tr><th>X</th><th>21</th><th>24</th><th>25</th><th>26</th><th>28</th><th>32</th><th>34</th></tr><tr><td>m</td><td>10</td><td>20</td><td>30</td><td>15</td><td>10</td><td>10</td><td>5</td></tr></table>",
     "answers": ["0,42", "0,43", "0,44", "0,45"],
     "correct": 0,
     "explanation": "Kết quả tính toán hệ số biến thiên cho mẫu thực nghiệm này là 0,42 [1]."
   },
    {
-    "question": "Điều tra Cholestrol trong máu trên 25 bệnh nhân, biết Cholestrol có phân phối chuẩn; hãy ước lượng Cholestrol của nhóm bệnh nhân trên với độ tin cậy 99%?",
+    "question": "Điều tra Cholestrol trong máu trên 25 bệnh nhân, biết Cholestrol có phân phối chuẩn; hãy ước lượng Cholestrol của nhóm bệnh nhân trên với độ tin cậy 99%?<table class=\"table-qt\"><tr><th>X (mg%)</th><th>156</th><th>158</th><th>159</th><th>160</th><th>161</th><th>162</th><th>164</th></tr><tr><td>N</td><td>3</td><td>4</td><td>2</td><td>4</td><td>5</td><td>3</td><td>4</td></tr></table>",
     "answers": ["(158,8; 161,2)", "(158,7; 161,3)", "(158,6; 161,4)", "(158,5; 161,5)"],
     "correct": 0,
     "explanation": "Dựa trên dữ liệu mẫu n=25 và độ tin cậy 99%, khoảng tin cậy được xác định là (158,8; 161,2) [1]."
@@ -1793,7 +1793,7 @@
     "explanation": "Với n=1000, x̄=160,7 và s=10,8, khoảng tin cậy 95% cho trung bình là (160,04; 161,4) [1]."
   },
   {
-    "question": "Điều tra nhịp mạch nhóm bệnh nhân nghề A, hãy ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?",
+    "question": "Điều tra nhịp mạch nhóm bệnh nhân nghề A, hãy ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>68</th><th>69</th><th>70</th><th>72</th><th>74</th><th>75</th><th>76</th><th>78</th><th>79</th><th>80</th></tr><tr><td>Số người</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>7</td><td>4</td><td>6</td><td>5</td></tr></table>",
     "answers": ["(72,6; 75,4)", "(72,5; 75,3)", "(72,4; 75,2)", "(72,9; 75,1)"],
     "correct": 3,
     "explanation": "Khoảng tin cậy 95% cho nhịp mạch trung bình của nhóm đối tượng này là (72,9; 75,1) [2]."
@@ -1847,7 +1847,7 @@
     "explanation": "Kích thước mẫu cần khảo sát để đạt độ chính xác d=100 và độ tin cậy 99% là 22393 [6]."
   },
   {
-    "question": "Điều tra Cholestrol trong máu trên 25 sinh viên, biết Cholestrol phân phối chuẩn; ước lượng Cholestrol của nhóm sinh viên với độ tin cậy 99%?",
+    "question": "Điều tra Cholestrol trong máu trên 25 sinh viên, biết Cholestrol phân phối chuẩn; ước lượng Cholestrol của nhóm sinh viên với độ tin cậy 99%?<table class=\"table-qt\"><tr><th>X(mg%)</th><th>156</th><th>158</th><th>159</th><th>160</th><th>161</th><th>162</th><th>164</th></tr><tr><td>N</td><td>3</td><td>4</td><td>2</td><td>4</td><td>5</td><td>3</td><td>4</td></tr></table>",
     "answers": ["(158,8; 161,2)", "(158,7; 161,3)", "(158,6; 161,4)", "(158,5; 161,5)"],
     "correct": 0,
     "explanation": "Khoảng ước lượng tương tự câu 1 nhưng áp dụng cho đối tượng sinh viên là (158,8; 161,2) [6]."
@@ -1859,7 +1859,7 @@
     "explanation": "Khoảng tin cậy 95% cho chiều cao trung bình của sinh viên là (160,04; 161,4) [7]."
   },
   {
-    "question": "Điều tra nhịp mạch một nhóm sinh viên, ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?",
+    "question": "Điều tra nhịp mạch một nhóm sinh viên, ước lượng khoảng tin cậy nhịp mạch trung bình ở độ tin cậy 95% (nhịp mạch phân phối chuẩn)?<table class=\"table-qt\"><tr><th>HA (mmHg)</th><th>68</th><th>69</th><th>70</th><th>72</th><th>74</th><th>75</th><th>76</th><th>78</th><th>79</th><th>80</th></tr><tr><td>Số người</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>7</td><td>4</td><td>6</td><td>5</td></tr></table>",
     "answers": ["(72,6; 75,4)", "(72,5; 75,3)", "(72,4; 75,2)", "(72,9; 75,1)"],
     "correct": 3,
     "explanation": "Khoảng tin cậy 95% được xác định là (72,9; 75,1) [7]."
@@ -2401,7 +2401,7 @@
     "source_index": [3, 4]
   },
   {
-    "question": "Khối lượng bao gạo theo N(50; 0,01). Khách hàng phản ánh thiếu. Thanh tra cân 25 bao. Ý kiến khách hàng đúng không (α = 5%)?",
+    "question": "Khối lượng các bao gạo là biến ngẫu nhiên có phân phối chuẩn N(50; 0,01). Có nhiều ý kiến khách hàng phản ánh là khối lượng bị thiếu. Một nhóm thanh tra đã cân ngẫu nhiên 25 bao gạo trong kho, kết quả như sau :<table class=\"table-qt\"><tr><th>Khối lượng (kg)</th><th>48-48,5</th><th>48,5-49</th><th>49-49,5</th><th>49,5-50</th><th>50-50,5</th></tr><tr><td>Số bao</td><td>2</td><td>5</td><td>10</td><td>6</td><td>2</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2411,7 +2411,7 @@
     "source_index": 126
   },
   {
-    "question": "Lượng sữa bò trung bình 14kg/ngày. Nghi ngờ chăn nuôi kém làm giảm sữa, điều tra 25 con thấy trung bình 12,5kg (s=2,5). Kết luận với α = 5%?",
+    "question": "Trong điều kiện chăn nuôi bình thường, lượng sữa trung bình của 1 con bò là 14kg/ngày. Nghi ngờ điều kiện chăn nuôi kém đi làm cho lượng sữa giảm xuống, người ta điều tra ngẫu nhiên 25 con và tính được lượng sữa trung bình của 1 con trong 1 ngày là 12,5 và độ lệch tiêu chuẩn 2,5. Với mức ý nghĩa 5%. Hãy kết luận điều nghi ngờ nói trên. Giả thiết lượng sữa bò là 1 biến ngẫu nhiên có phân phối chuẩn.",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2421,7 +2421,7 @@
     "source_index": [4, 5]
   },
   {
-    "question": "Sức mua trung bình cũ là 25 ngàn. Kiểm tra 15 khách thấy trung bình 24 ngàn (s=2 ngàn). Sức mua thực sự giảm không (α = 5%)?",
+    "question": ". Một cửa hàng thực phẩm nhận thấy thời gian vừa qua trung bình một khách hàng mua 25 ngàn đồng thực phẩm trong ngày. Nay cửa hàng chọn ngẫu nhiên 15 khách hàng thấy trung bình một khách hàng mua 24 ngàn đồng trong ngày và độ lệch chuẩn mẫu hiệu chỉnh là 2 ngàn đồng. Với mức ý nghĩa là 5%, thử xem có phải sức mua của khách hàng hiện nay có thực sự giảm sút hay không.",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2431,7 +2431,7 @@
     "source_index": 127
   },
   {
-    "question": "Chi tiêu trung bình cũ 3,455 triệu (s=0,3). Có thể cho rằng chi tiêu ít hơn 3,5 triệu không (α = 5%)?",
+    "question": "ở vùng nông thôn người ta thu được kết quả về chi tiêu trung bình hàng tháng của các gia đình đó là 3,455 triệu đồng với độ lệch chuẩn là 0,3 triệu đồng. Với mức ý nghĩa 5% có thể cho rằng chi tiêu trung bình hàng tháng của các gia đình ít hơn 3,5 triệu hay không. Giả thiết mức chi tiêu có phân phối chuẩn.",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận giả thiết"
@@ -2441,7 +2441,7 @@
     "source_index": [5, 6]
   },
   {
-    "question": "Khối lượng gà cũ 3,3kg. Dùng thức ăn mới, cân 15 con. Kết luận về tác dụng của thức ăn mới với α = 5%?",
+    "question": ". Khối lượng trung bình khi xuất chuồng ở một trại chăn nuôi trước là 3,3kg/con. Năm nay người ta sử dụng một loại thức ăn mới, cân thử 15 con khi xuất chuồng ta được các số liệu như sau: 3,25; 2,50; 4,00; 3,75; 3,80; 3,90; 4,02; 3,60; 3,80; 3,20; 3,82; 3,40; 3,75; 4,00; 3,50 Giả thiết khối lượng gà là đại lượng ngẫu nhiên có phân phối theo quy luật chuẩn. Với mức ý nghĩa 5%. Hãy cho kết luận về tác dụng của loại thức ăn này ?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận giả thiết"
@@ -2451,7 +2451,7 @@
     "source_index": 128
   },
   {
-    "question": "Máy sản xuất chính phẩm 98%. Kiểm tra 500 sản phẩm thấy 28 phế phẩm. Chất lượng máy còn như cũ không (α = 5%)?",
+    "question": "Một máy sản xuất tự động với tỷ lệ chính phẩm 98%. Sau một thời gian hoạt động, người ta nghi ngờ tỷ lệ trên đã bị giảm. Kiểm tra ngẫu nhiên 500 sản phẩm thấy có 28 phế phẩm, với mức ý nghĩa 5%, hãy kiểm tra xem chất lượng làm việc của máy có còn được như trước hay không?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2461,7 +2461,7 @@
     "source_index": 129
   },
   {
-    "question": "Nguồn tin nói 80% hộ thích xem dân ca. Thăm dò 36 hộ thấy 25 hộ thích. Nguồn tin có đáng tin không (α = 5%)?",
+    "question": "Theo một nguồn tin thì tỉ lệ hộ dân thích xem dân ca trên Tivi là 80%. Thăm dò 36 hộ dân thấy có 25 hộ thích xem dân ca. Với mức có ý nghĩa là 5%. Kiểm định xem nguồn tin này có đáng tin cậy không?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2471,7 +2471,7 @@
     "source_index": [7, 8]
   },
   {
-    "question": "Tỷ lệ phế phẩm cũ là 5%. Áp dụng kỹ thuật mới, kiểm tra 800 sản phẩm thấy 24 phế phẩm. Kết luận về kỹ thuật mới (α = 1%)?",
+    "question": "Tỷ lệ phế phẩm của một nhà máy trước đây là 5%. Năm nay nhà máy áp dụng một biện pháp kỹ thuật mới. Để nghiên cứu tác dụng của biện pháp kỹ thuật mới, người ta lấy một mẫu gồm 800 sản phẩm để kiểm tra và thấy có 24 phế phẩm. Với mức ý nghĩa 1%. Hãy cho kết luận về biện pháp kỹ thuật mới này ?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2481,7 +2481,7 @@
     "source_index": 130
   },
   {
-    "question": "Máy đóng bao theo N(60; 0,04). Kiểm tra một số sản phẩm, máy hoạt động bình thường không (α = 5%)?",
+    "question": "Nếu máy đóng bao hoạt động bình thường thì khối lượng của một loại sản phẩm sản xuất ra là đại lượng ngẫu nhiên có phân phối theo quy luật chuẩn N(60; 0,04). Kiểm tra khối lượng của một số sản phẩm do máy sản xuất, ta được kết quả : 60; 60,2; 70; 60,8; 50,6 ;50,8; 50,9; 60,1; 50,3; 60,5; 60,1; 60,2; 60,3; 50,8; 60; 70 Với mức ý nghĩa 5%, hãy cho biết máy đóng bao hoạt động có bình thường hay không?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2491,7 +2491,7 @@
     "source_index": [8, 9]
   },
   {
-    "question": "Trồng cùng một giống lúa trên hai thửa ruộng bón hai loại phân khác nhau. Thửa 1 (n=1000, X=70, Sx=10), thửa 2 (n=500, Y=72, Sy=20). Số hạt trung bình mỗi bông lúa của hai thửa ruộng có như nhau hay không (α = 5%)?",
+    "question": "Trồng cùng một giống lúa trên hai thửa ruộng như nhau và bón hai loại phân khác nhau. Đến ngày thu hoạch ta có kết quả như sau : Thửa thứ nhất lấy mẫu 1000 bông lúa thấy số hạt trung bình của mỗi bông X ̅ =70  hạt và S_x= 10.  Thửa thứ hai lấy mẫu 500 bông thấy số hạt trung bình mỗi bông Y ̅ =72  hạt và S_y= 20. Hỏi số hạt trung bình mỗi bông lúa của hai thửa ruộng có như nhau hay không, với mức ý nghĩa 5%?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2501,7 +2501,7 @@
     "source_index": 131
   },
   {
-    "question": "Trong thập niên 80, khối lượng trung bình thanh niên là 50kg. Nay chọn 100 thanh niên có trung bình 52kg, S2=10kg2. Khối lượng thanh niên hiện nay có thay đổi không (α = 1%)?",
+    "question": "Trong thập niên 80, khối lượng trung bình của thanh niên là 50kg. Nay để xác định lại khối lượng ấy, người ta chọn ngẫu nhiên 100 thanh niên đo khối lượng trung bình là 52kg và phương sai mẫu hiệu chỉnh S^2=(10kg)^2 . Thử xem khối lượng thanh niên hiện nay phải chăng có thay đổi, với mức có ý nghĩa là 1%.",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2511,7 +2511,7 @@
     "source_index": 132
   },
   {
-    "question": "Tiến hành kiểm tra 200 hộp (quy cách 3 sản phẩm/hộp), có thể xem số sản phẩm loại I trong hộp tuân theo quy luật phân phối nhị thức không (α = 5%)?",
+    "question": "Sản phẩm được sản xuất ra trên một dây chuyền tự động được đóng gói một cách ngẫu nhiên theo qui cách: 3 sản phẩm/hộp. Tiến hành kiểm tra 200 hộp ta được kết quả. Với mức ý nghĩa 5%, có thể xem số sản phẩm loại I có trong hộp là đại lượng ngẫunhiên có quy luật phân phối nhị thức không?<table class=\"table-qt\"><tr><th>Số sản phẩm loại I có trong hộp</th><th>0</th><th>1</th><th>2</th><th>3</th></tr><tr><td>Số hộp</td><td>6</td><td>14</td><td>110</td><td>70</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2521,7 +2521,7 @@
     "source_index": 133
   },
   {
-    "question": "Nhà máy tuyên bố số lỗi in trong cuốn sách 300 trang tuân theo phân phối Poisson với µ= 4,7. Kiểm tra thực tế 300 trang của 50 máy, lời tuyên bố đúng không (α = 1%)?",
+    "question": "Một nhà máy sản xuất máy in nói rằng số lỗi in trong 1 cuốn sách dày 300 trang của máy in là 1 đại lượng ngẫu nhiên có quy luật phân phối Poisson với tham số µ= 4,7. Kiểm tra 300 trang sách in của 50 máy in cùng loại, ta được <table class=\"table-qt\"><tr><th>Số lỗi</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>&ge;9</th></tr><tr><td>Số máy</td><td>1</td><td>1</td><td>8</td><td>6</td><td>13</td><td>10</td><td>5</td><td>5</td><td>1</td><td>0</td></tr></table> Với mức ý nghĩa 1%, hỏi lời tuyên bố của nhà sản xuất có đúng không?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2531,7 +2531,7 @@
     "source_index": 133
   },
   {
-    "question": "Số con của 2000 phụ nữ dưới 25 tuổi được thống kê, có thể xem biến số này tuân theo luật Poisson hay không (α = 5%)?",
+    "question": "Số con của 2000 phụ nữ dưới 25 tuổi được thống kê, có thể xem biến số này tuân theo luật Poisson hay không (α = 5%)?<table class=\"table-qt\"><tr><th>Số con</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th></tr><tr><td>Số phụ nữ</td><td>1090</td><td>650</td><td>220</td><td>30</td><td>10</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2541,7 +2541,7 @@
     "source_index": 134
   },
   {
-    "question": "Kiểm tra 200 thùng đồ hộp, chứng tỏ rằng số hộp bị hỏng của một thùng là biến ngẫu nhiên tuân theo quy luật Poisson (α = 5%)?",
+    "question": "Kiểm tra 200 thùng đồ hộp, chứng tỏ rằng số hộp bị hỏng của một thùng là biến ngẫu nhiên tuân theo quy luật Poisson (α = 5%)?<table class=\"table-qt\"><tr><th>Số hộp</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th></tr><tr><td>Số thùng</td><td>116</td><td>56</td><td>22</td><td>4</td><td>2</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2551,7 +2551,7 @@
     "source_index": 134
   },
   {
-    "question": "Số tai nạn giao thông xảy ra mỗi ngày ở một thành phố có tuân theo quy luật Poisson không (α = 1%)?",
+    "question": "Số tai nạn giao thông xảy ra mỗi ngày ở một thành phố có tuân theo quy luật Poisson không (α = 1%)?<table class=\"table-qt\"><tr><th>Số tai nạn</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th></tr><tr><td>Số ngày</td><td>10</td><td>32</td><td>46</td><td>35</td><td>20</td><td>9</td><td>2</td><td>1</td><td>1</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2561,7 +2561,7 @@
     "source_index": 134
   },
   {
-    "question": "Năng suất lúa (X) thử nghiệm trên 100 lô đất, xét xem X có phân phối chuẩn không (α = 10%)?",
+    "question": "Năng suất lúa (X) thử nghiệm trên 100 lô đất, xét xem X có phân phối chuẩn không (α = 10%)?<table class=\"table-qt\"><tr><th>Năng suất (tấn/ha)</th><th>8-9</th><th>9-10</th><th>10-11</th><th>11-12</th><th>12-13</th><th>13-14</th><th>14-15</th></tr><tr><td>Số trường hợp</td><td>8</td><td>15</td><td>21</td><td>23</td><td>16</td><td>9</td><td>8</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2571,7 +2571,7 @@
     "source_index": 135
   },
   {
-    "question": "Kiểm định xem có sự khác biệt mức độ yêu thích các môn học định lượng giữa nhóm nam và nữ không (α = 5%)?",
+    "question": "Để nghiên cứu về mức độ yêu thích các môn học định lượng giữa 2 nhóm nam và nữ. Tiến hành nghiên cứu trên 1 nhóm nam và 1 nhóm nữ cho biết mức độ yêu thích 184 của họ đồi với các môn học định lượng trên thang điểm 10 (1 là hoàn toàn không thích, 10 là hoàn toàn thích). Kết quả nghiên cứu như sau:<table class=\"table-qt\"><tr><th>Nam</th><td>6</td><td>6</td><td>10</td><td>7</td><td>8</td><td>7</td><td>9</td><td>10</td><td>6</td><td>8</td><td>8</td><td>9</td></tr><tr><th>Nữ</th><td>7</td><td>9</td><td>5</td><td>6</td><td>5</td><td>9</td><td>8</td><td>4</td><td>8</td><td>8</td><td>7</td><td>10</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2581,7 +2581,7 @@
     "source_index": 136
   },
   {
-    "question": "Kiểm định xem có sự khác biệt trong chi tiêu mua sắm quần áo trong 1 năm cho bản thân giữa nam và nữ không (α = 5%)?",
+    "question": "Để nghiên cứu về sự khác biệt trong chi tiêu cho việc mua sắm quần áo cho bản thân giữa nam và nữ, người ta chọn khảo sát 1 nhóm phụ nữ và 1 nhóm nam giới về số tiền chi tiêu cho việc mua sắm quần áo trong 1 năm cho bản thân và kết quả khảo sát như sau: (đơn vị triệu đồng). Kiểm định xem có sự khác biệt trong chi tiêu cho việc mua sắm quần áo cho bản thân giữa nam và nữ, với mức ý nghĩa 5%.<table class=\"table-qt\"><tr><th>Nam</th><td>3</td><td>1,5</td><td>1</td><td>4</td><td>5</td><td>1,8</td><td>5</td><td>4</td><td>4,5</td><td>4</td><td>2,5</td></tr><tr><th>Nữ</th><td>1,5</td><td>4,5</td><td>5</td><td>2,4</td><td>2</td><td>3,5</td><td>2</td><td>3</td><td>1,5</td><td>5</td><td>2,5</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2591,7 +2591,7 @@
     "source_index": 136
   },
   {
-    "question": "Kiểm định xem có sự khác biệt trong chi tiêu hàng tháng giữa nhóm có người yêu và không có người yêu không (α = 5%)?",
+    "question": "Để nghiên cứu về sự khác biệt trong chi tiêu giữa nhóm có và không có người yêu, người ta chọn khảo sát 1 nhóm có người yêu và không có người yêu về số tiền chi tiêu hàng tháng và kết quả khảo sát như sau: (đơn vị triệu đồng). Kiểm định xem có sự khác biệt trong chi tiêu giữa nhóm có và không có người yêu, với mức ý nghĩa 5%.<table class=\"table-qt\"><tr><th>Có NY</th><td>3</td><td>1,5</td><td>2,4</td><td>3</td><td>2</td><td>1,8</td><td>2,4</td><td>4</td><td>4,5</td><td>4</td><td>2,5</td></tr><tr><th>Không NY</th><td>3,4</td><td>4,5</td><td>5</td><td>2,4</td><td>2</td><td>3,5</td><td>2</td><td>3</td><td>1,5</td><td>5</td><td>2,5</td></tr></table>",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
@@ -2637,7 +2637,7 @@
     "source_index": 138
   },
   {
-    "question": "Tỷ lệ phế phẩm cũ là 5%. Áp dụng kỹ thuật mới thấy 24 phế phẩm/800 sản phẩm. Nếu nhà máy báo cáo tỷ lệ phế phẩm mới là 2% thì có chấp nhận được không (α = 5%)?",
+    "question": "Tỷ lệ phế phẩm của một nhà máy trước đây là 5%. Năm nay nhà máy áp dụng một biện pháp kỹ thuật mới. Để nghiên cứu tác dụng của biện pháp kỹ thuật mới, người ta lấy một mẫu gồm 800 sản phẩm để kiểm tra và thấy có 24 phế phẩm. Nếu nhà máy báo cáo tỷ lệ phế phẩm sau khi áp dụng biện pháp kỹ thuật mới là 2% thì có chấp nhận được không, với mức ý nghĩa 5%?",
     "answers": [
       "Bác bỏ ý kiến",
       "Chấp nhận ý kiến"
