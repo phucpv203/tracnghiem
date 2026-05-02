@@ -230,7 +230,7 @@
     "explanation": "Sau khi lấy 1 bơm to, hộp còn 9 chiếc (5 to, 4 nhỏ). Xác suất lần 2 lấy bơm nhỏ là 4/9 ≈ 0,4 [7]."
   },
   {
-    "question": "Hộp 1 có 6 B1, 4 VitC. Hộp 2 có 8 B1, 2 VitC. Lấy mỗi hộp 1 viên. Tính xác suất cả 2 đều là VitC?",
+    "question": "Có 2 hộp đựng thuốc. Hộp thứ nhất có 6 viên thuốc B1 và 4 viên thuốc Vitamin C. Hộp thứ hai có 8 viên thuốc viên B1 và 2 viên thuốc Vitamin C. Từ mỗi hộp lấy ra một viên thuốc. Tình xác suất để lấy được ít nhất 1 viên thuốc Vitamin C?",
     "answers": [
       "0,06",
       "0,07",
@@ -241,7 +241,7 @@
     "explanation": "P = (4/10) * (2/10) = 0,08 [7, 8]."
   },
   {
-    "question": "Từ 2 hộp thuốc trên, tính xác suất lấy được ít nhất 1 viên VitC?",
+    "question": "Có 2 hộp đựng thuốc. Hộp thứ nhất có 6 viên thuốc B1 và 4 viên thuốc Vitamin C. Hộp thứ hai có 8 viên thuốc viên B1 và 2 viên thuốc Vitamin C. Từ mỗi hộp lấy ra một viên thuốc. Tình xác suất để lấy được ít nhất 1 viên thuốc Vitamin C?",
     "answers": [
       "0,50",
       "0,51",
@@ -280,19 +280,19 @@
     "explanation": "Áp dụng công thức xác suất đầy đủ: P = (1/6 * 0,7) + (1/3 * 0,8) + (1/2 * 0,2) = 0,4833... làm tròn thành 0,48."
   },
   {
-    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị ngộ độc?",
+    "question": "Số bệnh nhân vào cấp cứu trong 1 bệnh viện được chia làm 3 loại: loại bị ngộ độc chiếm 1/6 số bệnh nhân cấp cứu, loại bị bỏng chiếm 1/3 số bệnh nhân cấp cứu, loại bị tai nạn chiếm 1/2 số bệnh nhân cấp cứu. Số bệnh nhân được cứu sống do ngộ độc là 70%, số bệnh nhân được cứu sống do bỏng chiếm 80%, số bệnh nhân được cứu sống do tai nạn chiếm 20%. Rút ngẫu nhiên một bệnh án của một bệnh nhân được cứu sống. Tính xác suất để bệnh án đó là của bệnh nhân được cứu sống do bị ngộ độc?",
     "answers": ["0,23", "0,24", "0,25", "0,26"],
     "correct": 1,
     "explanation": "Áp dụng công thức Bayes: P = (1/6 * 0,7) / 0,48 ≈ 0,24."
   },
   {
-    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị bỏng?",
+    "question": ". Số bệnh nhân vào cấp cứu trong 1 bệnh viện được chia làm 3 loại: loại bị ngộ độc chiếm 1/6 số bệnh nhân cấp cứu, loại bị bỏng chiếm 1/3 số bệnh nhân cấp cứu, loại bị tai nạn chiếm 1/2 số bệnh nhân cấp cứu. Số bệnh nhân được cứu sống do ngộ độc là 70%, số bệnh nhân được cứu sống do bỏng chiếm 80%, số bệnh nhân được cứu sống do tai nạn chiếm 20%. Rút ngẫu nhiên một bệnh án của một bệnh nhân được cứu sống. Tính xác suất để bệnh án đó là của bệnh nhân được cứu sống do bị bỏng?",
     "answers": ["0,54", "0,55", "0,56", "0,57"],
     "correct": 1,
     "explanation": "Áp dụng công thức Bayes: P = (1/3 * 0,8) / 0,48 ≈ 0,55."
   },
   {
-    "question": "Từ dữ liệu câu 26, rút ngẫu nhiên một bệnh án của bệnh nhân được cứu sống. Tính xác suất bệnh nhân đó bị tai nạn?",
+    "question": "Trong một trạm cấp cứu bỏng có 80% bệnh nhân bỏng do nóng, 20% bệnh nhân bỏng do hóa chất. Loại bỏng do nóng có 30% bị biến chứng, loại bỏng do hóa chất có 50% bị biến chứng. Rút ngẫu nhiên được một bệnh án của một bệnh nhân bị biến chứng. Tính xác suất để bệnh án đó là của bệnh nhân bị biến chứng bỏng do nóng gây ra?",
     "answers": ["0,20", "0,21", "0,22", "0,23"],
     "correct": 1,
     "explanation": "Áp dụng công thức Bayes: P = (1/2 * 0,2) / 0,48 ≈ 0,21."
@@ -310,7 +310,7 @@
     "explanation": "P(Nóng|Biến chứng) = (0,8 * 0,3) / 0,34 ≈ 0,71."
   },
   {
-    "question": "Từ dữ liệu câu 30, rút ngẫu nhiên bệnh nhân bị biến chứng. Tính xác suất người đó bỏng do hóa chất?",
+    "question": "Trong một trạm cấp cứu bỏng có 80% bệnh nhân bỏng do nóng, 20% bệnh nhân bỏng do hóa chất. Loại bỏng do nóng có 30% bị biến chứng, loại bỏng do hóa chất có 50% bị biến chứng. Rút ngẫu nhiên được một bệnh án của một bệnh nhân bị biến chứng. Tính xác suất để bệnh án đó là của bệnh nhân bị biến chứng do hóa chất gây ra?",
     "answers": ["0,27", "0,28", "0,29", "0,30"],
     "correct": 2,
     "explanation": "P(Hóa chất|Biến chứng) = (0,2 * 0,5) / 0,34 ≈ 0,29."
@@ -322,7 +322,7 @@
     "explanation": "Chỉ hộp 3 (3 vỉ Pamin), hộp 4 (không tồn tại trong đề bài), hộp 5 (không tồn tại). Tính trên 3 hộp: P = 1/3 * (C3-3/C5-3) = 1/3 * 1/10 = 0,033."
   },
   {
-    "question": "Từ dữ liệu câu 33, tính xác suất lấy được đúng 2 vỉ Pamin?",
+    "question": "Có ba hộp đựng thuốc, mỗi hộp có 5 vỉ thuốc, trong hộp thứ i có i vỉ thuốc Pamin. Chọn ngẫu nhiên một hộp thuốc, từ đó lấy ngẫu nhiên 3 vỉ thuốc.Tính xác suất để lấy được 2 vỉ Pamin?",
     "answers": ["0,30", "0,31", "0,32", "0,33"],
     "correct": 0,
     "explanation": "P = 1/3 * [(C2-2*C3-1/C5-3) + (C3-2*C2-1/C5-3)] = 1/3 * (3/10 + 6/10) = 0,3."
@@ -334,37 +334,37 @@
     "explanation": "P = (0,5 * 0,85) + (0,3 * 0,9) + (0,2 * 0,95) = 0,425 + 0,27 + 0,19 = 0,885 (làm tròn 0,89)."
   },
   {
-    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 1?",
+    "question": "Điều trị bằng phương pháp 1, phương pháp 2 và phương pháp 3 cho lần lượt 5000, 3000, 2000 bệnh nhân. Xác suất khỏi bệnh của các phương pháp 1, 2, 3 lần lượt bằng 0,85; 0,9 và 0,95. Điều trị một trong 3 phương pháp cho bệnh nhân đã khỏi, tính tỷ lệ điều trị bởi phương pháp 1?",
     "answers": ["0,47", "0,48", "0,49", "0,50"],
     "correct": 1,
     "explanation": "P = (0,5 * 0,85) / 0,885 ≈ 0,48."
   },
   {
-    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 2?",
+    "question": "Điều trị bằng phương pháp 1, phương pháp 2 và phương pháp 3 cho lần lượt 5000, 3000, 2000 bệnh nhân. Xác suất khỏi bệnh của các phương pháp 1, 2, 3 lần lượt bằng 0,85; 0,9 và 0,95. Điều trị một trong 3 phương pháp cho bệnh nhân đã khỏi, Tính tỷ lệ điều trị bởi phương pháp 2?",
     "answers": ["0,30", "0,31", "0,32", "0,33"],
     "correct": 1,
     "explanation": "P = (0,3 * 0,9) / 0,885 ≈ 0,31."
   },
   {
-    "question": "Từ dữ liệu câu 35, gặp một người đã khỏi, tính tỷ lệ người đó điều trị bởi phương pháp 3?",
+    "question": "Điều trị bằng phương pháp 1, phương pháp 2 và phương pháp 3 cho lần lượt 5000, 3000, 2000 bệnh nhân. Xác suất khỏi bệnh của các phương pháp 1, 2, 3 lần lượt bằng 0,85; 0,9 và 0,95. Điều trị một trong 3 phương pháp cho bệnh nhân đã khỏi, tính tỷ lệ điều trị bởi phương pháp 3?",
     "answers": ["0,21", "0,22", "0,23", "0,24"],
     "correct": 1,
     "explanation": "P = (0,2 * 0,95) / 0,885 ≈ 0,22."
   },
   {
-    "question": "Tỷ lệ bệnh Chàm là 0,005. Phản ứng dương tính: 90% nếu bệnh, 5% nếu không bệnh. Tính xác suất dương tính chung của phản ứng?",
+    "question": "Tỷ lệ bệnh Chàm tại một địa phương là 0,005. Dùng một phản ứng giúp chẩn đoán, nếu người bị bệnh thì phản ứng dương tính 90%, nếu người không bị bệnh thì phản ứng dương tính 5%.Tính xác suất dương tính của phản ứng?",
     "answers": ["0,03", "0,04", "0,05", "0,06"],
     "correct": 2,
     "explanation": "P(+) = (0,005 * 0,9) + (0,995 * 0,05) = 0,0045 + 0,04975 = 0,05425 ≈ 0,05."
   },
   {
-    "question": "Từ dữ liệu câu 39, một người dương tính, tính xác suất người đó thực sự bị bệnh?",
+    "question": "Tỷ lệ bệnh Chàm tại một địa phương là 0,005. Dùng một phản ứng giúp chẩn đoán, nếu người bị bệnh thì phản ứng dương tính 90%, nếu người không bị bệnh thì phản ứng dương tính 5%.Một người làm phản ứng thấy dương tính, tính xác suất sao cho đó là người bị bệnh?",
     "answers": ["0,06", "0,07", "0,08", "0,09"],
     "correct": 2,
     "explanation": "P(Bệnh|+) = (0,005 * 0,9) / 0,05425 ≈ 0,08."
   },
   {
-    "question": "Từ dữ liệu câu 39, tính xác suất chẩn đoán đúng của phản ứng?",
+    "question": "Tỷ lệ bệnh Chàm tại một địa phương là 0,005. Dùng một phản ứng giúp chẩn đoán, nếu người bị bệnh thì phản ứng dương tính 90%, nếu người không bị bệnh thì phản ứng dương tính 5%.Tính xác suất chẩn đoán đúng của phản ứng?",
     "answers": ["0,93", "0,94", "0,95", "0,96"],
     "correct": 2,
     "explanation": "P(Đúng) = P(Bệnh)*P(+|Bệnh) + P(Không bệnh)*P(-|Không bệnh) = 0,0045 + 0,995*0,95 ≈ 0,95."
@@ -382,13 +382,13 @@
     "explanation": "Độ nhạy P(+|Bệnh) = P(Bệnh|+)*P(+) / P(Bệnh) = (0,2 * 0,2) / 0,05 = 0,8."
   },
   {
-    "question": "Từ dữ liệu câu 42, tính độ đặc hiệu của phản ứng?",
+    "question": ". Tỷ lệ bệnh A tại một địa phương là 0,05. Dùng một phản ứng giúp chẩn đoán, nếu phản ứng dương tính thì bị bệnh là 20%, nếu phản ứng âm tính thì bị bệnh là 1,25%. Tính độ đặc hiệu của phản ứng?",
     "answers": ["0,81", "0,82", "0,83", "0,84"],
     "correct": 2,
     "explanation": "Độ đặc hiệu P(-|Không bệnh) = P(Không bệnh|-)*P(-) / P(Không bệnh) = (1 - 0,0125)*0,8 / 0,95 ≈ 0,83."
   },
   {
-    "question": "Từ dữ liệu câu 42, tính xác suất sai của phản ứng?",
+    "question": "Tỷ lệ bệnh A tại một địa phương là 0,05. Dùng một phản ứng giúp chẩn đoán, nếu phản ứng dương tính thì bị bệnh là 20%, nếu phản ứng âm tính thì bị bệnh là 1,25%. Tính xác suất sai của phản ứng?",
     "answers": ["0,15", "0,16", "0,17", "0,18"],
     "correct": 2,
     "explanation": "P(Sai) = 1 - P(Đúng). P(Đúng) = P(Bệnh)*Độ nhạy + P(Khỏe)*Độ đặc hiệu = 0,05*0,8 + 0,95*0,83 = 0,04 + 0,7885 = 0,8285. P(Sai) ≈ 0,17."
@@ -400,7 +400,7 @@
     "explanation": "Áp dụng công thức xác suất đầy đủ: P(+) = P(B).P(+|B) + P(KB).P(+|KB). Thay số: 0,132 = 0,04 * 0,9 + 0,96 * x => x = 0,1."
   },
   {
-    "question": "Dựa trên dữ liệu câu 46, một người làm phản ứng thấy âm tính. Tính xác suất sao cho người đó bị bệnh?",
+    "question": "Tại một phòng khám đa khoa người ta theo dõi thấy tỷ lệ người bị bệnh X là 0,04. Dùng một phản ứng giúp chẩn đoán bệnh thì thấy tỷ lệ dương tính là 0,132; và tỷ lệ dương tính trong những người bị bệnh là 90%.Một người làm phản ứng thấy âm tính.Tính xác suất sao cho người đó bị bệnh?",
     "answers": ["0,0045", "0,0046", "0,0047", "0,0048"],
     "correct": 1,
     "explanation": "Sử dụng công thức Bayes: P(B|-) = [P(B).P(-|B)] / P(-). Trong đó P(-) = 1 - 0,132 = 0,868 và P(-|B) = 1 - 0,9 = 0,1."
@@ -412,7 +412,7 @@
     "explanation": "Xác suất lấy lần lượt không hoàn lại: P = (10/100) * (9/99) * (8/98) ≈ 0,0007."
   },
   {
-    "question": "Từ dữ liệu câu 48, tính xác suất lấy được đúng 2 ống Atropin?",
+    "question": "Trong một hộp thuốc cấp cứu có 100 ống thuốc tiêm, trong đó có 10 ống Atropin. Lấy ngẫu nhiên lần lượt 3 ống thuốc.Tính xác suất sao cho lấy được đúng 2 ống Atropin?",
     "answers": ["0,025", "0,026", "0,027", "0,028"],
     "correct": 0,
     "explanation": "Sử dụng tổ hợp: P = [C(10,2) * C(90,1)] / C(100,3) ≈ 0,025."
