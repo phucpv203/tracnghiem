@@ -62,7 +62,7 @@ h1 {
 .table-qt {
     border-collapse: collapse;
     margin: 10px auto;
-    font-size: 2vw;
+    font-size: 80%;
 }
 
 .table-qt th,
