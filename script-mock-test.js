@@ -45,7 +45,9 @@ window.addEventListener('DOMContentLoaded', () => {
    sinhhoc:'Chính trị DS',
    XSTK:'XSTK',
    gpsl:'GPSL',
-   phapluat:'Pháp Luật'
+   phapluat:'Pháp Luật',
+   sinhlybenh:'Sinh lý bệnh',
+   benhhoc:'Bệnh học'
   };
 
   if (subjectNameEl) {

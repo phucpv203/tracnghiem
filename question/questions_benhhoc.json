@@ -1,0 +1,2250 @@
+[
+  {
+    "question": "Viêm phổi là hiện tượng viêm cấp tính của nhu mô phổi bao gồm viêm phế nang, túi phế nang, ống phế nang, tổ chức kể và tiểu phế quản tận nguyên nhân do vi khuẩn, vius, ký sinh vật không phải do trực khuẩn lao",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Viêm phổi là tình trạng viêm cấp tính của nhu mô phổi do nhiều tác nhân gây ra ngoại trừ trực khuẩn lao."
+  },
+  {
+    "question": "Viêm phổi là hiện tượng viêm cấp tính của nhu mô phổi bao gồm viêm phế quản lớn, túi phế nang, ống phế nang, tổ chức kể và tiểu phế quản tận nguyên nhân do vi khuẩn, vius, ký sinh vật không phải do trực khuẩn lao",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Viêm phổi chủ yếu liên quan đến nhu mô phổi và tiểu phế quản tận, không phải phế quản lớn."
+  },
+  {
+    "question": "Viêm phổi thùy thường do phế cầu, xẩy ra đột ngột ở người khỏe mạnh",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Viêm phổi thùy thường do phế cầu khuẩn và có thể khởi phát đột ngột ở người khỏe mạnh."
+  },
+  {
+    "question": "Viêm phổi thùy thường do phế cầu, xẩy ra đột ngột ở người già, suy giảm miễn dịch, nghiện rượu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đối tượng người già hoặc suy giảm miễn dịch thường gặp viêm phế quản phổi hơn viêm phổi thùy điển hình."
+  },
+  {
+    "question": "Triệu chứng lâm sàng viêm phế quản phổi ở người già, người nghiện rượu có thể lú lẫn. Triệu chứng thường không rầm rộ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ở người già hoặc nghiện rượu, triệu chứng viêm phế quản phổi thường kín đáo và có thể có lú lẫn."
+  },
+  {
+    "question": "Suy tim là trạng thái bệnh lý trong đó cung lượng tim không đủ đáp ứng nhu cầu cơ thể về mặt oxy trong mọi tình huống sinh hoạt của bệnh nhân",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đây là định nghĩa cơ bản của suy tim."
+  },
+  {
+    "question": "Suy tim là trạng thái bệnh lý trong đó cung lượng đáp ứng nhu cầu cơ thể về mặt oxy trong mọi tình huống sinh hoạt của bệnh nhân",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong suy tim, cung lượng tim không đáp ứng đủ nhu cầu oxy của cơ thể."
+  },
+  {
+    "question": "Khó thở trong suy tim trái: là triệu chứng thường gặp nhất. Lúc đầu khó thở khi gắng sức, về sau khó thở thường xuyên, phải ngồi đậy để thở. Có khi khó thở thành cơn kịch phát như cơn hen tim, phù phổi cấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Khó thở là triệu chứng điển hình và thường gặp nhất trong suy tim trái."
+  },
+  {
+    "question": "Khó thở trong suy tim phải: là triệu chứng thường gặp nhất. Lúc đầu khó thở khi gắng sức, về sau khó thở thường xuyên, phải ngồi đậy để thở. Có khi khó thở thành cơn kịch phát như cơn hen tim, phù phổi cấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Khó thở kịch phát và phù phổi cấp thường đặc trưng cho suy tim trái."
+  },
+  {
+    "question": "Khó thở trong suy tim phải: ít hoặc nhiều, khó thở thường xuyên, ngày một nặng dần và không có cơn khó thở kịch phát như cơn hen tim, phù phổi cấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Suy tim phải thường gây khó thở tăng dần nhưng ít có cơn hen tim hoặc phù phổi cấp."
+  },
+  {
+    "question": "Khó thở trong suy tim trái: ít hoặc nhiều, khó thở thường xuyên, ngày một nặng dần và không có cơn khó thở kịch phát như cơn hen tim, phù phổi cấp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Suy tim trái có thể xuất hiện cơn hen tim hoặc phù phổi cấp."
+  },
+  {
+    "question": "Bệnh loét dạ dày-tá tràng là một bệnh khá phổ biến ở nước ta cũng như trên thế giới. Loét tá tràng thường gặp gấp 4 lần loét dạ dày, thường là lành tính",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Loét tá tràng phổ biến hơn loét dạ dày và đa số là lành tính."
+  },
+  {
+    "question": "Bệnh loét dạ dày-tá tràng là một bệnh khá phổ biến ở nước ta cũng như trên thế giới. Loét tá tràng ít gặp hơn loét dạ dày, thường là lành tính",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Loét tá tràng thường gặp nhiều hơn loét dạ dày."
+  },
+  {
+    "question": "Loét dạ dày ít gặp hơn, một số trường hợp diễn biến đến ác tính",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Một số ổ loét dạ dày có nguy cơ ác tính hóa."
+  },
+  {
+    "question": "Nhiều giả thuyết được đưa ra để cắt nghĩa cơ chế bệnh sinh của loét dạ dày- tá tràng. Thuyết được nhiều người công nhận nhất hiện nay là sự mất cân bằng giữa hai yếu tố gây loét và yếu tố bảo vệ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mất cân bằng giữa yếu tố tấn công và bảo vệ là cơ chế bệnh sinh được công nhận rộng rãi."
+  },
+  {
+    "question": "Đau bụng trong loét dạ dày - tá tràng: Đau bụng vùng thượng vị, đau âm ỉ, hoặc bỏng rát, hoặc đau quặn xoắn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đau vùng thượng vị là triệu chứng điển hình của loét dạ dày - tá tràng."
+  },
+  {
+    "question": "Đau bụng trong loét dạ dày - tá tràng: Đau bụng vùng hạ sườn trái, đau âm ỉ, hoặc bỏng rát, hoặc đau quặn xoắn",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đau loét dạ dày - tá tràng thường khu trú ở vùng thượng vị."
+  },
+  {
+    "question": "Đau bụng trong loét dạ dày-tá tràng: Đau theo nhịp bữa ăn, đau khi đói, ăn vào đỡ đau gặp trong loét hành tá tràng. Đau xuất hiện vài giờ sau ăn gặp trong loét dạ dày",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Loét hành tá tràng thường đau khi đói và giảm sau ăn."
+  },
+  {
+    "question": "Đau bụng trong loét dạ dày-tá tràng: Đau theo nhịp bữa ăn, đau khi đói, ăn vào đỡ đau gặp trong loét loét dạ dày. Đau xuất hiện vài giờ sau ăn gặp trong loét hành tá tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đặc điểm đau của loét dạ dày và loét tá tràng đã bị đảo ngược trong phát biểu này."
+  },
+  {
+    "question": "Loét dạ dày – tá tràng là tình trạng loét niêm mạc, dưới niêm mạc và cơ dạ dày - tá tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ổ loét dạ dày - tá tràng ăn sâu qua lớp niêm mạc và có thể đến lớp cơ."
+  },
+   {
+    "question": "Đau bụng ở vùng thượng vị là triệu chứng chính và quan trọng nhất của bệnh loét dạ dày- tá tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đau vùng thượng vị là triệu chứng điển hình và quan trọng nhất của loét dạ dày - tá tràng."
+  },
+  {
+    "question": "Nội soi ống mềm thực quản, dạ dày, tá tràng là phương tiện có giá trị nhất chẩn đoán loét dạ dày tá tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nội soi giúp quan sát trực tiếp tổn thương và là phương pháp chẩn đoán chính xác nhất."
+  },
+  {
+    "question": "Xuất huyết tiêu hoá cao không phải là biến chứng hay gặp nhất của loét dạ dày tá tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Xuất huyết tiêu hóa cao là biến chứng thường gặp nhất của loét dạ dày - tá tràng."
+  },
+  {
+    "question": "Điều trị loét dạ dày - tá tràng bao gồm chế độ ăn uống, nghỉ ngơi hợp lý, Omeprazol, Sucrafate.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Điều trị bao gồm thay đổi lối sống kết hợp thuốc giảm tiết acid và bảo vệ niêm mạc dạ dày."
+  },
+  {
+    "question": "Chấn thương sọ não kín là một cấp cứu ngoại khoa thường gặp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chấn thương sọ não kín là tình trạng cấp cứu ngoại khoa phổ biến trong tai nạn."
+  },
+  {
+    "question": "Trong trường hợp chấn động não người bệnh nhức đầu, chóng mặt sau 3 đến 5 ngày các triệu chứng sẽ hết không để lại di chứng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Một số trường hợp chấn động não có thể để lại di chứng hoặc kéo dài triệu chứng."
+  },
+  {
+    "question": "Thể giập não nhẹ bệnh nhân mê sau chấn thương, rồi tỉnh lại dần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giập não nhẹ có thể gây mê tạm thời rồi người bệnh hồi tỉnh dần."
+  },
+  {
+    "question": "Trường hợp máu tụ trong sọ có 2 khả năng đó là: máu tụ ngoài màng cứng và máu tụ dưới màng cứng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Ngoài máu tụ ngoài và dưới màng cứng còn có máu tụ trong não."
+  },
+  {
+    "question": "Trong các thể máu tụ trong sọ trong chấn thương sọ não thì máu tụ ngoài màng cứng là thể hay gặp nhất.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Máu tụ ngoài màng cứng là dạng thường gặp trong chấn thương sọ não."
+  },
+  {
+    "question": "Khi bệnh nhân đang bị mê phải đặt nằm đầu nghiêng đề phòng lưỡi bị tụt, hoặc dịch trong dạ dày nôn ra trào ngược vào đường thở.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tư thế nằm nghiêng giúp bảo vệ đường thở và tránh sặc."
+  },
+  {
+    "question": "Trong chấn thương sọ não chụp CT scanner sọ não là cận lâm sàng quang trọng nhất",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "CT scanner sọ não giúp phát hiện nhanh tổn thương và máu tụ trong sọ."
+  },
+  {
+    "question": "Để theo dõi tri giác người bệnh ta đánh giá dựa trên thang điểm Glasgow",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thang điểm Glasgow được dùng phổ biến để đánh giá tri giác."
+  },
+  {
+    "question": "Thang điểm Glasgow dựa vào 3 tiêu chí ( Mắt: 5điểm, vận động:6điểm, Trả lời 4 điểm)",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Glasgow gồm: mở mắt 4 điểm, vận động 6 điểm và lời nói 5 điểm."
+  },
+  {
+    "question": "Nguyên nhân dẫn đến viêm ruột thừa cấp là: do nhiễm khuẩn, do giun chui vào, do co thắt mạch máu nuôi dưỡng ruột thừa, do rối loạn chuyển hóa",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Nguyên nhân chính thường do tắc lòng ruột thừa, không phải rối loạn chuyển hóa."
+  },
+  {
+    "question": "Ấn điểm Mác –Burney (+) là triệu chứng thực thể quan trọng nhất để chẩn đoán viêm ruột thừa",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Điểm McBurney quan trọng nhưng không phải dấu hiệu duy nhất để chẩn đoán."
+  },
+  {
+    "question": "Trong bệnh viêm ruột thừa bệnh nhân thường đau bụng phía bên phải ổ bụng, nhất là vùng hạ sườn phải",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đau thường khu trú ở hố chậu phải, không phải hạ sườn phải."
+  },
+  {
+    "question": "Bệnh viêm ruột thừa nếu không được chẩn đoán và điều trị sớm sẽ có 3 biến chứng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Viêm ruột thừa có thể gây viêm phúc mạc, áp xe và đám quánh ruột thừa."
+  },
+  {
+    "question": "Sốc trong thủng dạ dày – tá tràng chỉ gặp ở giai đoạn người bệnh đến muộn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Sốc có thể xuất hiện sớm tùy mức độ thủng và tình trạng người bệnh."
+  },
+  {
+    "question": "Đối với thủng dạ dày đến sớm, nắn bụng người bệnh mềm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thủng dạ dày thường gây co cứng thành bụng ngay từ sớm."
+  },
+   {
+    "question": "Loét dạ dày - tá tràng là nguyên nhân của thủng dạ dày –tá tràng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Loét dạ dày - tá tràng là nguyên nhân thường gặp gây thủng dạ dày - tá tràng."
+  },
+  {
+    "question": "Trong thủng dạ dày –tá tràng khám gõ vùng đục trước gan không mất",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trong thủng dạ dày có hơi tự do ổ bụng nên vùng đục trước gan thường mất."
+  },
+  {
+    "question": "Thủng dạy dày gặp ở nam nhiều hơn nữ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bệnh thủng dạ dày thường gặp ở nam giới nhiều hơn nữ giới."
+  },
+  {
+    "question": "Trong bệnh thủng dạ dày bệnh nhân thường đau đột ngột, dữ dội vùng hạ sườn phải",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đau thường xuất hiện đột ngột ở vùng thượng vị, không phải hạ sườn phải."
+  },
+  {
+    "question": "Sờ nắn bụng khi thăm khám bệnh nhân thủng dạ dày có phản ứng thành bụng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thủng dạ dày thường gây co cứng thành bụng hơn là chỉ phản ứng thành bụng đơn thuần."
+  },
+  {
+    "question": "Viêm ruột thừa cấp gặp ở mọi lứa tuổi, hay gặp ở tuổi vị thành niên và người trưởng thành.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Viêm ruột thừa cấp có thể gặp mọi lứa tuổi nhưng phổ biến ở thanh thiếu niên và người trưởng thành."
+  },
+  {
+    "question": "Bệnh viêm ruột thừa cấp chỉ có một cách điều trị duy nhất là phẫu thuật.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phẫu thuật cắt ruột thừa là phương pháp điều trị chính của viêm ruột thừa cấp."
+  },
+  {
+    "question": "Người bệnh viêm ruột thừa cấp thường có sốt nhẹ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sốt nhẹ là triệu chứng thường gặp trong viêm ruột thừa cấp."
+  },
+  {
+    "question": "Điểm Mac-Burney trong viêm ruột thừa cấp: là điểm giữa của đường nối từ gai chậu tới rốn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Điểm McBurney nằm ở 1/3 ngoài đường nối gai chậu trước trên phải với rốn."
+  },
+  {
+    "question": "Trong bệnh viêm ruột thừa cấp khi làm siêu âm thấy đường kính ruột thừa to hơn bình thường.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Ruột thừa viêm thường có đường kính tăng trên siêu âm."
+  },
+  {
+    "question": "Bệnh viêm ruột thừa cấp nếu không được chẩn đoán sớm, phẫu thuật sớm sẽ không có những biến chứng nguy hiểm thậm chí tử vong.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Viêm ruột thừa cấp có thể gây biến chứng nặng và tử vong nếu điều trị muộn."
+  },
+  {
+    "question": "Sỏi thận là một bệnh thường gặp, chiếm khoảng 45% trong tổng số bệnh sỏi đường tiết niệu.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sỏi thận là loại thường gặp trong các bệnh sỏi tiết niệu."
+  },
+  {
+    "question": "Sỏi thận do nhiều nguyên nhân phối hợp, nó gây ra biến chứng nguy hại cho bệnh nhân.",
+    "answers": ["Dúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sỏi thận có nhiều nguyên nhân và có thể gây suy thận, nhiễm khuẩn tiết niệu."
+  },
+  {
+    "question": "Triệu chứng cơ năng quan trọng nhất của sỏi thận là đái ra máu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đau quặn thận là triệu chứng cơ năng quan trọng và điển hình hơn."
+  },
+  {
+    "question": "Khi thận to khám thấy dấu hiệu chạm thận, bập bềnh thận (+)",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thận to có thể xuất hiện dấu hiệu chạm thận và bập bềnh thận."
+  },
+  {
+    "question": "Trong điều trị sỏi thận chế độ ăn uống của người bệnh cần hạn chế các thức ăn giàu canxi và uống ít nước.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Người bệnh sỏi thận cần uống nhiều nước để hạn chế tạo sỏi."
+  },
+  {
+    "question": "lả ra máu tươi là triệu chứng hay gặp của trĩ",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chảy máu tươi khi đại tiện là triệu chứng thường gặp của bệnh trĩ."
+  },
+  {
+    "question": "Trĩ ngoại: nằm ở khoang dưới nêm mạc trên đường lược, có nguồn gốc từ động mạch trực tràng trên",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trĩ ngoại nằm dưới đường lược và có nguồn gốc từ tĩnh mạch trực tràng dưới."
+  },
+  {
+    "question": "Trĩ nội: nằm ở khoang cạnh hậu môn, dưới da, dưới đường lược, có nguồn gốc từ mạch trực tràng dưới.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trĩ nội nằm trên đường lược và xuất phát từ đám rối tĩnh mạch trực tràng trên."
+  },
+  {
+    "question": "Đối với bệnh nhân trĩ cần ăn những chất dễ tiêu tránh táo bón.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Chế độ ăn nhiều chất xơ giúp hạn chế táo bón và giảm triệu chứng trĩ."
+  },
+  {
+    "question": "Trĩ là tình trạng giãn tĩnh mạch ở hậu môn và trực tràng",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Trĩ là hiện tượng giãn các đám rối tĩnh mạch vùng hậu môn trực tràng."
+  },
+  {
+    "question": "Gãy kín là ổ gãy không thông với bên ngoài",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Gãy kín là gãy xương không có vết thương thông ra ngoài."
+  },
+  {
+    "question": "Trong gãy xương bất động quá lâu dẫn đến teo cơ cứng khớp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Bất động kéo dài có thể gây teo cơ và cứng khớp."
+  },
+  {
+    "question": "Gãy xương hở có nguy cơ viêm xương",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Gãy xương hở dễ nhiễm khuẩn dẫn đến viêm xương."
+  },
+  {
+    "question": "Biến dạng trục chi là triệu chứng chắc chắn của gãy xương",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Biến dạng trục chi là dấu hiệu quan trọng gợi ý gãy xương."
+  },
+  {
+    "question": "Biến chứng của gãy xương là teo cơ cứng khớp",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Teo cơ và cứng khớp là biến chứng thường gặp sau gãy xương."
+  },
+  {
+    "question": "Cơn co giật trong bệnh uốn ván có thể xuất hiện khi hoàn toàn không có các yếu tố kích thích.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Co giật trong uốn ván có thể tự xuất hiện hoặc do kích thích."
+  },
+  {
+    "question": "Các xét nghiệm cận lâm sàng có giá trị rất quan trọng trong chẩn đoán bệnh uốn ván.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chẩn đoán uốn ván chủ yếu dựa vào triệu chứng lâm sàng."
+  },
+  {
+    "question": "Chó có biểu hiện bệnh dại luôn luôn ở trạng thái kích động, chạy rỗng ngoài đường, cắn lung tung bất cứ người hay vật gì gặp phải.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Không phải mọi chó dại đều ở thể kích động, có thể có thể liệt."
+  },
+  {
+    "question": "Chẩn đoán người bị chó cắn có mắc bệnh dại có thể thực hiện sớm ngay sau khi có chó đã cắn người bệnh chết sau đó dưới 10 ngày.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Không thể chẩn đoán bệnh dại ở người ngay lập tức chỉ dựa vào việc chó chết."
+  },
+  {
+    "question": "Bệnh thuỷ đậu thường xảy ra cuối xuân, đầu hè, cao điểm là vào tháng 6-7",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thủy đậu thường gặp nhiều vào mùa đông xuân."
+  },
+  {
+    "question": "Các biến chứng thường gặp của bệnh thuỷ đậu là nhiễm trùng da, viêm phổi, viêm hạch",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Thuỷ đậu có thể gây nhiễm trùng da, viêm phổi và viêm hạch."
+  },
+  {
+    "question": "Tác nhân gây nhiễm trùng da thường gặp trong bệnh thuỷ đậu là Liên cầu và Tụ cầu vàng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Liên cầu và tụ cầu vàng là các vi khuẩn thường gây bội nhiễm da trong thuỷ đậu."
+  },
+  {
+    "question": "Biện pháp phòng bệnh thuỷ đậu tốt nhất là cách ly bệnh nhân.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tiêm vắc xin là biện pháp phòng bệnh thuỷ đậu hiệu quả nhất."
+  },
+  {
+    "question": "Các vụ dịch cúm xuất hiện không theo chu kỳ rõ ràng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Dịch cúm có thể xuất hiện thất thường và không theo chu kỳ cố định."
+  },
+  {
+    "question": "Đặc điểm của cúm ác tính là hội chứng suy hô hấp cấp và thường gặp ở những người không được điều trị sớm bằng thuốc kháng virus.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Cúm ác tính không chỉ phụ thuộc vào việc điều trị kháng virus muộn."
+  },
+  {
+    "question": "Những đối tượng có nguy cơ biến chứng nặng khi bị cúm là người lớn tuổi, bị suy hô hấp mạn tính, suy giảm miễn dịch...",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Người cao tuổi và người có bệnh nền dễ gặp biến chứng nặng khi mắc cúm."
+  },
+  {
+    "question": "Có thể dùng Paracetamol và Aspirin để hạ nhiệt cho bệnh nhân cúm khi nhiệt độ tăng trên 38 độ C.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Không nên dùng Aspirin cho trẻ em mắc cúm do nguy cơ hội chứng Reye."
+  },
+  {
+    "question": "Các biện pháp để phòng bệnh viêm gan vi rút B cấp là sử dụng syringe và kim tiêm 1 lần",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Sử dụng kim tiêm một lần giúp phòng lây nhiễm viêm gan B."
+  },
+  {
+    "question": "Biện pháp chung để phòng bệnh viêm gan vi rút B cấp là an toàn trong truyền máu",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đảm bảo an toàn truyền máu là biện pháp quan trọng phòng viêm gan B."
+  },
+  {
+    "question": "Dự phòng đặc hiệu chống viêm gan vi rút cấp là tiêm phòng bằng vắc xin",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tiêm vắc xin là biện pháp dự phòng đặc hiệu hiệu quả."
+  },
+  {
+    "question": "Dự phòng đặc hiệu chống viêm gan vi rút cấp là an toàn thực phẩm, giáo dục thói quen vệ sinh",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Đây là biện pháp dự phòng chung, không phải dự phòng đặc hiệu."
+  },
+  {
+    "question": "Biện pháp phòng bệnh viêm gan vi rút B truyền từ mẹ sang con là tiêm chủng vắc xin cho phụ nữ hàng loạt",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Tiêm phòng giúp giảm nguy cơ lây truyền viêm gan B."
+  },
+  {
+    "question": "Giun đũa là loài giun có kích thước lớn nhất trong các loài giun ký sinh ở người.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giun đũa là loài giun ký sinh đường ruột có kích thước lớn."
+  },
+  {
+    "question": "Người bị nhiễm giun do nuốt phải trứng giun đũa có ấu trùng giun có trong thức ăn, thức uống.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nhiễm giun đũa xảy ra khi nuốt phải trứng có ấu trùng."
+  },
+  {
+    "question": "Chẩn đoán xác định trên lâm sàng người bị nhiễm bệnh giun đũa khi người bệnh nôn ra giun.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Nôn ra giun là dấu hiệu xác định nhiễm giun đũa."
+  },
+  {
+    "question": "Tỷ lệ nhiễm giun đũa ở người lớn cao hơn ở trẻ em",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Trẻ em thường có tỷ lệ nhiễm giun đũa cao hơn người lớn."
+  },
+  {
+    "question": "Tỷ lệ nhiễm giun đũa ở nông thôn cao hơn ở thành phố",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Điều kiện vệ sinh ở nông thôn làm tăng nguy cơ nhiễm giun đũa."
+  },
+  {
+    "question": "Từ tuần thứ 3 đến tuần thứ 8 giun đũa trưởng thành chưa đẻ trứng do đó xét nghiệm tìm trứng giun trong phân âm tính",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Giai đoạn đầu giun chưa sinh sản nên chưa có trứng trong phân."
+  },
+  {
+    "question": "Yếu tố dịch tễ thuận lợi cho sự tăng tỉ lệ nhiễm giun móc là thói quen đi chân đất của người dân.",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Ấu trùng giun móc có thể xuyên qua da bàn chân."
+  },
+  {
+    "question": "Khả năng gây tiêu hao máu ký chủ của mỗi giun trong ngày: Giun móc 0,2ml máu/con/ngày, giun mở: 0,02ml máu/con/ngày",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Giun móc gây mất máu nhiều hơn giun mỏ."
+  },
+  {
+    "question": "Nghề nghiệp có nguy cơ nhiễm giun móc cao hơn ở công nhân hầm mỏ và nông dân trồng lúa ruộng khô.",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Môi trường đất ẩm làm tăng nguy cơ nhiễm giun móc."
+  },
+  {
+    "question": "Tuổi thọ của giun móc cao hơn tuổi thọ giun đũa",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Giun móc có thể sống nhiều năm trong cơ thể người."
+  },
+  {
+    "question": "Giun móc ở người có thể gây xuất huyết cấp tính nặng , gây tử vong.",
+    "answers": ["Đúng", "Sai."],
+    "correct": 1,
+    "explanation": "Giun móc thường gây thiếu máu mạn tính hơn là xuất huyết cấp."
+  },
+  {
+    "question": "Trứng giun móc có thể nở ra ấu trùng ở tá tràng rồi phát triển thành giun trưởng thành.",
+    "answers": ["Đúng", "Sai."],
+    "correct": 1,
+    "explanation": "Trứng giun móc nở ở ngoại cảnh chứ không nở trong tá tràng."
+  },
+  {
+    "question": "Ấu trùng giun móc ở ngoại cảnh thường có khuynh hướng đi lên cao",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Ấu trùng giun móc có xu hướng bò lên cao để dễ tiếp xúc vật chủ."
+  },
+  {
+    "question": "Giun móc có thể gây hội chứng Loeffler",
+    "answers": ["Đúng", "Sai."],
+    "correct": 0,
+    "explanation": "Ấu trùng giun móc di chuyển qua phổi có thể gây hội chứng Loeffler."
+  },
+  {
+    "question": "Ấu trùng giun móc và giun mỏ xâm nhập vào người qua đường tiêu hoá.",
+    "answers": ["Đúng", "Sai."],
+    "correct": 1,
+    "explanation": "Ấu trùng chủ yếu xâm nhập qua da."
+  },
+  {
+    "question": "Khi đăng ký thai nghén và theo dõi người có thai cần dựa vào mạng lưới y tế thôn (bản) và các cộng tác viên hoạt động tại cộng đồng.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mạng lưới y tế cơ sở hỗ trợ quản lý thai nghén hiệu quả."
+  },
+  {
+    "question": "Quản lý theo dõi thai nghén chỉ phòng ngừa được các tai biến cho bà mẹ và không vai trò gì cho công tác dân số và kế hoạch hoá gia đình.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Quản lý thai nghén còn góp phần vào công tác dân số và kế hoạch hóa gia đình."
+  },
+  {
+    "question": "Sử dụng có hiệu quả công cụ quản lý thai nghén sẽ đảm bảo chất lượng quản lý thai của y tế cơ sở được tốt, bà mẹ được sinh đẻ an toàn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Quản lý thai nghén tốt giúp nâng cao an toàn cho mẹ và thai nhi."
+  },
+   {
+    "question": "Đo huyết áp là việc làm bắt buộc cho tất cả các lần khám thai đối với mỗi thai phụ.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Đo huyết áp giúp phát hiện sớm tăng huyết áp thai kỳ và tiền sản giật."
+  },
+  {
+    "question": "Được coi là tăng huyết áp do thai nghén khi huyết áp tâm thu tăng trên 30 mmHg so với trước khi có thai, hoặc HA tâm trương tăng trên 20 mmHg so với trước khi có thai.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Chẩn đoán tăng huyết áp thai nghén chủ yếu dựa vào trị số huyết áp tuyệt đối ≥140/90 mmHg."
+  },
+  {
+    "question": "Được coi là có Protein niệu khi Protein niệu > 0,5g/l ở mẫu nước tiểu trong 24 giờ hoặc > 1,0g/1 ở mẫu nước tiểu lấy ngẫu nhiên",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Protein niệu được xác định khi ≥0,3g/24 giờ hoặc que thử từ + trở lên."
+  },
+  {
+    "question": "Trong tiền sản giật, Protein niệu càng cao thì Protein huyết càng giảm",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Mất protein qua nước tiểu làm giảm protein máu."
+  },
+  {
+    "question": "Một thai phụ có số đo HA 100/70 mmHg lúc tuổi thai 15 tuần, theo dõi đến tuổi thai 30 tuần HA đo được là 135/80 mmHg thì phải coi là đã bị tăng HA do thai nghén.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Huyết áp tăng đáng kể so với ban đầu cần được theo dõi tăng huyết áp thai nghén."
+  },
+  {
+    "question": "Tiền sản giật gồm có 3 triệu chứng trong đó phù là dấu hiệu có thể có hoặc không",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Tiền sản giật chủ yếu gồm tăng huyết áp và protein niệu, phù không còn là tiêu chuẩn bắt buộc."
+  },
+  {
+    "question": "Đặc điểm phù trong hội chứng tiền sản giật là loại phủ trắng và phù mềm.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Phù trong tiền sản giật thường là phù trắng, mềm, ấn lõm."
+  },
+  {
+    "question": "Định lượng prôtêin niệu là việc phải làm hàng ngày khi theo dõi điều trị bệnh nhân tiên sản giật.",
+    "answers": ["Đúng"],
+    "correct": 0,
+    "explanation": "Theo dõi protein niệu giúp đánh giá mức độ tiến triển của tiền sản giật."
+  },
+  {
+    "question": "Với tiền sản giật nhẹ, thai phụ có thể theo dõi, điều trị tại tuyến xã.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Thai phụ tiền sản giật cần được theo dõi tại cơ sở y tế có đủ điều kiện chuyên môn."
+  },
+  {
+    "question": "Không cần cho thuốc hạ huyết áp cho các thai phụ khi bị tăng HA do thai nghén nếu số đo HA còn chưa tới 160/110 mmHg.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 1,
+    "explanation": "Việc dùng thuốc phụ thuộc tình trạng cụ thể và không chỉ dựa vào ngưỡng 160/110 mmHg."
+  },
+  {
+    "question": "Đối với tiền sản giật, chế độ ăn nhạt là cần thiết góp phần giúp bệnh tiến triển tốt hơn.",
+    "answers": ["Đúng", "Sai"],
+    "correct": 0,
+    "explanation": "Hạn chế muối giúp giảm phù và hỗ trợ kiểm soát huyết áp."
+  },
+  {
+    "question": "Viêm phổi thùy",
+    "answers": [
+      "Thường do phế cầu, xẩy ra đột ngột ở người khỏe mạnh",
+      "Thường do phế cầu, xẩy ra từ từ ở người khỏe mạnh",
+      "Thường do phế cầu, xẩy ra đột ngột ở người già yếu, suy kiệt",
+      "Thường do phế cầu, xẩy ra từ từ ở người già yếu, suy kiệt"
+    ],
+    "correct": 0,
+    "explanation": "Viêm phổi thùy thường do phế cầu gây ra và khởi phát đột ngột ở người khỏe mạnh."
+  },
+  {
+    "question": "Triệu chứng toàn thân của viêm phổi thùy",
+    "answers": [
+      "Bắt đầu bằng một cơn rét run kéo dài 30 phút, rồi nhiệt độ tăng dần lên 36-37°C",
+      "Bắt đầu bằng một cơn rét run kéo dài 30 phút, rồi nhiệt độ tăng dần lên 39-40°C",
+      "Bắt đầu bằng một cơn rét run kéo dài 30 phút, rồi nhiệt độ giảm dần 35-36°C",
+      "Bắt đầu bằng một cơn rét run kéo dài 30 phút, thường không sốt"
+    ],
+    "correct": 1,
+    "explanation": "Viêm phổi thùy thường khởi phát bằng rét run và sốt cao 39-40°C."
+  },
+  {
+    "question": "Triệu chứng cơ năng của viêm phổi thùy",
+    "answers": [
+      "Đau ngực: ít gặp, đôi khi đau ngực là triệu chứng nổi bật, đau bên tổn thương",
+      "Đau ngực: luôn có, đôi khi đau ngực là triệu chứng nổi bật, đau bên đối diện",
+      "Đau ngực: luôn có, đôi khi đau ngực là triệu chứng nổi bật, đau bên tổn thương",
+      "Đau ngực: luôn có, đôi khi đau ngực là triệu chứng ít nổi bật, đau bên tổn thương"
+    ],
+    "correct": 2,
+    "explanation": "Đau ngực bên tổn thương là triệu chứng thường gặp trong viêm phổi thùy."
+  },
+  {
+    "question": "Triệu chứng cơ năng của viêm phổi thùy thường gặp",
+    "answers": [
+      "Ho khan lúc đầu, về sau họ có đờm đặc, đờm màu trong",
+      "Ho khan lúc đầu, về sau họ có đờm đặc, đờm máu",
+      "Ho khan lúc đầu, về sau họ có đờm đặc, đờm đục",
+      "Ho khan lúc đầu, về sau họ có đờm đặc, đờm màu rỉ sắt"
+    ],
+    "correct": 3,
+    "explanation": "Đờm màu rỉ sắt là dấu hiệu điển hình của viêm phổi do phế cầu."
+  },
+  {
+    "question": "Nguyên nhân gây suy tim trái",
+    "answers": [
+      "Tăng huyết áp động mạch",
+      "Hạ huyết áp",
+      "Bệnh phổi mạn tính",
+      "Tăng huyết áp tĩnh mạch"
+    ],
+    "correct": 0,
+    "explanation": "Tăng huyết áp động mạch là nguyên nhân thường gặp gây suy tim trái."
+  },
+  {
+    "question": "Nguyên nhân gây suy tim trái",
+    "answers": [
+      "Hẹp van 2 lá, hở hay hẹp van động mạch chủ đơn thuần hoặc phối hợp với nhau",
+      "Hở hai lá, hở hay hẹp van động mạch chủ đơn thuần hoặc phối hợp với nhau",
+      "Hở van 3 lá, hở hay hẹp van động mạch chủ đơn thuần hoặc phối hợp với nhau",
+      "Hẹp van 3 lá, hở hay hẹp van động mạch chủ đơn thuần hoặc phối hợp với nhau"
+    ],
+    "correct": 1,
+    "explanation": "Hở hai lá và bệnh van động mạch chủ là các nguyên nhân thường gây suy tim trái."
+  },
+  {
+    "question": "Nguyên nhân gây suy tim phải",
+    "answers": [
+      "Hở 2 lá",
+      "Hở van động mạch chủ",
+      "Suy tim trái lâu ngày",
+      "Hẹp van động mạch chủ"
+    ],
+    "correct": 2,
+    "explanation": "Suy tim trái kéo dài có thể dẫn đến suy tim phải."
+  },
+  {
+    "question": "Nguyên nhân gây suy tim phải",
+    "answers": [
+      "Hở 2 lá",
+      "Hở van động mạch chủ",
+      "Hẹp van động mạch chủ",
+      "Hẹp van 2 lá"
+    ],
+    "correct": 3,
+    "explanation": "Hẹp van hai lá làm tăng áp lực tuần hoàn phổi và gây suy tim phải."
+  },
+  {
+    "question": "Nguyên nhân gây suy tim toàn bộ",
+    "answers": [
+      "Bệnh cơ tim giãn",
+      "Tăng huyết áp",
+      "Hẹp van động mạch chủ",
+      "Hở van động mạch chủ"
+    ],
+    "correct": 0,
+    "explanation": "Bệnh cơ tim giãn thường dẫn đến suy tim toàn bộ."
+  },
+  {
+    "question": "Triệu chứng cơ năng suy tim trái giai đoạn đầu",
+    "answers": [
+      "Khó thở thường xuyên",
+      "Khó thở khi gắng sức",
+      "Khó thở khi nghỉ",
+      "Khó thở khi làm việc rất nhẹ"
+    ],
+    "correct": 1,
+    "explanation": "Khó thở khi gắng sức là dấu hiệu sớm của suy tim trái."
+  },
+  {
+    "question": "Triệu chứng thực thể suy tim trái",
+    "answers": [
+      "Tiếng ngựa phi phải",
+      "Nhịp tim chậm",
+      "Nhịp tim nhanh",
+      "Nhịp tim 70 lần/phút"
+    ],
+    "correct": 2,
+    "explanation": "Nhịp tim nhanh là biểu hiện thường gặp trong suy tim trái."
+  },
+  {
+    "question": "Triệu chứng cơ năng Suy tim phải",
+    "answers": [
+      "Cơn khó thở kịch phát như cơn hen tim, phù phổi cấp",
+      "Khó thở khi gắng sức",
+      "Khó thở: ít hoặc nhiều, khó thở thường xuyên, ngày một nặng",
+      "Khó thở khi làm việc nặng"
+    ],
+    "correct": 2,
+    "explanation": "Suy tim phải gây khó thở tăng dần theo mức độ nặng của bệnh."
+  },
+  {
+    "question": "Triệu chứng thực thể suy tim phải",
+    "answers": [
+      "Tĩnh mạch cổ chìm",
+      "Gan nhỏ",
+      "Môi hồng dàn",
+      "Tĩnh mạch cổ nổi"
+    ],
+    "correct": 3,
+    "explanation": "Tĩnh mạch cổ nổi là dấu hiệu điển hình của suy tim phải."
+  },
+  {
+    "question": "Triệu chứng thực thể suy tim phải",
+    "answers": [
+      "Phù tím, mềm, ấn lỏm. Phù hai chi dưới",
+      "Phù trắng, mềm, ấn lỏm. Phù hai chi dưới",
+      "Không phù",
+      "Phù mặt vào buổi sáng"
+    ],
+    "correct": 0,
+    "explanation": "Suy tim phải thường gây phù tím, mềm, ấn lõm ở hai chi dưới."
+  },
+  {
+    "question": "Chế độ nghỉ ngơi đối suy tim",
+    "answers": [
+      "Giảm hoặc bỏ hẳn các hoạt động gắng sức.",
+      "Trong trường hợp suy tim nặng thì phải nghỉ tại giường theo tư thế Fowler (nửa nằm, nửa ngồi)",
+      "Trường hợp bệnh nhân suy tim phải nằm điều trị lâu ngày, khi hoàn cảnh cho phép khuyến khích xoa bóp, nhất là hai chi dưới đề phòng tắc mạch",
+      "A, B, C đúng"
+    ],
+    "correct": 3,
+    "explanation": "Tất cả các biện pháp trên đều phù hợp trong chăm sóc bệnh nhân suy tim."
+  },
+  {
+    "question": "Chế độ ăn trong suy tim",
+    "answers": [
+      "Suy tim nhẹ ăn giảm muối 3g/ ngày",
+      "Suy tim nặng ăn nhạt hoàn toàn 1,2g muối/ ngày",
+      "Không dùng các chất kích thích: rượu, cafe, thuốc lá",
+      "A, B, C đúng"
+    ],
+    "correct": 3,
+    "explanation": "Trong suy tim cần hạn chế muối và tránh các chất kích thích."
+  },
+  {
+    "question": "Các thuốc trong điều trị suy tim",
+    "answers": [
+      "Thuốc lợi tiểu: Clorothiazid, Hydrochlothiazid, Spironolacton",
+      "Glucosid trợ tim: Digoxin.",
+      "Các thuốc giãn mạch: Lisinopril (Zestril), Peridopril (Coversyl) Nitroglycerin",
+      "A, B, C đúng"
+    ],
+    "correct": 3,
+    "explanation": "Điều trị suy tim thường phối hợp lợi tiểu, trợ tim và thuốc giãn mạch."
+  },
+  {
+    "question": "Nguyên nhân thường gây loét dạ dày – tá tràng",
+    "answers": [
+      "Atropin",
+      "Các loại thuốc giảm đau",
+      "Thuốc giảm đau chống viêm không sterroid (Aspirin...)",
+      "Thuốc giảm đau chống viêm không sterroid và corticoid"
+    ],
+    "correct": 3,
+    "explanation": "NSAIDs và corticoid làm tăng nguy cơ loét dạ dày - tá tràng."
+  },
+  {
+    "question": "Triệu chứng lâm sàng loét dạ dày – tá tràng",
+    "answers": [
+      "Đau hạ sườn phải, nôn ói",
+      "Đau thượng vị, ợ hơi, ợ chua",
+      "Đau hạ sườn trái, nôn ói, tiêu chảy",
+      "Đau bụng, đi ngoài phân đen"
+    ],
+    "correct": 1,
+    "explanation": "Đau thượng vị kèm ợ hơi, ợ chua là triệu chứng điển hình."
+  },
+  {
+    "question": "Biến chứng của loét dạ dày - tá tràng hay gặp, ngoại trừ",
+    "answers": [
+      "Thủng ổ loét, Chảy máu đường tiêu hoá trên",
+      "Hẹp môn vị",
+      "Ung thư hoá ổ loét",
+      "Chảy máu đường tiêu hoá dưới"
+    ],
+    "correct": 3,
+    "explanation": "Loét dạ dày - tá tràng thường gây xuất huyết tiêu hóa trên."
+  },
+  {
+    "question": "Điều trị loét dạ dày cần chú ý",
+    "answers": [
+      "Nên dùng nhiều loại thuốc",
+      "Kết hợp thuốc và chế độ ăn hợp lý",
+      "Kết hợp thuốc, chế độ nghỉ ngơi và chế độ ăn",
+      "Chế độ vận động hợp lý"
+    ],
+    "correct": 2,
+    "explanation": "Điều trị cần phối hợp thuốc, nghỉ ngơi và ăn uống hợp lý."
+  },
+  {
+    "question": "Điều trị loét dạ - tá tràng",
+    "answers": [
+      "Bọc niêm mạc dạ, duy trì kháng tiết acid",
+      "Tấn công kháng sinh, kháng tiết, duy trì kháng tiết acid",
+      "Tấn công kháng sinh, kháng tiết acid, bọc niêm mạc dạ",
+      "Tấn công kháng sinh, kháng tiết acid, bọc niêm mạc dạ, duy trì kháng tiết acid"
+    ],
+    "correct": 3,
+    "explanation": "Điều trị đầy đủ gồm diệt HP, giảm tiết acid và bảo vệ niêm mạc."
+  },
+  {
+    "question": "Cách xác định điểm Mac – Bruney là:",
+    "answers": [
+      "Lấy điểm giữa của đường nối gai chậu trước trên đến rốn",
+      "Là trung điểm của đoạn thẳng nối gai chậu trước trên đến rốn",
+      "Là trung điểm của đoạn thẳng nối gai chậu trước trên bên phải đến rốn",
+      "Là trung điểm của đoạn thẳng nối gai chậu trước trên bên trái đến rốn"
+    ],
+    "correct": 2,
+    "explanation": "Điểm McBurney nằm trên đường nối gai chậu trước trên phải đến rốn."
+  },
+  {
+    "question": "Hướng đến chẩn đoán máu tụ ngoài màng cứng",
+    "answers": [
+      "Hướng đến chẩn đoán máu tụ ngoài màng cứng",
+      "Có 1 khoảng tỉnh giữa 2 lần mê",
+      "Tỉnh rồi đến mê",
+      "Tỉnh- mê- tỉnh",
+      "(1), (2) & (3) đúng"
+    ],
+    "correct": 0,
+    "explanation": "Khoảng tỉnh là dấu hiệu điển hình của máu tụ ngoài màng cứng."
+  },
+  {
+    "question": "Các phương tiện CLS hiện nay để chẩn đoán khối máu tụ:",
+    "answers": [
+      "Mạch não đồ",
+      "Chụp cắt lớp xử lí qua máy tính",
+      "Cộng hưởng từ hạt nhân",
+      "Siêu âm & điện não",
+      "Tất cả đúng"
+    ],
+    "correct": 4,
+    "explanation": "Nhiều phương tiện cận lâm sàng được sử dụng để chẩn đoán máu tụ sọ não."
+  },
+  {
+    "question": "Trường hợp không gọi máu tụ trong sọ là:",
+    "answers": [
+      "Máu tụ ngoài màng cứng",
+      "Máu tụ dưới màng cứng",
+      "Máu tụ dưới da đầu",
+      "Máu tụ trong não"
+    ],
+    "correct": 2,
+    "explanation": "Máu tụ dưới da đầu không thuộc nhóm máu tụ trong sọ."
+  },
+  {
+    "question": "Triệu chứng không phải dấu hiệu thần kinh khu trú trong chấn thương sọ não",
+    "answers": [
+      "Liệt nửa người đối diện với bên tổn thương.",
+      "Liệt nửa người cùng bên với bên tổn thương",
+      "Rối loạn cảm giác",
+      "Đồng tử giãn cùng bên với bên tổn thương"
+    ],
+    "correct": 1,
+    "explanation": "Liệt thường xuất hiện ở nửa người đối diện bên tổn thương não."
+  },
+  {
+    "question": "Vị trí phản ứng thành bụng trong viêm ruột thừa cấp thể điển hình là",
+    "answers": [
+      "Hố chậu trái",
+      "Hố chậu phải",
+      "Giữa bụng",
+      "Vùng hạ vị"
+    ],
+    "correct": 1,
+    "explanation": "Phản ứng thành bụng thường khu trú ở hố chậu phải."
+  },
+  {
+    "question": "Khi đã chẩn đoán là viêm ruột thừa cấp ở tuyến không có điều kiện phẫu thuật cần:",
+    "answers": [
+      "Tiêm thuốc giảm đau",
+      "Thụt tháo, chuyển bệnh nhân lên tuyến trên có điều kiện phẫu thuật",
+      "Dùng kháng sinh",
+      "Chuyển lên tuyến có điều kiện phẫu thuật"
+    ],
+    "correct": 3,
+    "explanation": "Cần chuyển người bệnh đến nơi có điều kiện phẫu thuật sớm."
+  },
+  {
+    "question": "Khi đã chẩn đoán là viêm ruột thừa cấp ở tuyến có điều kiện phẫu thuật cân:",
+    "answers": [
+      "Điều trị nội khoa",
+      "Mổ có kế hoạch",
+      "Mổ cấp cứu",
+      "Mổ bán cấp cứu"
+    ],
+    "correct": 2,
+    "explanation": "Viêm ruột thừa cấp cần được phẫu thuật cấp cứu."
+  },
+  {
+    "question": "Tính chất đau trong đám quánh ruột thừa là:",
+    "answers": [
+      "Đau dữ dội",
+      "Đau nhẹ",
+      "Đau từng cơn",
+      "Đau liên tục và đau lan lên ngực"
+    ],
+    "correct": 1,
+    "explanation": "Đám quánh ruột thừa thường đau âm ỉ, mức độ nhẹ hơn."
+  },
+  {
+    "question": "Triệu chứng thực thể quan trọng nhất để chẩn đoán bệnh viêm ruột thừa:",
+    "answers": [
+      "Ân vùng hố chậu phải bệnh nhân đau",
+      "Ấn điểm Mac-Burney(+)",
+      "Phản ứng thành bụng vùng hố chậu phải",
+      "Thăm trực tràng âm đạo"
+    ],
+    "correct": 2,
+    "explanation": "Phản ứng thành bụng vùng hố chậu phải là dấu hiệu quan trọng."
+  },
+  {
+    "question": "Biến chứng của bệnh viêm ruột thừa ngoại trừ:",
+    "answers": [
+      "Viêm phúc mạc ruột thừa",
+      "Đám quánh ruột thừa",
+      "Áp xe ruột thừa",
+      "Chảy máu ruột thừa"
+    ],
+    "correct": 3,
+    "explanation": "Chảy máu ruột thừa không phải biến chứng thường gặp."
+  },
+  {
+    "question": "Chấn đoán xác định viêm ruột thừa khi:",
+    "answers": [
+      "Có hội chứng nhiễm trùng, đau khu trú HCP, điểm Mac-Burney(+), Có phản ứng thành bụng vùng hố chậu phải, nôn, bí trung đại tiện, xét nghiệm bạch cầu tăng",
+      "Có hội chứng nhiễm trùng, đau khu trú HCP, điểm Mac-Burney(+), Có phản ứng thành bụng vùng hố chậu phải, nôn, bí trung đại tiện",
+      "Có hội chứng nhiễm trùng, đau khu trú HCP, ấn hố chậu phải đau, ấn điểm Mac-Burney(+), Có phản ứng thành bụng vùng hố chậu phải, xét nghiệm bạch cầu tặng",
+      "Có hội chứng nhiễm trùng, đau khu trú HCP, điểm Mac-Burney(+), Có phản ứng thành bụng vùng hố chậu phải, xét nghiệm BC tăng, siêu âm kích thước ruột thừa lớn hơn bình thường"
+    ],
+    "correct": 3,
+    "explanation": "Chẩn đoán xác định cần phối hợp triệu chứng lâm sàng và cận lâm sàng."
+  },
+   {
+    "question": "Triệu chưng thực thể của bệnh viêm ruột thừa cấp:",
+    "answers": [
+      "Ấn vùng hố chậu phải đau, ấn điểm Mác –Burney(+)",
+      "Có Phản ứng thành bụng vùng hố chậu phải",
+      "Gõ mất vùng đục trước gan, gõ đục vùng thấp",
+      "(1) & (2) đúng"
+    ],
+    "correct": 3,
+    "explanation": "Ấn đau hố chậu phải và phản ứng thành bụng là dấu hiệu điển hình của viêm ruột thừa cấp."
+  },
+  {
+    "question": "Nguyên nhân gây viêm ruột thừa cấp ngoại trừ:",
+    "answers": [
+      "Do nhiễm khuẩn",
+      "Do giun chui vào hoặc do sỏi phân",
+      "Do co thắt mạch máu nuôi dưỡng ruột thừa",
+      "Do di truyền, cơ địa"
+    ],
+    "correct": 3,
+    "explanation": "Di truyền và cơ địa không phải nguyên nhân trực tiếp gây viêm ruột thừa cấp."
+  },
+  {
+    "question": "Tính chất đau trong viêm ruột thừa:",
+    "answers": [
+      "Đau âm ỉ, liên tục, có tính chất tăng dần",
+      "Đau đột ngột, dữ dội vùng hố chậu phải",
+      "Đau nhẹ, đau từng cơn vùng hố chậu phải",
+      "Đau liên quan tới bữa ăn, liên quan thời tiết"
+    ],
+    "correct": 0,
+    "explanation": "Đau viêm ruột thừa thường âm ỉ, liên tục và tăng dần."
+  },
+  {
+    "question": "Nguyên nhân thường gặp nhất trong thủng dạ dày – tá tràng:",
+    "answers": [
+      "Ung thư dạ dày",
+      "Loét miệng nối",
+      "Loét dạ dày – hành tá tràng",
+      "Viêm miệng nối"
+    ],
+    "correct": 2,
+    "explanation": "Loét dạ dày - tá tràng là nguyên nhân phổ biến nhất gây thủng."
+  },
+  {
+    "question": "Chụp ổ bụng không chuẩn bị ở tư thế đứng đối với thủng dạ dày – tá tràng thấy:",
+    "answers": [
+      "Mức nước, mức hơi",
+      "Mờ toàn ổ bụng",
+      "Liềm hơi dưới cơ hoành",
+      "Mờ vùng thấp"
+    ],
+    "correct": 2,
+    "explanation": "Liềm hơi dưới cơ hoành là dấu hiệu X-quang điển hình của thủng tạng rỗng."
+  },
+  {
+    "question": "Triệu chứng co cứng thành bụng trong thủng dạ dày- tá tràng",
+    "answers": [
+      "Co cứng liên tục, theo ý muốn",
+      "Co cứng liên tục, ngoài ý muốn",
+      "Co cứng từng cơn, theo ý muốn",
+      "Co cứng từng cơn, ngoài ý muốn"
+    ],
+    "correct": 1,
+    "explanation": "Co cứng thành bụng trong viêm phúc mạc là phản xạ ngoài ý muốn."
+  },
+  {
+    "question": "Tính chất đau trong thủng dạ dày – tá tràng:",
+    "answers": [
+      "Đau âm ỉ liên tục",
+      "Đau thành cơn dữ dội",
+      "Đau dữ dội liên tục",
+      "Đau xuyên xuống dưới"
+    ],
+    "correct": 2,
+    "explanation": "Đau trong thủng dạ dày thường đột ngột, dữ dội và liên tục."
+  },
+  {
+    "question": "Triệu chứng cơ năng của thủng dạ dày:",
+    "answers": [
+      "Đau bụng vùng thượng vị, nôn, bí trung đại tiện",
+      "Đau bụng vùng thượng vị, nôn nhiều, bí trung đại tiện",
+      "Đau bụng vùng thượng vị, nôn Ít, bí trung đại tiện",
+      "Đau bụng vùng thượng vị, nôn, bí trung đại tiện, sốt."
+    ],
+    "correct": 2,
+    "explanation": "Thủng dạ dày thường đau thượng vị dữ dội, nôn ít và bí trung đại tiện."
+  },
+  {
+    "question": "Chấn đoán xác định thủng dạ dày khi:",
+    "answers": [
+      "Có tiền sử viêm loét dạ dày tá tràng, đau vùng thượng vị, co cứng thành bụng, chụp X quang có hình ảnh liềm hơi dưới cơ hoành.",
+      "Có tiền sử viêm loét dạ dày tá tràng, đau đột ngột, dữ dội vùng thượng vị, co cứng thành bụng, chụp X quang có hình ảnh liềm hơi dưới cơ hoành.",
+      "Có tiền sử viêm loét dạ dày tá tràng, đau đột ngột, dữ dội vùng hạ vị, co cứng thành bụng, chụp X quang có hình ảnh liềm hơi dưới cơ hoành.",
+      "Có tiền sử viêm loét dạ dày tá tràng, đau vùng thượng vị, có phản ứng thành bụng, chụp X quang có hình ảnh liềm hơi dưới cơ hoành."
+    ],
+    "correct": 1,
+    "explanation": "Đau thượng vị đột ngột dữ dội kèm liềm hơi dưới cơ hoành là dấu hiệu xác định."
+  },
+  {
+    "question": "Những việc nên làm trong xử trí bệnh nhân thủng dạ dày ở tuyến y tế cơ sở ngoại trừ:",
+    "answers": [
+      "Đặt sonde dạ dày",
+      "Truyền dịch nếu có",
+      "Nằm nơi thoáng mát mùa hè, ấm áp mùa đông",
+      "Tiêm thuốc trợ lực, trợ sức",
+      "Tiêm thuốc giảm đau, kháng sinh"
+    ],
+    "correct": 4,
+    "explanation": "Không nên tự ý dùng thuốc giảm đau vì có thể che lấp triệu chứng bệnh."
+  },
+  {
+    "question": "Trĩ độ 3 là:",
+    "answers": [
+      "Trĩ cương tụ, có hiện tượng chảy máu",
+      "Sa trĩ khi rặn, phải dùng tay đẩy lên",
+      "Sa trĩ khi rặn, tự co lên sau khi đi ngoài",
+      "Trĩ sa thường xuyên, kể cả trường hợp sa trĩ tắc mạch"
+    ],
+    "correct": 1,
+    "explanation": "Trĩ độ 3 phải dùng tay đẩy búi trĩ lên sau khi đi ngoài."
+  },
+  {
+    "question": "Tính chất ỉa máu trong bệnh trỉ:",
+    "answers": [
+      "ỉa ra máu lẫn nhầy",
+      "ỉa ra máu đen",
+      "ỉa ra máu đỏ tươi",
+      "Ỉa ra máu lờ lờ như máu cá"
+    ],
+    "correct": 2,
+    "explanation": "Trĩ thường gây chảy máu đỏ tươi sau đại tiện."
+  },
+  {
+    "question": "Triệu chứng chắc chắn của gãy xương:",
+    "answers": [
+      "Đau xảy ran gay sau khi bị chấn thương",
+      "Sưng nề bầm tím vùng gãy xương",
+      "Giảm hoặc mất cơ năng vận động",
+      "Biến dạng trục chi: có thể gập góc, xoay, ngắn chi"
+    ],
+    "correct": 3,
+    "explanation": "Biến dạng trục chi là dấu hiệu chắc chắn của gãy xương."
+  },
+  {
+    "question": "Triệu chứng không chắc chắn của gãy xương:",
+    "answers": [
+      "Tiếng lạo xạo xương gãy",
+      "Sưng nề bầm tím vùng gãy xương",
+      "Cử động bất thường chi gãy",
+      "Biến dạng trục chi: có thể gập góc, xoay, ngắn chi"
+    ],
+    "correct": 1,
+    "explanation": "Sưng nề bầm tím chỉ là dấu hiệu gợi ý, không đặc hiệu cho gãy xương."
+  },
+  {
+    "question": "Triệu chứng đau trong gãy xương",
+    "answers": [
+      "Đau liên tục",
+      "Đau từng cơn",
+      "Đau tăng khi vận động",
+      "Đau giảm khi ấn vào"
+    ],
+    "correct": 2,
+    "explanation": "Đau tăng khi cử động là triệu chứng điển hình của gãy xương."
+  },
+  {
+    "question": "Biến chứng muộn trong gãy xương:",
+    "answers": [
+      "Gãy xương mất nhiều máu dẫn đến sốc",
+      "Tổn thương mạch máu",
+      "Teo cơ cứng khớp",
+      "Gãy xương kín trở thành gãy hở"
+    ],
+    "correct": 2,
+    "explanation": "Teo cơ và cứng khớp là biến chứng muộn do bất động kéo dài."
+  },
+  {
+    "question": "Sơ cứu gãy xương ngoại trừ:",
+    "answers": [
+      "Phòng chống sốc",
+      "Bất động chi gãy",
+      "Vận chuyển người bệnh nhẹ nhàng",
+      "Kéo nắn và bó bột chi gãy"
+    ],
+    "correct": 3,
+    "explanation": "Kéo nắn và bó bột cần thực hiện tại cơ sở chuyên khoa."
+  },
+  {
+    "question": "Triệu chứng sốc hay gặp trong gãy xương:",
+    "answers": [
+      "Gãy xương đùi",
+      "Gãy xương cẳng chân",
+      "Gãy xương cánh tay",
+      "Gãy xương cẳng tay"
+    ],
+    "correct": 0,
+    "explanation": "Gãy xương đùi dễ gây mất máu nhiều dẫn đến sốc."
+  },
+  {
+    "question": "Biến chứng sớm trong gãy xương là:",
+    "answers": [
+      "Sóc",
+      "Nhiễm trùng",
+      "Teo co",
+      "Khớp giả"
+    ],
+    "correct": 0,
+    "explanation": "Sốc là biến chứng sớm nguy hiểm trong gãy xương nặng."
+  },
+  {
+    "question": "Nhiễm HIV là một bệnh:",
+    "answers": [
+      "Rất dễ lây",
+      "Tương đối khó lây so với các bệnh truyền nhiễm khác.",
+      "Lây khi tiếp xúc với người nhiễm HIV.",
+      "Chỉ lây khi có quan hệ tình dục hay nhận máu của người nhiễm HIV",
+      "Chỉ lây khi tiếp xúc với dịch tiết của người nhiễm HIV."
+    ],
+    "correct": 1,
+    "explanation": "HIV khó lây hơn nhiều bệnh truyền nhiễm thông thường."
+  },
+  {
+    "question": "Trong các dịch của người nhiễm HIV được nêu sau đây, dịch nào có nồng độ virut thấp nhất:",
+    "answers": [
+      "Dịch não tủy.",
+      "Dịch màng bụng",
+      "Dịch tiết sinh dục",
+      "Sửa mẹ"
+    ],
+    "correct": 3,
+    "explanation": "Sữa mẹ có nồng độ virus thấp hơn nhiều dịch cơ thể khác."
+  },
+  {
+    "question": "Giai đoạn cửa sổ là giai đọan trong nhiễm HIV:",
+    "answers": [
+      "Virut không nhân lên, do đó không phát hiện được.",
+      "Cơ thể chưa sản xuất kháng thể nên mọi xét nghiệm đều âm tính.",
+      "Bắt đầu xuất hiện kháng thể với nồng độ chưa cao, virut thì ẩn trong các hạch bạch huyết nên không phát hiện được.",
+      "Các xét nghiệm thông thường âm tính, nhưng nếu có các xét nghiệm cao cấp thì vẫn có thể phát hiện được.",
+      "Là giai đọan tạm lui bệnh."
+    ],
+    "correct": 2,
+    "explanation": "Giai đoạn cửa sổ là thời gian kháng thể chưa đủ để xét nghiệm thông thường phát hiện."
+  },
+  {
+    "question": "Trên lâm sàng, những triệu chứng nào cho phép khẳng định nhiễm HIV:",
+    "answers": [
+      "Sụt cân trên 10% trọng lượng cơ thể.",
+      "Sốt kéo dài trên một tháng",
+      "Tiêu chảy kéo dài trên một tháng.",
+      "Có các triệu chứng của sơ nhiễm HIV."
+    ],
+    "correct": 3,
+    "explanation": "Triệu chứng sơ nhiễm HIV là dấu hiệu gợi ý quan trọng trên lâm sàng."
+  },
+  {
+    "question": "Biểu hiện lâm sàng chỉ gợi ý chứ không đủ để khẳng định nhiễm HIV. Tiêu chuẩn nào sau đây cho phép xếp một người nhiễm HIV vào giai đọan AIDS:",
+    "answers": [
+      "Nhiễm lao.",
+      "Thường hay bị nhiễm trùng.",
+      "Tế bào lympho T CD4+ giảm nhiều so với lần xét nghiệm trước.",
+      "Nhiễm nấm Candidase nói chung.",
+      "Có hội chứng suy mòn"
+    ],
+    "correct": 0,
+    "explanation": "Nhiễm lao là một trong các bệnh chỉ điểm giai đoạn AIDS ở người nhiễm HIV."
+  },
+  {
+    "question": "Về thuốc kháng HIV, hiện nay:",
+    "answers": [
+      "Có thể khống chế được virut, nhưng không tiêu diệt được hết HIV trong cơ thể.",
+      "Có thể diệt tận gốc HIV, nhưng bệnh vẫn cứ tiếp tục vì cơ thể đã bị hủy họai hệ miễn dịch.",
+      "Chỉ có tính chất tâm lý, chứ thực sự chưa có thuốc kháng HIV có hiệu quá.",
+      "Có thể thực sự chữa lành nhiễm HIV, nhưng quá đắt nên chưa thể phổ biến công khai được.",
+      "Thuốc chỉ có tính chất phòng bệnh chứ không có tính chất điều trị."
+    ],
+    "correct": 0,
+    "explanation": "Thuốc ARV giúp kiểm soát sự nhân lên của HIV nhưng chưa loại bỏ hoàn toàn virus."
+  },
+  {
+    "question": "Những người trong gia đình người nhiễm HIV:",
+    "answers": [
+      "Có thể sống chung bình thường (nhưng không được quan hệ tình dục) với người nhiễm vì không lây.",
+      "Phải cách ly người bệnh vì có khả năng lây nhiễm.",
+      "Có thể sống chung gần như bình thường, nhưng phải biết cách phòng lây nhiễm, dưới sự hướng dẫn cụ thể của BS chuyên môn.",
+      "Trong giai đọan tiềm ẩn, có thể sống chung, còn đến giai đoạn AIDS thì phải cách ly.",
+      "Chỉ có thể sống chung trong giai đoạn sơ nhiễm ban đầu."
+    ],
+    "correct": 2,
+    "explanation": "Người nhiễm HIV vẫn có thể sống chung với gia đình nếu thực hiện đúng biện pháp phòng lây."
+  },
+  {
+    "question": "Một người không có quan hệ tình dục, không dùng chung bơm và kim tiêm với người nhiễm HIV, vẫn có thể lây HIV:",
+    "answers": [
+      "Do tai nạn.",
+      "Do tình cờ xử dụng dao cạo râu chung với người nhiễm HIV ở tiệm hớt tóc.",
+      "Do dùng chung áo quần có mồ hôi của người nhiễm.",
+      "Do sống chung với người nhiễm HIV",
+      "Do xử dụng chung quần lót với người nhiễm HIV."
+    ],
+    "correct": 1,
+    "explanation": "Dao cạo râu có thể dính máu và làm lây truyền HIV nếu dùng chung."
+  },
+  {
+    "question": "Trong nhiễm HIV/AIDS, các bệnh nhiễm trùng cơ hội sau đây, bệnh nào có thể xuất hiện ở người nhiễm HIV ngay cả khi tình trạng miễn dịch đang còn khá tốt",
+    "answers": [
+      "Lao",
+      "Nhiễm nấm Penicillum marneffei",
+      "Nhiễm nấm Candida nội tạng",
+      "Viêm phổi do Pneumocystis carinii",
+      "Nhiễm Cryptoccoccus neoforman"
+    ],
+    "correct": 0,
+    "explanation": "Lao có thể xuất hiện sớm ở người nhiễm HIV ngay cả khi miễn dịch chưa suy giảm nặng."
+  },
+  {
+    "question": "Khi phải truyền máu, phương pháp tốt nhất để không nhiễm HIV là",
+    "answers": [
+      "Chỉ truyền máu đã được xét nghiệm HIV (-).",
+      "Chỉ truyền máu đã được đưa lên nhiệt độ cao để giết HIV.",
+      "Chỉ truyền máu làm tủa lạnh để bất hoạt HIV.",
+      "Chỉ truyền máu tự thân."
+    ],
+    "correct": 3,
+    "explanation": "Truyền máu tự thân loại bỏ nguy cơ lây nhiễm HIV từ người khác."
+  },
+  {
+    "question": "Nếu bạn có một lần quan hệ tình dục với người nhiễm HIV bạn sẽ",
+    "answers": [
+      "Chắc chắn đã nhiễm HIV",
+      "Chỉ nhiễm khi người bạn tình ở giai đoạn AIDS.",
+      "Chỉ nhiễm khi bạn hay người tình đang mắc thêm một bệnh lây qua tình dục khác.",
+      "Có nguy cơ cao nhiễm HIV, nhưng cũng có thể chưa nhiễm."
+    ],
+    "correct": 3,
+    "explanation": "Quan hệ với người nhiễm HIV làm tăng nguy cơ lây nhưng không phải lúc nào cũng nhiễm."
+  },
+  {
+    "question": "Phòng bệnh HIV lây qua đường tình dục là:",
+    "answers": [
+      "Chung thuỷ, chỉ quan hệ tình dục với một người.",
+      "Không quan hệ tình dục.",
+      "Không quan hệ tình dục khi có nhiễm một bệnh STD khác.",
+      "Tình dục an toàn."
+    ],
+    "correct": 3,
+    "explanation": "Tình dục an toàn là biện pháp hiệu quả phòng lây nhiễm HIV."
+  },
+  {
+    "question": "Trong nhiễm HIV, câu nào sau đây đúng:",
+    "answers": [
+      "Nhiễm HIV có thể lây ngoài đường tiêm chích, tình dục và mẹ truyền sang con.",
+      "Nếu đủ 3 loại thuốc, có thể diệt được virut HIV.",
+      "Lao không được xếp vào bệnh cơ hội vì có thể gây bệnh cho cả người không suy giảm miễn dịch.",
+      "Nhờ nỗ lực của toàn thế giới, hiện nay đại dịch HIV đang giảm trên phạm vi toàn cầu."
+    ],
+    "correct": 0,
+    "explanation": "HIV còn có thể lây qua nhiều con đường khác như truyền máu và tai nạn nghề nghiệp."
+  },
+  {
+    "question": "Virut dại khó bị tiêu diệt bởi:",
+    "answers": [
+      "Khô hanh.",
+      "Xà phòng.",
+      "Cồn 70 độ"
+    ],
+    "correct": 2,
+    "explanation": "Virus dại có thể bị bất hoạt bởi nhiều yếu tố nhưng đề bài chọn đáp án cồn 70 độ."
+  },
+  {
+    "question": "Dại là bệnh của động vật:",
+    "answers": [
+      "có máu nóng, có xương sống.",
+      "Hoang dã.",
+      "Của riêng lòai chó.",
+      "Chỉ có ở người và chó."
+    ],
+    "correct": 0,
+    "explanation": "Bệnh dại gặp ở nhiều loài động vật máu nóng có xương sống."
+  },
+  {
+    "question": "Một động vật mắc bệnh dại có thể lây",
+    "answers": [
+      "5 - 7 ngày trước khi có triệu chứng lâm sàng của dại",
+      "Bắt đầu từ khi có triệu chứng đầu tiên của dại",
+      "Chỉ lây ở giai đọan tòan phát của bệnh",
+      "Lây ngay sau khi nhiễm virut 5-7 ngày"
+    ],
+    "correct": 0,
+    "explanation": "Động vật mắc bệnh dại có thể phát tán virus qua nước bọt vài ngày trước khi xuất hiện triệu chứng."
+  },
+  {
+    "question": "Trong các vết cắn sau đây do động vật mắc dại cắn, theo bạn, vị trí nào có thời gian ủ bệnh ngắn nhất ?",
+    "answers": [
+      "Ở lòng bàn chân.",
+      "Ở cẳng chân.",
+      "Ở mặt",
+      "Ở lòng bàn tay"
+    ],
+    "correct": 2,
+    "explanation": "Vết cắn ở mặt gần hệ thần kinh trung ương nên thời gian ủ bệnh thường ngắn hơn."
+  },
+  {
+    "question": "Trong bệnh dại, bệnh nhân phản ứng rất dữ khi thấy có nước uống là vì",
+    "answers": [
+      "Bệnh nhân đang bị ngộ độc nước ở não.",
+      "Bệnh nhân bị ám ảnh nước là thuốc độc do mất trí.",
+      "Phản xạ nuốt quá mức khi thấy nước làm bệnh nhân đau đớn, mặc dù rất khát nước.",
+      "Vì bệnh nhân tăng tiết nước bọt quá nhiều."
+    ],
+    "correct": 2,
+    "explanation": "Co thắt họng khi nuốt gây đau đớn dữ dội làm bệnh nhân sợ nước."
+  },
+  {
+    "question": "Ngoài thể kích động, bệnh dại còn có thể biểu hiện dưới dạng:",
+    "answers": [
+      "Viêm não màng não.",
+      "Bại liệt dạng đi lên.",
+      "Như bệnh xốp não (gây bệnh bò điên).",
+      "Dạng xơ cứng rải rác."
+    ],
+    "correct": 1,
+    "explanation": "Bệnh dại có thể biểu hiện dưới thể liệt với tình trạng yếu liệt tiến triển."
+  },
+  {
+    "question": "Khi bị động vật có thể gây dại cắn, xử trí vết thương tại chỗ là:",
+    "answers": [
+      "Sát trùng ngay bằng cồn iode.",
+      "Khâu kín lại vết thương.",
+      "Rửa ngay vết thương bằng xà phòng.",
+      "Rắc kháng sinh mạnh vào vết thương để diệt virut."
+    ],
+    "correct": 2,
+    "explanation": "Rửa kỹ vết thương bằng xà phòng giúp giảm đáng kể lượng virus tại chỗ."
+  },
+  {
+    "question": "Các phương tiện hiện nay để phòng dại khi nhiễm virut dại là:",
+    "answers": [
+      "Huyết thanh liệu pháp và vắc xin.",
+      "Kháng sinh.",
+      "Hút lấy máu và virut ngay lập tức sau khi bị cắn theo các phương pháp hấp phụ dân gian (bầu, giác, đặt ngọc)",
+      "Garô chi bị cắn để ngăn không cho virut xâm nhập toàn thân."
+    ],
+    "correct": 0,
+    "explanation": "Điều trị dự phòng sau phơi nhiễm gồm tiêm huyết thanh kháng dại và vắc xin."
+  },
+  {
+    "question": "Bệnh Thuỷ đậu thường xảy ra:",
+    "answers": [
+      "Vào cuối thu, đầu đông",
+      "Chủ yếu vào những tháng thời tiết lạnh lẽo",
+      "Vào cuối xuân, đầu hè",
+      "Vào cuối đông, đầu xuân"
+    ],
+    "correct": 3,
+    "explanation": "Thuỷ đậu thường bùng phát nhiều vào cuối đông và đầu xuân."
+  },
+  {
+    "question": "Đặc điểm của nốt đậu trong bệnh Thuỷ đậu là:",
+    "answers": [
+      "Cùng một lứa tuổi, bắt đầu ở thân mình, mặt rồi lan ra tứ chi",
+      "Cùng một lứa tuổi, bắt đầu ở khắp nơi",
+      "Nhiều lứa tuổi khác nhau, bắt đầu ở tứ chi, mặt rồi lan khắp thân mình",
+      "Nhiều lứa tuổi khác nhau, bắt đầu ở thân mình, mặt rồi lan khắp tứ chi"
+    ],
+    "correct": 3,
+    "explanation": "Ban thuỷ đậu mọc nhiều đợt nên có nhiều lứa tuổi khác nhau."
+  },
+  {
+    "question": "Biến chứng hay gặp nhất của bệnh Thuỷ đậu là:",
+    "answers": [
+      "Viêm não",
+      "Viêm phổi",
+      "Hội chứng Reye",
+      "Bội nhiễm da"
+    ],
+    "correct": 3,
+    "explanation": "Bội nhiễm da là biến chứng thường gặp nhất do gãi làm trầy xước da."
+  },
+  {
+    "question": "Thuỷ đậu là một bệnh:",
+    "answers": [
+      "Cần phải điều trị đặc hiệu vì các biến chứng của nó rất nặng nề",
+      "Không cần phải điều trị đặc hiệu vì nói chung lành tính và tự giới hạn",
+      "Không cần phải điều trị đặc hiệu vì các biến chứng không có gì nguy hiểm",
+      "Chỉ cần điều trị triệu chứng."
+    ],
+    "correct": 1,
+    "explanation": "Thuỷ đậu ở đa số trường hợp là bệnh lành tính và tự khỏi."
+  },
+  {
+    "question": "Phương pháp phòng bệnh thuỷ đậu đúng là:",
+    "answers": [
+      "Cách ly bệnh nhân cho đến khi hết sốt",
+      "Cách ly bệnh nhân cho đến khi các nốt đậu đóng mày",
+      "Tiêm Globulin miễn dịch cho tất cả những người tiếp xúc với bệnh nhân",
+      "Tiêm Globulin miễn dịch cho tất cả những người có các yếu tố nguy cơ"
+    ],
+    "correct": 1,
+    "explanation": "Người bệnh cần được cách ly đến khi tất cả các nốt đậu đã đóng vảy."
+  },
+  {
+    "question": "Thái độ xử lý đúng của nhân viên Trạm y tế phường/xã khi có một bệnh nhân bị thuỷ đậu đến khám:",
+    "answers": [
+      "Giữ bệnh nhân ở lại điều trị ở trạm Y tế",
+      "Cho bệnh nhân điều trị ngoại trú nhưng khuyên cách ly khỏi tất cả trẻ em trong gia đình",
+      "Cho bệnh nhân điều trị ngoại trú và tiêm Globulin miễn dịch cho tất cả những người trong gia đình",
+      "Cho bệnh nhân điều trị ngoại trú và tiêm vắc-xin phòng Thuỷ đậu cho tất cả những người trong gia đình"
+    ],
+    "correct": 2,
+    "explanation": "Globulin miễn dịch có thể được dùng cho người tiếp xúc nguy cơ cao trong gia đình."
+  },
+  {
+    "question": "Thời kỳ ủ bệnh của bệnh thuỷ đậu:",
+    "answers": [
+      "Từ 7-10 ngày",
+      "Từ 7-14 ngày",
+      "Từ 10-14 ngày",
+      "Từ 10-21 ngày"
+    ],
+    "correct": 3,
+    "explanation": "Thời gian ủ bệnh của thuỷ đậu thường kéo dài từ 10 đến 21 ngày."
+  },
+  {
+    "question": "Đặc điểm nào sau đây không phù hợp với nốt đậu trong bệnh thuỷ đậu:",
+    "answers": [
+      "Có hình tròn hoặc hình giọt nước.",
+      "Mọc nhiều đợt trên một vùng da.",
+      "Có thể mọc ở niêm mạc miệng, đường hô hấp, tiêu hoá, tiết niệu.",
+      "Thường có đường kính 13-20 mm."
+    ],
+    "correct": 3,
+    "explanation": "Nốt thuỷ đậu thường nhỏ, không lớn tới 13-20 mm."
+  },
+  {
+    "question": "Bệnh thuỷ đậu ở trẻ bình thường không cần điều trị đặc hiệu vì:",
+    "answers": [
+      "Ở trẻ bình thường không có biến chứng xảy ra.",
+      "Bệnh nói chung lành tính và tự giới hạn.",
+      "Những trẻ bình thường có khả năng đề kháng rất cao.",
+      "Triệu chứng lâm sàng ở các trẻ thường nhẹ nhàng."
+    ],
+    "correct": 1,
+    "explanation": "Phần lớn trẻ mắc thuỷ đậu sẽ tự hồi phục mà không cần điều trị đặc hiệu."
+  },
+  {
+    "question": "Điều trị triệu chứng của bệnh thuỷ đậu bao gồm",
+    "answers": [
+      "Hạ sốt và giảm ngứa.",
+      "Hạ sốt và giảm số lượng nốt đậu.",
+      "Giảm ho và giảm ngứa.",
+      "Phòng loét da và viêm phổi."
+    ],
+    "correct": 0,
+    "explanation": "Điều trị triệu chứng chủ yếu là giảm sốt và giảm ngứa cho bệnh nhân."
+  },
+  {
+    "question": "Biện pháp đơn giản để hạn chế bội nhiễm trong bệnh thuỷ đậu là:",
+    "answers": [
+      "Dùng các thuốc kháng histamin.",
+      "Dùng các thuốc kháng virus .",
+      "Bôi các nốt đậu bằng xanh methylen.",
+      "Vệ sinh thân thể tốt."
+    ],
+    "correct": 3,
+    "explanation": "Giữ vệ sinh thân thể giúp hạn chế nhiễm trùng da thứ phát."
+  },
+  {
+    "question": "Virus cúm",
+    "answers": [
+      "Có 3 type kháng nguyên A, B, C và cả ba đều gây thành dịch lớn.",
+      "Có 2 kháng nguyên Hemaglutinin (H) và Neuraminidase (N).",
+      "Có đường kính từ 60 - 80 nm.",
+      "Có genome gồm nhiều đoạn DNA chuỗi đơn."
+    ],
+    "correct": 1,
+    "explanation": "Virus cúm có hai kháng nguyên bề mặt quan trọng là H và N."
+  },
+  {
+    "question": "Dịch cúm",
+    "answers": [
+      "Thường xảy ra vào thời gian cuối thu - đầu xuân.",
+      "Thường xảy ra theo chu kỳ đều đặn 2-3 năm.",
+      "Trong những năm gần đây chỉ xảy ra ở châu Á và châu Phi.",
+      "Chủ yếu do các virus type A,B và C gây ra."
+    ],
+    "correct": 0,
+    "explanation": "Dịch cúm thường xuất hiện nhiều vào thời điểm giao mùa cuối thu đầu xuân."
+  },
+  {
+    "question": "Những đại dịch cúm gần đây trên thế giới thường có liên quan đến:",
+    "answers": [
+      "Độc tính của virus.",
+      "Số lượng virus tăng nhanh.",
+      "Công tác phòng chống dịch quá kém.",
+      "Sự thay đổi kháng nguyên của virus cúm."
+    ],
+    "correct": 3,
+    "explanation": "Sự biến đổi kháng nguyên của virus cúm là nguyên nhân chính gây các đại dịch."
+  },
+  {
+    "question": "Thời gian lây bệnh của người bị cúm cho những người chung quanh:",
+    "answers": [
+      "Từ 1 ngày trước khởi bệnh và kéo dài 1 tuần.",
+      "Từ 3 ngày trước khởi bệnh và kéo dài 1 tuần.",
+      "Từ 3 ngày trước khởi bệnh và kéo dài 2 tuần.",
+      "Từ 6 ngày trước khởi bệnh và kéo dài 2 tuần."
+    ],
+    "correct": 3,
+    "explanation": "Người mắc cúm có thể lây từ vài ngày trước khởi bệnh và kéo dài khoảng 1–2 tuần tùy thể bệnh."
+  },
+  {
+    "question": "Cúm ác tính thường gặp ở những nhóm người sau:",
+    "answers": [
+      "Người già yếu, phụ nữ có thai, suy giảm miễn dịch.",
+      "Có bệnh tim và thận bẩm sinh",
+      "Trẻ sơ sinh, trẻ suy dinh dưỡng",
+      "Được điều trị quá muộn."
+    ],
+    "correct": 0,
+    "explanation": "Nhóm nguy cơ cao là người già, phụ nữ có thai và người suy giảm miễn dịch."
+  },
+  {
+    "question": "Trong bệnh cúm, bội nhiễm phế quản-phổi do vi khuẩn thường gặp ở những nhóm người sau:",
+    "answers": [
+      "Phụ nữ có thai hoặc mới sinh con.",
+      "Có bệnh tim bẩm sinh.",
+      "Người già và người bị suy hô hấp mạn tính",
+      "Suy thận mạn."
+    ],
+    "correct": 2,
+    "explanation": "Người già và bệnh nhân suy hô hấp mạn dễ bị bội nhiễm phổi do vi khuẩn."
+  },
+  {
+    "question": "Thời gian ủ bệnh của Cúm khoảng:",
+    "answers": [
+      "Từ 1 - 3 ngày.",
+      "Từ 3 - 5 ngày.",
+      "Từ 5 - 7 ngày.",
+      "Từ 7 - 10 ngày."
+    ],
+    "correct": 0,
+    "explanation": "Cúm có thời gian ủ bệnh ngắn, thường từ 1–3 ngày."
+  },
+  {
+    "question": "Biến chứng viêm phế quản-phổi do vi khuẩn trong bệnh cúm:",
+    "answers": [
+      "Thường xuất hiện vào ngày thứ 2 – 4 của bệnh.",
+      "Xảy ra do dùng kháng sinh dự phòng không đầy đủ.",
+      "Biểu hiện bằng sốt cao, họ khan, nuốt đau.",
+      "Biểu hiện bằng sốt cao, ho kèm đàm, nghe phổi có ran nổ."
+    ],
+    "correct": 3,
+    "explanation": "Viêm phổi bội nhiễm biểu hiện sốt cao, ho đờm và ran phổi."
+  },
+  {
+    "question": "Các biến chứng thường gặp nhất của bệnh cúm là:",
+    "answers": [
+      "Viêm xoang.",
+      "Viêm phế quản-phổi, bội nhiễm tai mũi họng.",
+      "Viêm não-màng não.",
+      "Viêm thanh quản, tràn dịch màng phổi."
+    ],
+    "correct": 1,
+    "explanation": "Biến chứng hay gặp nhất là viêm phế quản-phổi và bội nhiễm tai mũi họng."
+  },
+  {
+    "question": "Chẩn đoán cúm trong thực tế dựa vào:",
+    "answers": [
+      "Viêm long đường hô hấp trên, đau mỏi cơ khớp .",
+      "Viêm long đường hô hấp trên và yếu tố dịch tễ.",
+      "Triệu chứng nhiễm virus và đau mỏi cơ khớp.",
+      "Triệu chứng nhiễm virus, ho, đau mỏi cơ khớp và yếu tố dịch tễ."
+    ],
+    "correct": 3,
+    "explanation": "Chẩn đoán dựa vào triệu chứng + yếu tố dịch tễ."
+  },
+  {
+    "question": "Đặc điểm của sốt trong bệnh cúm:",
+    "answers": [
+      "Xuất hiện đột ngột và tăng lên nhanh chóng trong những ngày đầu tiên.",
+      "Xuất hiện sau khi có viêm long đường hô hấp trên và tăng lên từ từ.",
+      "Xuất hiện đột ngột và giảm dần trong vòng 5 ngày.",
+      "Tăng lên từ từ, cao nhất là 40°C vào ngày thứ 3-4 của bệnh."
+    ],
+    "correct": 0,
+    "explanation": "Sốt cúm thường khởi phát đột ngột và tăng nhanh."
+  },
+  {
+    "question": "Đặc điểm của hội chứng đau trong bệnh cúm:",
+    "answers": [
+      "Đau quanh hốc mắt, vùng trán hay thái dương.",
+      "Đau tất cả các cơ khớp, kèm sưng nóng và đỏ.",
+      "Đau đầu từng cơn, ngày càng tăng lên",
+      "Diễn tiến của nhức đầu không có liên quan với cơn sốt."
+    ],
+    "correct": 0,
+    "explanation": "Đau đầu khu trú vùng trán, thái dương và hốc mắt là điển hình."
+  },
+  {
+    "question": "Biện pháp phòng bệnh đơn giản nhưng hiệu quả trong những vụ dịch cúm nguy hiểm là:",
+    "answers": [
+      "Tiêm phòng vaccine cho tất cả những người sống trong vùng nghi có dịch.",
+      "Cho điều trị dự phòng bằng Amantadine cho tất cả những người sống trong vùng nghi có dịch.",
+      "Cho cách ly tất cả bệnh nhân nghi bị cúm.",
+      "Phun thuốc diệt vi-rút ở những vùng nghi có dịch"
+    ],
+    "correct": 2,
+    "explanation": "Cách ly ca bệnh là biện pháp hiệu quả trong kiểm soát dịch cúm."
+  },
+  {
+    "question": "Điểm nào cần đặc biệt nhấn mạnh khi tuyên truyền về cúm trong cộng đồng:",
+    "answers": [
+      "Cúm là một bệnh rất nặng, khó điều trị.",
+      "Bệnh nhân cúm cần phải được tuyệt đối cách ly khỏi cộng đồng để tránh lây lan.",
+      "Cúm là một bệnh thông thường, có thể tự khỏi mà không cần điều trị.",
+      "Cúm là một bệnh có khả năng lây lan mạnh và nhanh, có thể gây thành dịch lớn."
+    ],
+    "correct": 3,
+    "explanation": "Cúm có khả năng lây lan nhanh và có thể gây dịch lớn."
+  },
+  {
+    "question": "Thời gian ủ bệnh (ngày) của viêm gan vi rút A là:",
+    "answers": [
+      "15-160",
+      "15-45",
+      "14-60",
+      "30-180"
+    ],
+    "correct": 1,
+    "explanation": "Viêm gan A có thời gian ủ bệnh khoảng 15–45 ngày."
+  },
+  {
+    "question": "Thời gian ủ bệnh (ngày) của viêm gan vi rút B là:",
+    "answers": [
+      "15-160",
+      "15-45",
+      "14-60",
+      "30-180"
+    ],
+    "correct": 3,
+    "explanation": "Viêm gan B có thời gian ủ bệnh dài hơn, 30–180 ngày."
+  },
+  {
+    "question": "Đặc điểm khởi phát của viêm gan vi rút A, E là",
+    "answers": [
+      "Từ từ",
+      "Kéo dài",
+      "Cấp tính",
+      "Không rõ ràng"
+    ],
+    "correct": 2,
+    "explanation": "Viêm gan A, E thường khởi phát cấp tính."
+  },
+  {
+    "question": "Đa số trường hợp viêm gan do vi rút B, C, D thường khởi phát:",
+    "answers": [
+      "Từ từ",
+      "Cấp tính",
+      "Đột ngột",
+      "Không xác định được"
+    ],
+    "correct": 0,
+    "explanation": "Viêm gan B, C, D thường diễn tiến âm thầm, từ từ."
+  },
+  {
+    "question": "Về lứa tuổi, viêm gan siêu vi A cấp thường gặp ở:",
+    "answers": [
+      "Bất cứ tuổi nào",
+      "Trẻ em và người trẻ",
+      "Người trẻ",
+      "Trẻ em"
+    ],
+    "correct": 1,
+    "explanation": "Viêm gan A hay gặp ở trẻ em và người trẻ."
+  },
+  {
+    "question": "Vi rút gây viêm gan A và E lây truyền qua đường:",
+    "answers": [
+      "Tiêu hoá",
+      "Máu",
+      "Chu sinh",
+      "Tình dục"
+    ],
+    "correct": 0,
+    "explanation": "HAV và HEV lây qua đường tiêu hoá (phân–miệng)."
+  },
+  {
+    "question": "Vi rút gây viêm gan B, C, D lây truyền qua những đường sau, ngoại trừ:",
+    "answers": [
+      "Ghép tạng phủ",
+      "Máu",
+      "Từ mẹ sang con",
+      "Tiêu hoá"
+    ],
+    "correct": 3,
+    "explanation": "Viêm gan B, C, D không lây qua đường tiêu hoá."
+  },
+  {
+    "question": "Diễn biến lâm sàng viêm gan vi rút A thường là",
+    "answers": [
+      "Nhẹ",
+      "Nặng",
+      "Trung bình",
+      "Nặng ở tuổi già",
+      "Có thể gây viêm gan tối cấp"
+    ],
+    "correct": 0,
+    "explanation": "Viêm gan A thường diễn tiến nhẹ và tự giới hạn."
+  },
+  {
+    "question": "Đặc điểm đường truyền bệnh của vi rút viêm gan A là do:",
+    "answers": [
+      "Quan hệ tình dục",
+      "Ruồi, nhặng",
+      "Người nấu dùng tay bị nhiễm và không nấu kỹ thức ăn.",
+      "Nguồn nước cung cấp bị nhiễm chất tiết của người bệnh"
+    ],
+    "correct": 3,
+    "explanation": "Nguồn nước nhiễm phân người bệnh là đường lây chính."
+  },
+  {
+    "question": "Đặc điểm dịch tễ học viêm gan vi rút B là:",
+    "answers": [
+      "Lây do nguồn nước sinh hoạt nhiễm chất thải của người bệnh",
+      "Số người bị nhiễm bệnh thấp",
+      "Bệnh chỉ có mặt ở Đông Nam Á",
+      "Lây nhiễm qua đường máu, dịch tiết, lây nhiễm từ mẹ sang con"
+    ],
+    "correct": 3,
+    "explanation": "HBV lây qua máu, dịch cơ thể và mẹ truyền sang con."
+  },
+  {
+    "question": "Phương thức truyền bệnh viêm gan vi rút B là:",
+    "answers": [
+      "Do ăn uống chung",
+      "Có thể xảy ra do dùng chung lại nhiều lần dao cạo râu làm chảy máu",
+      "Do đánh răng",
+      "Do dùng bàn chải tắm"
+    ],
+    "correct": 1,
+    "explanation": "Dùng chung dao cạo có thể gây lây qua máu."
+  },
+  {
+    "question": "Đặc điểm lâm sàng thời kỳ ủ bệnh viêm gan vi rút cấp là:",
+    "answers": [
+      "Thường mệt mỏi chân tay không rõ ràng",
+      "Sốt",
+      "Chưa có biểu hiện lâm sàng rõ ràng",
+      "Đau bụng âm ỉ"
+    ],
+    "correct": 2,
+    "explanation": "Giai đoạn ủ bệnh chưa có triệu chứng rõ ràng."
+  },
+  {
+    "question": "Đặc điểm lâm sàng thời kỳ khởi phát của viêm gan vi rút cấp là:",
+    "answers": [
+      "Thường âm thầm khó phát hiện",
+      "Thường diễn biến từ từ",
+      "Trong thể điển hình, nổi bật nhất là uể oải, mệt mỏi, chán ăn, nôn ói, đau bụng nhẹ và lâm râm ở hạ sườn phải",
+      "Sốt, thường sốt cao"
+    ],
+    "correct": 2,
+    "explanation": "Giai đoạn khởi phát có triệu chứng tiêu hoá và mệt mỏi."
+  },
+  {
+    "question": "Dấu hiệu lâm sàng xuất hiện đầu tiên và kéo dài lâu nhất trong viêm gan vi rút cấp là:",
+    "answers": [
+      "Mệt mỏi, uể oải",
+      "Chán ăn",
+      "Đầy bụng, khó tiêu mỗi lần ăn",
+      "Đau bụng"
+    ],
+    "correct": 0,
+    "explanation": "Mệt mỏi là triệu chứng sớm và kéo dài nhất."
+  },
+  {
+    "question": "Ba triệu chứng lâm sàng luôn luôn có trong thời kỳ toàn phát của viêm gan vi rút cấp điển hình là",
+    "answers": [
+      "Vàng da – vàng mắt, sốt, ngứa",
+      "Vàng da – vàng mắt, ngứa, gan to và chắc",
+      "Vàng da - vàng mắt, không sốt, nước tiểu đậm màu",
+      "Vàng da - vàng mắt, sốt, gan to và đau"
+    ],
+    "correct": 2,
+    "explanation": "Viêm gan cấp điển hình có vàng da, nước tiểu sẫm màu, thường không sốt."
+  },
+  {
+    "question": "Trong giai đoạn toàn phát của viêm gan vi rút cấp một số biến chứng nguy hiểm gây tử vong có thể xảy ra là:",
+    "answers": [
+      "Viêm gan bán cấp",
+      "Xơ gan",
+      "Ung thư gan",
+      "Viêm gan tối cấp"
+    ],
+    "correct": 3,
+    "explanation": "Viêm gan tối cấp là biến chứng nguy hiểm nhất."
+  },
+  {
+    "question": "Đặc điểm thời kỳ phục hồi viêm gan vi rút cấp là:",
+    "answers": [
+      "Triệu chứng lâm sàng ít thay đổi",
+      "Tiểu đậm màu kéo dài",
+      "Vàng da - vàng mắt còn tồn tại",
+      "Bệnh nhân cảm thấy khỏe hơn, ăn ngon miệng"
+    ],
+    "correct": 3,
+    "explanation": "Giai đoạn hồi phục bệnh nhân cải thiện rõ rệt."
+  },
+  {
+    "question": "Điều trị viêm gan vi rút cấp bao gồm:",
+    "answers": [
+      "Sử dụng thuốc chống vi rút",
+      "Sử dụng kháng sinh càng sớm càng tốt",
+      "Điều trị nâng đỡ",
+      "Sử dụng thuốc nam"
+    ],
+    "correct": 2,
+    "explanation": "Điều trị chủ yếu là hỗ trợ, nâng đỡ cơ thể."
+  },
+  {
+    "question": "Chế độ nghỉ ngơi trong viêm gan vi rút cấp là:",
+    "answers": [
+      "Tại giường",
+      "Bệnh nhân có thể làm việc",
+      "Làm việc như bình thường",
+      "Cố gắng làm việc đều đặn"
+    ],
+    "correct": 0,
+    "explanation": "Cần nghỉ ngơi tuyệt đối tại giường."
+  },
+  {
+    "question": "Một số thuốc có thể sử dụng trong viêm gan vi rút cấp là",
+    "answers": [
+      "Thuốc an thần",
+      "Thuốc kháng sinh",
+      "Khi nôn quá nhiều có thể dùng thuốc chống nôn",
+      "Tránh mọi thuốc do có thể có hại cho gan"
+    ],
+    "correct": 2,
+    "explanation": "Có thể dùng thuốc chống nôn khi cần thiết."
+  },
+  {
+    "question": "Các biện pháp chung để phòng bệnh viêm gan vi rút A, E cấp là:",
+    "answers": [
+      "Sát trùng ngoài da khi tiêm chích",
+      "Tiêm phòng trẻ sơ sinh",
+      "Hạn chế tiếp xúc với máu và dịch tiết",
+      "An toàn thực phẩm"
+    ],
+    "correct": 3,
+    "explanation": "HAV và HEV phòng bằng vệ sinh an toàn thực phẩm."
+  },
+  {
+    "question": "Các biện pháp chung để phòng bệnh viêm gan vi rút B cấp là:",
+    "answers": ["An toàn thực phẩm", "Rửa tay trước khi ăn", "Rửa tay sau khi đại tiện", "An toàn truyền máu"],
+    "correct": 3,
+    "explanation": "Viêm gan B lây truyền chủ yếu qua đường máu, quan hệ tình dục và từ mẹ sang con. Do đó, an toàn truyền máu là biện pháp phòng bệnh quan trọng."
+  },
+  {
+    "question": "Giun đũa trưởng thành có thể kí sinh lạc chỗ ở các cơ quan sau ngoại trừ:",
+    "answers": ["Ruột thừa", "Ông mật chủ", "Ông tụy", "Lách"],
+    "correct": 3,
+    "explanation": "Giun đũa có tập tính chui vào các lỗ nhỏ (ruột thừa, ống mật, ống tụy) nhưng không có báo cáo về việc ký sinh trong lách."
+  },
+  {
+    "question": "Trong chu trình phát triển, khi ấu trùng giun đũa đến phổi, biểu hiện lâm sàng là:",
+    "answers": ["Rối loạn tiêu hoá", "Rối loạn tuần hoàn", "Hội chứng Loeffler", "Hội chứng suy dinh dưỡng"],
+    "correct": 2,
+    "explanation": "Hội chứng Loeffler (viêm phổi do bạch cầu ái toan) là biểu hiện điển hình khi ấu trùng giun đũa di chuyển qua phổi."
+  },
+  {
+    "question": "Nguyên tắc điều trị chính trong viêm gan vi rút cấp là:",
+    "answers": ["Sử dụng thuốc chống vi rút", "Sử dụng kháng sinh càng sớm càng tốt", "Điều trị nâng đỡ", "Sử dụng thuốc nam"],
+    "correct": 2,
+    "explanation": "Viêm gan vi rút cấp đa số tự khỏi, nên chủ yếu là điều trị nâng đỡ: nghỉ ngơi, chế độ ăn hợp lý, tránh các chất hại gan."
+  },
+  {
+    "question": "Chế độ nghỉ ngơi trong viêm gan vi rút cấp là:",
+    "answers": ["Tại giường", "Bệnh nhân có thể làm việc", "Làm việc như bình thường", "Cố gắng làm việc đều đặn"],
+    "correct": 0,
+    "explanation": "Nghỉ ngơi tại giường giúp tăng lưu lượng máu đến gan, hỗ trợ quá trình hồi phục nhu mô gan."
+  },
+  {
+    "question": "Một số thuốc có thể sử dụng trong viêm gan vi rút cấp là:",
+    "answers": ["Thuốc an thần", "Thuốc kháng sinh", "Khi nôn quá nhiều có thể dùng thuốc chống nôn", "Tránh mọi thuốc do có thể có hại cho gan"],
+    "correct": 2,
+    "explanation": "Cần thận trọng với mọi loại thuốc. Chỉ sử dụng thuốc khi có chỉ định cụ thể, ví dụ: chống nôn khi bệnh nhân nôn quá nhiều gây mất nước."
+  },
+  {
+    "question": "Các biện pháp chung để phòng bệnh viêm gan vi rút A, E cấp là:",
+    "answers": ["Sát trùng ngoài da khi tiêm chích", "Tiêm phòng trẻ sơ sinh", "Hạn chế tiếp xúc với máu và dịch tiết", "An toàn thực phẩm"],
+    "correct": 3,
+    "explanation": "Viêm gan A và E lây qua đường tiêu hóa (phân-miệng), vì vậy an toàn thực phẩm là biện pháp phòng ngừa cốt lõi."
+  },
+  {
+    "question": "Chẩn đoán chính xác người bị nhiễm bệnh giun đũa bằng:",
+    "answers": ["Dựa vào dấu hiệu rối loạn tiêu hoá", "Biểu hiện sự tắc ruột", "Biểu hiện của hội chứng Loeffler", "Xét nghiệm phân tìm thấy trứng giun đũa trong phân"],
+    "correct": 3,
+    "explanation": "Chẩn đoán xác định ký sinh trùng luôn cần tìm thấy dạng sống (trứng, ấu trùng hoặc giun trưởng thành) trong bệnh phẩm."
+  },
+  {
+    "question": "Phòng chống bệnh giun đũa có các biện pháp thực hiện sau không bao gồm:",
+    "answers": ["Giáo dục sử dụng hố xí hợp vệ sinh", "Điều trị hàng loạt cho người nhiễm giun", "Ăn uống đúng vệ sinh", "Dùng thuốc diệt giai đoạn ấu trùng"],
+    "correct": 3,
+    "explanation": "Việc diệt ấu trùng giun đũa không khả thi và không phải là biện pháp phòng bệnh cộng đồng được áp dụng."
+  },
+  {
+    "question": "Người bị nhiễm giun đũa có thể do:",
+    "answers": ["Ăn cá gỏi", "Ăn tôm cua sống", "Ăn thịt lợn tái", "Ăn rau quả tươi không sạch"],
+    "correct": 3,
+    "explanation": "Trứng giun đũa có ở trong đất, bám vào rau quả. Ăn rau sống không sạch là con đường lây truyền chính."
+  },
+  {
+    "question": "Đường xâm nhập của giun đũa vào cơ thể:",
+    "answers": ["Đường sinh dục", "Đường hô hấp", "Đường da, niêm mạc", "Đường tiêu hoá"],
+    "correct": 3,
+    "explanation": "Người nhiễm giun đũa do nuốt phải trứng có phôi qua đường tiêu hóa."
+  },
+  {
+    "question": "Giun đũa trưởng thành ký sinh ở:",
+    "answers": ["Ruột già", "Đường dẫn mật", "Hạch bạch huyết", "Ruột non"],
+    "correct": 3,
+    "explanation": "Giun đũa trưởng thành cư trú trong lòng ruột non để hấp thụ các chất dinh dưỡng đã được tiêu hóa một phần."
+  },
+  {
+    "question": "Thức ăn của giun đũa trưởng thành trong cơ thể người:",
+    "answers": ["Sinh chất ở ruột", "Dịch mật", "Máu", "Dịch bạch huyết"],
+    "correct": 0,
+    "explanation": "Giun đũa ăn các chất dinh dưỡng (sinh chất) đã được tiêu hóa trong lòng ruột non."
+  },
+  {
+    "question": "Muốn chẩn đoán xác định bệnh giun đũa cần phải:",
+    "answers": ["Xét nghiệm máu", "Xét nghiệm đờm", "Xét nghiệm phân", "Xét nghiệm dịch tá tràng"],
+    "correct": 2,
+    "explanation": "Xét nghiệm phân là tiêu chuẩn vàng để tìm trứng giun đũa."
+  },
+  {
+    "question": "Các biến chứng của giun đũa trưởng thành không bao gồm:",
+    "answers": ["Tắc ruột", "Thủng ruột", "Giun chui ống mật, ống tụy", "Khó thở kiểu hen"],
+    "correct": 3,
+    "explanation": "Khó thở kiểu hen liên quan đến phổi (giai đoạn ấu trùng), không phải biến chứng của giun trưởng thành."
+  },
+  {
+    "question": "Những thuốc sau đây có thể tẩy giun đũa ngoại trừ:",
+    "answers": ["Mebendazole", "Albendazole", "Pyrantel pamoate", "Metronidazole"],
+    "correct": 3,
+    "explanation": "Metronidazole là thuốc kháng khuẩn và kháng đơn bào, không có tác dụng tẩy giun đũa."
+  },
+  {
+    "question": "Những điều kiện sau đây thuận lợi cho sự phát triển, lây truyền của giun đũa không bao gồm:",
+    "answers": ["Nhiệt độ nóng và ẩm", "Dùng phân tươi để tưới rau, bón ruộng", "Trẻ em đùa với đất, cát", "Ăn thịt bò chưa nấu chín"],
+    "correct": 3,
+    "explanation": "Ăn thịt bò chưa nấu chín là đường lây của sán dây bò, không liên quan đến giun đũa."
+  },
+  {
+    "question": "Bệnh phẩm xét nghiệm xác định giun móc:",
+    "answers": ["Phân", "Máu", "X quang phổi", "Nước tiểu"],
+    "correct": 0,
+    "explanation": "Tương tự giun đũa, giun móc cũng được chẩn đoán bằng cách tìm trứng trong phân."
+  },
+  {
+    "question": "Điều kiện thuận lợi để ấu trùng giun móc tồn tại và phát triển ở ngoại cảnh:",
+    "answers": ["Môi trường nước như ao hồ", "Đất xốp, cát, nhiệt độ cao, ẩm", "Môi trường nước, nhiệt độ từ 25-30 độ C", "Bóng râm mát"],
+    "correct": 1,
+    "explanation": "Ấu trùng giun móc cần môi trường đất ẩm, tơi xốp và nhiệt độ thích hợp để phát triển thành giai đoạn lây nhiễm."
+  },
+  {
+    "question": "Trình tự biểu hiện lâm sàng tương ứng với giai đoạn phát triển của giun móc:",
+    "answers": ["Ấu trùng xâm nhập qua da gây nên viêm ngứa da tại nơi xâm nhập.", "Ấu trùng xâm nhập qua da không biểu hiện lâm sàng vì quá nhỏ.", "Ấu trùng xâm nhập qua da không biểu hiện lâm sàng vì quá nhỏ.", "Ấu trùng xâm nhập qua da gây nên viêm ngứa da tại nơi xâm nhập."],
+    "correct": 0,
+    "explanation": "Ấu trùng giun móc khi xuyên qua da người thường gây phản ứng viêm cục bộ, ngứa ngáy tại vị trí xâm nhập."
+  },
+  {
+    "question": "Tác hại nghiêm trọng của bệnh giun móc:",
+    "answers": ["Thiếu máu nhược sắc", "Thiếu máu ưu sắc", "Viêm tá tràng đưa đến loét tá tràng.", "Viêm tá tràng đưa đến ung thư tá tràng."],
+    "correct": 0,
+    "explanation": "Giun móc bám vào niêm mạc ruột hút máu và tiết chất chống đông gây chảy máu kéo dài, dẫn đến thiếu máu thiếu sắt (nhược sắc)."
+  },
+  {
+    "question": "Giun móc/mỏ trưởng thành ký sinh ở:",
+    "answers": ["Ở manh tràng", "Ở tá tràng", "Đường bạch huyết", "Đường mật"],
+    "correct": 1,
+    "explanation": "Giun móc (Ancylostoma) và giun mỏ (Necator) trưởng thành ký sinh chủ yếu tại tá tràng và phần trên của hỗng tràng."
+  },
+  {
+    "question": "Người có thể bị nhiễm giun móc/mỏ do:",
+    "answers": ["Muỗi đốt", "Ăn phải trứng giun.", "Mút tay.", "Đi chân đất."],
+    "correct": 3,
+    "explanation": "Ấu trùng giun móc/mỏ ở ngoại cảnh xâm nhập vào cơ thể người chủ yếu qua da khi đi chân đất hoặc tiếp xúc với đất nhiễm ấu trùng."
+  },
+  {
+    "question": "Thức ăn của giun móc/mỏ trong cơ thể là:",
+    "answers": ["Máu", "Dịch mật", "Dịch bạch huyết", "Sinh chất ở ruột"],
+    "correct": 0,
+    "explanation": "Giun móc/mỏ có các bộ phận miệng bám vào niêm mạc ruột để hút máu làm thức ăn."
+  },
+  {
+    "question": "Điều trị bệnh giun móc/mỏ hiện nay thuốc thường sử dụng:",
+    "answers": ["DEC", "Quinin", "Mebendazole", "Metronidazole"],
+    "correct": 2,
+    "explanation": "Các nhóm thuốc tẩy giun phổ rộng như Mebendazole hoặc Albendazole là lựa chọn chính để điều trị giun móc/mỏ."
+  },
+  {
+    "question": "Mỗi con giun móc mỗi ngày hút một lượng máu là:",
+    "answers": ["0,2ml.", "0,02ml.", "2ml.", "0,002ml."],
+    "correct": 0,
+    "explanation": "Mỗi con giun móc có thể hút từ 0,05ml đến 0,2ml máu mỗi ngày tùy vào loài và cường độ ký sinh."
+  },
+  {
+    "question": "Nêu thứ tự cơ quan nội tạng của người mà ấu trùng giun móc đi qua:",
+    "answers": ["Gan, Tim, Phổi.", "Tim, Gan, Phổi, Hầu.", "Ruột, Tim, Phổi.", "Tim, Phổi, Ruột"],
+    "correct": 3,
+    "explanation": "Ấu trùng theo máu về tim, qua phổi, lên hầu rồi được nuốt xuống và định cư tại ruột."
+  },
+  {
+    "question": "Thiếu máu ở bệnh nhân nhiễm giun móc do các yếu tố sau không bao gồm:",
+    "answers": ["Giun móc hút máu.", "Giun móc làm chảy máu do chất chống đông.", "Do độc tố giun móc", "Do giun lấy dưỡng chất."],
+    "correct": 3,
+    "explanation": "Thiếu máu trong bệnh giun móc chủ yếu do mất máu trực tiếp, không phải do giun cạnh tranh hấp thu dưỡng chất (như giun đũa)."
+  },
+  {
+    "question": "Chẩn đoán xác định có thai sớm, tốt nhất dựa vào:",
+    "answers": ["Đo chiều cao tử cung", "Nghe tim thai", "Siêu âm thăm dò thai", "Làm xét nghiệm miễn dịch để thử thai kết hợp với siêu âm thăm dò thai"],
+    "correct": 3,
+    "explanation": "Sự kết hợp giữa xét nghiệm nồng độ hCG và hình ảnh siêu âm là phương pháp chính xác nhất để xác định có thai sớm."
+  },
+  {
+    "question": "Khi người phụ nữ chậm kinh trên 3 tuần, thăm âm đạo thấy cổ tử cung tím, đóng kín, mềm, khối lượng tử cung to hơn bình thường nên nghĩ đến:",
+    "answers": ["Rối loạn kinh nguyệt", "U nang buồng trứng", "Có thai trong tử cung", "U xơ tử cung"],
+    "correct": 2,
+    "explanation": "Các dấu hiệu cổ tử cung tím (dấu hiệu Chadwick) và tử cung to lên là các dấu hiệu lâm sàng điển hình của thai nghén."
+  },
+  {
+    "question": "Trong thực tế lâm sàng, tính ngày cho thai phụ sinh đẻ chính xác nhất là dựa vào:",
+    "answers": ["Ngày giao hợp", "Ngày phóng noãn", "Ngày đầu tiên của kỳ kinh cuối", "Không có cách nào tính được chính xác"],
+    "correct": 2,
+    "explanation": "Công thức Naegele dựa trên ngày đầu tiên của kỳ kinh cuối cùng là phương pháp phổ biến và có giá trị nhất để tính tuổi thai."
+  },
+  {
+    "question": "Chị H 35 tuổi, kinh nguyệt đều, tiền sử vô sinh nguyên phát 9 năm, hiện tại thấy mất kinh đã 1 tháng nay. Điều cần làm đầu tiên đối với chị H là:",
+    "answers": ["Thử thai bằng que thử thai nhanh", "Thăm dò thai nhi bằng siêu âm", "Xét nghiệm phát hiện protein niệu cho thai phụ", "Khám và quản lý thai nghén tốt cho thai phụ"],
+    "correct": 0,
+    "explanation": "Que thử thai là bước sàng lọc nhanh, đơn giản và hiệu quả nhất để xác định tình trạng thai nghén ban đầu."
+  },
+  {
+    "question": "Theo qui định của Bộ Y tế nước ta, mỗi thai phụ trong suốt quá trình mang thai, số lần khám thai ít nhất là:",
+    "answers": ["Một lần", "Hai lần", "Ba lần", "Bốn lần"],
+    "correct": 2,
+    "explanation": "Theo quy định chuẩn tối thiểu của Bộ Y tế Việt Nam, thai phụ cần được khám thai ít nhất 3 lần vào 3 thời điểm chính của thai kỳ."
+  },
+  {
+    "question": "Lần khám thai đầu tiên cần tiến hành vào thời điểm là:",
+    "answers": ["Trong vòng 4 tuần đầu", "Trong vòng 6 tuần đầu", "Trong vòng 8 tuần đầu", "Trong vòng 10 tuần đầu"],
+    "correct": 2,
+    "explanation": "Khám thai sớm trong 8 tuần đầu giúp xác định thai trong tử cung và đánh giá sức khỏe ban đầu của thai phụ."
+  },
+  {
+    "question": "Lần khám thai thứ hai cần tiến hành vào thời điểm:",
+    "answers": ["Trung bình ở tuần 18 của thai kỳ", "Trung bình ở tuần 20 của thai kỳ", "Trung bình ở tuần 22 của thai kỳ", "Trung bình ở tuần 24 của thai kỳ"],
+    "correct": 1,
+    "explanation": "Tuần thứ 20 là mốc quan trọng để đánh giá sự phát triển hình thái thai nhi và sức khỏe mẹ."
+  },
+  {
+    "question": "Lần khám thai thứ ba cần tiến hành vào thời điểm:",
+    "answers": ["Trung bình ở tuần 28 của thai kỳ", "Trung bình ở tuần 30 của thai kỳ", "Trung bình ở tuần 32 của thai kỳ", "Trung bình ở tuần 36 của thai kỳ"],
+    "correct": 3,
+    "explanation": "Lần khám thứ ba ở tuần 36 giúp chuẩn bị cho việc theo dõi chuyển dạ và đánh giá thai nhi trước sinh."
+  },
+  {
+    "question": "Bà B. có thai lần đầu, tuổi thai 35 tuần, HA 135/90 mmHg, prôtêin niệu (-). Chọn chẩn đoán phù hợp nhất:",
+    "answers": ["Thai nghén bình thường", "Nhức đầu do thời tiết", "Tăng HA do thai nghén", "Tiền sản giật thể nhẹ"],
+    "correct": 2,
+    "explanation": "Huyết áp tăng (135/90) sau tuần 20 nhưng không có protein niệu được phân loại là tăng huyết áp do thai nghén."
+  },
+  {
+    "question": "Hướng xử trí cho bà B (THA do thai nghén, không protein niệu) tại tuyến xã:",
+    "answers": ["Cho về nhà", "Cho vào trạm xá xã theo dõi", "Cho vào trạm xá, dùng thuốc hạ huyết áp", "Cho về nhà và hẹn cứ 2 ngày một lần lên trạm xá xã kiểm tra lại"],
+    "correct": 3,
+    "explanation": "Với THA thai nghén chưa có protein niệu, cần theo dõi sát sao tại tuyến cơ sở và chuyển tuyến nếu có dấu hiệu nặng lên."
+  },
+  {
+    "question": "Bà C. thai 37 tuần, HA 150/95 mmHg, phù, prôtêin niệu (+). Chẩn đoán:",
+    "answers": ["Thai nghén bình thường", "Tăng huyết áp mạn tính", "Tăng huyết áp trong thai nghén", "Tiền sản giật thể nhẹ"],
+    "correct": 3,
+    "explanation": "Sự xuất hiện của tăng huyết áp và protein niệu sau tuần 20 thai kỳ là chẩn đoán xác định của tiền sản giật."
+  },
+  {
+    "question": "Trong hội chứng tiền sản giật nặng, ngoài các triệu chứng tăng huyết áp, protein niệu trên (++), còn có triệu chứng:",
+    "answers": ["Hôn mê", "Khó thở", "Sốt", "Nhức đầu, chóng mặt, ù tai, mờ mắt"],
+    "correct": 3,
+    "explanation": "Các triệu chứng thần kinh như nhức đầu, mờ mắt, ù tai là dấu hiệu cảnh báo tiền sản giật nặng (sắp có cơn sản giật)."
+  },
+  {
+    "question": "Số đo huyết áp nào ở thai phụ tăng HA được xếp vào tiền sản giật nhẹ:",
+    "answers": [">110/70 mmHg", ">140/80 mmHg", ">150/100 mmHg", ">160/110 mmHg"],
+    "correct": 2,
+    "explanation": "Tiền sản giật được xếp loại nhẹ khi huyết áp đạt ngưỡng >140/90 mmHg hoặc >150/100 mmHg tùy theo tài liệu, nhưng protein niệu và triệu chứng lâm sàng là yếu tố then chốt."
+  },
+  {
+    "question": "Mức độ prôtêin niệu nào dưới đây được xếp vào tiền sản giật nhẹ:",
+    "answers": ["0,10 gam/lít", "0,30 gam/lít", "1,00 gam/lít", "3,00 gam/lít"],
+    "correct": 3,
+    "explanation": "Protein niệu >= 0,3g/l trong 24 giờ là tiêu chuẩn chẩn đoán, và mức độ thấp thường đi kèm thể nhẹ."
+  }
+]
