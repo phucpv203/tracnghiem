@@ -43,7 +43,9 @@ window.addEventListener('DOMContentLoaded', () => {
    hoahoc:'Chính trị lý thuyết', 
    chinhtri:'Chính trị', 
    sinhhoc:'Chính trị DS',
-   XSTK:'XSTK'
+   XSTK:'XSTK',
+   gpsl:'GPSL',
+   phapluat:'Pháp Luật'
   };
 
   if (subjectNameEl) {
