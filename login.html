@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Đăng nhập</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body{font-family:Arial, sans-serif;background:#f5f7fa;margin:0;padding:28px}
+    .card{max-width:420px;margin:36px auto;padding:20px;border-radius:10px;background:#fff;border:1px solid #e6e6e6}
+    label{display:block;margin-top:12px;font-weight:600}
+    input{width:100%;padding:10px;margin-top:6px;border-radius:6px;border:1px solid #ddd}
+    .actions{margin-top:14px;text-align:right}
+    .error{color:#d9534f;margin-top:8px}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Đăng nhập</h2>
+    <form id="login-form">
+      <label>Tên đăng nhập</label>
+      <input id="username" name="username" required autocomplete="username">
+      <label>Mật khẩu</label>
+      <input id="password" name="password" type="password" required autocomplete="current-password">
+      <label style="margin-top:10px;display:flex;align-items:center;gap:8px;font-weight:400"><input id="remember" type="checkbox"> Ghi nhớ đăng nhập trên thiết bị này</label>
+      <div class="error" id="err" style="display:none"></div>
+      <div class="actions">
+        <button type="submit">Đăng nhập</button>
+      </div>
+    </form>
+    
+  </div>
+
+  <script src="auth/users.js"></script>
+  <script src="script-login.js"></script>
+</body>
+</html>

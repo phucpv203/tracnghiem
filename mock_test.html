@@ -6,6 +6,18 @@
   <title>Thử kiểm tra — Quiz App</title>
   <link rel="stylesheet" href="style.css">
   <script>
+    (function(){
+      try {
+        var logged = sessionStorage.getItem('loggedUser');
+        if (!logged) {
+          var dest = location.pathname.split('/').pop();
+          var q = location.search || '';
+          location.href = 'login.html?r=' + encodeURIComponent(dest + q);
+        }
+      } catch(e){}
+    })();
+  </script>
+  <script>
     // Lấy môn từ query param hoặc localStorage
     (function(){
       const params = new URLSearchParams(location.search);

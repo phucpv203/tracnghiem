@@ -6,6 +6,18 @@
   <title>Trắc nghiệm — Ôn tập</title>
   <link rel="stylesheet" href="style.css">
   <script>
+    (function(){
+      try {
+        var logged = sessionStorage.getItem('loggedUser');
+        if (!logged) {
+          var dest = location.pathname.split('/').pop();
+          var q = location.search || '';
+          location.href = 'login.html?r=' + encodeURIComponent(dest + q);
+        }
+      } catch(e){}
+    })();
+  </script>
+  <script>
     // lấy môn từ query param hoặc localStorage (đặt bởi index.html)
     (function(){
       const params = new URLSearchParams(location.search);
