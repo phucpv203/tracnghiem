@@ -6,9 +6,14 @@ function selectReview(subject) {
   } catch (e) {
     console.warn('Could not save quiz_subject', e);
   }
-  // Kiểm tra đăng nhập; nếu chưa có thì chuyển tới trang đăng nhập kèm return URL
-  const logged = sessionStorage.getItem('loggedUser');
-  if (!logged) {
+  // Kiểm tra đăng nhập; nếu chưa có hoặc hết hạn thì chuyển tới trang đăng nhập kèm return URL
+  try {
+    if (!(window.Auth && Auth.isAuthenticated())) {
+      const ret = `review.html?subject=${subject}`;
+      window.location.href = `login.html?r=${encodeURIComponent(ret)}`;
+      return;
+    }
+  } catch(e) {
     const ret = `review.html?subject=${subject}`;
     window.location.href = `login.html?r=${encodeURIComponent(ret)}`;
     return;
@@ -22,8 +27,13 @@ function selectMock(subject) {
   } catch (e) {
     console.warn('Could not save quiz_subject', e);
   }
-  const logged = sessionStorage.getItem('loggedUser');
-  if (!logged) {
+  try {
+    if (!(window.Auth && Auth.isAuthenticated())) {
+      const ret = `mock_test.html?subject=${subject}`;
+      window.location.href = `login.html?r=${encodeURIComponent(ret)}`;
+      return;
+    }
+  } catch(e) {
     const ret = `mock_test.html?subject=${subject}`;
     window.location.href = `login.html?r=${encodeURIComponent(ret)}`;
     return;

@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Thử kiểm tra — Quiz App</title>
   <link rel="stylesheet" href="style.css">
+  <script src="auth/auth.js"></script>
   <script>
     (function(){
       try {
-        var logged = sessionStorage.getItem('loggedUser');
-        if (!logged) {
+        if (!(window.Auth && Auth.isAuthenticated())) {
           var dest = location.pathname.split('/').pop();
           var q = location.search || '';
           location.href = 'login.html?r=' + encodeURIComponent(dest + q);
